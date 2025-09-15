@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Prof. Kang G. Shin Tree</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Simple, lightweight CSS reset / typography -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+
+  <!-- d3 v7 -->
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="{{ url_for('index') }}" class="brand">Prof. Kang G. Shin's Legacy</a>
+      <nav class="nav">
+        <a href="{{ url_for('index') }}">Viewer</a>
+        <a href="{{ url_for('directory') }}">Directory</a>
+        {% if authed %}
+          <a href="{{ url_for('add_get') }}">Add yourself</a>
+          <a href="{{ url_for('manage_list') }}">Manage</a>
+          <a href="{{ url_for('logout') }}">Logout</a>
+        {% else %}
+          <a href="{{ url_for('login_get') }}">Login</a>
+        {% endif %}
+      </nav>
+    </div>
+  </header>
+
+  {% with messages = get_flashed_messages(with_categories=true) %}
+    {% if messages %}
+      <div class="container">
+        {% for category, message in messages %}
+          <div class="flash flash-{{ category }}">{{ message }}</div>
+        {% endfor %}
+      </div>
+    {% endif %}
+  {% endwith %}
+
+  <main class="container">
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <small>Tip: zoom with mouse/touchpad; left click a node to collapse/expand; right click a node to pin; right click empty space to unpin.</small>
+    </div>
+  </footer>
+</body>
+</html>

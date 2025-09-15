@@ -1,0 +1,98 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="panel">
+  <div class="panel-header">
+    <h1>Manage People</h1>
+    <input id="filterInput" type="search" placeholder="Filter by name/institution/year…" aria-label="Filter">
+  </div>
+
+  <div class="table-wrap">
+    <table class="table" id="peopleTable">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Institution</th>
+          <th>Year</th>
+          <th>Advisor</th>
+          <th>Advisees</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for p in people %}
+        <tr>
+          <td>
+            {{ p.name }}
+            {% if p.advisor_id is none %}<span class="badge">Root</span>{% endif %}
+          </td>
+          <td>{{ p.institution or '' }}</td>
+          <td>{{ p.year or '' }}</td>
+          <td>{{ p.advisor.name if p.advisor else '—' }}</td>
+          <td>{{ p.advisees|length }}</td>
+          <td data-yearnum="{{ p.year_num }}">{{ p.year or '' }}</td>
+          <td class="actions">
+            <a class="btn" href="{{ url_for('edit_get', person_id=p.id) }}">Edit</a>
+            {% if p.advisor_id is not none %}
+            <form method="post" action="{{ url_for('delete_post', person_id=p.id) }}" onsubmit="return confirmDelete(this)">
+              <select name="mode">
+                <option value="reassign" selected>Reassign children</option>
+                <option value="cascade">Cascade delete subtree</option>
+              </select>
+              <button class="btn danger" type="submit">Delete</button>
+            </form>
+            {% else %}
+              <button class="btn danger" disabled title="Cannot delete root">Delete</button>
+            {% endif %}
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<script>
+  const filter = document.getElementById('filterInput');
+  const rows = Array.from(document.querySelectorAll('#peopleTable tbody tr'));
+  filter?.addEventListener('input', () => {
+    const q = (filter.value || '').toLowerCase();
+    rows.forEach(tr => {
+      tr.style.display = tr.innerText.toLowerCase().includes(q) ? '' : 'none';
+    });
+  });
+
+  function confirmDelete(form) {
+    const mode = form.querySelector('select[name="mode"]').value;
+    const msg = mode === 'cascade'
+      ? 'Delete this person AND their entire subtree? This cannot be undone.'
+      : 'Delete this person and reattach their children to the advisor?';
+    return confirm(msg);
+  }
+  function sortBy(key, dir) {
+    const tableId = document.currentScript.closest('section').querySelector('table').id;
+    const body = document.querySelector(`#${tableId} tbody`);
+    const rows = Array.from(body.querySelectorAll('tr'));
+
+    const getVal = (tr) => {
+      if (key === 'year') {
+        const td = tr.querySelector('td[data-yearnum]');
+        return Number(td?.getAttribute('data-yearnum') || '9999');
+      }
+      if (key === 'advisees') {
+        const td = tr.querySelector('td[data-advisees]');
+        return Number(td?.getAttribute('data-advisees') || '0');
+      }
+      const td = tr.querySelector(`[data-${key}]`);
+      return (td?.getAttribute(`data-${key}`) || td?.textContent || '').toString().toLowerCase();
+    };
+
+    const sorted = rows.slice().sort((a, b) => {
+      const va = getVal(a), vb = getVal(b);
+      if (typeof va === 'number' && typeof vb === 'number') return dir * (va - vb);
+      return dir * va.localeCompare(vb);
+    });
+
+    sorted.forEach(tr => body.appendChild(tr));
+  }
+</script>
+{% endblock %}

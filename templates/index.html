@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="panel">
+  <div class="panel-header">
+    <h1>Academic Tree</h1>
+    <div class="controls">
+      <input id="searchInput" type="search" placeholder="Search name…" aria-label="Search name">
+      <button id="resetBtn" type="button">Reset view</button>
+      <button id="expandAllBtn" type="button">Expand all</button>
+      <button id="collapseAllBtn" type="button">Collapse all</button>
+    </div>
+  </div>
+  <div id="treeContainer" class="tree-container" role="region" aria-label="Academic tree">
+    <!-- SVG injected by tree.js -->
+  </div>
+</section>
+
+<script src="{{ url_for('static', filename='js/tree.js') }}"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    initGenealogy({
+      dataUrl: "{{ url_for('api_tree') }}",
+      containerSelector: "#treeContainer",
+      searchInputSelector: "#searchInput",
+      resetBtnSelector: "#resetBtn",
+      expandAllBtnSelector: "#expandAllBtn",
+      collapseAllBtnSelector: "#collapseAllBtn"
+    });
+  });
+</script>
+<script>
+  // If there is a ?q=Name, seed the search box
+  const params = new URLSearchParams(location.search);
+  const q = params.get('q');
+  if (q) {
+    const input = document.querySelector("#searchInput");
+    if (input) {
+      input.value = q;
+      // give D3 a tick to load data, then fire the search
+      setTimeout(() => input.dispatchEvent(new Event('input', { bubbles: true })), 400);
+    }
+  }
+</script>
+{% endblock %}

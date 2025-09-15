@@ -1,0 +1,101 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="panel">
+  <div class="panel-header">
+    <h1>Directory</h1>
+    <input id="filterInput" type="search" placeholder="Filter by name/institution/year…" aria-label="Filter">
+  </div>
+
+  <div class="table-wrap">
+    <table class="table" id="dirTable">
+      <thead>
+        <tr>
+          <th data-key="name">Name</th>
+          <th data-key="institution">Institution</th>
+          <th data-key="year">Year</th>
+          <th data-key="advisor">Advisor</th>
+          <th data-key="advisees" title="Number of direct advisees">Advisees</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for p in people %}
+        <tr>
+          <td data-name="{{ p.name|lower }}">
+            {% if p.url %}
+              <a href="{{ p.url }}" target="_blank" rel="noopener noreferrer">{{ p.name }}</a>
+            {% else %}
+              {{ p.name }}
+            {% endif %}
+            {% if p.advisor_id is none %}<span class="badge">Root</span>{% endif %}
+          </td>
+          <td data-institution="{{ (p.institution or '')|lower }}">{{ p.institution or '' }}</td>
+          <td data-year="{{ (p.year or '')|lower }}">{{ p.year or '' }}</td>
+          <td data-advisor="{{ (p.advisor.name if p.advisor else '')|lower }}">{{ p.advisor.name if p.advisor else '—' }}</td>
+          <td data-advisees="{{ p.advisees|length }}">{{ p.advisees|length }}</td>
+          <td class="actions">
+            <!-- Optional: jump to the Viewer focusing this person -->
+            <a class="btn" href="{{ url_for('index') }}?q={{ p.name|urlencode }}" title="View in tree">View</a>
+          </td>
+          <td data-yearnum="{{ p.year_num }}">{{ p.year or '' }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<script>
+  // Simple filter
+  const filter = document.getElementById('filterInput');
+  const rows = Array.from(document.querySelectorAll('#dirTable tbody tr'));
+  filter?.addEventListener('input', () => {
+    const q = (filter.value || '').toLowerCase();
+    rows.forEach(tr => {
+      tr.style.display = tr.innerText.toLowerCase().includes(q) ? '' : 'none';
+    });
+  });
+
+  // Click-to-sort by column
+  const ths = Array.from(document.querySelectorAll('#dirTable thead th[data-key]'));
+  let sortState = { key: null, dir: 1 };
+  ths.forEach(th => {
+    th.style.cursor = 'pointer';
+    th.title = 'Click to sort';
+    th.addEventListener('click', () => {
+      const key = th.getAttribute('data-key');
+      sortState.dir = (sortState.key === key) ? -sortState.dir : 1;
+      sortState.key = key;
+      sortBy(key, sortState.dir);
+      ths.forEach(x => x.classList.remove('sorted-asc', 'sorted-desc'));
+      th.classList.add(sortState.dir === 1 ? 'sorted-asc' : 'sorted-desc');
+    });
+  });
+  function sortBy(key, dir) {
+    const tableId = document.currentScript.closest('section').querySelector('table').id;
+    const body = document.querySelector(`#${tableId} tbody`);
+    const rows = Array.from(body.querySelectorAll('tr'));
+
+    const getVal = (tr) => {
+      if (key === 'year') {
+        const td = tr.querySelector('td[data-yearnum]');
+        return Number(td?.getAttribute('data-yearnum') || '9999');
+      }
+      if (key === 'advisees') {
+        const td = tr.querySelector('td[data-advisees]');
+        return Number(td?.getAttribute('data-advisees') || '0');
+      }
+      const td = tr.querySelector(`[data-${key}]`);
+      return (td?.getAttribute(`data-${key}`) || td?.textContent || '').toString().toLowerCase();
+    };
+
+    const sorted = rows.slice().sort((a, b) => {
+      const va = getVal(a), vb = getVal(b);
+      if (typeof va === 'number' && typeof vb === 'number') return dir * (va - vb);
+      return dir * va.localeCompare(vb);
+    });
+
+    sorted.forEach(tr => body.appendChild(tr));
+  }
+</script>
+{% endblock %}
