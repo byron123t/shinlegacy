@@ -74,13 +74,8 @@
 {% endblock %}
 
 {% block scripts %}
-<script src="{{ url_for('static', filename='js/tree.js') }}"></script>
+<script src="static/js/tree.js"></script>
 <script>
-  initGenealogy({
-    dataUrl: "{{ url_for('api_tree') }}",
-    authed: {{ 'true' if authed else 'false' }},
-    editUrl: "{{ url_for('edit_get', person_id=0) }}".replace(/0$/, ""),
-    addUrl: "{{ url_for('add_get') }}"
-  });
+  initGenealogy({ dataUrl: "data/tree.json" });
 </script>
 {% endblock %}

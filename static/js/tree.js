@@ -20,7 +20,7 @@
  * Expansion state lives on each hierarchy node: `d.kids` is the full list of
  * advisees, `d.children` is what is currently shown (null when collapsed).
  */
-function initGenealogy({ dataUrl, authed, editUrl, addUrl }) {
+function initGenealogy({ dataUrl }) {
   const canvas = document.getElementById("treeCanvas");
   const detailsEl = document.getElementById("details");
   const searchInput = document.getElementById("searchInput");
@@ -596,10 +596,6 @@ function initGenealogy({ dataUrl, authed, editUrl, addUrl }) {
       });
     });
     actions.append(copyBtn);
-    if (authed && p.id) {
-      actions.append(el("a", { class: "btn", href: editUrl + p.id }, "Edit"));
-      actions.append(el("a", { class: "btn", href: `${addUrl}?advisor=${p.id}` }, "Add student"));
-    }
     items.push(actions);
 
     items.push(el("div", { class: "metric-row" },

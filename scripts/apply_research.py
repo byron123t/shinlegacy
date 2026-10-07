@@ -21,7 +21,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 
-ADDED_COLUMNS = {  # keep in sync with app.py
+ADDED_COLUMNS = {  # optional columns; scripts/build_site.py reads them if present
     "photo_url": "VARCHAR(500)",
     "photo_source": "VARCHAR(500)",
     "position": "VARCHAR(255)",

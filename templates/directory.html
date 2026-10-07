@@ -42,7 +42,7 @@
         <td data-advisees="{{ p.advisees|length }}" class="num">{{ p.advisees|length or '' }}</td>
         <td data-descendants="{{ p.descendant_count }}" class="num">{{ p.descendant_count or '' }}</td>
         <td class="actions">
-          <a class="btn small" href="{{ url_for('index', id=p.id) }}" title="Show {{ p.name }} in the tree">View in tree</a>
+          <a class="btn small" href="index.html?id={{ p.id }}" title="Show {{ p.name }} in the tree">View in tree</a>
         </td>
       </tr>
       {% endfor %}
@@ -52,6 +52,6 @@
 {% endblock %}
 
 {% block scripts %}
-<script src="{{ url_for('static', filename='js/table.js') }}"></script>
+<script src="static/js/table.js"></script>
 <script>initPeopleTable({ tableId: "dirTable", filterId: "filterInput", countId: "peopleCount" });</script>
 {% endblock %}

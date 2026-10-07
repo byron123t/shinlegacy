@@ -163,10 +163,17 @@ python scripts/apply_research.py --apply --replace-websites   # also overwrite e
 
 Only `"confirmed"` claims are applied:
 - **website**: filled in when the person has none. Existing ones are only replaced with `--replace-websites`; otherwise a different confirmed URL is reported for manual review.
-- **photo, current position, bio**: stored on the person and shown in the tree's details panel and slideshow.
+- **photo, current position, bio**: stored on the person and shown in the site's details panel and slideshow.
 - **students**: added under their advisor, skipping anyone whose normalized name is already in the tree. The dry run lists students claimed under two different advisors, so you can decide.
 
 Skim the dry run before applying, especially new students and any URL replacements. Spot-check a few photos in the browser afterwards.
+
+Then preview and publish:
+
+```bash
+python scripts/build_site.py && python -m http.server -d _site 8000   # check it
+git add instance/genealogy.db research/ && git commit -m "Research run <date>" && git push   # site redeploys
+```
 
 ## Going deeper (later runs)
 

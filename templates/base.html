@@ -12,47 +12,26 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap">
-  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+  <link rel="stylesheet" href="static/css/styles.css">
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%231f4e8c' stroke-width='2' stroke-linecap='round'%3E%3Ccircle cx='12' cy='5' r='2.5'/%3E%3Ccircle cx='5' cy='19' r='2.5'/%3E%3Ccircle cx='19' cy='19' r='2.5'/%3E%3Cpath d='M12 7.5v4M12 11.5 5 16.5M12 11.5l7 5'/%3E%3C/svg%3E">
   {% block head %}{% endblock %}
 </head>
 <body class="{% block body_class %}{% endblock %}">
   <header class="site-header">
     <div class="bar">
-      <a href="{{ url_for('index') }}" class="brand">
+      <a href="index.html" class="brand">
         <svg class="brand-mark" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="5" r="2.5"/><circle cx="5" cy="19" r="2.5"/><circle cx="19" cy="19" r="2.5"/><path d="M12 7.5v4M12 11.5 5 16.5M12 11.5l7 5"/></svg>
         <span class="brand-text">Kang G. Shin<span class="long"> · Academic Family Tree</span></span>
       </a>
-      {% set ep = request.endpoint %}
       <nav class="nav" aria-label="Main">
-        <a href="{{ url_for('index') }}" {% if ep == 'index' %}aria-current="page"{% endif %}>Tree</a>
-        <a href="{{ url_for('directory') }}" {% if ep == 'directory' %}aria-current="page"{% endif %}>Directory</a>
-        {% if authed %}
-          <a href="{{ url_for('add_get') }}" {% if ep == 'add_get' %}aria-current="page"{% endif %}>Add</a>
-          <a href="{{ url_for('manage_list') }}" {% if ep in ('manage_list', 'edit_get') %}aria-current="page"{% endif %}>Manage</a>
-          <a href="{{ url_for('logout') }}">Log out</a>
-        {% else %}
-          <a href="{{ url_for('login_get') }}" {% if ep == 'login_get' %}aria-current="page"{% endif %}>Log in</a>
-        {% endif %}
+        <a href="index.html" {% if page == 'index' %}aria-current="page"{% endif %}>Tree</a>
+        <a href="directory.html" {% if page == 'directory' %}aria-current="page"{% endif %}>Directory</a>
       </nav>
       <button class="icon-btn" id="themeToggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
       </button>
     </div>
   </header>
-
-  {% with messages = get_flashed_messages(with_categories=true) %}
-    {% if messages %}
-      <div class="flashes" role="status">
-        {% for category, message in messages %}
-          <div class="flash flash-{{ category }}">
-            <span>{{ message }}</span>
-            <button type="button" aria-label="Dismiss" onclick="this.parentElement.remove()">×</button>
-          </div>
-        {% endfor %}
-      </div>
-    {% endif %}
-  {% endwith %}
 
   {% block main %}
   <main class="container page">
@@ -71,8 +50,6 @@
         try { localStorage.setItem("theme", root.dataset.theme); } catch (e) {}
         window.dispatchEvent(new Event("themechange"));
       });
-      // Auto-dismiss flash messages
-      setTimeout(() => document.querySelectorAll(".flash").forEach(el => el.remove()), 6000);
     })();
   </script>
   {% block scripts %}{% endblock %}
