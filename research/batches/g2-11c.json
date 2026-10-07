@@ -1,0 +1,51 @@
+{
+ "batch": "g2-11c",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 315,
+   "name": "Hyoung-gyu Choi",
+   "institution": "SE Works",
+   "year": "2014",
+   "advisor": "Seungjae Han",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 316,
+   "name": "Keon-taek Lee",
+   "institution": "Military Official",
+   "year": "2015",
+   "advisor": "Seungjae Han",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 317,
+   "name": "Soo-hoon Moon",
+   "institution": "Samsung",
+   "year": "2017",
+   "advisor": "Seungjae Han",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 318,
+   "name": "Chris Chambers",
+   "institution": "Bungie, Inc.",
+   "year": "2006",
+   "advisor": "Wu-chang Feng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 319,
+   "name": "Ed Kaiser",
+   "institution": "Bungie, Inc.",
+   "year": "2010",
+   "advisor": "Wu-chang Feng",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

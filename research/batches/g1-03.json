@@ -1,0 +1,107 @@
+{
+ "batch": "g1-03",
+ "kind": "profile",
+ "people": [
+  {
+   "id": 22,
+   "name": "Xianzhong (John) Cui",
+   "institution": "General Motors (retired)",
+   "year": "1992",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 23,
+   "name": "Daniel K. Kiskis",
+   "institution": "University of Michigan",
+   "year": "1992",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 24,
+   "name": "Sungtaeg Jun",
+   "institution": "Youngsan University, Korea",
+   "year": "1992",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 25,
+   "name": "Qin Zheng",
+   "institution": "Gravitation (Co-founder)",
+   "year": "1993",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 26,
+   "name": "Chao-Ju (Jennifer) Hou",
+   "institution": "UIUC (passed away)",
+   "year": "1993",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": [
+    "Bin Wang (2000)",
+    "Hung-Ying Tyan (2001)",
+    "Yuan Gao (2002)",
+    "Guanghui He (2004)",
+    "Ye Ge (2004)",
+    "Wei-Peng Chen (2004)",
+    "Honghai Zhang (2005)",
+    "Ning Li (2005)",
+    "Rong Zheng (2004)",
+    "Hwangnam Kim (2004)"
+   ]
+  },
+  {
+   "id": 27,
+   "name": "David J. Musliner (co-advised with Ed Durfee)",
+   "institution": "Smart Information Flow Technologies",
+   "year": "1993",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 28,
+   "name": "James W. Dolter",
+   "institution": "QualComm (retired)",
+   "year": "1994",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 29,
+   "name": "Victor B. Lortz",
+   "institution": "Nike",
+   "year": "1994",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 30,
+   "name": "Alan Olson",
+   "institution": "Aerospace Corporation",
+   "year": "1994",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 31,
+   "name": "Chih-Che (Chris) Chou",
+   "institution": "TECOM Co., LTD, Taiwan",
+   "year": "1994",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+  "batch": "g2-09a",
+  "people": [
+    {
+      "id": 265,
+      "name": "Chi-Jen Wu",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": [],
+      "notes": "Web search budget was exhausted before any search ran (200/200); two WebFetch attempts (DBLP, NTHU CS) failed or redirected. Nothing verified, so nothing returned."
+    },
+    {
+      "id": 266,
+      "name": "Hui-Ru Wu",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": [],
+      "notes": "Web search budget was exhausted before any search ran (200/200); two WebFetch attempts (DBLP, NTHU CS) failed or redirected. Nothing verified, so nothing returned."
+    },
+    {
+      "id": 267,
+      "name": "Yu-Chieh Lin",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": [],
+      "notes": "Web search budget was exhausted before any search ran (200/200); two WebFetch attempts (DBLP, NTHU CS) failed or redirected. Nothing verified, so nothing returned."
+    },
+    {
+      "id": 268,
+      "name": "Chiang-Chi Liao",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": [],
+      "notes": "Web search budget was exhausted before any search ran (200/200); two WebFetch attempts (DBLP, NTHU CS) failed or redirected. Nothing verified, so nothing returned."
+    },
+    {
+      "id": 269,
+      "name": "Chih-Ya Shen",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": [],
+      "notes": "Web search budget was exhausted before any search ran (200/200); two WebFetch attempts (DBLP, NTHU CS) failed or redirected. Nothing verified, so nothing returned."
+    }
+  ]
+}

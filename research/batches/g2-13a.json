@@ -1,0 +1,55 @@
+{
+ "batch": "g2-13a",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 345,
+   "name": "Yong Yang",
+   "institution": "Philips Research North America",
+   "year": "2011",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 346,
+   "name": "Hossein Ahmadi",
+   "institution": "Google Research",
+   "year": "2011",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 347,
+   "name": "Mohammad M. Khan",
+   "institution": "University of Connecticut",
+   "year": "2011",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": [
+    "Yusuf Albayram (2016)",
+    "Michael Fagan (2017)",
+    "Nhan Nguyen (2018)"
+   ]
+  },
+  {
+   "id": 348,
+   "name": "Hieu Le",
+   "institution": "Tale.city, Singapore",
+   "year": "2012",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 349,
+   "name": "Md Yusuf Uddin",
+   "institution": "Bangladesh University of Engineering and Technology",
+   "year": "2012",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

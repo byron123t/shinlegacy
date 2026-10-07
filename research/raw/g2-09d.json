@@ -1,0 +1,61 @@
+{
+ "batch": "g2-09d",
+ "people": [
+  {
+   "id": 280,
+   "name": "Ruomei Gao",
+   "website": null,
+   "photo": null,
+   "current_position": "Akamai (per Dovrolis alumni page)",
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget was exhausted; relied on Dovrolis's alumni list (https://faculty.cc.gatech.edu/~dovrolis/start_page.html). No PhD students found; likely none supervised. No personal website found. PhD Aug 2007, co-advised with Ellen Zegura."
+  },
+  {
+   "id": 281,
+   "name": "Ravi Prasad",
+   "website": null,
+   "photo": null,
+   "current_position": "Cisco Systems (per Dovrolis alumni page)",
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget was exhausted; relied on Dovrolis's alumni list (https://faculty.cc.gatech.edu/~dovrolis/start_page.html). No PhD students found; likely none supervised. No personal website found."
+  },
+  {
+   "id": 282,
+   "name": "Amogh Dhamdhere",
+   "website": null,
+   "photo": null,
+   "current_position": "Researcher, CAIDA (per Dovrolis alumni page; may be outdated)",
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget was exhausted; relied on Dovrolis's alumni list (https://faculty.cc.gatech.edu/~dovrolis/start_page.html). No PhD students found; likely none supervised. No personal website found; CAIDA profile URL guess returned 404."
+  },
+  {
+   "id": 283,
+   "name": "Partha Kanuparthy",
+   "website": {
+    "url": "https://kanuparthy.wordpress.com/",
+    "source_note": "Personal site (linked from Dovrolis alumni page)"
+   },
+   "photo": null,
+   "current_position": "Software Engineer (Principal/Director) at Meta, since 2020 (per personal site)",
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget was exhausted; relied on Dovrolis's alumni list (https://faculty.cc.gatech.edu/~dovrolis/start_page.html). No PhD students found; likely none supervised. Personal site headshot candidate was a cropped header image, not verified as headshot, so photo omitted."
+  },
+  {
+   "id": 284,
+   "name": "Aemen Lodhi",
+   "website": {
+    "url": "https://scholar.google.com/citations?user=SirVv5UAAAAJ&hl=en",
+    "source_note": "Google Scholar (linked from Dovrolis alumni page)"
+   },
+   "photo": null,
+   "current_position": "Facebook (per Dovrolis alumni page)",
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget was exhausted; relied on Dovrolis's alumni list (https://faculty.cc.gatech.edu/~dovrolis/start_page.html). No PhD students found; likely none supervised."
+  }
+ ]
+}

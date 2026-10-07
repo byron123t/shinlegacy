@@ -1,0 +1,253 @@
+{
+ "batch": "g1-08",
+ "people": [
+  {
+   "id": 72,
+   "website": null,
+   "photo": null,
+   "current_position": "Quanta Team, Maspresso (formerly Moloco Global), per record",
+   "bio": null,
+   "students": [],
+   "notes": "Searches (web search, Math Genealogy listing of Shin's students) found no verifiable page tying Min-Gyu Cho to Shin; web search budget exhausted. No PhD students expected (industry). Nothing invented."
+  },
+  {
+   "id": 73,
+   "website": null,
+   "photo": null,
+   "current_position": "Founder and CEO, Fylamynt; entrepreneur and investor",
+   "bio": {
+    "summary": "Pradeep Padala earned a PhD at the University of Michigan in 2009 under Kang G. Shin, with a dissertation on automated management of virtualized data centers. Padala later worked at VMware and DOCOMO Innovations, co-founded ContainerX (acquired by Cisco), and founded Fylamynt in 2019.",
+    "research_areas": [
+     "Virtualization",
+     "Cloud computing",
+     "Data center management"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2009",
+    "thesis_title": "Automated Management of Virtualized Data Centers",
+    "notable": [
+     "Co-founder, ContainerX (acquired by Cisco)",
+     "Founder and CEO, Fylamynt"
+    ],
+    "sources": [
+     "https://mathgenealogy.org/id.php?id=155427",
+     "https://www.cbinsights.com/company/fylamynt/people"
+    ]
+   },
+   "students": [],
+   "notes": "No personal homepage found; Math Genealogy confirms PhD Michigan 2009, advisor Kang Geun Shin, 'No students known'. Thesis title and career taken from search-result snippets (Wikipedia-type/podcast pages) and CB Insights; industry, no PhD students."
+  },
+  {
+   "id": 74,
+   "website": {
+    "url": "https://web.cs.unlv.edu/jisooy/",
+    "source_note": "Personal homepage at UNLV CS"
+   },
+   "photo": {
+    "image_url": "https://web.cs.unlv.edu/jisooy/image/portrait_small.jpg",
+    "page_url": "https://web.cs.unlv.edu/jisooy/"
+   },
+   "current_position": "Assistant Professor, Department of Computer Science, University of Nevada, Las Vegas",
+   "bio": {
+    "summary": "Jisoo Yang is an Assistant Professor of Computer Science at UNLV who received a PhD in Computer Science from the University of Michigan in 2010. The research focuses on operating system and architecture support for new memory technologies such as 3D XPoint and 3D NAND. Yang has contributed to the Linux kernel and Xen hypervisor and did processor architecture research at Intel.",
+    "research_areas": [
+     "Operating systems",
+     "Computer architecture",
+     "Non-volatile memory and storage",
+     "NVM Express",
+     "Intel SGX"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2010",
+    "thesis_title": null,
+    "notable": [
+     "Previously processor architecture researcher at Intel"
+    ],
+    "sources": [
+     "https://web.cs.unlv.edu/jisooy/"
+    ]
+   },
+   "students": [],
+   "notes": "Homepage lists only an undergraduate advisee (Julian Seymour); no PhD students found. Thesis title not located."
+  },
+  {
+   "id": 75,
+   "website": {
+    "url": "https://wmnl.unist.ac.kr/?p=2378",
+    "source_note": "UNIST WMNL lab professor page"
+   },
+   "photo": null,
+   "current_position": "Professor, Department of Electrical Engineering, UNIST; Director, Wireless and Mobile Networking Laboratory (WMNL)",
+   "bio": {
+    "summary": "Hyoil Kim is a Professor of Electrical Engineering at UNIST in Korea and directs the Wireless and Mobile Networking Laboratory. Kim earned a BS from Seoul National University in 1999 and an MS (2005) and PhD (2010) from the University of Michigan under Kang G. Shin. Research focuses on AI-empowered networking, 5G/6G, and dynamic spectrum access.",
+    "research_areas": [
+     "Wireless and mobile networking",
+     "Dynamic spectrum access",
+     "Cognitive radio networks",
+     "5G/6G",
+     "AI-empowered networking"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2010",
+    "thesis_title": "Efficient Identification and Utilization of Spectrum Opportunities in Cognitive Radio Networks",
+    "notable": [
+     "Distinguished Member of INFOCOM TPC (2022, 2025)",
+     "New Challenger Award, UNIST (2024)",
+     "Achievement Award, KICS (2024)"
+    ],
+    "sources": [
+     "https://wmnl.unist.ac.kr/?p=2378"
+    ]
+   },
+   "students": [],
+   "notes": "Page embeds photo http://faculty.unist.ac.kr/wmnl/wp-content/uploads/sites/458/2023/08/(Korean filename).jpg but the URL returned 404 on check, so photo left null. Lab's student roster not reviewed; no PhD students confirmed."
+  },
+  {
+   "id": 76,
+   "website": null,
+   "photo": null,
+   "current_position": "Arista Networks (per record)",
+   "bio": null,
+   "students": [],
+   "notes": "No verifiable page found tying Ashwini Kumar to Shin/Michigan (name is common); web search budget exhausted. Industry; no PhD students."
+  },
+  {
+   "id": 77,
+   "website": null,
+   "photo": null,
+   "current_position": "Intel, Hillsboro, OR (per record)",
+   "bio": null,
+   "students": [],
+   "notes": "No verifiable page found for Alexander Min (Intel) in available searches; web search budget exhausted. Industry; no PhD students."
+  },
+  {
+   "id": 78,
+   "website": null,
+   "photo": null,
+   "current_position": "Pinterest, San Francisco, CA (per record)",
+   "bio": null,
+   "students": [],
+   "notes": "No verifiable page found for Xin Hu; web search budget exhausted. Industry; no PhD students."
+  },
+  {
+   "id": 79,
+   "website": null,
+   "photo": null,
+   "current_position": "Zoom (per record)",
+   "bio": null,
+   "students": [],
+   "notes": "No verifiable page found for Yuanyuan Zeng; search returned only unrelated people. Industry; no PhD students."
+  },
+  {
+   "id": 80,
+   "website": null,
+   "photo": null,
+   "current_position": "CTO, Interweb, Inc.",
+   "bio": null,
+   "students": [],
+   "notes": "A press-release snippet says Matthew Knysz joined Interweb, Inc. as CTO in April 2024 (serial founder, previously Bell Labs research); page could not be opened (403) and Michigan PhD could not be confirmed, so no bio or link. No PhD students expected."
+  },
+  {
+   "id": 81,
+   "website": {
+    "url": "https://xyzhang.ucsd.edu/index.html",
+    "source_note": "Personal homepage"
+   },
+   "photo": {
+    "image_url": "https://xyzhang.ucsd.edu/images/xyzhang.jpg",
+    "page_url": "https://xyzhang.ucsd.edu/index.html"
+   },
+   "current_position": "Professor of Electrical and Computer Engineering, UC San Diego; Ericsson Endowed Chair in Wireless Access Networks; Director, Center for Wireless Communications",
+   "bio": {
+    "summary": "Xinyu Zhang is a Professor of Electrical and Computer Engineering at UC San Diego, holding the Ericsson Endowed Chair and directing the Center for Wireless Communications. Research covers next-generation wireless network architectures and ubiquitous sensing, with emphasis on millimeter-wave networking, metasurface-empowered communications and AI-augmented mobile computing. Zhang earned a PhD at the University of Michigan in 2012 under Kang G. Shin and previously held a faculty post at UW-Madison.",
+    "research_areas": [
+     "Wireless networking",
+     "Millimeter-wave systems",
+     "Metasurfaces",
+     "Wireless sensing",
+     "Mobile computing"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2012",
+    "thesis_title": null,
+    "notable": [
+     "ACM SIGMOBILE Rockstar Award (2023)",
+     "Best Paper Awards: MobiCom 2020, SenSys 2023, SenSys 2026",
+     "Google Faculty Research Award (2020)",
+     "TPC co-chair MobiCom 2019, SECON 2017"
+    ],
+    "sources": [
+     "https://xyzhang.ucsd.edu/index.html",
+     "https://xyzhang.ucsd.edu/data.js"
+    ]
+   },
+   "students": [
+    {
+     "name": "Songlin Xu",
+     "phd_year": "2026",
+     "current_institution": "Assistant Professor, Hong Kong Polytechnic University",
+     "website": "https://songlinxu.com",
+     "source_url": "https://xyzhang.ucsd.edu/data.js",
+     "evidence": "Listed as role 'phd' (09/2021-03/2026) in the alumni list of Xinyu Zhang's site"
+    },
+    {
+     "name": "Kai Zheng",
+     "phd_year": "2025",
+     "current_institution": "Senior Research Engineer, Samsung Research America",
+     "website": "https://kaizheng.me",
+     "source_url": "https://xyzhang.ucsd.edu/data.js",
+     "evidence": "Listed as role 'phd' (09/2020-08/2025) in the alumni list of Xinyu Zhang's site"
+    },
+    {
+     "name": "Hongsik Yoon",
+     "phd_year": "current",
+     "current_institution": "UC San Diego",
+     "website": null,
+     "source_url": "https://xyzhang.ucsd.edu/data.js",
+     "evidence": "Listed under current team on Xinyu Zhang's site (ECE, Samsung Fellowship)"
+    },
+    {
+     "name": "Wuqiong Zhao",
+     "phd_year": "current",
+     "current_institution": "UC San Diego",
+     "website": "https://wqzhao.org/",
+     "source_url": "https://xyzhang.ucsd.edu/data.js",
+     "evidence": "Listed under current team on Xinyu Zhang's site (ECE)"
+    },
+    {
+     "name": "Qinpei Luo",
+     "phd_year": "current",
+     "current_institution": "UC San Diego",
+     "website": "https://scholar.google.com/citations?user=NezngRAAAAAJ&hl=en",
+     "source_url": "https://xyzhang.ucsd.edu/data.js",
+     "evidence": "Listed under current team on Xinyu Zhang's site (ECE)"
+    },
+    {
+     "name": "Xingyu Chen",
+     "phd_year": "current",
+     "current_institution": "UC San Diego",
+     "website": "https://xingyuchen.me/",
+     "source_url": "https://xyzhang.ucsd.edu/data.js",
+     "evidence": "Listed under current team on Xinyu Zhang's site (CSE)"
+    },
+    {
+     "name": "Baicheng Chen",
+     "phd_year": "current",
+     "current_institution": "UC San Diego",
+     "website": "https://www.baichengchen.com/",
+     "source_url": "https://xyzhang.ucsd.edu/data.js",
+     "evidence": "Listed under current team on Xinyu Zhang's site (CSE)"
+    },
+    {
+     "name": "Dae Cheol Kwon",
+     "phd_year": "current",
+     "current_institution": "UC San Diego",
+     "website": null,
+     "source_url": "https://xyzhang.ucsd.edu/data.js",
+     "evidence": "Listed under current team on Xinyu Zhang's site (ECE, Samsung Fellowship)"
+    }
+   ],
+   "notes": "Students taken from the site's team/alumni data (data.js), excluding MS, undergraduate, postdoc and visiting entries (e.g., Kun Qian is a postdoc, Yanying Lin and Yongjian Fu visiting). Names already in tree skipped. Thesis title not located."
+  }
+ ]
+}

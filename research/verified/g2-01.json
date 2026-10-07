@@ -1,0 +1,488 @@
+{
+ "batch": "g2-01",
+ "people": [
+  {
+   "id": 103,
+   "name": "Yue Gao",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://pages.cs.wisc.edu/~gy/",
+    "reason": "Own homepage; name, UW-Madison PhD with Fawaz match"
+   },
+   "photo": {
+    "verdict": "rejected",
+    "image_url": "https://pages.cs.wisc.edu/~gy/assets/img/prof_pic.jpg",
+    "page_url": "https://pages.cs.wisc.edu/~gy/",
+    "reason": "200 image/jpeg and embedded, but it is a full-body shot of a person sitting on a vehicle in profile, not a headshot/portrait"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Research Engineer, Google DeepMind",
+    "reason": "Stated on own/official page"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 104,
+   "name": "Yucheng Yang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 105,
+   "name": "Varun Chandrasekaran",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://ece.illinois.edu/about/directory/faculty/varunc",
+    "reason": "UIUC ECE faculty profile; name matches, Assistant Professor"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://pages.cs.wisc.edu/~chandrasekaran/images/DP.jpeg",
+    "page_url": "https://pages.cs.wisc.edu/~chandrasekaran",
+    "reason": "200 image/jpeg; single-person portrait; embedded as images/DP.jpeg on old personal page that names him"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Assistant Professor, ECE, University of Illinois Urbana-Champaign",
+    "reason": "Stated on own/official page"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 106,
+   "name": "Wen Xu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 107,
+   "name": "Jiayue He",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 108,
+   "name": "Yi Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 110,
+   "name": "Mengying Pan",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 111,
+   "name": "Yufei Zheng",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://cics.umass.edu/about/directory/yufei-zheng",
+    "reason": "UMass CICS directory entry; name and postdoc title match"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Postdoctoral Research Associate, Manning CICS, UMass Amherst",
+    "reason": "Stated on own/official page"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 112,
+   "name": "Mary Hogan",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://cs.oberlin.edu/~mhogan/",
+    "reason": "Own homepage; PhD at Princeton advised by Rexford"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://cs.oberlin.edu/~mhogan/1D4V0944edited.jpeg",
+    "page_url": "https://cs.oberlin.edu/~mhogan/",
+    "reason": "200 image/jpeg; single-person headshot; embedded on page"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Assistant Professor of Computer Science, Oberlin College",
+    "reason": "Stated on own/official page"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 113,
+   "name": "Xiaoqi Chen",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://engineering.purdue.edu/~xiaoqic/",
+    "reason": "Own homepage; Purdue ECE, Princeton PhD 2023"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://engineering.purdue.edu/~xiaoqic/res/myself2.jpg",
+    "page_url": "https://engineering.purdue.edu/~xiaoqic/",
+    "reason": "200 image/jpeg; single-person headshot; embedded as res/myself2.jpg"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Assistant Professor, ECE, Purdue University",
+    "reason": "Stated on own/official page"
+   },
+   "bio": null,
+   "students": [
+    {
+     "name": "Tianyuan (Frank) Qiu",
+     "phd_year": "current",
+     "current_institution": "Purdue University",
+     "website": null,
+     "source_url": "https://engineering.purdue.edu/~xiaoqic/group.html",
+     "verdict": "confirmed",
+     "reason": "Listed under 'PhD Students' on group.html (fetched); degree level explicit"
+    },
+    {
+     "name": "Xinyu Chen",
+     "phd_year": "current",
+     "current_institution": "Purdue University",
+     "website": null,
+     "source_url": "https://engineering.purdue.edu/~xiaoqic/group.html",
+     "verdict": "confirmed",
+     "reason": "Listed under 'PhD Students' on group.html (fetched); degree level explicit"
+    }
+   ]
+  },
+  {
+   "id": 114,
+   "name": "Jennifer Gossels",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 115,
+   "name": "Mina Tahmasbi Arashloo",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 116,
+   "name": "Robert Harrison",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://www.westpoint.edu/rob-harrison",
+    "reason": "West Point profile; name, Princeton PhD match"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://s3.amazonaws.com/usma-media/inline-images/centers_research/robotics_research_center/profile_Robert_Harrison.jpg",
+    "page_url": "https://www.westpoint.edu/rob-harrison",
+    "reason": "200 image/jpeg; single-person uniform portrait; embedded on profile page"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Associate Professor and CS Program Director, EECS, U.S. Military Academy (West Point)",
+    "reason": "Stated on own/official page"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 117,
+   "name": "Mojgan Ghasemi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 118,
+   "name": "Naga Katta",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://nkatta.github.io/",
+    "reason": "Own homepage; Princeton PhD student in Rexford's group"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://nkatta.github.io/images/profile.jpg",
+    "page_url": "https://nkatta.github.io/",
+    "reason": "200 image/jpeg; single-person photo (outdoor, casual but clear portrait); embedded as images/profile.jpg"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Research engineer, Salesforce",
+    "reason": "Stated on own/official page"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 119,
+   "name": "Xin Jin",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://xinjin.github.io/",
+    "reason": "Own homepage; Peking University Associate Professor"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://xinjin.github.io/files/xinjin.jpg",
+    "page_url": "https://xinjin.github.io/",
+    "reason": "200 image/jpeg; single-person headshot; embedded as files/xinjin.jpg"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Associate Professor, School of Computer Science, Peking University",
+    "reason": "Stated on own/official page"
+   },
+   "bio": null,
+   "students": [
+    {
+     "name": "Diandian Gu",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://xinjin.github.io/students.html",
+     "verdict": "rejected",
+     "reason": "Students page (the cited /students/ URL is 404; real page is students.html) lists names only, with no degree level, year or advisor role; PhD status not established"
+    },
+    {
+     "name": "Yunshan Jia",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://xinjin.github.io/students.html",
+     "verdict": "rejected",
+     "reason": "Students page (the cited /students/ URL is 404; real page is students.html) lists names only, with no degree level, year or advisor role; PhD status not established"
+    },
+    {
+     "name": "Chao Jin",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://xinjin.github.io/students.html",
+     "verdict": "rejected",
+     "reason": "Students page (the cited /students/ URL is 404; real page is students.html) lists names only, with no degree level, year or advisor role; PhD status not established"
+    },
+    {
+     "name": "Chiheng Lou",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://xinjin.github.io/students.html",
+     "verdict": "rejected",
+     "reason": "Students page (the cited /students/ URL is 404; real page is students.html) lists names only, with no degree level, year or advisor role; PhD status not established"
+    },
+    {
+     "name": "Sheng Qi",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://xinjin.github.io/students.html",
+     "verdict": "rejected",
+     "reason": "Students page (the cited /students/ URL is 404; real page is students.html) lists names only, with no degree level, year or advisor role; PhD status not established"
+    },
+    {
+     "name": "Junyi Shu",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://xinjin.github.io/students.html",
+     "verdict": "rejected",
+     "reason": "Students page (the cited /students/ URL is 404; real page is students.html) lists names only, with no degree level, year or advisor role; PhD status not established"
+    },
+    {
+     "name": "Bingyang Wu",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://xinjin.github.io/students.html",
+     "verdict": "rejected",
+     "reason": "Students page (the cited /students/ URL is 404; real page is students.html) lists names only, with no degree level, year or advisor role; PhD status not established"
+    },
+    {
+     "name": "Yihao Zhao",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://xinjin.github.io/students.html",
+     "verdict": "rejected",
+     "reason": "Students page (the cited /students/ URL is 404; real page is students.html) lists names only, with no degree level, year or advisor role; PhD status not established"
+    },
+    {
+     "name": "Yinmin Zhong",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://xinjin.github.io/students.html",
+     "verdict": "rejected",
+     "reason": "Students page (the cited /students/ URL is 404; real page is students.html) lists names only, with no degree level, year or advisor role; PhD status not established"
+    },
+    {
+     "name": "Naiqian Zheng",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://xinjin.github.io/students.html",
+     "verdict": "rejected",
+     "reason": "Students page (the cited /students/ URL is 404; real page is students.html) lists names only, with no degree level, year or advisor role; PhD status not established"
+    },
+    {
+     "name": "Zili Zhang",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://xinjin.github.io/students.html",
+     "verdict": "rejected",
+     "reason": "Students page (the cited /students/ URL is 404; real page is students.html) lists names only, with no degree level, year or advisor role; PhD status not established"
+    },
+    {
+     "name": "Ruidong Zhu",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://xinjin.github.io/students.html",
+     "verdict": "rejected",
+     "reason": "Students page (the cited /students/ URL is 404; real page is students.html) lists names only, with no degree level, year or advisor role; PhD status not established"
+    },
+    {
+     "name": "Zhuolong Yu",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://xinjin.github.io/students.html",
+     "verdict": "rejected",
+     "reason": "Students page (the cited /students/ URL is 404; real page is students.html) lists names only, with no degree level, year or advisor role; PhD status not established"
+    },
+    {
+     "name": "Zhen Zhang",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://xinjin.github.io/students.html",
+     "verdict": "rejected",
+     "reason": "Students page (the cited /students/ URL is 404; real page is students.html) lists names only, with no degree level, year or advisor role; PhD status not established"
+    },
+    {
+     "name": "Zhihao Bai",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://xinjin.github.io/students.html",
+     "verdict": "rejected",
+     "reason": "Students page (the cited /students/ URL is 404; real page is students.html) lists names only, with no degree level, year or advisor role; PhD status not established"
+    },
+    {
+     "name": "Hang Zhu",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://xinjin.github.io/students.html",
+     "verdict": "rejected",
+     "reason": "Students page (the cited /students/ URL is 404; real page is students.html) lists names only, with no degree level, year or advisor role; PhD status not established"
+    }
+   ]
+  },
+  {
+   "id": 120,
+   "name": "Srinivas Narayana",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://people.cs.rutgers.edu/~sn624/",
+    "reason": "Own homepage; Rutgers CS"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://people.cs.rutgers.edu/~sn624/pic4.jpg",
+    "page_url": "https://people.cs.rutgers.edu/~sn624/",
+    "reason": "200 image/jpeg; single-person portrait; embedded as pic4.jpg"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Associate Professor, Department of Computer Science, Rutgers University",
+    "reason": "Stated on own/official page (Rutgers page says on leave at IIT Madras since Sept 2025; Rutgers title still current)"
+   },
+   "bio": null,
+   "students": [
+    {
+     "name": "Bhavana Vannarth Shobhana",
+     "phd_year": "current",
+     "current_institution": "Rutgers University",
+     "website": null,
+     "source_url": "https://people.cs.rutgers.edu/~sn624/",
+     "verdict": "confirmed",
+     "reason": "Rutgers page: 'Ph.D. started '21' with co-advisor; Narayana advises (co-advised)"
+    },
+    {
+     "name": "Harishankar Vishwanathan",
+     "phd_year": "current",
+     "current_institution": "Rutgers University",
+     "website": null,
+     "source_url": "https://people.cs.rutgers.edu/~sn624/",
+     "verdict": "confirmed",
+     "reason": "Rutgers page: 'Ph.D. started '21' with co-advisor; Narayana advises (co-advised)"
+    }
+   ]
+  },
+  {
+   "id": 121,
+   "name": "Nanxi Kang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 122,
+   "name": "Peng Sun",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://www.pengsun.org/",
+    "reason": "Own homepage; name and Facebook role match"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Software Engineering Manager, Facebook (Meta), Seattle",
+    "reason": "Stated on own/official page"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 123,
+   "name": "Wenjie (Joe) Jiang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  }
+ ]
+}

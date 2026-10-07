@@ -1,0 +1,40 @@
+{
+ "batch": "g1-11",
+ "people": [
+  {
+   "id": 102,
+   "name": "Youssef Tobah",
+   "website": {
+    "verdict": "unverifiable",
+    "reason": "dblp.org returns an Anubis bot-protection/Access Denied page to curl and WebFetch; page could not be loaded. Also only a DBLP bibliography listing, not a personal or official profile.",
+    "url": "https://dblp.org/pid/221/1574.html"
+   },
+   "photo": null,
+   "current_position": null,
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Completed a PhD at the University of Michigan in 2025 with Kang G. Shin as committee chair. The dissertation, 'Exploring the Effects of Memory Vulnerabilities Across the Computer Architecture Stack', covers reverse-engineering memory-controller address mapping, combining Rowhammer with microarchitectural exploits, Rowhammer threats to software patterns, and end-to-end Rowhammer attack efficiency. Co-authored SpecHammer (IEEE S&P 2022) and Go Go Gadget Hammer (USENIX Security 2024), and acknowledges being hosted at Lincoln Lab.",
+    "research_areas": [
+     "Rowhammer",
+     "Memory security",
+     "Computer architecture security",
+     "Microarchitectural attacks"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2025",
+    "thesis_title": "Exploring the Effects of Memory Vulnerabilities Across the Computer Architecture Stack",
+    "notable": [
+     "USENIX Security 2024: Go Go Gadget Hammer",
+     "IEEE S&P 2022: SpecHammer"
+    ],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/assets/dissertations/2025/ytobah_thesis.pdf",
+     "https://rtcl.eecs.umich.edu/rtclweb//dissertations",
+     "https://www.usenix.org/conference/usenixsecurity24/presentation/tobah"
+    ],
+    "reason": "Checked thesis PDF (title page, committee chair Shin, abstract, refs [71],[72]) and USENIX page. Dropped 'MIT' (thesis says only 'Lincoln Lab'), dropped 'Real-Time Computing Laboratory' (not seen in thesis) and the 'hosted at MIT Lincoln Laboratory' notable item; kept thesis acknowledgement wording."
+   },
+   "students": []
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "batch": "g2-13b",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 350,
+   "name": "Dong Wang",
+   "institution": "Notre Dame",
+   "year": "2012",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 351,
+   "name": "Eun Soo Seo",
+   "institution": "",
+   "year": "2012",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 352,
+   "name": "Lu Su",
+   "institution": "SUNY Buffalo",
+   "year": "2013",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 353,
+   "name": "Fatemeh Saremi",
+   "institution": "",
+   "year": "2016",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 354,
+   "name": "Shen Li",
+   "institution": "Facebook Research",
+   "year": "2016",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

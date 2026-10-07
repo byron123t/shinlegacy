@@ -1,0 +1,56 @@
+{
+ "batch": "g2-10c",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 295,
+   "name": "Ye Ge",
+   "institution": "",
+   "year": "2004",
+   "advisor": "Chao-Ju (Jennifer) Hou",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 296,
+   "name": "Wei-Peng Chen",
+   "institution": "Fujitsu Labs of America",
+   "year": "2004",
+   "advisor": "Chao-Ju (Jennifer) Hou",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 297,
+   "name": "Honghai Zhang",
+   "institution": "Lucent",
+   "year": "2005",
+   "advisor": "Chao-Ju (Jennifer) Hou",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 298,
+   "name": "Ning Li",
+   "institution": "Microsoft",
+   "year": "2005",
+   "advisor": "Chao-Ju (Jennifer) Hou",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 299,
+   "name": "Rong Zheng",
+   "institution": "McMaster University, Canada",
+   "year": "2004",
+   "advisor": "Chao-Ju (Jennifer) Hou",
+   "website_on_record": "http://www.cas.mcmaster.ca/~rzheng/",
+   "students_in_tree": [
+    "Soji Omiwade (2011)",
+    "Khuong Vu (2012)",
+    "Huy A. Nguyen (2013)",
+    "Guanbo Zheng (2013)"
+   ]
+  }
+ ]
+}

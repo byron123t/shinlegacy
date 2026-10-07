@@ -1,0 +1,214 @@
+{
+ "batch": "g2-06",
+ "people": [
+  {
+   "id": 205,
+   "name": "Xi Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Industry researcher; no personal website, photo or PhD advisees found in searches. Searched name plus advisor/institution."
+  },
+  {
+   "id": 206,
+   "name": "Zi Li",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Industry researcher; no personal website, photo or PhD advisees found in searches. Searched name plus advisor/institution."
+  },
+  {
+   "id": 207,
+   "name": "Yang Peng",
+   "website": {
+    "url": "http://faculty.washington.edu/yangpeng/",
+    "source_note": "Personal faculty homepage, UW Bothell"
+   },
+   "photo": {
+    "image_url": "http://faculty.washington.edu/yangpeng/img/Yang.jpg",
+    "page_url": "http://faculty.washington.edu/yangpeng/"
+   },
+   "current_position": "Associate Professor, Computing and Software Systems, University of Washington Bothell",
+   "bio": null,
+   "students": [],
+   "notes": "PhD Iowa State 2014. Homepage lists only MS students; no PhD advisees found."
+  },
+  {
+   "id": 208,
+   "name": "Ka Yang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Industry researcher; no personal website, photo or PhD advisees found in searches. Searched name plus advisor/institution."
+  },
+  {
+   "id": 209,
+   "name": "Xiaoyun Zhang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Industry researcher; no personal website, photo or PhD advisees found in searches. Searched name plus advisor/institution."
+  },
+  {
+   "id": 210,
+   "name": "Taewoon Kim",
+   "website": {
+    "url": "https://sites.google.com/site/twoonkim/",
+    "source_note": "Personal homepage"
+   },
+   "photo": null,
+   "current_position": "Associate Professor, School of Computer Science and Engineering, Pusan National University",
+   "bio": null,
+   "students": [],
+   "notes": "Homepage shows no headshot and no PhD advisees; moved from Hallym University (2018-2022) to Pusan National University (Sept 2024)."
+  },
+  {
+   "id": 211,
+   "name": "Jia Tang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Industry researcher; no personal website, photo or PhD advisees found in searches. Searched name plus advisor/institution."
+  },
+  {
+   "id": 212,
+   "name": "Sunggeun Jin",
+   "website": null,
+   "photo": null,
+   "current_position": "Professor, Daegu University, Korea",
+   "bio": null,
+   "students": [],
+   "notes": "Listed on Sunghyun Choi's SNU alumni archive as Professor at Daegu University; no personal page found."
+  },
+  {
+   "id": 213,
+   "name": "Youngsoo Kim",
+   "website": null,
+   "photo": null,
+   "current_position": "Samsung Electronics, Korea (per advisor's alumni archive)",
+   "bio": null,
+   "students": [],
+   "notes": "Industry researcher; no personal site, photo or PhD advisees found. Position from https://sites.google.com/view/sunghyun-chois-home/snu-archive/collaborators-snu"
+  },
+  {
+   "id": 214,
+   "name": "Seongkwan Kim",
+   "website": null,
+   "photo": null,
+   "current_position": "KT (Korea Telecom), Korea (per advisor's alumni archive)",
+   "bio": null,
+   "students": [],
+   "notes": "Industry researcher; no personal site, photo or PhD advisees found. Position from https://sites.google.com/view/sunghyun-chois-home/snu-archive/collaborators-snu"
+  },
+  {
+   "id": 215,
+   "name": "Youngkyu Choi",
+   "website": null,
+   "photo": null,
+   "current_position": "Network Division, Samsung Electronics (per advisor's alumni archive)",
+   "bio": null,
+   "students": [],
+   "notes": "Industry researcher; no personal site, photo or PhD advisees found. Position from https://sites.google.com/view/sunghyun-chois-home/snu-archive/collaborators-snu"
+  },
+  {
+   "id": 216,
+   "name": "Jeonggyun Yu",
+   "website": null,
+   "photo": null,
+   "current_position": "System LSI, Samsung Electronics (per advisor's alumni archive)",
+   "bio": null,
+   "students": [],
+   "notes": "Industry researcher; no personal site, photo or PhD advisees found. Position from https://sites.google.com/view/sunghyun-chois-home/snu-archive/collaborators-snu"
+  },
+  {
+   "id": 217,
+   "name": "Kwanghun Han",
+   "website": null,
+   "photo": null,
+   "current_position": "MX Division, Samsung Electronics (per advisor's alumni archive)",
+   "bio": null,
+   "students": [],
+   "notes": "Industry researcher; no personal site, photo or PhD advisees found. Position from https://sites.google.com/view/sunghyun-chois-home/snu-archive/collaborators-snu"
+  },
+  {
+   "id": 218,
+   "name": "Dongmyoung Kim",
+   "website": null,
+   "photo": null,
+   "current_position": "Samsung Research, Samsung Electronics (per advisor's alumni archive)",
+   "bio": null,
+   "students": [],
+   "notes": "Industry researcher; no personal site, photo or PhD advisees found. Position from https://sites.google.com/view/sunghyun-chois-home/snu-archive/collaborators-snu"
+  },
+  {
+   "id": 219,
+   "name": "Munhwan Choi",
+   "website": null,
+   "photo": null,
+   "current_position": "MX Division, Samsung Electronics (per advisor's alumni archive)",
+   "bio": null,
+   "students": [],
+   "notes": "Industry researcher; no personal site, photo or PhD advisees found. Position from https://sites.google.com/view/sunghyun-chois-home/snu-archive/collaborators-snu"
+  },
+  {
+   "id": 220,
+   "name": "Edwin Monroy",
+   "website": null,
+   "photo": null,
+   "current_position": "Ericsson, Sweden (per advisor's alumni archive; record says ASTRI)",
+   "bio": null,
+   "students": [],
+   "notes": "Industry researcher; no personal site, photo or PhD advisees found. Position from https://sites.google.com/view/sunghyun-chois-home/snu-archive/collaborators-snu"
+  },
+  {
+   "id": 221,
+   "name": "Hyewon Lee",
+   "website": null,
+   "photo": null,
+   "current_position": "Apple, USA (per advisor's alumni archive)",
+   "bio": null,
+   "students": [],
+   "notes": "Industry researcher; no personal site, photo or PhD advisees found. Position from https://sites.google.com/view/sunghyun-chois-home/snu-archive/collaborators-snu"
+  },
+  {
+   "id": 222,
+   "name": "Wonbo Lee",
+   "website": null,
+   "photo": null,
+   "current_position": "MX Division, Samsung Electronics (per advisor's alumni archive)",
+   "bio": null,
+   "students": [],
+   "notes": "Industry researcher; no personal site, photo or PhD advisees found. Position from https://sites.google.com/view/sunghyun-chois-home/snu-archive/collaborators-snu"
+  },
+  {
+   "id": 223,
+   "name": "Okhwan Lee",
+   "website": null,
+   "photo": null,
+   "current_position": "Network Division, Samsung Electronics (per advisor's alumni archive)",
+   "bio": null,
+   "students": [],
+   "notes": "Industry researcher; no personal site, photo or PhD advisees found. Position from https://sites.google.com/view/sunghyun-chois-home/snu-archive/collaborators-snu"
+  },
+  {
+   "id": 224,
+   "name": "Jongwoo Hong",
+   "website": null,
+   "photo": null,
+   "current_position": "Interdigital, USA (per advisor's alumni archive)",
+   "bio": null,
+   "students": [],
+   "notes": "Industry researcher; no personal site, photo or PhD advisees found. Position from https://sites.google.com/view/sunghyun-chois-home/snu-archive/collaborators-snu"
+  }
+ ]
+}

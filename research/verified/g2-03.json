@@ -1,0 +1,366 @@
+{
+  "batch": "g2-03",
+  "people": [
+    {
+      "id": 145,
+      "name": "Kamalavasan Srinivasan",
+      "website": null,
+      "photo": null,
+      "current_position": {
+        "verdict": "rejected",
+        "value": null,
+        "reason": "Only a name on Ramanathan's student list; Microsoft not supported by any source"
+      },
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 146,
+      "name": "Niveditha Sundaram",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 147,
+      "name": "Lun Tong",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 148,
+      "name": "Chao Wang",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 149,
+      "name": "Kuang-Ching Wang",
+      "website": null,
+      "photo": null,
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "Empire Innovation Professor of Trustworthy AI and Director of the School of Computing, Binghamton University (SUNY); formerly Provost Distinguished Professor, Clemson University",
+        "reason": "Newswise expert directory (Binghamton University) states Empire Innovation Professor of Trustworthy AI and Director of the School of Computing; prior Clemson Provost Distinguished Professor"
+      },
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 150,
+      "name": "Nairan Zhang",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 151,
+      "name": "Amrita Roy Chowdhury",
+      "website": {
+        "verdict": "confirmed",
+        "url": "https://sites.google.com/wisc.edu/amrita-roy-chowdhury/",
+        "reason": "Loads; own personal page, name and affiliation/field match"
+      },
+      "photo": null,
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "Assistant Professor of Computer Science and Engineering, University of Michigan",
+        "reason": "Personal site: assistant professor, CS, University of Michigan"
+      },
+      "bio": null,
+      "students": [
+        {
+          "name": "Siddarth Sitaraman",
+          "phd_year": "current",
+          "current_institution": "University of Michigan",
+          "website": null,
+          "source_url": "https://sites.google.com/wisc.edu/amrita-roy-chowdhury/",
+          "verdict": "confirmed",
+          "reason": "Listed under Students > Ph.D. on advisor's personal site"
+        },
+        {
+          "name": "Huseyin Sahin",
+          "phd_year": "current",
+          "current_institution": "University of Michigan",
+          "website": null,
+          "source_url": "https://sites.google.com/wisc.edu/amrita-roy-chowdhury/",
+          "verdict": "confirmed",
+          "reason": "Listed under Students > Ph.D. on advisor's personal site"
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "name": "Ashwin Varadarajan",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 153,
+      "name": "Zongshen Wu",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 154,
+      "name": "Mushtari Sadia",
+      "website": null,
+      "photo": null,
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "PhD student, University of Michigan",
+        "reason": "Listed under Students > Ph.D. on Amrita Roy Chowdhury's site (University of Michigan)"
+      },
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 155,
+      "name": "Yiyi Sun",
+      "website": null,
+      "photo": null,
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "PhD student, University of Michigan",
+        "reason": "Listed under Students > Ph.D. on Amrita Roy Chowdhury's site (University of Michigan)"
+      },
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 156,
+      "name": "Samanway Sadhu",
+      "website": null,
+      "photo": null,
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "PhD student, University of Michigan",
+        "reason": "Listed under Students > Ph.D. on Amrita Roy Chowdhury's site (University of Michigan)"
+      },
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 157,
+      "name": "Xiufeng Xie",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 158,
+      "name": "Chuhan Gao",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 159,
+      "name": "Chi Zhang",
+      "website": {
+        "verdict": "confirmed",
+        "url": "http://dword1511.info/me/",
+        "reason": "Loads; own personal page, name and affiliation/field match"
+      },
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "http://dword1511.info/me/images/photo.jpg",
+        "page_url": "http://dword1511.info/me/",
+        "reason": "Page names person and embeds image; HTTP 200 with image content type; viewed: selfie-style headshot of a single person"
+      },
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "Embedded Software Engineer, Google (San Diego)",
+        "reason": "Personal page: Embedded Software Engineer at Google San Diego office"
+      },
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 160,
+      "name": "Sanjib Sur",
+      "website": {
+        "verdict": "confirmed",
+        "url": "https://cse.sc.edu/~sur/index.html",
+        "reason": "Loads; own personal page, name and affiliation/field match"
+      },
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://cse.sc.edu/~sur/images/Sanjib_photo1.jpg",
+        "page_url": "https://cse.sc.edu/~sur/index.html",
+        "reason": "Page names person and embeds image; HTTP 200 with image content type; viewed: single-person portrait"
+      },
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "Associate Professor of Computer Science and Engineering, University of South Carolina",
+        "reason": "Corrected rank: SyReX lab team page (2026) lists Associate Professor; personal page older"
+      },
+      "bio": null,
+      "students": [
+        {
+          "name": "Emmanuel Addo Addae",
+          "phd_year": "current",
+          "current_institution": "University of South Carolina",
+          "website": null,
+          "source_url": "https://syrex.cse.sc.edu/team/",
+          "verdict": "confirmed",
+          "reason": "Listed under Ph.D. Student on SyReX lab team page (Sanjib Sur PI)"
+        },
+        {
+          "name": "Pingping Cai",
+          "phd_year": "current",
+          "current_institution": "University of South Carolina",
+          "website": null,
+          "source_url": "https://syrex.cse.sc.edu/team/",
+          "verdict": "confirmed",
+          "reason": "Listed under Ph.D. Student on SyReX lab team page (Sanjib Sur PI)"
+        },
+        {
+          "name": "Zhuangzhuang Gu",
+          "phd_year": "current",
+          "current_institution": "University of South Carolina",
+          "website": null,
+          "source_url": "https://syrex.cse.sc.edu/team/",
+          "verdict": "confirmed",
+          "reason": "Listed under Ph.D. Student on SyReX lab team page (Sanjib Sur PI)"
+        },
+        {
+          "name": "Sabbir Saadat",
+          "phd_year": "current",
+          "current_institution": "University of South Carolina",
+          "website": null,
+          "source_url": "https://syrex.cse.sc.edu/team/",
+          "verdict": "confirmed",
+          "reason": "Listed under Ph.D. Student on SyReX lab team page (Sanjib Sur PI)"
+        },
+        {
+          "name": "Zarin Shejuti",
+          "phd_year": "current",
+          "current_institution": "University of South Carolina",
+          "website": null,
+          "source_url": "https://syrex.cse.sc.edu/team/",
+          "verdict": "confirmed",
+          "reason": "Listed under Ph.D. Student on SyReX lab team page (Sanjib Sur PI)"
+        },
+        {
+          "name": "Aayush Shrestha",
+          "phd_year": "current",
+          "current_institution": "University of South Carolina",
+          "website": null,
+          "source_url": "https://syrex.cse.sc.edu/team/",
+          "verdict": "confirmed",
+          "reason": "Listed under Ph.D. Student on SyReX lab team page (Sanjib Sur PI)"
+        },
+        {
+          "name": "Abdulahi Taiwo",
+          "phd_year": "current",
+          "current_institution": "University of South Carolina",
+          "website": null,
+          "source_url": "https://syrex.cse.sc.edu/team/",
+          "verdict": "confirmed",
+          "reason": "Listed under Ph.D. Student on SyReX lab team page (Sanjib Sur PI)"
+        },
+        {
+          "name": "Reza Tavasoli",
+          "phd_year": "current",
+          "current_institution": "University of South Carolina",
+          "website": null,
+          "source_url": "https://syrex.cse.sc.edu/team/",
+          "verdict": "confirmed",
+          "reason": "Listed under Ph.D. Student on SyReX lab team page (Sanjib Sur PI)"
+        },
+        {
+          "name": "Aakriti Adhikari",
+          "phd_year": "2025",
+          "current_institution": null,
+          "website": null,
+          "source_url": "https://syrex.cse.sc.edu/team/",
+          "verdict": "confirmed",
+          "reason": "Listed under Ph.D. Alumnus/Alumna (2025) on SyReX lab team page (Sanjib Sur PI)"
+        },
+        {
+          "name": "Hem Regmi",
+          "phd_year": "2025",
+          "current_institution": null,
+          "website": null,
+          "source_url": "https://syrex.cse.sc.edu/team/",
+          "verdict": "confirmed",
+          "reason": "Listed under Ph.D. Alumnus/Alumna (2025) on SyReX lab team page (Sanjib Sur PI)"
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "name": "Teng Wei",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 162,
+      "name": "Shilin Zhu",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 163,
+      "name": "Song Wang",
+      "website": {
+        "verdict": "confirmed",
+        "url": "https://sowang46.github.io/",
+        "reason": "Loads; own personal page, name and affiliation/field match"
+      },
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://sowang46.github.io/images/profile.png",
+        "page_url": "https://sowang46.github.io/",
+        "reason": "Page names person and embeds image; HTTP 200 with image content type; viewed: single-person portrait"
+      },
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "Network software developer/researcher, ByteDance",
+        "reason": "Personal page bio states this"
+      },
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 164,
+      "name": "Timothy Woodford",
+      "website": null,
+      "photo": null,
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "Research Scientist, MIT Lincoln Laboratory",
+        "reason": "Xinyu Zhang's site news (06/2023) lists Timothy Woodford, Research Scientist at MIT Lincoln Lab; dated 2023 item, not a current profile"
+      },
+      "bio": null,
+      "students": []
+    }
+  ]
+}

@@ -1,44 +1,86 @@
 {% extends "base.html" %}
-{% block content %}
-<section class="panel">
-  <div class="panel-header">
-    <h1>Academic Tree</h1>
-    <div class="controls">
-      <input id="searchInput" type="search" placeholder="Search name…" aria-label="Search name">
-      <button id="resetBtn" type="button">Reset view</button>
-      <button id="expandAllBtn" type="button">Expand all</button>
-      <button id="collapseAllBtn" type="button">Collapse all</button>
-    </div>
-  </div>
-  <div id="treeContainer" class="tree-container" role="region" aria-label="Academic tree">
-    <!-- SVG injected by tree.js -->
-  </div>
-</section>
+{% block body_class %}viewer{% endblock %}
+{% block head %}
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+{% endblock %}
 
+{% block main %}
+<main class="viewer-shell">
+  <section class="stage" aria-label="Academic family tree">
+    <div class="toolbar">
+      <div class="search" role="search">
+        <label class="search-box">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <span class="visually-hidden">Search people</span>
+          <input id="searchInput" type="search" placeholder="Search name or institution…" autocomplete="off"
+                 role="combobox" aria-expanded="false" aria-controls="searchResults" aria-autocomplete="list">
+          <kbd>/</kbd>
+        </label>
+        <ul id="searchResults" class="search-results" role="listbox" hidden></ul>
+      </div>
+
+      <div class="seg" role="group" aria-label="Layout">
+        <button type="button" data-layout="radial" aria-pressed="false" title="Butterfly overview">Butterfly</button>
+        <button type="button" data-layout="tree" aria-pressed="false">Tree</button>
+        <button type="button" data-layout="story" aria-pressed="false" title="One person at a time">Storybook</button>
+      </div>
+
+      <div class="storybar" role="group" aria-label="Story navigation">
+        <button class="btn" id="prevBtn" type="button" title="Previous person (Shift+Tab)" aria-label="Previous person">‹</button>
+        <button class="btn" id="playBtn" type="button" title="Play the story (Space)" aria-pressed="false">▶ Play</button>
+        <button class="btn" id="nextBtn" type="button" title="Next person (Tab)" aria-label="Next person">›</button>
+        <span class="speed" role="group" aria-label="Playback speed">
+          <button type="button" data-speed="1" aria-pressed="true">1×</button>
+          <button type="button" data-speed="2" aria-pressed="false">2×</button>
+          <button type="button" data-speed="5" aria-pressed="false">5×</button>
+          <button type="button" data-speed="10" aria-pressed="false">10×</button>
+        </span>
+        <span class="story-pos" id="storyPos" aria-live="polite"></span>
+      </div>
+
+      <div class="tool-group" id="foldTools">
+        <button class="btn" id="expandAllBtn" type="button" title="Expand everyone">Expand all</button>
+        <button class="btn" id="collapseAllBtn" type="button" title="Show only direct students">Collapse</button>
+      </div>
+    </div>
+
+    <div class="slide-year" id="slideYear" aria-hidden="true"></div>
+    <div id="treeCanvas" class="tree-canvas">
+      <div class="loading">Loading tree…</div>
+    </div>
+
+    <div class="slide-host" id="slideHost" aria-live="polite"></div>
+
+    <div class="stats" id="stats" hidden>
+      <div class="stats-nums">
+        <div><b id="statPeople">–</b>people</div>
+        <div><b id="statGens">–</b>generations</div>
+        <div><b id="statInst">–</b>institutions</div>
+        <div><b id="statSpan">–</b>years</div>
+      </div>
+      <div class="legend" id="legend"></div>
+      <div class="hint">Tab / Shift+Tab: next / previous person · ↑ ↓ fellow students · → ← students / advisor · Space: play</div>
+    </div>
+
+    <div class="zoom-ctl" role="group" aria-label="Zoom">
+      <button type="button" id="zoomIn" aria-label="Zoom in" title="Zoom in"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg></button>
+      <button type="button" id="zoomOut" aria-label="Zoom out" title="Zoom out"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14"/></svg></button>
+      <button type="button" id="fitBtn" aria-label="Fit to screen" title="Fit to screen (F)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
+    </div>
+  </section>
+
+  <aside id="details" class="details" aria-live="polite" hidden></aside>
+</main>
+{% endblock %}
+
+{% block scripts %}
 <script src="{{ url_for('static', filename='js/tree.js') }}"></script>
 <script>
-  window.addEventListener('DOMContentLoaded', () => {
-    initGenealogy({
-      dataUrl: "{{ url_for('api_tree') }}",
-      containerSelector: "#treeContainer",
-      searchInputSelector: "#searchInput",
-      resetBtnSelector: "#resetBtn",
-      expandAllBtnSelector: "#expandAllBtn",
-      collapseAllBtnSelector: "#collapseAllBtn"
-    });
+  initGenealogy({
+    dataUrl: "{{ url_for('api_tree') }}",
+    authed: {{ 'true' if authed else 'false' }},
+    editUrl: "{{ url_for('edit_get', person_id=0) }}".replace(/0$/, ""),
+    addUrl: "{{ url_for('add_get') }}"
   });
-</script>
-<script>
-  // If there is a ?q=Name, seed the search box
-  const params = new URLSearchParams(location.search);
-  const q = params.get('q');
-  if (q) {
-    const input = document.querySelector("#searchInput");
-    if (input) {
-      input.value = q;
-      // give D3 a tick to load data, then fire the search
-      setTimeout(() => input.dispatchEvent(new Event('input', { bubbles: true })), 400);
-    }
-  }
 </script>
 {% endblock %}

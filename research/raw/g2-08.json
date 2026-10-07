@@ -1,0 +1,226 @@
+{
+ "batch": "g2-08",
+ "people": [
+  {
+   "id": 245,
+   "name": "Bi-Ru Dai",
+   "website": {
+    "url": "https://ipmarket.ntust.edu.tw/expert1.asp?ser=4043",
+    "source_note": "NTUST IP Market expert profile"
+   },
+   "photo": null,
+   "current_position": "Faculty, Department of Information Engineering (CSIE), National Taiwan University of Science and Technology",
+   "bio": null,
+   "students": [],
+   "notes": "Profile opened; PhD EE at NTU, research data mining/data streams. Rank not confirmed (older listing says assistant professor). No personal homepage or photo found. Student search not done (search budget exhausted)."
+  },
+  {
+   "id": 246,
+   "name": "Kun-Ta Chuang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Not found; web search budget exhausted. Advisor Ming-Syan Chen, no verified page. Student search not performed. Student search not done (search budget exhausted)."
+  },
+  {
+   "id": 247,
+   "name": "Wei-Ta Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Not found; web search budget exhausted. Advisor Ming-Syan Chen, no verified page. Student search not performed. Student search not done (search budget exhausted)."
+  },
+  {
+   "id": 248,
+   "name": "Hao-Ping Hung",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Not found; web search budget exhausted. Advisor Ming-Syan Chen, no verified page. Student search not performed. Student search not done (search budget exhausted)."
+  },
+  {
+   "id": 249,
+   "name": "Shin-Hsiang Lo",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Not found; web search budget exhausted. Advisor Ming-Syan Chen, no verified page. Student search not performed. Student search not done (search budget exhausted)."
+  },
+  {
+   "id": 250,
+   "name": "Ken-Hao Liu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Not found; web search budget exhausted. Advisor Ming-Syan Chen, no verified page. Student search not performed. Student search not done (search budget exhausted)."
+  },
+  {
+   "id": 251,
+   "name": "Chien-Chin Chen",
+   "website": {
+    "url": "https://homepage.ntu.edu.tw/~patonchen/",
+    "source_note": "Personal homepage at NTU"
+   },
+   "photo": null,
+   "current_position": "Professor, Department of Information Management, National Taiwan University",
+   "bio": null,
+   "students": [],
+   "notes": "PhD EE NTU 2007 per search snippet. Homepage images are not clearly a headshot, so photo null. Student search not done (search budget exhausted)."
+  },
+  {
+   "id": 252,
+   "name": "Jian-Chih Ou",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Not found; web search budget exhausted. Advisor Ming-Syan Chen, no verified page. Student search not performed. Student search not done (search budget exhausted)."
+  },
+  {
+   "id": 253,
+   "name": "Chih-Ming Hsu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Not found; web search budget exhausted. Advisor Ming-Syan Chen, no verified page. Student search not performed. Student search not done (search budget exhausted)."
+  },
+  {
+   "id": 254,
+   "name": "Hung-Leng Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Not found; web search budget exhausted. Advisor Ming-Syan Chen, no verified page. Student search not performed. Student search not done (search budget exhausted)."
+  },
+  {
+   "id": 255,
+   "name": "Chung-Hua Chu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Not found; web search budget exhausted. Advisor Ming-Syan Chen, no verified page. Student search not performed. Student search not done (search budget exhausted)."
+  },
+  {
+   "id": 256,
+   "name": "Hsiao-Ping Tsai",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Not found; web search budget exhausted. Advisor Ming-Syan Chen, no verified page. Student search not performed. Student search not done (search budget exhausted)."
+  },
+  {
+   "id": 257,
+   "name": "Mi-Yen Yeh",
+   "website": {
+    "url": "https://homepage.iis.sinica.edu.tw/pages/miyen/index_en.html",
+    "source_note": "Academia Sinica personal homepage"
+   },
+   "photo": null,
+   "current_position": "Research Fellow, Institute of Information Science, Academia Sinica; joint professor at NTU and NCKU",
+   "bio": null,
+   "students": [],
+   "notes": "Homepage opened; no usable headshot image found. Student search not done (search budget exhausted)."
+  },
+  {
+   "id": 258,
+   "name": "Shan-Hung Wu",
+   "website": null,
+   "photo": null,
+   "current_position": "Faculty, Department of Computer Science, National Tsing Hua University",
+   "bio": null,
+   "students": [],
+   "notes": "Affiliation from search snippet only; DBLP pid 94/2844 not reachable (network), no page opened, so website null. Student search not done (search budget exhausted)."
+  },
+  {
+   "id": 259,
+   "name": "Yi-Hong Chu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Not found; web search budget exhausted. Advisor Ming-Syan Chen, no verified page. Student search not performed. Student search not done (search budget exhausted)."
+  },
+  {
+   "id": 260,
+   "name": "Jen-Wei Huang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Several searches did not identify this person; no verified page. Student search not done (search budget exhausted)."
+  },
+  {
+   "id": 261,
+   "name": "Jen-Hao Hsiao",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Not found; web search budget exhausted. Advisor Ming-Syan Chen, no verified page. Student search not performed. Student search not done (search budget exhausted)."
+  },
+  {
+   "id": 262,
+   "name": "Chi-Yao Tseng",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Not found; web search budget exhausted. Advisor Ming-Syan Chen, no verified page. Student search not performed. Student search not done (search budget exhausted)."
+  },
+  {
+   "id": 263,
+   "name": "Chih-Hua Tai",
+   "website": {
+    "url": "https://web.ntpu.edu.tw/~hanatai/indexE.htm",
+    "source_note": "Personal homepage at NTPU"
+   },
+   "photo": {
+    "image_url": "https://web.ntpu.edu.tw/~hanatai/images/pic.jpg",
+    "page_url": "https://web.ntpu.edu.tw/~hanatai/indexE.htm"
+   },
+   "current_position": "Associate Professor, Department of Computer Science and Information Engineering, National Taipei University",
+   "bio": null,
+   "students": [],
+   "notes": "PhD EE NTU. Photo is the 137x162 pic.jpg on her homepage (resolves as image/jpeg); not visually inspected. Student search not done (search budget exhausted)."
+  },
+  {
+   "id": 264,
+   "name": "Keng-Pei Lin",
+   "website": {
+    "url": "https://db.cm.nsysu.edu.tw/pages/林耕霈_1402_EN.html",
+    "source_note": "NSYSU College of Management faculty profile"
+   },
+   "photo": {
+    "image_url": "https://db.cm.nsysu.edu.tw/webpagePhoto/林耕霈.jpg",
+    "page_url": "https://db.cm.nsysu.edu.tw/pages/林耕霈_1402_EN.html"
+   },
+   "current_position": "Faculty, Department of Information Management, National Sun Yat-sen University",
+   "bio": null,
+   "students": [],
+   "notes": "PhD EE NTU 2011. Photo resolves as image/jpeg; not visually inspected. Student search not done (search budget exhausted)."
+  }
+ ]
+}

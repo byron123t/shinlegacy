@@ -1,0 +1,51 @@
+{
+ "batch": "g2-09a",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 265,
+   "name": "Chi-Jen Wu",
+   "institution": "",
+   "year": "2012",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 266,
+   "name": "Hui-Ru Wu",
+   "institution": "",
+   "year": "2013",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 267,
+   "name": "Yu-Chieh Lin",
+   "institution": "",
+   "year": "2013",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 268,
+   "name": "Chiang-Chi Liao",
+   "institution": "National Kaohsiung First University of Science and Technology",
+   "year": "2013",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 269,
+   "name": "Chih-Ya Shen",
+   "institution": "National Tsing Hua University",
+   "year": "2013",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "batch": "g1-09",
+ "kind": "profile",
+ "people": [
+  {
+   "id": 82,
+   "name": "Katharine Chang",
+   "institution": "Apple, Silicon Valley, CA",
+   "year": "2012",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 83,
+   "name": "Eugene Chai",
+   "institution": "Nokia Bell Lab, NJ",
+   "year": "2013",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 84,
+   "name": "Kai-Yun (Karen) Hou",
+   "institution": "Apple, Silicon Valley, CA",
+   "year": "2015",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 85,
+   "name": "Xiaoen Ju",
+   "institution": "Meta (Facebook), Seattle, WA",
+   "year": "2016",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 86,
+   "name": "Krishna Garikipati",
+   "institution": "Niantic, Inc., Silicon Valley, CA",
+   "year": "2016",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 87,
+   "name": "Huan Feng",
+   "institution": "Meta (Facebook), Menlo Park, CA",
+   "year": "2017",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 88,
+   "name": "Kassem Fawaz",
+   "institution": "U. Wisconsin-Madison",
+   "year": "2017",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": [
+    "Yue Gao (2025)",
+    "Yucheng Yang (2025)",
+    "Varun Chandrasekaran (2023)",
+    "Ashish Hooda (2024)",
+    "Asmit Nayak",
+    "Ben Jacobsen",
+    "Guruprasad Ramesh",
+    "Jackson West",
+    "Rishabh Khandelwal (2023)",
+    "Shirley Zhang",
+    "Yash Wani",
+    "Harrison Rosenberg (2023)",
+    "Shimaa Ahmed (2023)"
+   ]
+  },
+  {
+   "id": 89,
+   "name": "Eugene (Sunmin) Kim",
+   "institution": "Apple, Silicon Valley, CA",
+   "year": "2017",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 90,
+   "name": "Yu-Chih Tung",
+   "institution": "Meta (Facebook), Menlo Park, CA",
+   "year": "2018",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 91,
+   "name": "Kyong Tak Cho",
+   "institution": "Cash App, Silicon Valley, CA",
+   "year": "2018",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

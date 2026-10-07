@@ -1,0 +1,214 @@
+{
+ "batch": "g2-05",
+ "people": [
+  {
+   "id": 185,
+   "name": "Niaz Ahmad",
+   "website": {
+    "url": "https://sites.google.com/view/niazahmad/home",
+    "source_note": "Personal Google Sites homepage on record; loads and is his own page"
+   },
+   "photo": null,
+   "current_position": "Postdoctoral Research Fellow, CVIS Lab, Toronto Metropolitan University",
+   "bio": null,
+   "students": [],
+   "notes": "Homepage confirms PhD (AI) from Hanyang University ERICA under Youngmoon Lee and postdoc at TMU since Jan 2025. Homepage lists mentees Gyurin Kim, Saif Ullah, Jeremy Yuhyun Kim, already in tree (not PhD advisor claims). No headshot image URL found. No PhD students found."
+  },
+  {
+   "id": 186,
+   "name": "Chanyeok Choi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched name + D.DDECK/Hanyang; nothing identifiable found. LinkedIn on record not used. No PhD students expected (industry)."
+  },
+  {
+   "id": 187,
+   "name": "Jawad Khan",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched name + Gachon University; no page confidently tied to this person. No PhD students found."
+  },
+  {
+   "id": 188,
+   "name": "Donghyun Kwon",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched KnL Robotics/Donghyun Kwon; nothing found. Industry; no PhD students."
+  },
+  {
+   "id": 189,
+   "name": "Seunghwan Lee",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched KnL Robotics/Seunghwan Lee; nothing identifiable found. Industry; no PhD students."
+  },
+  {
+   "id": 190,
+   "name": "Jeremy Yuhyun Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Only LinkedIn on record; no other page found. Listed as mentee on Niaz Ahmad's homepage (Hanyang University ERICA). No PhD students."
+  },
+  {
+   "id": 191,
+   "name": "Saif Ullah",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Only LinkedIn on record; listed as mentee on Niaz Ahmad's homepage. No other page found."
+  },
+  {
+   "id": 192,
+   "name": "Gyurin Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Listed as mentee on Niaz Ahmad's homepage (Hanyang University ERICA). Nothing else found."
+  },
+  {
+   "id": 193,
+   "name": "Zahra Batool Jaffrey",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Nothing found."
+  },
+  {
+   "id": 194,
+   "name": "Jaehwan Cho",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Nothing found."
+  },
+  {
+   "id": 195,
+   "name": "Siyuan Wang",
+   "website": null,
+   "photo": null,
+   "current_position": "Ph.D. student, Shanghai Jiao Tong University (Flux Lab)",
+   "bio": null,
+   "students": [],
+   "notes": "Listed under Ph.D. Students on Flux Lab members page (https://chendy.tech); no personal page or photo found. Another Siyuan Wang at SJTU mechanical engineering is a different person."
+  },
+  {
+   "id": 196,
+   "name": "Jike Wang",
+   "website": null,
+   "photo": null,
+   "current_position": "Ph.D. student, Shanghai Jiao Tong University (Flux Lab)",
+   "bio": null,
+   "students": [],
+   "notes": "Listed under Ph.D. Students on Flux Lab members page (https://chendy.tech); no personal page or photo found."
+  },
+  {
+   "id": 197,
+   "name": "Zhenyu Chen",
+   "website": null,
+   "photo": null,
+   "current_position": "Ph.D. student, Shanghai Jiao Tong University (Flux Lab)",
+   "bio": null,
+   "students": [],
+   "notes": "Listed under Ph.D. Students on Flux Lab members page (https://chendy.tech); no personal page or photo found."
+  },
+  {
+   "id": 198,
+   "name": "Khaled Hadi",
+   "website": {
+    "url": "https://engineering.ku.edu.kw/ar/cpe/people/khald-mhmd-hady",
+    "source_note": "Kuwait University Computer Engineering faculty profile (Khaled M. Hadi)"
+   },
+   "photo": {
+    "image_url": "https://engineering.ku.edu.kw/sites/default/files/styles/scale_and_crop_320x320/public/2024-10/khaled-hadi.jpg",
+    "page_url": "https://engineering.ku.edu.kw/ar/cpe/people/khald-mhmd-hady"
+   },
+   "current_position": "Assistant Professor of Computer Engineering, Kuwait University",
+   "bio": null,
+   "students": [],
+   "notes": "Search results indicate PhD in ECE from UMass Amherst 2009 (KU CV PDF); advisor C. Mani Krishna not explicitly confirmed. Image returns 200 image/jpeg; not visually inspected. No PhD students found."
+  },
+  {
+   "id": 199,
+   "name": "Deming Liu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched name with advisor and Cisco; nothing confidently tied to this person. Industry; no PhD students."
+  },
+  {
+   "id": 200,
+   "name": "Jin Wook Lee",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched name with advisor and Samsung; nothing confidently tied to this person. Industry; no PhD students."
+  },
+  {
+   "id": 201,
+   "name": "Okehee Goh",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched name with advisor and Motorola; nothing confidently tied to this person. Industry; no PhD students."
+  },
+  {
+   "id": 202,
+   "name": "Moncef Hamdaoui",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched name with advisor and Nortel; nothing confidently tied to this person. Industry; no PhD students."
+  },
+  {
+   "id": 203,
+   "name": "Wei Zhou",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched name with advisor and Cisco; nothing confidently tied to this person. Industry; no PhD students."
+  },
+  {
+   "id": 204,
+   "name": "Guanqun Yang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched name with advisor and Amazon; nothing confidently tied to this person. Industry; no PhD students."
+  }
+ ]
+}

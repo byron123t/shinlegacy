@@ -1,0 +1,277 @@
+{
+ "batch": "g2-04",
+ "people": [
+  {
+   "id": 165,
+   "name": "Renjie Zhao",
+   "website": {
+    "url": "https://renjiezhao.github.io/",
+    "source_note": "Personal homepage (on record, resolves)"
+   },
+   "photo": {
+    "image_url": "https://renjiezhao.github.io/images/photo.jpg",
+    "page_url": "https://renjiezhao.github.io/"
+   },
+   "current_position": "Assistant Professor of Computer Science, Johns Hopkins University",
+   "bio": null,
+   "students": [],
+   "notes": "Homepage lists JHU CS assistant professor; lab site hopwinslab.com. Student names not confirmed as PhD from lab page."
+  },
+  {
+   "id": 166,
+   "name": "John Nolan",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No reliable web presence found for this John Nolan (Cubic); search budget exhausted. Left empty."
+  },
+  {
+   "id": 167,
+   "name": "Ke Sun",
+   "website": {
+    "url": "https://samsonsjarkal.github.io/KeSun/",
+    "source_note": "Personal homepage (on record, resolves)"
+   },
+   "photo": {
+    "image_url": "https://samsonsjarkal.github.io/KeSun/img/photo_KeSun_UMich_480.jpg",
+    "page_url": "https://samsonsjarkal.github.io/KeSun/"
+   },
+   "current_position": "Assistant Professor of CSE, University of Michigan",
+   "bio": null,
+   "students": [],
+   "notes": "Homepage names supervised students (Linzhen Zhu, Runqiu Wang, Yadong Li, Shuning Wang, Yongjian Fu) and AmI lab site, but PhD status not explicitly confirmed, so not returned."
+  },
+  {
+   "id": 168,
+   "name": "Levent Celik",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Student of Mert Dieter Pese (Clemson); no identifying web source found (search budget exhausted, Clemson/DBLP lookups failed). Left empty."
+  },
+  {
+   "id": 169,
+   "name": "Jan de Voor",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Student of Mert Dieter Pese (Clemson); no identifying web source found (search budget exhausted, Clemson/DBLP lookups failed). Left empty."
+  },
+  {
+   "id": 170,
+   "name": "Alkim Domeke",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Student of Mert Dieter Pese (Clemson); no identifying web source found (search budget exhausted, Clemson/DBLP lookups failed). Left empty."
+  },
+  {
+   "id": 171,
+   "name": "David Fernandez",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Student of Mert Dieter Pese (Clemson); no identifying web source found (search budget exhausted, Clemson/DBLP lookups failed). Left empty."
+  },
+  {
+   "id": 172,
+   "name": "Pedram MohajerAnsari",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Student of Mert Dieter Pese (Clemson); no identifying web source found (search budget exhausted, Clemson/DBLP lookups failed). Left empty."
+  },
+  {
+   "id": 173,
+   "name": "Derik Pack",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Student of Mert Dieter Pese (Clemson); no identifying web source found (search budget exhausted, Clemson/DBLP lookups failed). Left empty."
+  },
+  {
+   "id": 174,
+   "name": "Robert Taylor",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Student of Mert Dieter Pese (Clemson); no identifying web source found (search budget exhausted, Clemson/DBLP lookups failed). Left empty."
+  },
+  {
+   "id": 175,
+   "name": "Ashish Hooda",
+   "website": {
+    "url": "https://ashishhoodaiitd.github.io/",
+    "source_note": "Personal homepage (old pages.cs.wisc.edu/~hooda redirects here)"
+   },
+   "photo": {
+    "image_url": "https://ashishhoodaiitd.github.io/files/dp.jpg",
+    "page_url": "https://ashishhoodaiitd.github.io/"
+   },
+   "current_position": "Research Scientist, Google DeepMind (Gemini post-training)",
+   "bio": null,
+   "students": [],
+   "notes": "PhD UW-Madison 2025 per homepage and WI-PI alumni page."
+  },
+  {
+   "id": 176,
+   "name": "Asmit Nayak",
+   "website": {
+    "url": "https://www.asmitnayak.com/",
+    "source_note": "Personal homepage (on record)"
+   },
+   "photo": {
+    "image_url": "https://www.asmitnayak.com/assets/images/profile.jpg",
+    "page_url": "https://www.asmitnayak.com/"
+   },
+   "current_position": "PhD student, UW-Madison; Chateaubriand Fellow at Inria Centre at Universite Cote d'Azur (from Jan 2026)",
+   "bio": null,
+   "students": [],
+   "notes": ""
+  },
+  {
+   "id": 177,
+   "name": "Ben Jacobsen",
+   "website": {
+    "url": "https://ben-jacobsen.github.io/",
+    "source_note": "Personal homepage (on record)"
+   },
+   "photo": {
+    "image_url": "https://raw.githubusercontent.com/ben-jacobsen/ben-jacobsen.github.io/master/assets/cropped_outside.jpg",
+    "page_url": "https://ben-jacobsen.github.io/"
+   },
+   "current_position": "PhD candidate in Computer Science, UW-Madison",
+   "bio": null,
+   "students": [],
+   "notes": ""
+  },
+  {
+   "id": 178,
+   "name": "Guruprasad Ramesh",
+   "website": {
+    "url": "https://github.com/Guruprasad68",
+    "source_note": "GitHub profile (on record); no personal site found"
+   },
+   "photo": {
+    "image_url": "https://wiscprivacy.com/images/guruprasad.jpg",
+    "page_url": "https://wiscprivacy.com/students"
+   },
+   "current_position": "PhD student, UW-Madison (WI-PI group)",
+   "bio": null,
+   "students": [],
+   "notes": "GitHub bio: PhD @ UW-Madison ECE."
+  },
+  {
+   "id": 179,
+   "name": "Jackson West",
+   "website": {
+    "url": "https://www.jacksonwaynewest.com/",
+    "source_note": "Personal homepage (on record)"
+   },
+   "photo": {
+    "image_url": "https://www.jacksonwaynewest.com/authors/admin/avatar_hu3d03a01dcc18bc5be0e67db3d8d209a6_2855860_270x270_fill_q75_lanczos_center.jpg",
+    "page_url": "https://www.jacksonwaynewest.com/"
+   },
+   "current_position": "PhD student in Computer Science, UW-Madison (advised by Suman Banerjee and Kassem Fawaz)",
+   "bio": null,
+   "students": [],
+   "notes": ""
+  },
+  {
+   "id": 180,
+   "name": "Rishabh Khandelwal",
+   "website": {
+    "url": "https://wiscprivacy.com/students",
+    "source_note": "WI-PI group alumni page (no personal site found)"
+   },
+   "photo": {
+    "image_url": "https://wiscprivacy.com/images/rishabh.jpg",
+    "page_url": "https://wiscprivacy.com/students"
+   },
+   "current_position": "Google Research",
+   "bio": null,
+   "students": [],
+   "notes": "WI-PI alumni page lists PhD 2024, Google Research."
+  },
+  {
+   "id": 181,
+   "name": "Shirley Zhang",
+   "website": {
+    "url": "https://www.annienobear.com/",
+    "source_note": "Personal homepage (on record)"
+   },
+   "photo": {
+    "image_url": "https://wiscprivacy.com/images/shirley.jpg",
+    "page_url": "https://wiscprivacy.com/students"
+   },
+   "current_position": "PhD student in Computer Science, UW-Madison (Shirley (Hailun) Zhang)",
+   "bio": null,
+   "students": [],
+   "notes": ""
+  },
+  {
+   "id": 182,
+   "name": "Yash Wani",
+   "website": {
+    "url": "https://wiscprivacy.com/students",
+    "source_note": "WI-PI group page (member page on record 404s)"
+   },
+   "photo": {
+    "image_url": "https://wiscprivacy.com/images/yash.jpg",
+    "page_url": "https://wiscprivacy.com/students"
+   },
+   "current_position": "PhD student, UW-Madison (WI-PI group)",
+   "bio": null,
+   "students": [],
+   "notes": "Website on record returns 404; group page used."
+  },
+  {
+   "id": 183,
+   "name": "Harrison Rosenberg",
+   "website": {
+    "url": "https://wiscprivacy.com/students",
+    "source_note": "WI-PI group alumni page (member page on record 404s)"
+   },
+   "photo": {
+    "image_url": "https://wiscprivacy.com/images/harrison.png",
+    "page_url": "https://wiscprivacy.com/students"
+   },
+   "current_position": "ALL3D, Inc.",
+   "bio": null,
+   "students": [],
+   "notes": "WI-PI alumni page lists PhD 2024, ALL3D Inc."
+  },
+  {
+   "id": 184,
+   "name": "Shimaa Ahmed",
+   "website": {
+    "url": "https://wiscprivacy.com/students",
+    "source_note": "WI-PI group alumni page (member page on record 404s)"
+   },
+   "photo": {
+    "image_url": "https://wiscprivacy.com/images/shimaa5.jpg",
+    "page_url": "https://wiscprivacy.com/students"
+   },
+   "current_position": "Visa Research",
+   "bio": null,
+   "students": [],
+   "notes": "WI-PI alumni page lists PhD 2023, Visa Research."
+  }
+ ]
+}

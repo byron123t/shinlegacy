@@ -1,0 +1,186 @@
+{
+ "batch": "g2-06",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 205,
+   "name": "Xi Chen",
+   "institution": "Amazon",
+   "year": "2011",
+   "advisor": "Daji Qiao",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 206,
+   "name": "Zi Li",
+   "institution": "LinkedIn",
+   "year": "2013",
+   "advisor": "Daji Qiao",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 207,
+   "name": "Yang Peng",
+   "institution": "University of Washington, Bothell",
+   "year": "2014",
+   "advisor": "Daji Qiao",
+   "website_on_record": "http://faculty.washington.edu/yangpeng/",
+   "students_in_tree": []
+  },
+  {
+   "id": 208,
+   "name": "Ka Yang",
+   "institution": "Apple",
+   "year": "2014",
+   "advisor": "Daji Qiao",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 209,
+   "name": "Xiaoyun Zhang",
+   "institution": "ASML-HMI",
+   "year": "2017",
+   "advisor": "Daji Qiao",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 210,
+   "name": "Taewoon Kim",
+   "institution": "Hallym University, Korea",
+   "year": "2018",
+   "advisor": "Daji Qiao",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 211,
+   "name": "Jia Tang",
+   "institution": "Qualcomm, CDMA Technology Labs",
+   "year": "2006",
+   "advisor": "Xi Zhang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 212,
+   "name": "Sunggeun Jin",
+   "institution": "Daegu University",
+   "year": "2008",
+   "advisor": "Sunghyun Choi",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 213,
+   "name": "Youngsoo Kim",
+   "institution": "Samsung Advanced Institute of Technology (SAIT)",
+   "year": "2009",
+   "advisor": "Sunghyun Choi",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 214,
+   "name": "Seongkwan Kim",
+   "institution": "KT Corporation",
+   "year": "2009",
+   "advisor": "Sunghyun Choi",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 215,
+   "name": "Youngkyu Choi",
+   "institution": "Samsung",
+   "year": "2009",
+   "advisor": "Sunghyun Choi",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 216,
+   "name": "Jeonggyun Yu",
+   "institution": "Samsung",
+   "year": "2009",
+   "advisor": "Sunghyun Choi",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 217,
+   "name": "Kwanghun Han",
+   "institution": "Samsung",
+   "year": "2011",
+   "advisor": "Sunghyun Choi",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 218,
+   "name": "Dongmyoung Kim",
+   "institution": "SK Telecom",
+   "year": "2011",
+   "advisor": "Sunghyun Choi",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 219,
+   "name": "Munhwan Choi",
+   "institution": "Samsung",
+   "year": "2013",
+   "advisor": "Sunghyun Choi",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 220,
+   "name": "Edwin Monroy",
+   "institution": "ASTRI",
+   "year": "2014",
+   "advisor": "Sunghyun Choi",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 221,
+   "name": "Hyewon Lee",
+   "institution": "Samsung Research",
+   "year": "2014",
+   "advisor": "Sunghyun Choi",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 222,
+   "name": "Wonbo Lee",
+   "institution": "Samsung",
+   "year": "2015",
+   "advisor": "Sunghyun Choi",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 223,
+   "name": "Okhwan Lee",
+   "institution": "Samsung",
+   "year": "2015",
+   "advisor": "Sunghyun Choi",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 224,
+   "name": "Jongwoo Hong",
+   "institution": "LG",
+   "year": "2016",
+   "advisor": "Sunghyun Choi",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

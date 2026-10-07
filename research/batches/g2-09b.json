@@ -1,0 +1,51 @@
+{
+ "batch": "g2-09b",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 270,
+   "name": "Hong-Han Shuai",
+   "institution": "National Chiao Tung University",
+   "year": "2015",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 271,
+   "name": "Kuan-Ting Lai",
+   "institution": "",
+   "year": "2015",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 272,
+   "name": "Wei-Liang Shen",
+   "institution": "",
+   "year": "2015",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 273,
+   "name": "Yu-Fen Chen",
+   "institution": "",
+   "year": "2015",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 274,
+   "name": "Su-Chen Lin",
+   "institution": "",
+   "year": "2016",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

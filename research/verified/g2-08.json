@@ -1,0 +1,239 @@
+{
+ "batch": "g2-08",
+ "people": [
+  {
+   "id": 245,
+   "name": "Bi-Ru Dai",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://ipmarket.ntust.edu.tw/expert1.asp?ser=4043",
+    "reason": "NTUST IP Market expert profile names Bi-Ru Dai (戴碧如), NTUST CSIE, data mining; matches field"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "value": null,
+    "reason": "Profile is an undated IP-market listing showing Assistant Professor; not a current official page and rank conflicts"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 246,
+   "name": "Kun-Ta Chuang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 247,
+   "name": "Wei-Ta Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 248,
+   "name": "Hao-Ping Hung",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 249,
+   "name": "Shin-Hsiang Lo",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 250,
+   "name": "Ken-Hao Liu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 251,
+   "name": "Chien-Chin Chen",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://homepage.ntu.edu.tw/~patonchen/",
+    "reason": "Own NTU homepage, name Chien Chin Chen, Dept of Information Management, NTU, PhD EE NTU 2007"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Professor, Department of Information Management, National Taiwan University",
+    "reason": "Own homepage states Professor, Information Management, NTU"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 252,
+   "name": "Jian-Chih Ou",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 253,
+   "name": "Chih-Ming Hsu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 254,
+   "name": "Hung-Leng Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 255,
+   "name": "Chung-Hua Chu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 256,
+   "name": "Hsiao-Ping Tsai",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 257,
+   "name": "Mi-Yen Yeh",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://homepage.iis.sinica.edu.tw/pages/miyen/index_en.html",
+    "reason": "Academia Sinica homepage of Yeh, Mi-Yen, Research Fellow"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Research Fellow, Academia Sinica",
+    "reason": "Page shows Research Fellow at Academia Sinica; joint NTU/NCKU appointments and institute name not shown, dropped"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 258,
+   "name": "Shan-Hung Wu",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "unverifiable",
+    "value": null,
+    "reason": "Sourced only from a search snippet; no page loaded"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 259,
+   "name": "Yi-Hong Chu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 260,
+   "name": "Jen-Wei Huang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 261,
+   "name": "Jen-Hao Hsiao",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 262,
+   "name": "Chi-Yao Tseng",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 263,
+   "name": "Chih-Hua Tai",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://web.ntpu.edu.tw/~hanatai/indexE.htm",
+    "reason": "Own NTPU homepage for Chih-Hua Tai, Associate Professor, CSIE"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://web.ntpu.edu.tw/~hanatai/images/pic.jpg",
+    "page_url": "https://web.ntpu.edu.tw/~hanatai/indexE.htm",
+    "reason": "200 image/jpeg; img src images/pic.jpg embedded on page; viewed: single-person headshot"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Associate Professor, Department of Computer Science and Information Engineering, National Taipei University",
+    "reason": "Stated on own homepage"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 264,
+   "name": "Keng-Pei Lin",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://db.cm.nsysu.edu.tw/pages/林耕霈_1402_EN.html",
+    "reason": "NSYSU College of Management faculty profile for Lin, Keng-Pei, Info Management, PhD EE NTU 2011"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://db.cm.nsysu.edu.tw/webpagePhoto/林耕霈.jpg",
+    "page_url": "https://db.cm.nsysu.edu.tw/pages/林耕霈_1402_EN.html",
+    "reason": "200 image/jpeg; img src ../webpagePhoto/林耕霈.jpg embedded on page; viewed: single-person portrait"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Associate Professor, Department of Information Management, National Sun Yat-sen University",
+    "reason": "Profile page states Associate Professor; raw only said Faculty"
+   },
+   "bio": null,
+   "students": []
+  }
+ ]
+}

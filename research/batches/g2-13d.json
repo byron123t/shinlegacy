@@ -1,0 +1,51 @@
+{
+ "batch": "g2-13d",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 360,
+   "name": "Anwar Mamat",
+   "institution": "University of Maryland, College Park",
+   "year": "2011",
+   "advisor": "Ying Lu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 361,
+   "name": "Guangdong Liu",
+   "institution": "LinkedIn",
+   "year": "2017",
+   "advisor": "Ying Lu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 362,
+   "name": "Chen He",
+   "institution": "",
+   "year": "2018",
+   "advisor": "Ying Lu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 363,
+   "name": "Zhibo Wang",
+   "institution": "Wuhan University",
+   "year": "2013",
+   "advisor": "Qing (Charles) Cao",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 364,
+   "name": "Yanjun Yao",
+   "institution": "MicroStrategy",
+   "year": "2014",
+   "advisor": "Qing (Charles) Cao",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

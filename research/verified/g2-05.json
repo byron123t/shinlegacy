@@ -1,0 +1,218 @@
+{
+ "batch": "g2-05",
+ "people": [
+  {
+   "id": 185,
+   "name": "Niaz Ahmad",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://sites.google.com/view/niazahmad/home",
+    "reason": "Google Sites page loads; header 'AHMAD NIAZ Ph.D.', emails niazahmad89@..., TMU CVIS Lab; own homepage (name order inverted)"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Postdoctoral Research Fellow, CVIS Lab, Toronto Metropolitan University",
+    "reason": "Homepage: 'I am a Postdoctoral Research Fellow in the CVIS Lab at Toronto Metropolitan University'"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 186,
+   "name": "Chanyeok Choi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 187,
+   "name": "Jawad Khan",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 188,
+   "name": "Donghyun Kwon",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 189,
+   "name": "Seunghwan Lee",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 190,
+   "name": "Jeremy Yuhyun Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 191,
+   "name": "Saif Ullah",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 192,
+   "name": "Gyurin Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 193,
+   "name": "Zahra Batool Jaffrey",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 194,
+   "name": "Jaehwan Cho",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 195,
+   "name": "Siyuan Wang",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Ph.D. student, Shanghai Jiao Tong University (Flux Lab)",
+    "reason": "https://chendy.tech (Dongyao Chen, Assistant Professor SJTU) Flux Lab members list shows 'Siyuan Wang Ph.D. Student'; publications there show same-name SJTU Flux Lab work"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 196,
+   "name": "Jike Wang",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Ph.D. student, Shanghai Jiao Tong University (Flux Lab)",
+    "reason": "https://chendy.tech (Dongyao Chen, Assistant Professor SJTU) Flux Lab members list shows 'Jike Wang Ph.D. Student'; publications there show same-name SJTU Flux Lab work"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 197,
+   "name": "Zhenyu Chen",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Ph.D. student, Shanghai Jiao Tong University (Flux Lab)",
+    "reason": "https://chendy.tech (Dongyao Chen, Assistant Professor SJTU) Flux Lab members list shows 'Zhenyu Chen Ph.D. Student'; publications there show same-name SJTU Flux Lab work"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 198,
+   "name": "Khaled Hadi",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://engineering.ku.edu.kw/ar/cpe/people/khald-mhmd-hady",
+    "reason": "Kuwait University Engineering CPE faculty profile loads: Dr. Khaled Mohammed Hadi, Assistant Professor, teaches CPE courses"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://engineering.ku.edu.kw/sites/default/files/styles/scale_and_crop_320x320/public/2024-10/khaled-hadi.jpg",
+    "page_url": "https://engineering.ku.edu.kw/ar/cpe/people/khald-mhmd-hady",
+    "reason": "Page embeds img khaled-hadi.jpg (alt khaled-hadi); curl 200 image/jpeg; viewed: single-person portrait headshot"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Assistant Professor of Computer Engineering, Kuwait University",
+    "reason": "Official KU profile lists him as assistant professor (أستاذ مساعد) in Computer Engineering"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 199,
+   "name": "Deming Liu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 200,
+   "name": "Jin Wook Lee",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 201,
+   "name": "Okehee Goh",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 202,
+   "name": "Moncef Hamdaoui",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 203,
+   "name": "Wei Zhou",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 204,
+   "name": "Guanqun Yang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  }
+ ]
+}

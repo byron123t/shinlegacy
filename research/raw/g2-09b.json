@@ -1,0 +1,55 @@
+{
+ "batch": "g2-09b",
+ "people": [
+  {
+   "id": 270,
+   "name": "Hong-Han Shuai",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Not researched: WebSearch budget exhausted (200/200) and WebFetch/curl network failed (ECONNRESET/timeout), so nothing could be verified."
+  },
+  {
+   "id": 271,
+   "name": "Kuan-Ting Lai",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Not researched: WebSearch budget exhausted (200/200) and WebFetch/curl network failed (ECONNRESET/timeout), so nothing could be verified."
+  },
+  {
+   "id": 272,
+   "name": "Wei-Liang Shen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Not researched: WebSearch budget exhausted (200/200) and WebFetch/curl network failed (ECONNRESET/timeout), so nothing could be verified."
+  },
+  {
+   "id": 273,
+   "name": "Yu-Fen Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Not researched: WebSearch budget exhausted (200/200) and WebFetch/curl network failed (ECONNRESET/timeout), so nothing could be verified."
+  },
+  {
+   "id": 274,
+   "name": "Su-Chen Lin",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Not researched: WebSearch budget exhausted (200/200) and WebFetch/curl network failed (ECONNRESET/timeout), so nothing could be verified."
+  }
+ ]
+}

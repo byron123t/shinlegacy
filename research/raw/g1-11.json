@@ -1,0 +1,27 @@
+{
+  "batch": "g1-11",
+  "people": [
+    {
+      "id": 102,
+      "name": "Youssef Tobah",
+      "website": {"url": "https://dblp.org/pid/221/1574.html", "source_note": "DBLP author page (no personal homepage or official profile found; URL surfaced in search results, page itself blocked by bot protection when fetched, but returns HTTP 200 via curl)"},
+      "photo": null,
+      "current_position": null,
+      "bio": {
+        "summary": "Youssef Tobah completed a PhD at the University of Michigan in 2025 in the Real-Time Computing Laboratory under Kang G. Shin. The dissertation examines Rowhammer and related memory vulnerabilities across the computer architecture stack, including memory-controller address-mapping reverse engineering, combining Rowhammer with microarchitectural exploits, and end-to-end attack efficiency. Tobah was hosted at MIT Lincoln Laboratory during doctoral research and has co-authored work published at IEEE S&P and USENIX Security.",
+        "research_areas": ["Rowhammer", "Memory security", "Computer architecture security", "Microarchitectural attacks"],
+        "phd_institution": "University of Michigan",
+        "phd_year": "2025",
+        "thesis_title": "Exploring the Effects of Memory Vulnerabilities Across the Computer Architecture Stack",
+        "notable": ["USENIX Security 2024: Go Go Gadget Hammer", "IEEE S&P 2022: SpecHammer", "Hosted at MIT Lincoln Laboratory during PhD"],
+        "sources": [
+          "https://rtcl.eecs.umich.edu/rtclweb/assets/dissertations/2025/ytobah_thesis.pdf",
+          "https://rtcl.eecs.umich.edu/rtclweb//dissertations",
+          "https://www.usenix.org/conference/usenixsecurity24/presentation/tobah"
+        ]
+      },
+      "students": [],
+      "notes": "Searched web, RTCL people and dissertations pages (thesis listed for 2025), DBLP, Deep Blue (403 blocked). No personal homepage, headshot, or official Lincoln Lab profile found; current position not confirmed beyond institution on record (MIT Lincoln Lab). Recent graduate, no PhD students advised."
+    }
+  ]
+}

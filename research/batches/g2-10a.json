@@ -1,0 +1,56 @@
+{
+ "batch": "g2-10a",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 285,
+   "name": "Ilias Foundalis",
+   "institution": "Rent Path",
+   "year": "2016",
+   "advisor": "Constantine Dovrolis",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 286,
+   "name": "Ho-Won Kim",
+   "institution": "Pusan National University",
+   "year": "1999",
+   "advisor": "Sunggu Lee",
+   "website_on_record": "http://infosec.pusan.ac.kr/",
+   "students_in_tree": [
+    "Donggeon Lee (2015)",
+    "Hwajeong Seo (2016)",
+    "Jongseok Choi (2017)",
+    "Jihyun Kim (2017)"
+   ]
+  },
+  {
+   "id": 287,
+   "name": "Donggeon Lee",
+   "institution": "Electronics and Telecommunications Research Institute, Korea",
+   "year": "2015",
+   "advisor": "Ho-Won Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 288,
+   "name": "Hwajeong Seo",
+   "institution": "Hansung University, Korea",
+   "year": "2016",
+   "advisor": "Ho-Won Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 289,
+   "name": "Jongseok Choi",
+   "institution": "Smilegate, Korea",
+   "year": "2017",
+   "advisor": "Ho-Won Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

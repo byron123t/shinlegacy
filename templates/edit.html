@@ -1,65 +1,28 @@
 {% extends "base.html" %}
+{% block title %}Edit {{ person.name }} · Kang G. Shin Academic Family Tree{% endblock %}
 {% block content %}
 <section class="panel narrow">
-  <h1>Edit person</h1>
-
+  <h1>Edit {{ person.name }}</h1>
   <form method="post" action="{{ url_for('edit_post', person_id=person.id) }}" class="form">
-    <label>
-      Name *
-      <input type="text" name="name" value="{{ person.name }}" required>
-    </label>
-
-    <label>
-      Institution
-      <input type="text" name="institution" value="{{ person.institution or '' }}">
-    </label>
-
-    <label>
-      Year (free-form)
-      <input type="text" name="year" value="{{ person.year or '' }}">
-    </label>
-
-    <label>
-      Personal / Scholar URL
-      <input type="url" name="url" value="{{ person.url or '' }}">
-    </label>
-
-    {% if can_change_parent %}
+    {% set show_advisor = can_change_parent %}
+    {% set initial_advisor_id = person.advisor_id %}
+    {% include "_person_fields.html" %}
+    {% if not can_change_parent %}
       <label>
-        Advisor / Parent node *
-        <div class="typeahead">
-          <input
-            type="text"
-            id="parentInput"
-            required
-            placeholder="Search by name…"
-            autocomplete="off"
-            aria-autocomplete="list"
-            aria-controls="parentList"
-            aria-expanded="false"
-            aria-haspopup="listbox"
-            aria-describedby="parentHelp"
-            data-initial-id="{{ person.advisor_id }}"
-          >
-          <input type="hidden" name="advisor_id" id="advisorId" value="{{ person.advisor_id }}">
-          <div id="parentList" class="typeahead-list" role="listbox" hidden></div>
-          <div id="parentError" class="error" hidden>Please choose a match from the list.</div>
-          <p id="parentHelp" class="hint">Pick an existing person; free text is not allowed.</p>
-        </div>
-      </label>
-    {% else %}
-      <label>
-        Advisor / Parent node
-        <input type="text" value="(none — root)" disabled>
-        <p class="hint">The root has no advisor and cannot be reassigned.</p>
+        Advisor
+        <input type="text" value="None — this is the root of the tree" disabled>
       </label>
     {% endif %}
-
-    <button type="submit">Save changes</button>
+    <div class="actions">
+      <a class="btn" href="{{ url_for('manage_list') }}">Cancel</a>
+      <button class="btn primary" type="submit">Save changes</button>
+    </div>
   </form>
 </section>
+{% endblock %}
 
+{% block scripts %}
 {% if can_change_parent %}
-  <script src="{{ url_for('static', filename='js/add.js') }}"></script>
+<script src="{{ url_for('static', filename='js/add.js') }}"></script>
 {% endif %}
 {% endblock %}

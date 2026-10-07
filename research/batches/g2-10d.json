@@ -1,0 +1,56 @@
+{
+ "batch": "g2-10d",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 300,
+   "name": "Soji Omiwade",
+   "institution": "OpenLink Financial",
+   "year": "2011",
+   "advisor": "Rong Zheng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 301,
+   "name": "Khuong Vu",
+   "institution": "Altera",
+   "year": "2012",
+   "advisor": "Rong Zheng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 302,
+   "name": "Huy A. Nguyen",
+   "institution": "Seismic Micro-Technology",
+   "year": "2013",
+   "advisor": "Rong Zheng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 303,
+   "name": "Guanbo Zheng",
+   "institution": "University of Houston",
+   "year": "2013",
+   "advisor": "Rong Zheng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 304,
+   "name": "Hwangnam Kim",
+   "institution": "Seoul University",
+   "year": "2004",
+   "advisor": "Chao-Ju (Jennifer) Hou",
+   "website_on_record": "http://wine.korea.ac.kr/member/professor/",
+   "students_in_tree": [
+    "Suk Kyu Lee (2015)",
+    "Hyunsoon Kim (2016)",
+    "Mungyu Bae (2018)",
+    "Seungho Yoo (2018)"
+   ]
+  }
+ ]
+}

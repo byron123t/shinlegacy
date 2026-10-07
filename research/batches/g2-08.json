@@ -1,0 +1,186 @@
+{
+ "batch": "g2-08",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 245,
+   "name": "Bi-Ru Dai",
+   "institution": "National Taiwan University of Science and Technology",
+   "year": "2006",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 246,
+   "name": "Kun-Ta Chuang",
+   "institution": "National Cheng Kung University",
+   "year": "2006",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 247,
+   "name": "Wei-Ta Chen",
+   "institution": "",
+   "year": "2006",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 248,
+   "name": "Hao-Ping Hung",
+   "institution": "",
+   "year": "2007",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 249,
+   "name": "Shin-Hsiang Lo",
+   "institution": "",
+   "year": "2007",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 250,
+   "name": "Ken-Hao Liu",
+   "institution": "",
+   "year": "2007",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 251,
+   "name": "Chien-Chin Chen",
+   "institution": "National Taiwan University",
+   "year": "2007",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 252,
+   "name": "Jian-Chih Ou",
+   "institution": "",
+   "year": "2008",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 253,
+   "name": "Chih-Ming Hsu",
+   "institution": "",
+   "year": "2008",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 254,
+   "name": "Hung-Leng Chen",
+   "institution": "",
+   "year": "2008",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 255,
+   "name": "Chung-Hua Chu",
+   "institution": "National Taichung University of Science and Technology",
+   "year": "2008",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 256,
+   "name": "Hsiao-Ping Tsai",
+   "institution": "National Chung Hsing University",
+   "year": "2009",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 257,
+   "name": "Mi-Yen Yeh",
+   "institution": "Academia Sinica",
+   "year": "2009",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 258,
+   "name": "Shan-Hung Wu",
+   "institution": "National Tsing Hua University",
+   "year": "2009",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 259,
+   "name": "Yi-Hong Chu",
+   "institution": "",
+   "year": "2009",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 260,
+   "name": "Jen-Wei Huang",
+   "institution": "National Cheng Kung University",
+   "year": "2009",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 261,
+   "name": "Jen-Hao Hsiao",
+   "institution": "",
+   "year": "2010",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 262,
+   "name": "Chi-Yao Tseng",
+   "institution": "",
+   "year": "2010",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 263,
+   "name": "Chih-Hua Tai",
+   "institution": "National Taipei University",
+   "year": "2011",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 264,
+   "name": "Keng-Pei Lin",
+   "institution": "National Sun Yat-sen University",
+   "year": "2011",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

@@ -1,0 +1,189 @@
+{
+ "batch": "g1-03",
+ "people": [
+  {
+   "id": 22,
+   "name": "Xianzhong (John) Cui",
+   "website": null,
+   "photo": null,
+   "bio": null,
+   "students": [],
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Retired, General Motors",
+    "reason": "Alumni list: @General Motors (retired)"
+   }
+  },
+  {
+   "id": 23,
+   "name": "Daniel K. Kiskis",
+   "website": null,
+   "photo": null,
+   "bio": null,
+   "students": [],
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Senior Business Architect, Ford Motor Company (per Shin's alumni list; record says University of Michigan)",
+    "reason": "Matches entry on Shin's alumni list (https://web.eecs.umich.edu/~kgshin/students.html)"
+   }
+  },
+  {
+   "id": 24,
+   "name": "Sungtaeg Jun",
+   "website": null,
+   "photo": null,
+   "bio": null,
+   "students": [],
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Youngsan University, Korea (per Shin's alumni list)",
+    "reason": "Matches entry on Shin's alumni list (https://web.eecs.umich.edu/~kgshin/students.html)"
+   }
+  },
+  {
+   "id": 25,
+   "name": "Qin Zheng",
+   "website": null,
+   "photo": null,
+   "bio": null,
+   "students": [],
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "China Telecom, Dallas, TX (per Shin's alumni list); record says co-founder of Gravitation",
+    "reason": "Matches entry on Shin's alumni list (https://web.eecs.umich.edu/~kgshin/students.html)"
+   }
+  },
+  {
+   "id": 26,
+   "name": "Chao-Ju (Jennifer) Hou",
+   "website": {
+    "verdict": "rejected",
+    "url": "https://en.wikipedia.org/wiki/Jennifer_Hou",
+    "reason": "Wikipedia article is not the person's own page or an official institutional profile"
+   },
+   "photo": null,
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Chao-Ju Jennifer Hou (1964-2007) specialized in wireless sensor networks. Hou earned a BS from National Taiwan University (1987) and an MS (1989), a second MS in industrial and operations engineering (1991) and a PhD (1993) from the University of Michigan. Hou was on the faculty at the University of Wisconsin-Madison (1993), Ohio State University (1996), and the University of Illinois Urbana-Champaign (2001), where Hou directed the INDEX group. Hou was posthumously named an IEEE Fellow in 2008.",
+    "research_areas": [
+     "wireless sensor networks",
+     "wireless network protocol design and analysis"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1993",
+    "thesis_title": null,
+    "notable": [
+     "IEEE Fellow (2008, posthumous): for contributions to protocol design and analysis of wireless communications networks",
+     "INFOCOM 2008 dedicated to Hou's memory",
+     "Director, Illinois Network Design and Experimentation (INDEX) group"
+    ],
+    "sources": [
+     "https://en.wikipedia.org/wiki/Jennifer_Hou",
+     "https://web.eecs.umich.edu/~kgshin/students.html"
+    ],
+    "reason": "Re-fetched Wikipedia; all dates/positions/honors match. Dropped 'Taiwanese' and 'electrical engineer' (not rechecked). Shin advisor link supported by alumni list entry (1993)."
+   },
+   "students": [],
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Deceased (died December 2, 2007); was Professor of Computer Science, University of Illinois Urbana-Champaign",
+    "reason": "Wikipedia gives death 2007-12-02 and UIUC post; alumni list says passed away December 2007, @UIUC"
+   }
+  },
+  {
+   "id": 27,
+   "name": "David J. Musliner (co-advised with Ed Durfee)",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://www.sift.net/staff/david-musliner",
+    "reason": "SIFT staff profile, name and Fellow title, PhD Michigan 1993"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://www.sift.net/sites/default/files/styles/staff_full_content_photo/public/images/staff/dmusliner.jpg",
+    "page_url": "https://www.sift.net/staff/david-musliner",
+    "reason": "Page embeds dmusliner.jpg (with itok query); 200 image/jpeg 180x180; viewed: single-person headshot"
+   },
+   "bio": {
+    "summary": "David Musliner is a Fellow at Smart Information Flow Technologies (SIFT) with over twenty-five years of research in intelligent systems, including planning and control for autonomous systems, formal verification and autonomous cyber security. For the PhD dissertation, Musliner designed the Cooperative Intelligent Real-Time Control Architecture (CIRCA), an AI planning and control architecture for hard real-time domains with safety guarantees. Musliner led SIFT's team in the DARPA Cyber Grand Challenge (FuzzBOMB).",
+    "research_areas": [
+     "AI planning and real-time control",
+     "formal verification and model checking",
+     "autonomous cyber security"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1993",
+    "thesis_title": "CIRCA: A Cooperative Approach to Intelligent Real-Time Control Architecture",
+    "notable": [
+     "Led DARPA-funded Fuzzbuster, CIRCADIA and CORTEX projects",
+     "Led SIFT's FuzzBOMB team entry in the DARPA Cyber Grand Challenge",
+     "SIFT research team's work on incremental verification led to a US patent"
+    ],
+    "sources": [
+     "https://www.sift.net/staff/david-musliner",
+     "https://www.mathgenealogy.org/id.php?id=108711"
+    ],
+    "verdict": "confirmed",
+    "reason": "SIFT page and mathgenealogy 108711 (advisors Durfee, Shin; thesis and 1993 match). 'Co-inventor' of patent not explicit (page says research team led to patent): reworded; added CORTEX; summary text matches page"
+   },
+   "students": [],
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Fellow, Smart Information Flow Technologies (SIFT)",
+    "reason": "SIFT staff page lists Fellow"
+   }
+  },
+  {
+   "id": 28,
+   "name": "James W. Dolter",
+   "website": null,
+   "photo": null,
+   "bio": null,
+   "students": [],
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Retired, QualComm (per Shin's alumni list)",
+    "reason": "Matches entry on Shin's alumni list (https://web.eecs.umich.edu/~kgshin/students.html)"
+   }
+  },
+  {
+   "id": 29,
+   "name": "Victor B. Lortz",
+   "website": null,
+   "photo": null,
+   "bio": null,
+   "students": [],
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Nike (per Shin's alumni list)",
+    "reason": "Matches entry on Shin's alumni list (https://web.eecs.umich.edu/~kgshin/students.html)"
+   }
+  },
+  {
+   "id": 30,
+   "name": "Alan Olson",
+   "website": null,
+   "photo": null,
+   "bio": null,
+   "students": [],
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Aerospace Corporation (per Shin's alumni list)",
+    "reason": "Matches entry on Shin's alumni list (https://web.eecs.umich.edu/~kgshin/students.html)"
+   }
+  },
+  {
+   "id": 31,
+   "name": "Chih-Che (Chris) Chou",
+   "website": null,
+   "photo": null,
+   "bio": null,
+   "students": [],
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "TECOM Co., LTD, Taiwan (per Shin's alumni list)",
+    "reason": "Matches entry on Shin's alumni list (https://web.eecs.umich.edu/~kgshin/students.html)"
+   }
+  }
+ ]
+}

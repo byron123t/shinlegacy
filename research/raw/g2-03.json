@@ -1,0 +1,324 @@
+{
+  "batch": "g2-03",
+  "people": [
+    {
+      "id": 145,
+      "name": "Kamalavasan Srinivasan",
+      "website": null,
+      "photo": null,
+      "current_position": "Microsoft",
+      "bio": null,
+      "students": [],
+      "notes": "Confirmed only as former/current PhD student of Parameswaran Ramanathan via https://ramanathan.ece.wisc.edu/students/ (names only). No reliable web identity found."
+    },
+    {
+      "id": 146,
+      "name": "Niveditha Sundaram",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": [],
+      "notes": "Confirmed only as former/current PhD student of Parameswaran Ramanathan via https://ramanathan.ece.wisc.edu/students/ (names only). No reliable web identity found."
+    },
+    {
+      "id": 147,
+      "name": "Lun Tong",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": [],
+      "notes": "Confirmed only as former/current PhD student of Parameswaran Ramanathan via https://ramanathan.ece.wisc.edu/students/ (names only). No reliable web identity found."
+    },
+    {
+      "id": 148,
+      "name": "Chao Wang",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": [],
+      "notes": "Confirmed only as former/current PhD student of Parameswaran Ramanathan via https://ramanathan.ece.wisc.edu/students/ (names only). No reliable web identity found."
+    },
+    {
+      "id": 149,
+      "name": "Kuang-Ching Wang",
+      "website": null,
+      "photo": null,
+      "current_position": "Empire Innovation Professor of Trustworthy AI and Director of the School of Computing, Binghamton University (SUNY); formerly Provost Distinguished Professor, Clemson University",
+      "bio": null,
+      "students": [],
+      "notes": "Position from https://www.newswise.com/users/expert/Kuang-Ching-Wang-10071348. Clemson page on record now returns Page Not Found; no official Binghamton profile or student list found (search budget exhausted)."
+    },
+    {
+      "id": 150,
+      "name": "Nairan Zhang",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": [],
+      "notes": "Confirmed only as former/current PhD student of Parameswaran Ramanathan via https://ramanathan.ece.wisc.edu/students/ (names only). No reliable web identity found."
+    },
+    {
+      "id": 151,
+      "name": "Amrita Roy Chowdhury",
+      "website": {
+        "url": "https://sites.google.com/wisc.edu/amrita-roy-chowdhury/",
+        "source_note": "Personal site; loads, lists UMich CSE position"
+      },
+      "photo": null,
+      "current_position": "Assistant Professor of Computer Science and Engineering, University of Michigan",
+      "bio": null,
+      "students": [
+        {
+          "name": "Siddarth Sitaraman",
+          "phd_year": "current",
+          "current_institution": "University of Michigan",
+          "website": null,
+          "source_url": "https://sites.google.com/wisc.edu/amrita-roy-chowdhury/",
+          "evidence": "Listed under PhD students on Amrita Roy Chowdhury's personal site"
+        },
+        {
+          "name": "Huseyin Sahin",
+          "phd_year": "current",
+          "current_institution": "University of Michigan",
+          "website": null,
+          "source_url": "https://sites.google.com/wisc.edu/amrita-roy-chowdhury/",
+          "evidence": "Listed under PhD students on Amrita Roy Chowdhury's personal site"
+        }
+      ],
+      "notes": "Site loads; photo is a Google Sites CDN link (unstable) so omitted. Mushtari Sadia (co-advised with Ang Chen), Yiyi Sun, Samanway Sadhu already in tree. Sitaraman/Sahin degree level taken from the site's student list heading."
+    },
+    {
+      "id": 152,
+      "name": "Ashwin Varadarajan",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": [],
+      "notes": "Confirmed only as former/current PhD student of Parameswaran Ramanathan via https://ramanathan.ece.wisc.edu/students/ (names only). No reliable web identity found."
+    },
+    {
+      "id": 153,
+      "name": "Zongshen Wu",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": [],
+      "notes": "Confirmed only as former/current PhD student of Parameswaran Ramanathan via https://ramanathan.ece.wisc.edu/students/ (names only). No reliable web identity found."
+    },
+    {
+      "id": 154,
+      "name": "Mushtari Sadia",
+      "website": null,
+      "photo": null,
+      "current_position": "PhD student, University of Michigan",
+      "bio": null,
+      "students": [],
+      "notes": "Listed as PhD student on Amrita Roy Chowdhury's site; no personal page or photo found."
+    },
+    {
+      "id": 155,
+      "name": "Yiyi Sun",
+      "website": null,
+      "photo": null,
+      "current_position": "PhD student, University of Michigan",
+      "bio": null,
+      "students": [],
+      "notes": "Listed as PhD student on Amrita Roy Chowdhury's site; no personal page or photo found."
+    },
+    {
+      "id": 156,
+      "name": "Samanway Sadhu",
+      "website": null,
+      "photo": null,
+      "current_position": "PhD student, University of Michigan",
+      "bio": null,
+      "students": [],
+      "notes": "Listed as PhD student on Amrita Roy Chowdhury's site; no personal page or photo found."
+    },
+    {
+      "id": 157,
+      "name": "Xiufeng Xie",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": [],
+      "notes": "Searches did not surface a verifiable page; HP Labs on record not confirmed."
+    },
+    {
+      "id": 158,
+      "name": "Chuhan Gao",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": [],
+      "notes": "No verifiable web page found. Not found on Xinyu Zhang's graduate news list."
+    },
+    {
+      "id": 159,
+      "name": "Chi Zhang",
+      "website": {
+        "url": "http://dword1511.info/me/",
+        "source_note": "Personal page; Google embedded software engineer, PhD under Xinyu Zhang at UCSD"
+      },
+      "photo": {
+        "image_url": "http://dword1511.info/me/images/photo.jpg",
+        "page_url": "http://dword1511.info/me/"
+      },
+      "current_position": "Embedded Software Engineer, Google (San Diego)",
+      "bio": null,
+      "students": [],
+      "notes": "Industry; no PhD students."
+    },
+    {
+      "id": 160,
+      "name": "Sanjib Sur",
+      "website": {
+        "url": "https://cse.sc.edu/~sur/index.html",
+        "source_note": "Personal page, loads"
+      },
+      "photo": {
+        "image_url": "https://cse.sc.edu/~sur/images/Sanjib_photo1.jpg",
+        "page_url": "https://cse.sc.edu/~sur/index.html"
+      },
+      "current_position": "Assistant Professor of Computer Science and Engineering, University of South Carolina",
+      "bio": null,
+      "students": [
+        {
+          "name": "Emmanuel Addo Addae",
+          "phd_year": "current",
+          "current_institution": "University of South Carolina",
+          "website": null,
+          "source_url": "https://syrex.cse.sc.edu/team/",
+          "evidence": "Listed under Current PhD Students on SyReX lab team page"
+        },
+        {
+          "name": "Pingping Cai",
+          "phd_year": "current",
+          "current_institution": "University of South Carolina",
+          "website": null,
+          "source_url": "https://syrex.cse.sc.edu/team/",
+          "evidence": "Listed under Current PhD Students on SyReX lab team page"
+        },
+        {
+          "name": "Zhuangzhuang Gu",
+          "phd_year": "current",
+          "current_institution": "University of South Carolina",
+          "website": null,
+          "source_url": "https://syrex.cse.sc.edu/team/",
+          "evidence": "Listed under Current PhD Students on SyReX lab team page"
+        },
+        {
+          "name": "Sabbir Saadat",
+          "phd_year": "current",
+          "current_institution": "University of South Carolina",
+          "website": null,
+          "source_url": "https://syrex.cse.sc.edu/team/",
+          "evidence": "Listed under Current PhD Students on SyReX lab team page"
+        },
+        {
+          "name": "Zarin Shejuti",
+          "phd_year": "current",
+          "current_institution": "University of South Carolina",
+          "website": null,
+          "source_url": "https://syrex.cse.sc.edu/team/",
+          "evidence": "Listed under Current PhD Students on SyReX lab team page"
+        },
+        {
+          "name": "Aayush Shrestha",
+          "phd_year": "current",
+          "current_institution": "University of South Carolina",
+          "website": null,
+          "source_url": "https://syrex.cse.sc.edu/team/",
+          "evidence": "Listed under Current PhD Students on SyReX lab team page"
+        },
+        {
+          "name": "Abdulahi Taiwo",
+          "phd_year": "current",
+          "current_institution": "University of South Carolina",
+          "website": null,
+          "source_url": "https://syrex.cse.sc.edu/team/",
+          "evidence": "Listed under Current PhD Students on SyReX lab team page"
+        },
+        {
+          "name": "Reza Tavasoli",
+          "phd_year": "current",
+          "current_institution": "University of South Carolina",
+          "website": null,
+          "source_url": "https://syrex.cse.sc.edu/team/",
+          "evidence": "Listed under Current PhD Students on SyReX lab team page"
+        },
+        {
+          "name": "Aakriti Adhikari",
+          "phd_year": "2025",
+          "current_institution": null,
+          "website": null,
+          "source_url": "https://syrex.cse.sc.edu/team/",
+          "evidence": "Listed under PhD Alumni on SyReX lab team page"
+        },
+        {
+          "name": "Hem Regmi",
+          "phd_year": "2025",
+          "current_institution": null,
+          "website": null,
+          "source_url": "https://syrex.cse.sc.edu/team/",
+          "evidence": "Listed under PhD Alumni on SyReX lab team page"
+        }
+      ],
+      "notes": "Student list from https://syrex.cse.sc.edu/team/. Photo is a single-person headshot, HTTP 200 image/jpeg. Alumni current employers not found."
+    },
+    {
+      "id": 161,
+      "name": "Teng Wei",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": [],
+      "notes": "No verifiable web page found; Google affiliation on record not confirmed."
+    },
+    {
+      "id": 162,
+      "name": "Shilin Zhu",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": [],
+      "notes": "No verifiable web page found; Pixar affiliation on record not confirmed."
+    },
+    {
+      "id": 163,
+      "name": "Song Wang",
+      "website": {
+        "url": "https://sowang46.github.io/",
+        "source_note": "Personal page; states PhD with Xinyu Zhang at UCSD"
+      },
+      "photo": {
+        "image_url": "https://sowang46.github.io/images/profile.png",
+        "page_url": "https://sowang46.github.io/"
+      },
+      "current_position": "Network software developer/researcher, ByteDance",
+      "bio": null,
+      "students": [],
+      "notes": "Industry; no PhD students found. Also listed as 2023 graduate (ByteDance) on Xinyu Zhang's page."
+    },
+    {
+      "id": 164,
+      "name": "Timothy Woodford",
+      "website": null,
+      "photo": null,
+      "current_position": "Research Scientist, MIT Lincoln Laboratory",
+      "bio": null,
+      "students": [],
+      "notes": "Position from https://xyzhang.ucsd.edu/ (2023 graduates list, Xinyu Zhang advisee). Website on record (twoodford.net) no longer resolves (DNS failure), so omitted. Industry; no students."
+    }
+  ]
+}

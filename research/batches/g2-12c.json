@@ -1,0 +1,51 @@
+{
+ "batch": "g2-12c",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 335,
+   "name": "Ronghua Zhang",
+   "institution": "VMWare",
+   "year": "2005",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 336,
+   "name": "Shashi Prabh",
+   "institution": "ABB Research, India",
+   "year": "2006",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 337,
+   "name": "Tibor Horvath",
+   "institution": "Google Research",
+   "year": "2006",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 338,
+   "name": "Chengdu Huang",
+   "institution": "BorderX Lab",
+   "year": "2007",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 339,
+   "name": "Liqian Luo",
+   "institution": "Google",
+   "year": "2007",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

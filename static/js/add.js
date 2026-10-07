@@ -157,21 +157,13 @@
     }
   });
 
-  // init
-  fetchNodes();
-
-  // If this input has a data-initial-id (edit screen), prefill label once nodes are loaded
-  const initialIdAttr = input.getAttribute("data-initial-id");
-  if (initialIdAttr) {
-    const init = () => {
-      const idNum = parseInt(initialIdAttr, 10);
-      const n = nodes.find(x => x.id === idNum);
-      if (n) {
-        input.value = labelFor(n);
-        hiddenId.value = String(n.id);
-      }
-    };
-    // nodes may not be loaded yet; wait a tick
-    setTimeout(init, 50);
-  }
+  // init: once nodes are loaded, prefill from data-initial-id (edit screen / "Add student")
+  fetchNodes().then(() => {
+    const idNum = parseInt(input.getAttribute("data-initial-id"), 10);
+    const n = nodes.find(x => x.id === idNum);
+    if (n) {
+      input.value = labelFor(n);
+      hiddenId.value = String(n.id);
+    }
+  });
 })();

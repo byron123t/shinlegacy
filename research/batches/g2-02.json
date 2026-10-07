@@ -1,0 +1,205 @@
+{
+ "batch": "g2-02",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 124,
+   "name": "Eric Keller",
+   "institution": "University of Colorado",
+   "year": "2011",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "https://eric-keller.github.io/",
+   "students_in_tree": [
+    "Murad Kablan (2017)",
+    "Aimee Coughlin (2018)"
+   ]
+  },
+  {
+   "id": 125,
+   "name": "Yaping Zhu",
+   "institution": "Google",
+   "year": "2011",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 126,
+   "name": "Minlan Yu",
+   "institution": "UC Berkeley",
+   "year": "2011",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "https://minlanyu.seas.harvard.edu/",
+   "students_in_tree": [
+    "Rui Miao",
+    "Masoud Moshref (2016)"
+   ]
+  },
+  {
+   "id": 127,
+   "name": "Martin Suchara",
+   "institution": "UC Berkeley",
+   "year": "2011",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "http://martinsuchara.com",
+   "students_in_tree": []
+  },
+  {
+   "id": 128,
+   "name": "Sharon Goldberg",
+   "institution": "Microsoft Research",
+   "year": "2009",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "https://www.cs.bu.edu/fac/goldbe/",
+   "students_in_tree": [
+    "Dimitris Papadopoulos (2016)",
+    "Davide Proserpio (2016)"
+   ]
+  },
+  {
+   "id": 129,
+   "name": "Haakon Ringberg",
+   "institution": "Google NYC",
+   "year": "2009",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 130,
+   "name": "Elliott Karpilovsky",
+   "institution": "Google",
+   "year": "2009",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "http://haakonringberg.com/",
+   "students_in_tree": []
+  },
+  {
+   "id": 131,
+   "name": "Changhoon Kim",
+   "institution": "Microsoft Azure",
+   "year": "2009",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 132,
+   "name": "Rehan Ahmed",
+   "institution": "ETH Zurich",
+   "year": "2015",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 133,
+   "name": "Raed Alqadi",
+   "institution": "An-Najah National University, Palestine",
+   "year": "1995",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 134,
+   "name": "Devesh Bhimsaria",
+   "institution": "Postdoc University of Wisconsin, Madison",
+   "year": "2016",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 135,
+   "name": "Tai-lin Chin",
+   "institution": "National Taiwan University of Science and Technology",
+   "year": "2006",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "http://faculty.csie.ntust.edu.tw/~tchin/",
+   "students_in_tree": []
+  },
+  {
+   "id": 136,
+   "name": "Constantine Dovrolis",
+   "institution": "Georgia Tech",
+   "year": "2000",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "http://www.cc.gatech.edu/fac/Constantinos.Dovrolis/",
+   "students_in_tree": [
+    "Qi He (2005)",
+    "Yong Zhu (2006)",
+    "Manish Jain (2006)",
+    "Ruomei Gao (2007)",
+    "Ravi Prasad (2007)",
+    "Amogh Dhamdhere (2009)",
+    "Partha Kanuparthy (2012)",
+    "Aemen Lodhi (2014)",
+    "Ilias Foundalis (2016)"
+   ]
+  },
+  {
+   "id": 137,
+   "name": "Moncef Elaoud",
+   "institution": "Motorola",
+   "year": "2000",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 138,
+   "name": "Bechir Hamdaoui",
+   "institution": "Oregon State",
+   "year": "2005",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "http://web.engr.oregonstate.edu/~hamdaoui/",
+   "students_in_tree": []
+  },
+  {
+   "id": 140,
+   "name": "Chin-ya Huang",
+   "institution": "National Taiwan University of Science and Technology",
+   "year": "2012",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "https://sites.google.com/a/gapps.ntust.edu.tw/chin-ya-huang/",
+   "students_in_tree": []
+  },
+  {
+   "id": 141,
+   "name": "Felix Loh",
+   "institution": "",
+   "year": "2018",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 142,
+   "name": "Jayakrishnan Mundarath",
+   "institution": "Freescale Semiconductor",
+   "year": "2006",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 143,
+   "name": "Arezou Pourmir",
+   "institution": "",
+   "year": "",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 144,
+   "name": "Ugur Sezer",
+   "institution": "",
+   "year": "",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

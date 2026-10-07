@@ -1,0 +1,297 @@
+{
+ "batch": "g1-01",
+ "people": [
+  {
+   "id": 2,
+   "name": "Brian Tang",
+   "website": {
+    "url": "https://www.bjaytang.com/",
+    "source_note": "Personal homepage; loads and matches (PhD candidate, Michigan, advised by Kang G. Shin)"
+   },
+   "photo": {
+    "image_url": "https://rtcl.eecs.umich.edu/rtclweb/assets/images/people/bjaytang.png",
+    "page_url": "https://rtcl.eecs.umich.edu/rtclweb/people/"
+   },
+   "current_position": "PhD Candidate in Computer Science and Engineering, University of Michigan",
+   "bio": {
+    "summary": "Brian Tang is a PhD candidate in Computer Science and Engineering at the University of Michigan, advised by Kang G. Shin in the Real-Time Computing Lab. Research focuses on AI safety, security and privacy, especially multimodal language models and human-AI interaction. Tang holds a B.S. in Computer Sciences from the University of Wisconsin-Madison (2021).",
+    "research_areas": [
+     "AI safety, security and privacy",
+     "multimodal language models",
+     "adversarial machine learning",
+     "privacy policies and NLP"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2026",
+    "thesis_title": null,
+    "notable": [],
+    "sources": [
+     "https://www.bjaytang.com/",
+     "https://rtcl.eecs.umich.edu/rtclweb/people/"
+    ]
+   },
+   "students": [],
+   "notes": "Current PhD student; no students advised. Photo from RTCL people page (headshot verified visually). Homepage photo profileanon.png not used."
+  },
+  {
+   "id": 3,
+   "name": "C. Mani Krishna",
+   "website": {
+    "url": "https://www.umass.edu/engineering/about/directory/mani-krishna",
+    "source_note": "UMass Amherst engineering directory profile; resolves"
+   },
+   "photo": {
+    "image_url": "https://www.umass.edu/engineering/sites/g/files/ijdqth166/files/styles/1_1_m/public/2022-11/cmani_krishna_crop.jpeg",
+    "page_url": "https://www.umass.edu/engineering/about/directory/mani-krishna"
+   },
+   "current_position": "Professor, Electrical and Computer Engineering, University of Massachusetts Amherst",
+   "bio": {
+    "summary": "C. Mani Krishna is a Professor of Electrical and Computer Engineering at the University of Massachusetts Amherst. Krishna received a PhD from the University of Michigan in 1984, an MS from Rensselaer Polytechnic Institute (1980) and a BTech from IIT Delhi (1979). Research interests include computing and cybersecurity and smart communities and infrastructure. Krishna is an IEEE Fellow.",
+    "research_areas": [
+     "computing and cybersecurity",
+     "smart communities and infrastructure",
+     "real-time and fault-tolerant systems"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1984",
+    "thesis_title": null,
+    "notable": [
+     "IEEE Fellow"
+    ],
+    "sources": [
+     "https://www.umass.edu/engineering/about/directory/mani-krishna"
+    ]
+   },
+   "students": [],
+   "notes": "WebSearch budget ran out; opened UMass profile only. Could not find a student list (no lab page reached; mathgenealogy/ScholarWorks not accessible). Existing student Khaled Hadi already in tree. Thesis title and Shin advisor relation not independently confirmed from the UMass page (advisor comes from the batch record)."
+  },
+  {
+   "id": 4,
+   "name": "Yann-Hang Lee",
+   "website": {
+    "url": "https://search.asu.edu/profile/284224",
+    "source_note": "ASU directory profile; resolves"
+   },
+   "photo": {
+    "image_url": "https://webapp4.asu.edu/photo-ws/directory_photo/ylee1?size=medium&break=1791413215&blankImage2=1",
+    "page_url": "https://search.asu.edu/profile/284224"
+   },
+   "current_position": "Emeritus Professor, School of Computing and Augmented Intelligence, Arizona State University",
+   "bio": {
+    "summary": "Yann-Hang Lee is an Emeritus Professor in the School of Computing and Augmented Intelligence at Arizona State University. Lee received a PhD in Computer and Information Engineering from the University of Michigan (1985), an MS from Rensselaer Polytechnic Institute (1982) and a BS from National Cheng Kung University (1973). Lee worked at IBM Watson Research Center and the University of Florida before joining ASU, where Lee served as program chair (2008-2013). Research covers real-time computing, embedded systems, IoT, distributed systems and performance evaluation.",
+    "research_areas": [
+     "real-time computing",
+     "embedded systems",
+     "Internet of Things",
+     "distributed systems",
+     "performance evaluation"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1985",
+    "thesis_title": null,
+    "notable": [
+     "Top 5% Teaching Award for Engineering (2011, 2014, 2016)",
+     "Associate Chair, ASU CSE (news.asu.edu 2020)"
+    ],
+    "sources": [
+     "https://search.asu.edu/profile/284224",
+     "https://news.asu.edu/20201203-yann-hang-lee-new-associate-chair-cse"
+    ]
+   },
+   "students": [],
+   "notes": "ASU profile text gives PhD year as 1984 in bio and 1985 in education list; 1985 matches record. Lab site rts.lab.asu.edu did not resolve; no student list found. Existing students (Deming Liu, Jin Wook Lee, Okehee Goh) already in tree."
+  },
+  {
+   "id": 5,
+   "name": "Kailai Cui",
+   "website": {
+    "url": "https://rtcl.eecs.umich.edu/rtclweb/people/",
+    "source_note": "RTCL (Real-Time Computing Lab, Univ. of Michigan) people page listing; no personal site found"
+   },
+   "photo": {
+    "image_url": "https://rtcl.eecs.umich.edu/rtclweb/assets/images/people/kailaic.jpeg",
+    "page_url": "https://rtcl.eecs.umich.edu/rtclweb/people/"
+   },
+   "current_position": "PhD Candidate, University of Michigan (Real-Time Computing Lab)",
+   "bio": {
+    "summary": "Kailai Cui is a PhD candidate at the University of Michigan working with Kang G. Shin in the Real-Time Computing Lab on mobile computing and sensor systems. Cui holds B.S. degrees in computer science and mathematics from William & Mary.",
+    "research_areas": [
+     "mobile computing",
+     "sensor systems"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2027",
+    "thesis_title": null,
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/people/"
+    ]
+   },
+   "students": [],
+   "notes": "Current PhD student; no students advised. Photo from RTCL people page, viewed and confirmed as a single-person portrait."
+  },
+  {
+   "id": 6,
+   "name": "Noah T. Curran",
+   "website": {
+    "url": "https://ntcurran.com/",
+    "source_note": "Personal homepage; loads"
+   },
+   "photo": {
+    "image_url": "https://rtcl.eecs.umich.edu/rtclweb/assets/images/people/noah-curran.jpg",
+    "page_url": "https://rtcl.eecs.umich.edu/rtclweb/people/"
+   },
+   "current_position": "PhD Candidate, University of Michigan (Real-Time Computing Lab)",
+   "bio": {
+    "summary": "Noah T. Curran is a PhD candidate at the University of Michigan in the Real-Time Computing Lab, advised by Kang G. Shin. Curran studies the safety, security and reliability of semi-autonomous vehicles and holds B.S. degrees in computer science (honors) and mathematics from Purdue University.",
+    "research_areas": [
+     "autonomous vehicle safety and security",
+     "reliability"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2026",
+    "thesis_title": null,
+    "notable": [],
+    "sources": [
+     "https://ntcurran.com/",
+     "https://rtcl.eecs.umich.edu/rtclweb/people/"
+    ]
+   },
+   "students": [],
+   "notes": "Current PhD student; no students advised. Photo from RTCL people page, viewed and confirmed as a single-person portrait."
+  },
+  {
+   "id": 7,
+   "name": "Kaylee Yaxuan Li",
+   "website": {
+    "url": "https://rtcl.eecs.umich.edu/rtclweb/people/",
+    "source_note": "RTCL (Real-Time Computing Lab, Univ. of Michigan) people page listing; no personal site found"
+   },
+   "photo": {
+    "image_url": "https://rtcl.eecs.umich.edu/rtclweb/assets/images/people/yaxuanli.jpg",
+    "page_url": "https://rtcl.eecs.umich.edu/rtclweb/people/"
+   },
+   "current_position": "PhD Candidate, University of Michigan (Real-Time Computing Lab)",
+   "bio": {
+    "summary": "Kaylee Yaxuan Li is a PhD candidate at the University of Michigan listed as a member of Kang G. Shin's Real-Time Computing Lab.",
+    "research_areas": [],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2027",
+    "thesis_title": null,
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/people/"
+    ]
+   },
+   "students": [],
+   "notes": "Only RTCL people-page listing found; no personal page or research details located. Photo (graduation-gown portrait) is single-person."
+  },
+  {
+   "id": 8,
+   "name": "Jianshuo Liu",
+   "website": {
+    "url": "https://rtcl.eecs.umich.edu/rtclweb/people/",
+    "source_note": "RTCL (Real-Time Computing Lab, Univ. of Michigan) people page listing; no personal site found"
+   },
+   "photo": {
+    "image_url": "https://rtcl.eecs.umich.edu/rtclweb/assets/images/people/jianshuo.png",
+    "page_url": "https://rtcl.eecs.umich.edu/rtclweb/people/"
+   },
+   "current_position": "PhD Student, University of Michigan (Real-Time Computing Lab)",
+   "bio": {
+    "summary": "Jianshuo Liu is a PhD student at the University of Michigan listed as a member of Kang G. Shin's Real-Time Computing Lab.",
+    "research_areas": [],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2028",
+    "thesis_title": null,
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/people/"
+    ]
+   },
+   "students": [],
+   "notes": "Only RTCL people-page listing found; no personal page or research details located. Photo is a casual selfie (single person) and may be unsuitable as a formal headshot."
+  },
+  {
+   "id": 9,
+   "name": "Mingke Wang",
+   "website": {
+    "url": "https://rtcl.eecs.umich.edu/rtclweb/people/",
+    "source_note": "RTCL people page; the personal site on record (http://www.mingkewang.net) did not load (connection refused/timeout) when checked"
+   },
+   "photo": {
+    "image_url": "https://rtcl.eecs.umich.edu/rtclweb/assets/images/people/mingkew.jpeg",
+    "page_url": "https://rtcl.eecs.umich.edu/rtclweb/people/"
+   },
+   "current_position": "PhD Candidate, University of Michigan (Real-Time Computing Lab)",
+   "bio": {
+    "summary": "Mingke Wang is a PhD candidate at the University of Michigan in Kang G. Shin's Real-Time Computing Lab (listed as year 4 on the RTCL people page).",
+    "research_areas": [],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2026",
+    "thesis_title": null,
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/people/"
+    ]
+   },
+   "students": [],
+   "notes": "Personal site mingkewang.net failed to load, so not returned; fall back to RTCL page. Photo is a formal single-person portrait."
+  },
+  {
+   "id": 10,
+   "name": "Wei-Lun Huang",
+   "website": {
+    "url": "https://rtcl.eecs.umich.edu/rtclweb/people/",
+    "source_note": "RTCL (Real-Time Computing Lab, Univ. of Michigan) people page listing; no personal site found"
+   },
+   "photo": {
+    "image_url": "https://rtcl.eecs.umich.edu/rtclweb/assets/images/people/wei-lun.jpg",
+    "page_url": "https://rtcl.eecs.umich.edu/rtclweb/people/"
+   },
+   "current_position": "PhD Candidate, University of Michigan (Real-Time Computing Lab)",
+   "bio": {
+    "summary": "Wei-Lun Huang is a PhD student at the University of Michigan working with Kang G. Shin in the Real-Time Computing Lab on embedded systems security, including firmware fuzzing. Huang holds a B.S. in Electrical Engineering from National Taiwan University.",
+    "research_areas": [
+     "embedded systems security",
+     "firmware fuzzing"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2026",
+    "thesis_title": null,
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/people/"
+    ]
+   },
+   "students": [],
+   "notes": "Current PhD student; no students advised. Photo from RTCL people page, viewed and confirmed as a single-person portrait."
+  },
+  {
+   "id": 11,
+   "name": "Long Huang",
+   "website": {
+    "url": "https://rtcl.eecs.umich.edu/rtclweb/people/",
+    "source_note": "RTCL (Real-Time Computing Lab, Univ. of Michigan) people page listing; no personal site found"
+   },
+   "photo": {
+    "image_url": "https://rtcl.eecs.umich.edu/rtclweb/assets/images/people/huanlong.jpg",
+    "page_url": "https://rtcl.eecs.umich.edu/rtclweb/people/"
+   },
+   "current_position": "PhD Candidate, University of Michigan (Real-Time Computing Lab)",
+   "bio": {
+    "summary": "Long Huang is a PhD candidate at the University of Michigan listed as a member of Kang G. Shin's Real-Time Computing Lab.",
+    "research_areas": [],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2027",
+    "thesis_title": null,
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/people/"
+    ]
+   },
+   "students": [],
+   "notes": "Only RTCL people-page listing found; no personal page or research details located. Photo is single-person with a stadium background."
+  }
+ ]
+}

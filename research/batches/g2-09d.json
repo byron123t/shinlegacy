@@ -1,0 +1,51 @@
+{
+ "batch": "g2-09d",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 280,
+   "name": "Ruomei Gao",
+   "institution": "Akamai",
+   "year": "2007",
+   "advisor": "Constantine Dovrolis",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 281,
+   "name": "Ravi Prasad",
+   "institution": "Cisco",
+   "year": "2007",
+   "advisor": "Constantine Dovrolis",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 282,
+   "name": "Amogh Dhamdhere",
+   "institution": "CAIDA, UCSD",
+   "year": "2009",
+   "advisor": "Constantine Dovrolis",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 283,
+   "name": "Partha Kanuparthy",
+   "institution": "Amazon",
+   "year": "2012",
+   "advisor": "Constantine Dovrolis",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 284,
+   "name": "Aemen Lodhi",
+   "institution": "Facebook",
+   "year": "2014",
+   "advisor": "Constantine Dovrolis",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

@@ -1,0 +1,341 @@
+{
+ "batch": "g2-04",
+ "people": [
+  {
+   "id": 165,
+   "name": "Renjie Zhao",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://renjiezhao.github.io/",
+    "reason": "Loads (200); name and affiliation match"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://renjiezhao.github.io/images/photo.jpg",
+    "page_url": "https://renjiezhao.github.io/",
+    "reason": "200 image/*; page names person and embeds image; viewed: single-person photo"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Assistant Professor of Computer Science, Johns Hopkins University",
+    "reason": "JHU CS homepage: Assistant Professor"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 166,
+   "name": "John Nolan",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 167,
+   "name": "Ke Sun",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://samsonsjarkal.github.io/KeSun/",
+    "reason": "Loads (200); name and affiliation match"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://samsonsjarkal.github.io/KeSun/img/photo_KeSun_UMich_480.jpg",
+    "page_url": "https://samsonsjarkal.github.io/KeSun/",
+    "reason": "200 image/*; page names person and embeds image; viewed: single-person photo"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Assistant Professor of CSE, University of Michigan",
+    "reason": "homepage: Assistant Professor CSE, University of Michigan"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 168,
+   "name": "Levent Celik",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 169,
+   "name": "Jan de Voor",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 170,
+   "name": "Alkim Domeke",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 171,
+   "name": "David Fernandez",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 172,
+   "name": "Pedram MohajerAnsari",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 173,
+   "name": "Derik Pack",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 174,
+   "name": "Robert Taylor",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 175,
+   "name": "Ashish Hooda",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://ashishhoodaiitd.github.io/",
+    "reason": "Loads (200); name and affiliation match"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://ashishhoodaiitd.github.io/files/dp.jpg",
+    "page_url": "https://ashishhoodaiitd.github.io/",
+    "reason": "200 image/*; page names person and embeds image; viewed: single-person photo"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Research Scientist, Google DeepMind (Gemini post-training)",
+    "reason": "homepage: Research Scientist at Google DeepMind, PhD 2025 UW-Madison"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 176,
+   "name": "Asmit Nayak",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://www.asmitnayak.com/",
+    "reason": "Loads (200); name and affiliation match"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://www.asmitnayak.com/assets/images/profile.jpg",
+    "page_url": "https://www.asmitnayak.com/",
+    "reason": "200 image/*; page names person and embeds image; viewed: single-person photo"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD student, UW-Madison; Chateaubriand Fellow at Inria Centre at Universite Cote d'Azur (from Jan 2026)",
+    "reason": "homepage: PhD student UW-Madison; Jan 2026 - Present Chateaubriand Fellow at Inria Centre at Universite Cote d'Azur"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 177,
+   "name": "Ben Jacobsen",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://ben-jacobsen.github.io/",
+    "reason": "Loads (200); name and affiliation match"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://raw.githubusercontent.com/ben-jacobsen/ben-jacobsen.github.io/master/assets/cropped_outside.jpg",
+    "page_url": "https://ben-jacobsen.github.io/",
+    "reason": "200 image/*; page names person and embeds image; viewed: single-person photo"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD candidate in Computer Science, UW-Madison",
+    "reason": "homepage: PhD candidate in CS at UW-Madison"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 178,
+   "name": "Guruprasad Ramesh",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://github.com/Guruprasad68",
+    "reason": "Loads (200); name and affiliation match"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://wiscprivacy.com/images/guruprasad.jpg",
+    "page_url": "https://wiscprivacy.com/students",
+    "reason": "200 image/*; page names person and embeds image; viewed: single-person photo"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD student, UW-Madison (WI-PI group)",
+    "reason": "WI-PI members page lists PhD Student; GitHub bio 'PhD @ UW-Madison ECE'"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 179,
+   "name": "Jackson West",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://www.jacksonwaynewest.com/",
+    "reason": "Loads (200); name and affiliation match; page title shows 'Jack West' (nickname), same UW-Madison advisor context"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://www.jacksonwaynewest.com/authors/admin/avatar_hu3d03a01dcc18bc5be0e67db3d8d209a6_2855860_270x270_fill_q75_lanczos_center.jpg",
+    "page_url": "https://www.jacksonwaynewest.com/",
+    "reason": "200 image/*; page names person and embeds image; viewed: single-person photo"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD student in Computer Science, UW-Madison (advised by Suman Banerjee and Kassem Fawaz)",
+    "reason": "homepage: PhD student UW-Madison advised by Suman Banerjee and Kassem Fawaz"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 180,
+   "name": "Rishabh Khandelwal",
+   "website": {
+    "verdict": "rejected",
+    "url": "https://wiscprivacy.com/students",
+    "reason": "Loads (200) and lists the person, but it is the shared WI-PI group members/alumni page, a directory rather than the person's own page or profile"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://wiscprivacy.com/images/rishabh.jpg",
+    "page_url": "https://wiscprivacy.com/students",
+    "reason": "200 image/*; page names person and embeds image; viewed: single-person photo; casual outdoor photo in a cowboy hat, single person"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Google Research",
+    "reason": "WI-PI alumni page: PhD 2024, Google Research"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 181,
+   "name": "Shirley Zhang",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://www.annienobear.com/",
+    "reason": "Loads (200); name and affiliation match"
+   },
+   "photo": {
+    "verdict": "rejected",
+    "image_url": "https://wiscprivacy.com/images/shirley.jpg",
+    "page_url": "https://wiscprivacy.com/students",
+    "reason": "200 image/jpeg and embedded on page with matching alt text, but the image shows two cats, not a photo of a person"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD student in Computer Science, UW-Madison",
+    "reason": "WI-PI members page lists PhD Student; personal page says graduate student at UW-Madison"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 182,
+   "name": "Yash Wani",
+   "website": {
+    "verdict": "rejected",
+    "url": "https://wiscprivacy.com/students",
+    "reason": "Loads (200) and lists the person, but it is the shared WI-PI group members/alumni page, a directory rather than the person's own page or profile"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://wiscprivacy.com/images/yash.jpg",
+    "page_url": "https://wiscprivacy.com/students",
+    "reason": "200 image/*; page names person and embeds image; viewed: single-person photo; a partly visible person in the far background, main subject is a single person"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD student, UW-Madison (WI-PI group)",
+    "reason": "WI-PI members page lists PhD Student"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 183,
+   "name": "Harrison Rosenberg",
+   "website": {
+    "verdict": "rejected",
+    "url": "https://wiscprivacy.com/students",
+    "reason": "Loads (200) and lists the person, but it is the shared WI-PI group members/alumni page, a directory rather than the person's own page or profile"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://wiscprivacy.com/images/harrison.png",
+    "page_url": "https://wiscprivacy.com/students",
+    "reason": "200 image/*; page names person and embeds image; viewed: single-person photo"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "ALL3D, Inc.",
+    "reason": "WI-PI alumni page: PhD 2024, ALL3D, Inc."
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 184,
+   "name": "Shimaa Ahmed",
+   "website": {
+    "verdict": "rejected",
+    "url": "https://wiscprivacy.com/students",
+    "reason": "Loads (200) and lists the person, but it is the shared WI-PI group members/alumni page, a directory rather than the person's own page or profile"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://wiscprivacy.com/images/shimaa5.jpg",
+    "page_url": "https://wiscprivacy.com/students",
+    "reason": "200 image/*; page names person and embeds image; viewed: single-person photo"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Visa Research",
+    "reason": "WI-PI alumni page: PhD 2023, Visa Research"
+   },
+   "bio": null,
+   "students": []
+  }
+ ]
+}

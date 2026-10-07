@@ -2,51 +2,79 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Prof. Kang G. Shin Tree</title>
+  <title>{% block title %}Kang G. Shin Academic Family Tree{% endblock %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <!-- Simple, lightweight CSS reset / typography -->
+  <meta name="description" content="The academic family tree of Prof. Kang G. Shin: students, their students, and beyond.">
+  <script>
+    // Apply saved theme before paint to avoid a flash.
+    try { const t = localStorage.getItem("theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap">
   <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
-
-  <!-- d3 v7 -->
-  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%231f4e8c' stroke-width='2' stroke-linecap='round'%3E%3Ccircle cx='12' cy='5' r='2.5'/%3E%3Ccircle cx='5' cy='19' r='2.5'/%3E%3Ccircle cx='19' cy='19' r='2.5'/%3E%3Cpath d='M12 7.5v4M12 11.5 5 16.5M12 11.5l7 5'/%3E%3C/svg%3E">
+  {% block head %}{% endblock %}
 </head>
-<body>
+<body class="{% block body_class %}{% endblock %}">
   <header class="site-header">
-    <div class="container">
-      <a href="{{ url_for('index') }}" class="brand">Prof. Kang G. Shin's Legacy</a>
-      <nav class="nav">
-        <a href="{{ url_for('index') }}">Viewer</a>
-        <a href="{{ url_for('directory') }}">Directory</a>
+    <div class="bar">
+      <a href="{{ url_for('index') }}" class="brand">
+        <svg class="brand-mark" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="5" r="2.5"/><circle cx="5" cy="19" r="2.5"/><circle cx="19" cy="19" r="2.5"/><path d="M12 7.5v4M12 11.5 5 16.5M12 11.5l7 5"/></svg>
+        <span class="brand-text">Kang G. Shin<span class="long"> · Academic Family Tree</span></span>
+      </a>
+      {% set ep = request.endpoint %}
+      <nav class="nav" aria-label="Main">
+        <a href="{{ url_for('index') }}" {% if ep == 'index' %}aria-current="page"{% endif %}>Tree</a>
+        <a href="{{ url_for('directory') }}" {% if ep == 'directory' %}aria-current="page"{% endif %}>Directory</a>
         {% if authed %}
-          <a href="{{ url_for('add_get') }}">Add yourself</a>
-          <a href="{{ url_for('manage_list') }}">Manage</a>
-          <a href="{{ url_for('logout') }}">Logout</a>
+          <a href="{{ url_for('add_get') }}" {% if ep == 'add_get' %}aria-current="page"{% endif %}>Add</a>
+          <a href="{{ url_for('manage_list') }}" {% if ep in ('manage_list', 'edit_get') %}aria-current="page"{% endif %}>Manage</a>
+          <a href="{{ url_for('logout') }}">Log out</a>
         {% else %}
-          <a href="{{ url_for('login_get') }}">Login</a>
+          <a href="{{ url_for('login_get') }}" {% if ep == 'login_get' %}aria-current="page"{% endif %}>Log in</a>
         {% endif %}
       </nav>
+      <button class="icon-btn" id="themeToggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+      </button>
     </div>
   </header>
 
   {% with messages = get_flashed_messages(with_categories=true) %}
     {% if messages %}
-      <div class="container">
+      <div class="flashes" role="status">
         {% for category, message in messages %}
-          <div class="flash flash-{{ category }}">{{ message }}</div>
+          <div class="flash flash-{{ category }}">
+            <span>{{ message }}</span>
+            <button type="button" aria-label="Dismiss" onclick="this.parentElement.remove()">×</button>
+          </div>
         {% endfor %}
       </div>
     {% endif %}
   {% endwith %}
 
-  <main class="container">
+  {% block main %}
+  <main class="container page">
     {% block content %}{% endblock %}
   </main>
+  {% endblock %}
 
-  <footer class="site-footer">
-    <div class="container">
-      <small>Tip: zoom with mouse/touchpad; left click a node to collapse/expand; right click a node to pin; right click empty space to unpin.</small>
-    </div>
-  </footer>
+  <script>
+    (function () {
+      const root = document.documentElement;
+      document.getElementById("themeToggle").addEventListener("click", () => {
+        const dark = root.dataset.theme
+          ? root.dataset.theme === "dark"
+          : matchMedia("(prefers-color-scheme: dark)").matches;
+        root.dataset.theme = dark ? "light" : "dark";
+        try { localStorage.setItem("theme", root.dataset.theme); } catch (e) {}
+        window.dispatchEvent(new Event("themechange"));
+      });
+      // Auto-dismiss flash messages
+      setTimeout(() => document.querySelectorAll(".flash").forEach(el => el.remove()), 6000);
+    })();
+  </script>
+  {% block scripts %}{% endblock %}
 </body>
 </html>

@@ -1,0 +1,108 @@
+{
+ "batch": "g1-08",
+ "kind": "profile",
+ "people": [
+  {
+   "id": 72,
+   "name": "Min-Gyu Cho",
+   "institution": "Quanta Team - Maspresso, fomerly with Moloco Global",
+   "year": "2009",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 73,
+   "name": "Pradeep Padala",
+   "institution": "Entrepreneur and Investor, Silicon Valley, CA",
+   "year": "2009",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 74,
+   "name": "Jisoo Yang",
+   "institution": "University of Nevada, Las Vegas",
+   "year": "2010",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://web.cs.unlv.edu/jisooy/",
+   "students_in_tree": []
+  },
+  {
+   "id": 75,
+   "name": "Hyoil Kim",
+   "institution": "Ulsan Institute of Science and Technology, Korea",
+   "year": "2010",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 76,
+   "name": "Ashwini Kumar",
+   "institution": "Arista Networks",
+   "year": "2010",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 77,
+   "name": "Alexander Min",
+   "institution": "Intel, Hillsoboro, OR",
+   "year": "2011",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 78,
+   "name": "Xin Hu",
+   "institution": "Pinterest, San Francisco, CA",
+   "year": "2011",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 79,
+   "name": "Yuanyuan Zeng",
+   "institution": "Zoom",
+   "year": "2011",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 80,
+   "name": "Mathew Knysz",
+   "institution": "Interweb, CTO",
+   "year": "2012",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 81,
+   "name": "Xinyu Zhang",
+   "institution": "University of California, San Diego",
+   "year": "2012",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://xyzhang.ucsd.edu/index.html",
+   "students_in_tree": [
+    "Xiufeng Xie (2017)",
+    "Chuhan Gao",
+    "Chi Zhang (2017)",
+    "Sanjib Sur (2018)",
+    "Teng Wei (2018)",
+    "Shilin Zhu",
+    "Song Wang",
+    "Timothy Woodford (2023)",
+    "Renjie Zhao (2023)",
+    "John Nolan (2024)",
+    "Ke Sun (2024)"
+   ]
+  }
+ ]
+}

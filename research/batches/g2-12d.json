@@ -1,0 +1,56 @@
+{
+ "batch": "g2-12d",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 340,
+   "name": "Qing (Charles) Cao",
+   "institution": "University of Tennessee",
+   "year": "2008",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": [
+    "Zhibo Wang (2013)",
+    "Yanjun Yao (2014)",
+    "Lipeng Wan (2016)",
+    "Sisi Xiong (2017)"
+   ]
+  },
+  {
+   "id": 341,
+   "name": "Raghu Ganti",
+   "institution": "IBM T.J. Watson",
+   "year": "2010",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 342,
+   "name": "Praveen Jayachandran",
+   "institution": "IBM T.J. Watson, India",
+   "year": "2010",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 343,
+   "name": "Jin Heo",
+   "institution": "VMWare",
+   "year": "2010",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 344,
+   "name": "Nam Pham",
+   "institution": "Booking.com",
+   "year": "2010",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

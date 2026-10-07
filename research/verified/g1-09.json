@@ -1,0 +1,218 @@
+{
+ "batch": "g1-09",
+ "people": [
+  {
+   "id": 82,
+   "name": "Katharine Chang",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Apple, Silicon Valley, CA",
+    "reason": "Listed on Shin RTCL alumni page"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 83,
+   "name": "Eugene Chai",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://www.nokia.com/people/eugene-chai/",
+    "reason": "Official Nokia profile; name, Principal Researcher, Murray Hill NJ, PhD Computer Science & Engineering Univ. of Michigan"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://www.nokia.com/sites/default/files/styles/nokia_blog_author_medium/public/2025-01/img_3099_edited_2.jpg.webp",
+    "page_url": "https://www.nokia.com/people/eugene-chai/",
+    "reason": "Page names person and embeds the image; 200 image/jpeg (needs browser User-Agent; 403 without); single-person headshot viewed"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Principal Researcher, Nokia Bell Labs, Murray Hill, NJ",
+    "reason": "Nokia profile shows Principal Researcher, Murray Hill NJ; Bell Labs per alumni page"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 84,
+   "name": "Kai-Yun (Karen) Hou",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Apple, Silicon Valley, CA",
+    "reason": "Listed on Shin RTCL alumni page"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 85,
+   "name": "Xiaoen Ju",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "OpenAI, New York, NY",
+    "reason": "Listed on Shin RTCL alumni page"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 86,
+   "name": "Krishna Garikipati",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Niantic, Inc., Silicon Valley, CA",
+    "reason": "Listed on Shin RTCL alumni page"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 87,
+   "name": "Huan Feng",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Meta (Facebook), Menlo Park, CA",
+    "reason": "Listed on Shin RTCL alumni page"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 88,
+   "name": "Kassem Fawaz",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://kassemfawaz.com",
+    "reason": "Personal homepage; name, UW-Madison ECE associate professor, Michigan PhD"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://kassemfawaz.com/assets/portrait.jpg",
+    "page_url": "https://kassemfawaz.com",
+    "reason": "200 image/jpeg; embedded on homepage; single-person portrait viewed"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Associate Professor and Associate Chair for Research, Electrical and Computer Engineering, University of Wisconsin-Madison",
+    "reason": "Homepage states associate professor in ECE and inaugural associate chair for research"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Associate Professor and Associate Chair for Research in Electrical and Computer Engineering at the University of Wisconsin-Madison, affiliated with Computer Sciences. Leads the WI-PI research group on security and privacy for users interacting with their devices, with emphasis on voice interfaces, privacy policies, malware detection, data privacy, and wireless security and privacy. Received a PhD in Computer Science and Engineering from the University of Michigan, advised by Kang G. Shin.",
+    "research_areas": [
+     "Security and privacy",
+     "Voice interfaces",
+     "Privacy policies",
+     "Malware detection",
+     "Data privacy",
+     "Wireless security and privacy"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2017",
+    "thesis_title": "Location Privacy Protection in the Mobile Era and Beyond",
+    "notable": [
+     "NSF CAREER Award 2020",
+     "Caspar Bowden Award for Outstanding Research in Privacy Enhancing Technologies 2019",
+     "Emil Steiger Teaching Award 2022"
+    ],
+    "sources": [
+     "https://kassemfawaz.com",
+     "https://kassemfawaz.com/assets/cv.pdf"
+    ],
+    "reason": "Checked against homepage and CV. Removed IoT security and location privacy from areas (not listed as interests); CAREER year 2020 and Bowden 2019 per CV; Steiger 2022 per homepage award list"
+   },
+   "students": []
+  },
+  {
+   "id": 89,
+   "name": "Eugene (Sunmin) Kim",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Apple, Silicon Valley, CA",
+    "reason": "Listed on Shin RTCL alumni page"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 90,
+   "name": "Yu-Chih Tung",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://yctung.github.io",
+    "reason": "Personal homepage; name, Facebook research scientist, Michigan PhD advised by Kang G. Shin (older site)"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://yctung.github.io/images/profile_2015_mid.jpg",
+    "page_url": "https://yctung.github.io",
+    "reason": "200 image/jpeg; embedded on homepage; single-person headshot viewed"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Research Scientist, Meta (Facebook)",
+    "reason": "Homepage: Research Scientist at Facebook since 2018; alumni page lists Meta (Facebook), Menlo Park, CA"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Research Scientist at Facebook (Meta) since 2018. Received a PhD in computer science from the University of Michigan, advised by Kang G. Shin, and an MS from National Taiwan University in 2012. Research interests include building mobile applications and security systems based on physical-layer signal processing.",
+    "research_areas": [
+     "Mobile applications",
+     "Security systems",
+     "Physical-layer signal processing"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2018",
+    "thesis_title": "Acoustic Sensing: Mobile Applications and Frameworks",
+    "notable": [],
+    "sources": [
+     "https://yctung.github.io",
+     "https://rtcl.eecs.umich.edu/rtclweb/assets/dissertations/2018/thesis_yctung_fianl.pdf"
+    ],
+    "reason": "Thesis PDF opened: title, 2018, Shin as chair. Removed gendered pronouns, acoustic-sensing area kept only via thesis title (dropped), ForcePhone award-like entry dropped (project, not award)"
+   },
+   "students": []
+  },
+  {
+   "id": 91,
+   "name": "Kyong Tak Cho",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Cash App, Silicon Valley, CA",
+    "reason": "Listed on Shin RTCL alumni page"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Completed a PhD in Computer Science and Engineering at the University of Michigan in 2018 with Kang G. Shin as doctoral committee chair. The dissertation, From Attack to Defense: Toward Secure In-vehicle Networks, addresses security of in-vehicle networks such as the CAN bus, including fingerprinting for intrusion detection.",
+    "research_areas": [
+     "Automotive security",
+     "In-vehicle networks",
+     "CAN bus intrusion detection"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2018",
+    "thesis_title": "From Attack to Defense: Toward Secure In-vehicle Networks",
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/assets/dissertations/2018/dissertation_ktcho.pdf"
+    ],
+    "reason": "Dissertation PDF opened: title, 2018, Shin chair, CAN bus and intrusion detection and fingerprinting content present"
+   }
+  }
+ ]
+}

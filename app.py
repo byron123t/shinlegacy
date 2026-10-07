@@ -1,3 +1,7 @@
+from __future__ import annotations
+
+import hmac
+import json
 import os
 import re
 from datetime import datetime
@@ -6,7 +10,7 @@ from flask import (
     jsonify, session, flash
 )
 from flask_sqlalchemy import SQLAlchemy
-from sqlalchemy import select
+from sqlalchemy import inspect, text
 
 
 # -----------------------------------------------------------------------------
@@ -19,7 +23,7 @@ app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 db = SQLAlchemy(app)
 
 YEAR_FALLBACK = 9999
-SHARED_PASSWORD = "rtcl"  # <- required password to access /add
+SHARED_PASSWORD = os.environ.get("GENEALOGY_PASSWORD", "rtcl")  # required to add/edit
 
 # -----------------------------------------------------------------------------
 # Models
@@ -33,8 +37,21 @@ class Person(db.Model):
     url = db.Column(db.String(500))
     advisor_id = db.Column(db.Integer, db.ForeignKey("people.id"), nullable=True)
     created_at = db.Column(db.DateTime, default=datetime.utcnow)
+    # Filled by scripts/apply_research.py (see docs/research-workflow.md) or the edit form
+    photo_url = db.Column(db.String(500))
+    photo_source = db.Column(db.String(500))  # page the photo comes from (for attribution)
+    position = db.Column(db.String(255))      # current role, e.g. "Professor of EECS, ..."
+    bio = db.Column(db.Text)                  # JSON: summary, research_areas, thesis_title, notable, sources
 
     advisor = db.relationship("Person", remote_side=[id], backref="advisees")
+
+    @property
+    def year_num(self) -> int:
+        return parse_year(self.year)
+
+    @property
+    def descendant_count(self) -> int:
+        return sum(1 + c.descendant_count for c in self.advisees)
 
     def to_node(self):
         return {
@@ -44,15 +61,40 @@ class Person(db.Model):
             "institution": self.institution or "",
             "url": self.url or "",
             "advisor_id": self.advisor_id,
-            "year_num": parse_year(self.year),
+            "year_num": self.year_num,
+            "photo_url": self.photo_url or "",
+            "photo_source": self.photo_source or "",
+            "position": self.position or "",
+            "bio": self.bio_data,
         }
+
+    @property
+    def bio_data(self) -> dict | None:
+        try:
+            return json.loads(self.bio) if self.bio else None
+        except ValueError:
+            return None
 
 # -----------------------------------------------------------------------------
 # DB bootstrap
 # -----------------------------------------------------------------------------
+# Columns added after the first release; created in place on older databases.
+ADDED_COLUMNS = {
+    "photo_url": "VARCHAR(500)",
+    "photo_source": "VARCHAR(500)",
+    "position": "VARCHAR(255)",
+    "bio": "TEXT",
+}
+
+
 def bootstrap_if_empty():
     with app.app_context():
         db.create_all()
+        have = {c["name"] for c in inspect(db.engine).get_columns("people")}
+        with db.engine.begin() as conn:
+            for name, ddl in ADDED_COLUMNS.items():
+                if name not in have:
+                    conn.execute(text(f"ALTER TABLE people ADD COLUMN {name} {ddl}"))
         if Person.query.count() == 0:
             # Seed a single root person (edit as you like)
             root = Person(
@@ -106,7 +148,7 @@ def is_authed():
     return session.get("authed") is True
 
 def find_person(pid: int):
-    return Person.query.get(pid)
+    return db.session.get(Person, pid)
 
 def would_create_cycle(person_id: int, new_advisor_id: int | None) -> bool:
     """Climb up from new_advisor_id; if we hit person_id, it's a cycle."""
@@ -145,17 +187,18 @@ def index():
 
 @app.get("/login")
 def login_get():
-    return render_template("login.html")
+    return render_template("login.html", authed=is_authed())
 
 @app.post("/login")
 def login_post():
     pw = request.form.get("password", "")
-    if pw == SHARED_PASSWORD:
+    if hmac.compare_digest(pw.encode(), SHARED_PASSWORD.encode()):
         session["authed"] = True
         flash("Welcome! You can now add yourself to the tree.", "success")
-        return redirect(url_for("add_get"))
+        nxt = request.args.get("next", "")
+        return redirect(nxt if nxt.startswith("/") and not nxt.startswith("//") else url_for("add_get"))
     flash("Incorrect password.", "danger")
-    return redirect(url_for("login_get"))
+    return redirect(url_for("login_get", next=request.args.get("next")))
 
 @app.get("/logout")
 def logout():
@@ -167,15 +210,15 @@ def logout():
 def add_get():
     if not is_authed():
         flash("Please log in to add yourself.", "warning")
-        return redirect(url_for("login_get"))
-    people = Person.query.order_by(Person.name.asc()).all()
-    return render_template("add.html", people=people, authed=is_authed())
+        return redirect(url_for("login_get", next=request.full_path.rstrip("?")))
+    advisor = find_person(request.args.get("advisor", type=int) or 0)
+    return render_template("add.html", advisor=advisor, authed=is_authed())
 
 @app.post("/add")
 def add_post():
     if not is_authed():
         flash("Please log in to add yourself.", "warning")
-        return redirect(url_for("login_get"))
+        return redirect(url_for("login_get", next=request.full_path.rstrip("?")))
 
     name = (request.form.get("name") or "").strip()
     year = (request.form.get("year") or "").strip()
@@ -194,25 +237,27 @@ def add_post():
         return redirect(url_for("add_get"))
 
     # Validate that the selected parent exists
-    if not Person.query.get(advisor_id):
+    if not find_person(advisor_id):
         flash("Selected advisor/parent does not exist.", "danger")
         return redirect(url_for("add_get"))
 
     person = Person(
         name=name, year=year, institution=institution,
-        url=url, advisor_id=advisor_id
+        url=url, advisor_id=advisor_id,
+        position=(request.form.get("position") or "").strip() or None,
+        photo_url=(request.form.get("photo_url") or "").strip() or None,
     )
     db.session.add(person)
     db.session.commit()
     flash(f"Added {name} to the tree!", "success")
-    return redirect(url_for("index"))
+    return redirect(url_for("index", id=person.id))
 
 # -------- Manage (list) --------
 @app.get("/manage")
 def manage_list():
     if not is_authed():
         flash("Please log in to manage people.", "warning")
-        return redirect(url_for("login_get"))
+        return redirect(url_for("login_get", next=request.full_path.rstrip("?")))
     people = Person.query.all()
     people.sort(key=lambda p: (parse_year(p.year), (p.name or "").lower()))
     return render_template("manage.html", people=people, authed=is_authed())
@@ -228,7 +273,7 @@ def directory():
 def edit_get(person_id):
     if not is_authed():
         flash("Please log in to edit.", "warning")
-        return redirect(url_for("login_get"))
+        return redirect(url_for("login_get", next=request.full_path.rstrip("?")))
     person = find_person(person_id)
     if not person:
         flash("Person not found.", "danger")
@@ -241,7 +286,7 @@ def edit_get(person_id):
 def edit_post(person_id):
     if not is_authed():
         flash("Please log in to edit.", "warning")
-        return redirect(url_for("login_get"))
+        return redirect(url_for("login_get", next=request.full_path.rstrip("?")))
 
     person = find_person(person_id)
     if not person:
@@ -279,17 +324,19 @@ def edit_post(person_id):
     person.year = year
     person.institution = institution
     person.url = url
+    person.position = (request.form.get("position") or "").strip() or None
+    person.photo_url = (request.form.get("photo_url") or "").strip() or None
     person.advisor_id = new_advisor_id
     db.session.commit()
     flash("Person updated.", "success")
-    return redirect(url_for("manage_list"))
+    return redirect(url_for("index", id=person.id))
 
 # -------- Delete --------
 @app.post("/delete/<int:person_id>")
 def delete_post(person_id):
     if not is_authed():
         flash("Please log in to delete.", "warning")
-        return redirect(url_for("login_get"))
+        return redirect(url_for("login_get", next=request.full_path.rstrip("?")))
 
     person = find_person(person_id)
     if not person:

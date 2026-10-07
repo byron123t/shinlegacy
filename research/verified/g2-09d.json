@@ -1,0 +1,74 @@
+{
+ "batch": "g2-09d",
+ "people": [
+  {
+   "id": 280,
+   "name": "Ruomei Gao",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Only from Dovrolis alumni page, which is stale and not a current official page for this person (page states 'now at Akamai')."
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 281,
+   "name": "Ravi Prasad",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Only from Dovrolis alumni page, which is stale and not a current official page for this person (page states 'now at Cisco Systems')."
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 282,
+   "name": "Amogh Dhamdhere",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Only from Dovrolis alumni page, which is stale and not a current official page for this person (page states 'now at the CAIDA research center')."
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 283,
+   "name": "Partha Kanuparthy",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://kanuparthy.wordpress.com/",
+    "reason": "Personal WordPress site loads, 'Partha Kanuparthy', Ph.D. CS Georgia Tech"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Software Engineer (Principal/Director) at Meta, since 2020 (per personal site)",
+    "reason": "Personal site: 'Software Engineer (Principal/Director), Meta, 2020-present' (advisor's page saying Amazon is older)"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 284,
+   "name": "Aemen Lodhi",
+   "website": {
+    "verdict": "rejected",
+    "reason": "Google Scholar profile shell loads with name but shows no affiliation/content ('Loading... system can't perform the operation'); a citation profile, not a personal page, and identity/affiliation cannot be checked",
+    "url": "https://scholar.google.com/citations?user=SirVv5UAAAAJ&hl=en"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Only from Dovrolis alumni page ('now at Facebook'), a stale page (contains entries like 'now at Sanofi 2016-17'); not a current official source"
+   },
+   "bio": null,
+   "students": []
+  }
+ ]
+}

@@ -1,0 +1,287 @@
+{
+ "batch": "g1-04",
+ "people": [
+  {
+   "id": 32,
+   "name": "Bing-rung Tsai",
+   "website": null,
+   "photo": null,
+   "current_position": "Retired, formerly VMware",
+   "bio": {
+    "summary": "Bing-rung Tsai received a PhD from the University of Michigan in 1994 under Kang G. Shin, with the dissertation \"Mapping and Scheduling of Concurrent Communication Traffic in Multicomputer Networks\". The Shin lab alumni list gives the current affiliation as: Retired, formerly VMware.",
+    "research_areas": [
+     "multicomputer networks",
+     "communication scheduling"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1994",
+    "thesis_title": "Mapping and Scheduling of Concurrent Communication Traffic in Multicomputer Networks",
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "http://web.eecs.umich.edu/~kgshin/students.html"
+    ]
+   },
+   "students": [],
+   "notes": "Web search budget was exhausted mid-run; relied on RTCL dissertations list and Shin alumni list (both opened). No personal/official page, photo or advisees found. Alumni list says VMWare (retired). Likely industry; no PhD students found."
+  },
+  {
+   "id": 33,
+   "name": "Hagbae Kim",
+   "website": {
+    "url": "https://ee.yonsei.ac.kr/ee/faculty/faculty.do",
+    "source_note": "Yonsei EE faculty directory listing Hagbae Kim (김학배)"
+   },
+   "photo": {
+    "image_url": "https://ee.yonsei.ac.kr/_attach/image/2024/11/thumb_DhuAlToPtuhGTsjSPBGo0.png",
+    "page_url": "https://ee.yonsei.ac.kr/ee/faculty/faculty.do"
+   },
+   "current_position": "Professor, School of Electrical and Electronic Engineering, Yonsei University",
+   "bio": {
+    "summary": "Hagbae Kim received a PhD from the University of Michigan in 1994 under Kang G. Shin, with the dissertation \"Design and Evaluation of Real-Time Fault-Tolerant Control Systems\". The Shin lab alumni list gives the current affiliation as: Professor, School of Electrical and Electronic Engineering, Yonsei University.",
+    "research_areas": [
+     "real-time fault-tolerant control systems",
+     "digital information processing"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1994",
+    "thesis_title": "Design and Evaluation of Real-Time Fault-Tolerant Control Systems",
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "http://web.eecs.umich.edu/~kgshin/students.html",
+     "https://ee.yonsei.ac.kr/ee/faculty/faculty.do"
+    ]
+   },
+   "students": [],
+   "notes": "Found Yonsei EE faculty entry with photo (hbkim@yonsei.ac.kr; lab: Digital Information Processing Laboratory). Old lab site dipl.yonsei.ac.kr did not respond. Individual faculty page URL is encoded so the faculty directory list is used as website. Could not search for advisees (search budget exhausted); none found."
+  },
+  {
+   "id": 34,
+   "name": "Thomas Tsukada",
+   "website": null,
+   "photo": null,
+   "current_position": "Oracle",
+   "bio": {
+    "summary": "Thomas Tsukada received a PhD from the University of Michigan in 1996 under Kang G. Shin, with the dissertation \"Polite Rescheduling: Responding to Schedule Disruptions in a Multi-Agent Manufacturing System\". The Shin lab alumni list gives the current affiliation as: Oracle.",
+    "research_areas": [
+     "multi-agent manufacturing scheduling"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1996",
+    "thesis_title": "Polite Rescheduling: Responding to Schedule Disruptions in a Multi-Agent Manufacturing System",
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "http://web.eecs.umich.edu/~kgshin/students.html"
+    ]
+   },
+   "students": [],
+   "notes": "Web search budget was exhausted mid-run; relied on RTCL dissertations list and Shin alumni list (both opened). No personal/official page, photo or advisees found. Industry; no PhD students expected."
+  },
+  {
+   "id": 35,
+   "name": "Stuart Daniel",
+   "website": null,
+   "photo": null,
+   "current_position": "Oracle",
+   "bio": {
+    "summary": "Stuart Daniel received a PhD from the University of Michigan in 1996 under Kang G. Shin, with the dissertation \"Flexible Router Architectures for Point-to-Point Networks\". The Shin lab alumni list gives the current affiliation as: Oracle.",
+    "research_areas": [
+     "router architectures",
+     "point-to-point networks"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1996",
+    "thesis_title": "Flexible Router Architectures for Point-to-Point Networks",
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "http://web.eecs.umich.edu/~kgshin/students.html"
+    ]
+   },
+   "students": [],
+   "notes": "Web search budget was exhausted mid-run; relied on RTCL dissertations list and Shin alumni list (both opened). No personal/official page, photo or advisees found. Industry; no PhD students expected."
+  },
+  {
+   "id": 36,
+   "name": "Jennifer Rexford",
+   "website": {
+    "url": "https://www.cs.princeton.edu/~jrex/",
+    "source_note": "Personal homepage at Princeton CS; on record and still working"
+   },
+   "photo": {
+    "image_url": "https://www.cs.princeton.edu/~jrex/jrex-2023.jpg",
+    "page_url": "https://www.cs.princeton.edu/~jrex/"
+   },
+   "current_position": "Provost and Gordon Y. S. Wu Professor in Engineering, Professor of Computer Science, Princeton University",
+   "bio": {
+    "summary": "Jennifer Rexford is Provost of Princeton University (since 2023), Gordon Y. S. Wu Professor in Engineering and Professor of Computer Science. Rexford received a PhD from the University of Michigan in 1996 under Kang G. Shin, then worked at AT&T Labs before joining Princeton in 2005. Research covers software-defined networking, data-center and enterprise networks, Internet routing and traffic engineering.",
+    "research_areas": [
+     "software-defined networking",
+     "data-center and enterprise networks",
+     "Internet routing and traffic engineering",
+     "network measurement"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1996",
+    "thesis_title": "Tailoring Router Architectures to Performance Requirements in Cut-Through Networks",
+    "notable": [
+     "ACM Grace Murray Hopper Award (2005)",
+     "ACM Fellow (2008)",
+     "American Academy of Arts and Sciences Fellow (2013)",
+     "National Academy of Engineering member (2014)",
+     "National Academy of Sciences member (2020)",
+     "ACM SIGCOMM Athena Lecturer (2016-17)",
+     "Provost of Princeton University (2023-)",
+     "Former Chair of Computer Science, Princeton"
+    ],
+    "sources": [
+     "https://www.cs.princeton.edu/~jrex/",
+     "https://en.wikipedia.org/wiki/Jennifer_Rexford",
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "https://www.mathgenealogy.org/id.php?id=87103"
+    ]
+   },
+   "students": [
+    {
+     "name": "Satadal Sengupta",
+     "phd_year": "2026",
+     "current_institution": "UT-Austin (postdoc, fall 2026)",
+     "website": null,
+     "source_url": "https://www.cs.princeton.edu/~jrex/",
+     "evidence": "Listed under 'PhD student alumni': PhD May 2026, thesis Network-Boosted Applications"
+    },
+    {
+     "name": "Sophia Yoo",
+     "phd_year": "2026",
+     "current_institution": "Amherst College (assistant professor, summer 2026)",
+     "website": null,
+     "source_url": "https://www.cs.princeton.edu/~jrex/",
+     "evidence": "Listed under 'PhD student alumni': PhD May 2026, co-advised by Maria Apostolaki"
+    }
+   ],
+   "notes": "Rexford homepage PhD alumni list compared to students_in_tree; all others already present. Page lists no current (non-graduated) PhD students. Wikipedia used for bio facts; Hopper/NAE/NAS etc. from Wikipedia only."
+  },
+  {
+   "id": 37,
+   "name": "Sushil Birla",
+   "website": null,
+   "photo": null,
+   "current_position": "U.S. Nuclear Regulatory Commission (former GM Fellow)",
+   "bio": {
+    "summary": "Sushil Birla received a PhD from the University of Michigan in 1997 under Kang G. Shin, with the dissertation \"Software Modeling for Reconfigurable Machine Tool Controllers\". The Shin lab alumni list gives the current affiliation as: U.S. Nuclear Regulatory Commission (former GM Fellow).",
+    "research_areas": [
+     "software modeling",
+     "machine tool controllers"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1997",
+    "thesis_title": "Software Modeling for Reconfigurable Machine Tool Controllers",
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "http://web.eecs.umich.edu/~kgshin/students.html"
+    ]
+   },
+   "students": [],
+   "notes": "Web search budget was exhausted mid-run; relied on RTCL dissertations list and Shin alumni list (both opened). No personal/official page, photo or advisees found. Industry/government; no PhD students expected."
+  },
+  {
+   "id": 38,
+   "name": "Ashish Mehra",
+   "website": null,
+   "photo": null,
+   "current_position": "FalconX Gateway (former research staff at IBM Research; Head of Products at an AI startup)",
+   "bio": {
+    "summary": "Ashish Mehra received a PhD from the University of Michigan in 1997 under Kang G. Shin, with the dissertation \"Structuring Host Communication Software for Quality-of-Service Guarantees\". The Shin lab alumni list gives the current affiliation as: FalconX Gateway (former research staff at IBM Research; Head of Products at an AI startup).",
+    "research_areas": [
+     "host communication software",
+     "quality of service"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1997",
+    "thesis_title": "Structuring Host Communication Software for Quality-of-Service Guarantees",
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "http://web.eecs.umich.edu/~kgshin/students.html"
+    ]
+   },
+   "students": [],
+   "notes": "Web search budget was exhausted mid-run; relied on RTCL dissertations list and Shin alumni list (both opened). No personal/official page, photo or advisees found. Industry; no PhD students expected."
+  },
+  {
+   "id": 39,
+   "name": "Atri Indiresan",
+   "website": null,
+   "photo": null,
+   "current_position": "Cisco",
+   "bio": {
+    "summary": "Atri Indiresan received a PhD from the University of Michigan in 1997 under Kang G. Shin, with the dissertation \"Exploring Quality-of-Service Issues in Network Interface Design\". The Shin lab alumni list gives the current affiliation as: Cisco.",
+    "research_areas": [
+     "network interface design",
+     "quality of service"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1997",
+    "thesis_title": "Exploring Quality-of-Service Issues in Network Interface Design",
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "http://web.eecs.umich.edu/~kgshin/students.html"
+    ]
+   },
+   "students": [],
+   "notes": "Web search budget was exhausted mid-run; relied on RTCL dissertations list and Shin alumni list (both opened). No personal/official page, photo or advisees found. Industry; no PhD students expected."
+  },
+  {
+   "id": 40,
+   "name": "Khawar Zuberi",
+   "website": null,
+   "photo": null,
+   "current_position": "Microsoft",
+   "bio": {
+    "summary": "Khawar Zuberi received a PhD from the University of Michigan in 1998 under Kang G. Shin, with the dissertation \"Real-time Operating System Service for Networked Embedded Systems\". The Shin lab alumni list gives the current affiliation as: Microsoft.",
+    "research_areas": [
+     "real-time operating systems",
+     "networked embedded systems"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1998",
+    "thesis_title": "Real-time Operating System Service for Networked Embedded Systems",
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "http://web.eecs.umich.edu/~kgshin/students.html"
+    ]
+   },
+   "students": [],
+   "notes": "Web search budget was exhausted mid-run; relied on RTCL dissertations list and Shin alumni list (both opened). No personal/official page, photo or advisees found. RTCL lists the surname as 'Zuber' in the dissertations list; alumni list says Zuberi. Industry; no PhD students expected."
+  },
+  {
+   "id": 41,
+   "name": "Emmanuel Abram-Profeta",
+   "website": null,
+   "photo": null,
+   "current_position": "Microsoft",
+   "bio": {
+    "summary": "Emmanuel Abram-Profeta received a PhD from the University of Michigan in 1998 under Kang G. Shin, with the dissertation \"Support for Service Scalability in Video-On-Demand End-Systems\". The Shin lab alumni list gives the current affiliation as: Microsoft.",
+    "research_areas": [
+     "video-on-demand end systems",
+     "service scalability"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1998",
+    "thesis_title": "Support for Service Scalability in Video-On-Demand End-Systems",
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "http://web.eecs.umich.edu/~kgshin/students.html"
+    ]
+   },
+   "students": [],
+   "notes": "Web search budget was exhausted mid-run; relied on RTCL dissertations list and Shin alumni list (both opened). No personal/official page, photo or advisees found. Industry; no PhD students expected."
+  }
+ ]
+}

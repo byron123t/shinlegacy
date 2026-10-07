@@ -1,0 +1,177 @@
+{
+ "batch": "g1-09",
+ "people": [
+  {
+   "id": 82,
+   "name": "Katharine Chang",
+   "website": null,
+   "photo": null,
+   "current_position": "Apple, Silicon Valley, CA (per RTCL alumni list)",
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget was exhausted and no personal page, faculty/company profile or official photo could be verified for this person; only the Shin alumni list (https://web.eecs.umich.edu/~kgshin/students.html) confirms the PhD under Kang G. Shin. No PhD students found (industry role). OpenAlex shows a 'Katharine Chang' coauthor affiliated with U. Michigan on Shin papers but no profile."
+  },
+  {
+   "id": 83,
+   "name": "Eugene Chai",
+   "website": {
+    "url": "https://www.nokia.com/people/eugene-chai/",
+    "source_note": "Nokia Bell Labs official profile"
+   },
+   "photo": {
+    "image_url": "https://www.nokia.com/sites/default/files/styles/nokia_blog_author_medium/public/2025-01/img_3099_edited_2.jpg.webp",
+    "page_url": "https://www.nokia.com/people/eugene-chai/"
+   },
+   "current_position": "Principal Researcher, Nokia Bell Labs, Murray Hill, NJ",
+   "bio": null,
+   "students": [],
+   "notes": "Nokia profile lists PhD/MS CSE Univ. of Michigan; Michigan advisor confirmed only via RTCL alumni list. No personal page found. Industry researcher, no PhD advising found."
+  },
+  {
+   "id": 84,
+   "name": "Kai-Yun (Karen) Hou",
+   "website": null,
+   "photo": null,
+   "current_position": "Apple, Silicon Valley, CA (per RTCL alumni list)",
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget was exhausted and no personal page, faculty/company profile or official photo could be verified for this person; only the Shin alumni list (https://web.eecs.umich.edu/~kgshin/students.html) confirms the PhD under Kang G. Shin. No PhD students found (industry role). RTCL list gives year 2014 vs 2015 on record."
+  },
+  {
+   "id": 85,
+   "name": "Xiaoen Ju",
+   "website": null,
+   "photo": null,
+   "current_position": "OpenAI, New York, NY (per current RTCL alumni list; record says Meta)",
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget was exhausted and no personal page, faculty/company profile or official photo could be verified for this person; only the Shin alumni list (https://web.eecs.umich.edu/~kgshin/students.html) confirms the PhD under Kang G. Shin. No PhD students found (industry role). RTCL alumni list currently shows 2016 and OpenAI, New York, NY; Meta/Facebook on record appears outdated."
+  },
+  {
+   "id": 86,
+   "name": "Krishna Garikipati",
+   "website": null,
+   "photo": null,
+   "current_position": "Niantic, Inc., Silicon Valley, CA (per RTCL alumni list)",
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget was exhausted and no personal page, faculty/company profile or official photo could be verified for this person; only the Shin alumni list (https://web.eecs.umich.edu/~kgshin/students.html) confirms the PhD under Kang G. Shin. No PhD students found (industry role). Avoid confusion with Prof. Krishna Garikipati (USC/Michigan, computational mechanics), a different person."
+  },
+  {
+   "id": 87,
+   "name": "Huan Feng",
+   "website": null,
+   "photo": null,
+   "current_position": "Meta (Facebook), Menlo Park, CA (per RTCL alumni list)",
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget was exhausted and no personal page, faculty/company profile or official photo could be verified for this person; only the Shin alumni list (https://web.eecs.umich.edu/~kgshin/students.html) confirms the PhD under Kang G. Shin. No PhD students found (industry role). RTCL list gives 2016 vs 2017 on record."
+  },
+  {
+   "id": 88,
+   "name": "Kassem Fawaz",
+   "website": {
+    "url": "https://kassemfawaz.com",
+    "source_note": "Personal homepage"
+   },
+   "photo": {
+    "image_url": "https://kassemfawaz.com/assets/portrait.jpg",
+    "page_url": "https://kassemfawaz.com"
+   },
+   "current_position": "Associate Professor and Associate Chair for Research, ECE, University of Wisconsin-Madison",
+   "bio": {
+    "summary": "Kassem Fawaz is Associate Professor and Associate Chair for Research in Electrical and Computer Engineering at the University of Wisconsin-Madison, with an affiliation in Computer Sciences. Fawaz directs the WI-PI research group, working on security and privacy for users interacting with devices, including voice interfaces, privacy policies, malware detection, data privacy and wireless security. Fawaz earned a PhD in Computer Science and Engineering at the University of Michigan, advised by Kang G. Shin.",
+    "research_areas": [
+     "Security and privacy",
+     "Voice interfaces",
+     "Privacy policies",
+     "IoT security",
+     "Wireless security",
+     "Location privacy"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2017",
+    "thesis_title": "Location Privacy Protection in the Mobile Era and Beyond",
+    "notable": [
+     "2020 NSF CAREER Award",
+     "2019 Caspar Bowden Award for Privacy Enhancing Technologies",
+     "2022 Emil Steiger Teaching Award"
+    ],
+    "sources": [
+     "https://kassemfawaz.com",
+     "https://kassemfawaz.com/assets/cv.pdf"
+    ]
+   },
+   "students": [],
+   "notes": "Homepage and CV opened. Homepage lists only current students (all already in tree, including Yue Gao not shown there) and one postdoc (Harrison Rosenberg, already in tree); no alumni list or additional PhD students found on homepage/archive. wiscprivacy.com had no accessible people/alumni page. Search budget exhausted so DBLP/MathGenealogy/Deep Blue sweeps for graduated students were not done."
+  },
+  {
+   "id": 89,
+   "name": "Eugene (Sunmin) Kim",
+   "website": null,
+   "photo": null,
+   "current_position": "Apple, Silicon Valley, CA (per RTCL alumni list)",
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget was exhausted and no personal page, faculty/company profile or official photo could be verified for this person; only the Shin alumni list (https://web.eecs.umich.edu/~kgshin/students.html) confirms the PhD under Kang G. Shin. No PhD students found (industry role). OpenAlex shows 'Eugene Kim' at U. Michigan on Shin papers; thesis acknowledgments of K.T. Cho mention Sunmin Kim as RTCL member."
+  },
+  {
+   "id": 90,
+   "name": "Yu-Chih Tung",
+   "website": {
+    "url": "https://yctung.github.io",
+    "source_note": "Personal homepage (may be dated)"
+   },
+   "photo": {
+    "image_url": "https://yctung.github.io/images/profile_2015_mid.jpg",
+    "page_url": "https://yctung.github.io"
+   },
+   "current_position": "Research Scientist, Meta (Facebook) (per personal homepage and RTCL list)",
+   "bio": {
+    "summary": "Yu-Chih Tung is a Research Scientist at Facebook (Meta), having joined in 2018. Tung received a PhD in computer science from the University of Michigan, advised by Kang G. Shin, and an MS from National Taiwan University in 2012. Research interests include mobile applications and security systems based on physical-layer signal processing, such as acoustic sensing.",
+    "research_areas": [
+     "Mobile sensing",
+     "Acoustic sensing",
+     "Physical-layer signal processing",
+     "Mobile security"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2018",
+    "thesis_title": "Acoustic Sensing: Mobile Applications and Frameworks",
+    "notable": [
+     "ForcePhone (ACM MobiSys 2016)"
+    ],
+    "sources": [
+     "https://yctung.github.io",
+     "https://rtcl.eecs.umich.edu/rtclweb/assets/dissertations/2018/thesis_yctung_fianl.pdf"
+    ]
+   },
+   "students": [],
+   "notes": "Personal page states PhD advised by Kang G. Shin and Research Scientist at Facebook since 2018; no PhD students (industry). Homepage is an older site with a 2015 photo; thesis title 'Acoustic Sensing: Mobile Applications and Frameworks' (Deep Blue, 2018) seen only in a search snippet, not opened."
+  },
+  {
+   "id": 91,
+   "name": "Kyong Tak Cho",
+   "website": null,
+   "photo": null,
+   "current_position": "Cash App, Silicon Valley, CA (per RTCL alumni list); later academic affiliation unverified",
+   "bio": {
+    "summary": "Kyong Tak Cho completed a PhD in Computer Science and Engineering at the University of Michigan in 2018 with Kang G. Shin as committee chair. The dissertation, From Attack to Defense: Toward Secure In-vehicle Networks, addresses security of in-vehicle networks such as CAN bus, including fingerprinting of electronic control units for intrusion detection.",
+    "research_areas": [
+     "Automotive security",
+     "In-vehicle networks",
+     "CAN bus intrusion detection"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2018",
+    "thesis_title": "From Attack to Defense: Toward Secure In-vehicle Networks",
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/assets/dissertations/2018/dissertation_ktcho.pdf"
+    ]
+   },
+   "students": [],
+   "notes": "Dissertation PDF opened (title, Shin as chair, 2018). Search snippets suggested a later Korean university affiliation (scholar.korea.ac.kr) but unverified, so not used. No personal page verified. No PhD students (industry/unknown)."
+  }
+ ]
+}

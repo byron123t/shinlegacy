@@ -1,0 +1,105 @@
+{
+ "batch": "g1-06",
+ "kind": "profile",
+ "people": [
+  {
+   "id": 52,
+   "name": "John Reumann",
+   "institution": "Databricks, Seattle, WA",
+   "year": "2003",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 53,
+   "name": "Hani Jamjoom",
+   "institution": "IBM T. J. Watson Research Center",
+   "year": "2004",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "http://jamjoom.net/",
+   "students_in_tree": []
+  },
+  {
+   "id": 54,
+   "name": "Haining Wang",
+   "institution": "Virginia Tech, Arlington, VA",
+   "year": "2003",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 55,
+   "name": "Padmanabhan (Babu) Pillai",
+   "institution": "Carnegie Mellon University",
+   "year": "2004",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 56,
+   "name": "Daji Qiao",
+   "institution": "Iowa State University",
+   "year": "2004",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": [
+    "Wei Zhou (2009)",
+    "Guanqun Yang (2010)",
+    "Xi Chen (2011)",
+    "Zi Li (2013)",
+    "Yang Peng (2014)",
+    "Ka Yang (2014)",
+    "Xiaoyun Zhang (2017)",
+    "Taewoon Kim (2018)"
+   ]
+  },
+  {
+   "id": 57,
+   "name": "Haksun Li (co-advised with Ed Durfee)",
+   "institution": "Union Bank of Switzerland Investment",
+   "year": "2004",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 58,
+   "name": "Zonghua (Sam) Gu",
+   "institution": "Umeå University, Sweden",
+   "year": "2004",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 59,
+   "name": "Shige Wang",
+   "institution": "GM Research",
+   "year": "2004",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 60,
+   "name": "Chun-Ting Chou",
+   "institution": "National Taiwan University and CEO@OmniEyes",
+   "year": "2004",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 61,
+   "name": "Taejoon Park",
+   "institution": "Hanyang University, Korea",
+   "year": "2005",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

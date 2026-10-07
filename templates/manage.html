@@ -1,98 +1,80 @@
 {% extends "base.html" %}
+{% block title %}Manage · Kang G. Shin Academic Family Tree{% endblock %}
 {% block content %}
-<section class="panel">
-  <div class="panel-header">
-    <h1>Manage People</h1>
-    <input id="filterInput" type="search" placeholder="Filter by name/institution/year…" aria-label="Filter">
+<div class="page-head">
+  <div>
+    <h1>Manage people</h1>
+    <p class="sub">Edit details, move someone to a different advisor, or remove entries.</p>
   </div>
+  <div class="table-tools">
+    <input id="filterInput" class="input" type="search" placeholder="Filter by name, institution, year…" aria-label="Filter people">
+    <span id="peopleCount" class="count" aria-live="polite"></span>
+    <a class="btn primary" href="{{ url_for('add_get') }}">Add person</a>
+  </div>
+</div>
 
-  <div class="table-wrap">
-    <table class="table" id="peopleTable">
-      <thead>
-        <tr>
-          <th>Name</th>
-          <th>Institution</th>
-          <th>Year</th>
-          <th>Advisor</th>
-          <th>Advisees</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        {% for p in people %}
-        <tr>
-          <td>
-            {{ p.name }}
-            {% if p.advisor_id is none %}<span class="badge">Root</span>{% endif %}
-          </td>
-          <td>{{ p.institution or '' }}</td>
-          <td>{{ p.year or '' }}</td>
-          <td>{{ p.advisor.name if p.advisor else '—' }}</td>
-          <td>{{ p.advisees|length }}</td>
-          <td data-yearnum="{{ p.year_num }}">{{ p.year or '' }}</td>
-          <td class="actions">
-            <a class="btn" href="{{ url_for('edit_get', person_id=p.id) }}">Edit</a>
-            {% if p.advisor_id is not none %}
-            <form method="post" action="{{ url_for('delete_post', person_id=p.id) }}" onsubmit="return confirmDelete(this)">
-              <select name="mode">
-                <option value="reassign" selected>Reassign children</option>
-                <option value="cascade">Cascade delete subtree</option>
-              </select>
-              <button class="btn danger" type="submit">Delete</button>
-            </form>
+<div class="table-wrap">
+  <table class="table" id="peopleTable">
+    <thead>
+      <tr>
+        <th data-key="name">Name</th>
+        <th data-key="institution">Institution</th>
+        <th data-key="year" class="num">Year</th>
+        <th data-key="advisor">Advisor</th>
+        <th data-key="advisees" class="num">Students</th>
+        <th><span class="visually-hidden">Actions</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for p in people %}
+      <tr data-search="{{ [p.name, p.institution or '', p.year or '', p.advisor.name if p.advisor else '']|join(' ')|lower }}">
+        <td data-name="{{ p.name|lower }}">
+          <a class="person-name" href="{{ url_for('index', id=p.id) }}">{{ p.name }}</a>
+          {% if p.advisor_id is none %}<span class="badge">Root</span>{% endif %}
+        </td>
+        <td data-institution="{{ (p.institution or '')|lower }}" class="muted">{{ p.institution or '' }}</td>
+        <td data-year="{{ p.year_num }}" class="num">{{ p.year or '' }}</td>
+        <td data-advisor="{{ (p.advisor.name if p.advisor else '')|lower }}">{{ p.advisor.name if p.advisor else '—' }}</td>
+        <td data-advisees="{{ p.advisees|length }}" class="num">{{ p.advisees|length or '' }}</td>
+        <td class="actions">
+          <a class="btn small" href="{{ url_for('edit_get', person_id=p.id) }}">Edit</a>
+          {% if p.advisor_id is not none %}
+          <form method="post" action="{{ url_for('delete_post', person_id=p.id) }}"
+                data-name="{{ p.name }}" data-students="{{ p.advisees|length }}" onsubmit="return confirmDelete(this)">
+            {% if p.advisees %}
+            <select name="mode" class="input" aria-label="What happens to {{ p.name }}'s students">
+              <option value="reassign" selected>Keep students (move up)</option>
+              <option value="cascade">Delete students too</option>
+            </select>
             {% else %}
-              <button class="btn danger" disabled title="Cannot delete root">Delete</button>
+            <input type="hidden" name="mode" value="reassign">
             {% endif %}
-          </td>
-        </tr>
-        {% endfor %}
-      </tbody>
-    </table>
-  </div>
-</section>
+            <button class="btn small danger" type="submit">Delete</button>
+          </form>
+          {% endif %}
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}
 
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/table.js') }}"></script>
 <script>
-  const filter = document.getElementById('filterInput');
-  const rows = Array.from(document.querySelectorAll('#peopleTable tbody tr'));
-  filter?.addEventListener('input', () => {
-    const q = (filter.value || '').toLowerCase();
-    rows.forEach(tr => {
-      tr.style.display = tr.innerText.toLowerCase().includes(q) ? '' : 'none';
-    });
-  });
+  initPeopleTable({ tableId: "peopleTable", filterId: "filterInput", countId: "peopleCount" });
 
   function confirmDelete(form) {
-    const mode = form.querySelector('select[name="mode"]').value;
-    const msg = mode === 'cascade'
-      ? 'Delete this person AND their entire subtree? This cannot be undone.'
-      : 'Delete this person and reattach their children to the advisor?';
+    const name = form.dataset.name;
+    const n = Number(form.dataset.students);
+    const mode = form.elements.mode.value;
+    const msg = mode === "cascade"
+      ? `Delete ${name} AND everyone below them in the tree? This cannot be undone.`
+      : n
+        ? `Delete ${name}? Their ${n} student(s) will move up to ${name}'s advisor.`
+        : `Delete ${name}? This cannot be undone.`;
     return confirm(msg);
-  }
-  function sortBy(key, dir) {
-    const tableId = document.currentScript.closest('section').querySelector('table').id;
-    const body = document.querySelector(`#${tableId} tbody`);
-    const rows = Array.from(body.querySelectorAll('tr'));
-
-    const getVal = (tr) => {
-      if (key === 'year') {
-        const td = tr.querySelector('td[data-yearnum]');
-        return Number(td?.getAttribute('data-yearnum') || '9999');
-      }
-      if (key === 'advisees') {
-        const td = tr.querySelector('td[data-advisees]');
-        return Number(td?.getAttribute('data-advisees') || '0');
-      }
-      const td = tr.querySelector(`[data-${key}]`);
-      return (td?.getAttribute(`data-${key}`) || td?.textContent || '').toString().toLowerCase();
-    };
-
-    const sorted = rows.slice().sort((a, b) => {
-      const va = getVal(a), vb = getVal(b);
-      if (typeof va === 'number' && typeof vb === 'number') return dir * (va - vb);
-      return dir * va.localeCompare(vb);
-    });
-
-    sorted.forEach(tr => body.appendChild(tr));
   }
 </script>
 {% endblock %}

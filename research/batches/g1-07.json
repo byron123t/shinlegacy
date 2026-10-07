@@ -1,0 +1,96 @@
+{
+ "batch": "g1-07",
+ "kind": "profile",
+ "people": [
+  {
+   "id": 62,
+   "name": "Mohamad El-Gendy",
+   "institution": "Ciena, San Jose, CA",
+   "year": "2005",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 63,
+   "name": "Songkuk Kim",
+   "institution": "Yonsei University, Korea",
+   "year": "2006",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://scholar.google.com/citations?user=YLKW-eEAAAAJ&hl=en",
+   "students_in_tree": []
+  },
+  {
+   "id": 64,
+   "name": "Hai Huang",
+   "institution": "IBM T.J. Watson Research Center",
+   "year": "2006",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 65,
+   "name": "Jai-Jin Lim",
+   "institution": "Samsung",
+   "year": "2007",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 66,
+   "name": "Wei Sun",
+   "institution": "Google",
+   "year": "2007",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 67,
+   "name": "Abhijit Bose",
+   "institution": "Capital One, NYC",
+   "year": "2008",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 68,
+   "name": "Chang-hao (Howard) Tsai",
+   "institution": "Skytap Cloud",
+   "year": "2008",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 69,
+   "name": "Jian Wu",
+   "institution": "Google",
+   "year": "2008",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 70,
+   "name": "Kyu-Han Kim",
+   "institution": "Echo AI, Palo Alto, CA",
+   "year": "2009",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 71,
+   "name": "Zhigang Chen",
+   "institution": "WuXi AppTec, Chief Digital Officer (CDO)",
+   "year": "2009",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

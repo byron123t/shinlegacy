@@ -1,0 +1,167 @@
+{
+ "batch": "g1-05",
+ "kind": "profile",
+ "people": [
+  {
+   "id": 42,
+   "name": "Seungjae Han",
+   "institution": "Yonsei University, Korea",
+   "year": "1998",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": [
+    "Hyoung-gyu Choi (2014)",
+    "Keon-taek Lee (2015)",
+    "Soo-hoon Moon (2017)"
+   ]
+  },
+  {
+   "id": 43,
+   "name": "Seok-kyu Kweon",
+   "institution": "Digital Watchdog, Korea",
+   "year": "1998",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 44,
+   "name": "Lei (Frank) Zhou",
+   "institution": "Market Axess",
+   "year": "1999",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 45,
+   "name": "Wu-chang Feng",
+   "institution": "Portland State University",
+   "year": "1999",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": [
+    "Chris Chambers (2006)",
+    "Ed Kaiser (2010)"
+   ]
+  },
+  {
+   "id": 46,
+   "name": "Anees Shaikh",
+   "institution": "Google",
+   "year": "1999",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 47,
+   "name": "Ella Atkins (co-advised with Ed Durfee)",
+   "institution": "Virginia Tech (Chair of Aerospace and Ocean Engineering)",
+   "year": "1999",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": [
+    "Jamie Lennon (2006)",
+    "Min Xue (2006)",
+    "Ryan Eubank (2012)",
+    "Ali Nasir (2012)",
+    "Johnhenri Richardson (2013)",
+    "Derrick Yeo (2013)",
+    "Catharine McGhan (2014)",
+    "Heejun Choi (2014)",
+    "Justin Rufa (2014)",
+    "Justin Bradley (2014)",
+    "John Broderick (2015)",
+    "Zhaojian Li (2016)",
+    "Sweewarman Balachandran (2016)",
+    "Pedro di Donato (2017)"
+   ]
+  },
+  {
+   "id": 48,
+   "name": "Tarek Abdelzaher",
+   "institution": "UIUC",
+   "year": "1999",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": [
+    "Ying Lu (2005)",
+    "Ronghua Zhang (2005)",
+    "Shashi Prabh (2006)",
+    "Tibor Horvath (2006)",
+    "Chengdu Huang (2007)",
+    "Liqian Luo (2007)",
+    "Qing (Charles) Cao (2008)",
+    "Raghu Ganti (2010)",
+    "Praveen Jayachandran (2010)",
+    "Jin Heo (2010)",
+    "Nam Pham (2010)",
+    "Yong Yang (2011)",
+    "Hossein Ahmadi (2011)",
+    "Mohammad M. Khan (2011)",
+    "Hieu Le (2012)",
+    "Md Yusuf Uddin (2012)",
+    "Dong Wang (2012)",
+    "Eun Soo Seo (2012)",
+    "Lu Su (2013)",
+    "Fatemeh Saremi (2016)",
+    "Shen Li (2016)",
+    "Md Tanvir Al Amin (2017)",
+    "Shiguang Wang (2017)",
+    "Shaohan Hu (2017)",
+    "Prasanna Giridhar (2018)"
+   ]
+  },
+  {
+   "id": 49,
+   "name": "Sunghyun Choi",
+   "institution": "Samsung Network Business (Executive Vice President; former Professor of Electrical Engineering at SNU, Korea)",
+   "year": "1999",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": [
+    "Sunggeun Jin (2008)",
+    "Youngsoo Kim (2009)",
+    "Seongkwan Kim (2009)",
+    "Youngkyu Choi (2009)",
+    "Jeonggyun Yu (2009)",
+    "Kwanghun Han (2011)",
+    "Dongmyoung Kim (2011)",
+    "Munhwan Choi (2013)",
+    "Edwin Monroy (2014)",
+    "Hyewon Lee (2014)",
+    "Wonbo Lee (2015)",
+    "Okhwan Lee (2015)",
+    "Jongwoo Hong (2016)",
+    "Seungmin Yoo (2016)",
+    "Weiping Sun (2017)",
+    "Yeonchul Shin (2017)",
+    "Jonghoe Koo (2017)",
+    "Seongwon Kim (2017)",
+    "Seongho Byeon (2018)",
+    "Seungil Park (2018)"
+   ]
+  },
+  {
+   "id": 50,
+   "name": "Sung-Whan Moon",
+   "institution": "Samsung Electronics",
+   "year": "2001",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 51,
+   "name": "Xi Zhang",
+   "institution": "Texas A&M University",
+   "year": "2002",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": [
+    "Jia Tang (2006)"
+   ]
+  }
+ ]
+}

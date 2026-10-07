@@ -1,0 +1,627 @@
+{
+ "batch": "g2-02",
+ "people": [
+  {
+   "id": 124,
+   "name": "Eric Keller",
+   "website": {
+    "verdict": "confirmed",
+    "reason": "Loads (200); own page/official profile with matching name and field",
+    "url": "https://eric-keller.github.io/"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "reason": "200 image; single-person headshot; embedded on page_url (verified by viewing)",
+    "image_url": "https://eric-keller.github.io/img/portrait-eric.jpg",
+    "page_url": "https://eric-keller.github.io/"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "reason": "Keller homepage: Professor in ECEE at CU, co-founder and CTO of Navera",
+    "value": "Professor of ECEE, University of Colorado Boulder; co-founder/CTO of Navera"
+   },
+   "bio": null,
+   "students": [
+    {
+     "name": "Bashayer Alharbi",
+     "phd_year": "current",
+     "current_institution": "University of Colorado Boulder",
+     "website": null,
+     "source_url": "https://eric-keller.github.io/",
+     "verdict": "confirmed",
+     "reason": "Keller homepage Students section lists Bashayer Alharbi (current PhD)"
+    },
+    {
+     "name": "Shirin Ebadi",
+     "phd_year": "current",
+     "current_institution": "University of Colorado Boulder",
+     "website": null,
+     "source_url": "https://eric-keller.github.io/",
+     "verdict": "confirmed",
+     "reason": "Keller homepage Students section lists Shirin Ebadi (current PhD)"
+    },
+    {
+     "name": "Sara Daneshvar",
+     "phd_year": "current",
+     "current_institution": "University of Colorado Boulder",
+     "website": null,
+     "source_url": "https://eric-keller.github.io/",
+     "verdict": "confirmed",
+     "reason": "Keller homepage Students section lists Sara Daneshvar (current PhD)"
+    },
+    {
+     "name": "Richard Thompson",
+     "phd_year": "current",
+     "current_institution": "University of Colorado Boulder",
+     "website": null,
+     "source_url": "https://eric-keller.github.io/",
+     "verdict": "confirmed",
+     "reason": "Keller homepage Students section lists Richard Thompson (current PhD)"
+    },
+    {
+     "name": "Victor Jimenez",
+     "phd_year": "current",
+     "current_institution": "University of Colorado Boulder",
+     "website": null,
+     "source_url": "https://eric-keller.github.io/",
+     "verdict": "confirmed",
+     "reason": "Keller homepage Students section lists Victor Jimenez (current PhD)"
+    },
+    {
+     "name": "Erika Hunhoff",
+     "phd_year": "2025",
+     "current_institution": "AMD",
+     "website": null,
+     "source_url": "https://eric-keller.github.io/",
+     "verdict": "confirmed",
+     "reason": "Keller homepage Students section lists Erika Hunhoff (PhD alumni)"
+    },
+    {
+     "name": "Maziyar Nazari",
+     "phd_year": "2025",
+     "current_institution": "Meta",
+     "website": null,
+     "source_url": "https://eric-keller.github.io/",
+     "verdict": "confirmed",
+     "reason": "Keller homepage Students section lists Maziyar Nazari (PhD alumni)"
+    },
+    {
+     "name": "Karl Olson",
+     "phd_year": "2024",
+     "current_institution": "US Military Academy / Army Cyber Institute",
+     "website": null,
+     "source_url": "https://eric-keller.github.io/",
+     "verdict": "confirmed",
+     "reason": "Keller homepage Students section lists Karl Olson (PhD alumni)"
+    },
+    {
+     "name": "Greg Cusack",
+     "phd_year": "2022",
+     "current_institution": "Solana",
+     "website": null,
+     "source_url": "https://eric-keller.github.io/",
+     "verdict": "confirmed",
+     "reason": "Keller homepage Students section lists Greg Cusack (PhD alumni)"
+    },
+    {
+     "name": "Marcelo Abranches",
+     "phd_year": "2022",
+     "current_institution": "CGU (Brazil)",
+     "website": null,
+     "source_url": "https://eric-keller.github.io/",
+     "verdict": "confirmed",
+     "reason": "Keller homepage Students section lists Marcelo Abranches (PhD alumni)"
+    },
+    {
+     "name": "Sepideh Goodarzy",
+     "phd_year": "2022",
+     "current_institution": "Google",
+     "website": null,
+     "source_url": "https://eric-keller.github.io/",
+     "verdict": "confirmed",
+     "reason": "Keller homepage Students section lists Sepideh Goodarzy (PhD alumni)"
+    },
+    {
+     "name": "Mohammad Hashemi",
+     "phd_year": "2021",
+     "current_institution": "Illumina",
+     "website": null,
+     "source_url": "https://eric-keller.github.io/",
+     "verdict": "confirmed",
+     "reason": "Keller homepage Students section lists Mohammad Hashemi (PhD alumni)"
+    },
+    {
+     "name": "Azzam Alsudais",
+     "phd_year": "2020",
+     "current_institution": "King Saud University",
+     "website": null,
+     "source_url": "https://eric-keller.github.io/",
+     "verdict": "confirmed",
+     "reason": "Keller homepage Students section lists Azzam Alsudais (PhD alumni)"
+    }
+   ]
+  },
+  {
+   "id": 125,
+   "name": "Yaping Zhu",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Rexford's page only says joined Google in Oct 2011; no current statement from an official page for Zhu",
+    "value": null
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 126,
+   "name": "Minlan Yu",
+   "website": {
+    "verdict": "confirmed",
+    "reason": "Loads (200); own page/official profile with matching name and field",
+    "url": "https://minlanyu.seas.harvard.edu/"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "reason": "200 image; single-person headshot; embedded on page_url (verified by viewing)",
+    "image_url": "https://minlanyu.seas.harvard.edu/_images/minlanyu.jpg",
+    "page_url": "https://minlanyu.seas.harvard.edu/"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "reason": "Homepage: Gordon McKay Professor of Computer Science at Harvard SEAS",
+    "value": "Gordon McKay Professor of Computer Science, Harvard SEAS"
+   },
+   "bio": null,
+   "students": [
+    {
+     "name": "Yang Zhou",
+     "phd_year": null,
+     "current_institution": "UC Davis (assistant professor; previously postdoc at UC Berkeley)",
+     "website": null,
+     "source_url": "https://minlanyu.seas.harvard.edu/student.html",
+     "verdict": "confirmed",
+     "reason": "Listed under Graduate student Alumni on Yu's students page (no MS label); no year given"
+    },
+    {
+     "name": "Zhiying Xu",
+     "phd_year": null,
+     "current_institution": "Amazon",
+     "website": null,
+     "source_url": "https://minlanyu.seas.harvard.edu/student.html",
+     "verdict": "confirmed",
+     "reason": "Listed under Graduate student Alumni on Yu's students page (no MS label); no year given"
+    },
+    {
+     "name": "Junzhi Gong",
+     "phd_year": null,
+     "current_institution": "Google",
+     "website": null,
+     "source_url": "https://minlanyu.seas.harvard.edu/student.html",
+     "verdict": "confirmed",
+     "reason": "Listed under Graduate student Alumni on Yu's students page (no MS label); no year given"
+    },
+    {
+     "name": "Jiaqi Gao",
+     "phd_year": null,
+     "current_institution": "Alibaba Research",
+     "website": null,
+     "source_url": "https://minlanyu.seas.harvard.edu/student.html",
+     "verdict": "confirmed",
+     "reason": "Listed under Graduate student Alumni on Yu's students page (no MS label); no year given"
+    },
+    {
+     "name": "Sivaram Ramanathan",
+     "phd_year": null,
+     "current_institution": "Meta",
+     "website": null,
+     "source_url": "https://minlanyu.seas.harvard.edu/student.html",
+     "verdict": "confirmed",
+     "reason": "Listed under Graduate student Alumni on Yu's students page (no MS label); no year given"
+    },
+    {
+     "name": "Yuliang Li",
+     "phd_year": null,
+     "current_institution": "Google",
+     "website": null,
+     "source_url": "https://minlanyu.seas.harvard.edu/student.html",
+     "verdict": "confirmed",
+     "reason": "Listed under Graduate student Alumni on Yu's students page (no MS label); no year given"
+    },
+    {
+     "name": "Omid Alipourfard",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://minlanyu.seas.harvard.edu/student.html",
+     "verdict": "confirmed",
+     "reason": "Listed under Graduate student Alumni on Yu's students page (no MS label); no year given"
+    },
+    {
+     "name": "Weifan Jiang",
+     "phd_year": "current",
+     "current_institution": "Harvard University",
+     "website": null,
+     "source_url": "https://minlanyu.seas.harvard.edu/student.html",
+     "verdict": "confirmed",
+     "reason": "Listed under 'Current graduate student' on Yu's students page (MS students are explicitly labelled elsewhere on the page; degree level not stated for this entry)"
+    },
+    {
+     "name": "Chonlam Lao",
+     "phd_year": "current",
+     "current_institution": "Harvard University",
+     "website": null,
+     "source_url": "https://minlanyu.seas.harvard.edu/student.html",
+     "verdict": "confirmed",
+     "reason": "Listed under 'Current graduate student' on Yu's students page (MS students are explicitly labelled elsewhere on the page; degree level not stated for this entry)"
+    },
+    {
+     "name": "Minghao Li",
+     "phd_year": "current",
+     "current_institution": "Harvard University",
+     "website": null,
+     "source_url": "https://minlanyu.seas.harvard.edu/student.html",
+     "verdict": "confirmed",
+     "reason": "Listed under 'Current graduate student' on Yu's students page (MS students are explicitly labelled elsewhere on the page; degree level not stated for this entry)"
+    },
+    {
+     "name": "Xingyu Xiang",
+     "phd_year": "current",
+     "current_institution": "Harvard University",
+     "website": null,
+     "source_url": "https://minlanyu.seas.harvard.edu/student.html",
+     "verdict": "confirmed",
+     "reason": "Listed under 'Current graduate student' on Yu's students page (MS students are explicitly labelled elsewhere on the page; degree level not stated for this entry)"
+    },
+    {
+     "name": "Yiyu Liu",
+     "phd_year": "current",
+     "current_institution": "Harvard University",
+     "website": null,
+     "source_url": "https://minlanyu.seas.harvard.edu/student.html",
+     "verdict": "confirmed",
+     "reason": "Listed under 'Current graduate student' on Yu's students page (MS students are explicitly labelled elsewhere on the page; degree level not stated for this entry)"
+    },
+    {
+     "name": "Xuanlin Jiang",
+     "phd_year": "current",
+     "current_institution": "Harvard University",
+     "website": null,
+     "source_url": "https://minlanyu.seas.harvard.edu/student.html",
+     "verdict": "confirmed",
+     "reason": "Listed under 'Current graduate student' on Yu's students page (MS students are explicitly labelled elsewhere on the page; degree level not stated for this entry)"
+    }
+   ]
+  },
+  {
+   "id": 127,
+   "name": "Martin Suchara",
+   "website": {
+    "verdict": "confirmed",
+    "reason": "Loads (200); own page/official profile with matching name and field",
+    "url": "https://voices.uchicago.edu/suchara"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "reason": "200 image; single-person headshot; embedded on page_url (verified by viewing)",
+    "image_url": "https://voices.uchicago.edu/suchara/files/2021/11/MartinSuchara-300x300.jpg",
+    "page_url": "https://voices.uchicago.edu/suchara"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "reason": "Homepage body states Director of Quantum Applications at IonQ and PhD advisor at UChicago PME (page title tag is stale)",
+    "value": "Director of Quantum Applications, IonQ; PhD advisor at Pritzker School of Molecular Engineering, University of Chicago"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 128,
+   "name": "Sharon Goldberg",
+   "website": {
+    "verdict": "confirmed",
+    "reason": "Loads (200); own page/official profile with matching name and field",
+    "url": "https://www.cs.bu.edu/fac/goldbe/"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "reason": "BU homepage lists Associate Professor, CS, BU (page notes sabbatical; BastionZero not on page, dropped)",
+    "value": "Associate Professor of Computer Science, Boston University"
+   },
+   "bio": null,
+   "students": [
+    {
+     "name": "Ethan Heilman",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://www.cs.bu.edu/fac/goldbe/",
+     "verdict": "confirmed",
+     "reason": "Goldberg homepage 'Postdocs, Students and Visitors' lists Ethan Heilman as BU PhD student; page snapshot, so current institution/year not confirmed"
+    },
+    {
+     "name": "Aanchal Malhotra",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://www.cs.bu.edu/fac/goldbe/",
+     "verdict": "confirmed",
+     "reason": "Goldberg homepage 'Postdocs, Students and Visitors' lists Aanchal Malhotra as BU PhD student; page snapshot, so current institution/year not confirmed"
+    },
+    {
+     "name": "Sarah Scheffler",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://www.cs.bu.edu/fac/goldbe/",
+     "verdict": "confirmed",
+     "reason": "Goldberg homepage 'Postdocs, Students and Visitors' lists Sarah Scheffler as BU PhD student; page snapshot, so current institution/year not confirmed"
+    }
+   ]
+  },
+  {
+   "id": 129,
+   "name": "Haakon Ringberg",
+   "website": {
+    "verdict": "confirmed",
+    "reason": "Loads (200); own page/official profile with matching name and field",
+    "url": "http://haakonringberg.com/"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "reason": "Homepage: senior director of engineering at Google in NYC",
+    "value": "Senior Director of Engineering, Google (New York City)"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 130,
+   "name": "Elliott Karpilovsky",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Rexford's page only says joined Google in summer 2009; no current statement",
+    "value": null
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 131,
+   "name": "Changhoon Kim",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "reason": "Rexford's page: joined Barefoot Networks 2014 and now works at Moloco",
+    "value": "Moloco"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 132,
+   "name": "Rehan Ahmed",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "No loadable source; raw notes admit no verifiable page",
+    "value": null
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 133,
+   "name": "Raed Alqadi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 134,
+   "name": "Devesh Bhimsaria",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 135,
+   "name": "Tai-lin Chin",
+   "website": {
+    "verdict": "confirmed",
+    "reason": "Loads (200); own page/official profile with matching name and field",
+    "url": "http://faculty.csie.ntust.edu.tw/~tchin/"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "reason": "200 image; single-person headshot; embedded on page_url (verified by viewing)",
+    "image_url": "http://faculty.csie.ntust.edu.tw/~tchin/photo.png",
+    "page_url": "http://faculty.csie.ntust.edu.tw/~tchin/"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "reason": "Faculty page: professor, CSIE, National Taiwan University of Science and Technology",
+    "value": "Professor, Dept. of CSIE, National Taiwan University of Science and Technology"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 136,
+   "name": "Constantine Dovrolis",
+   "website": {
+    "verdict": "confirmed",
+    "reason": "Loads (200); own page/official profile with matching name and field",
+    "url": "http://www.cc.gatech.edu/fac/Constantinos.Dovrolis/"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "reason": "200 image; single-person headshot; embedded on page_url (verified by viewing)",
+    "image_url": "https://sites.cc.gatech.edu/fac/Constantinos.Dovrolis/Images/constantine-dovrolis-june2020-face.jpg",
+    "page_url": "https://sites.cc.gatech.edu/fac/Constantinos.Dovrolis/newbanner.html"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "reason": "Advisees page refers to moving to Cyprus in 2023; research focus ML, network science, neuroscience. Cyprus institution not stated",
+    "value": "Professor (moved from Georgia Tech to Cyprus in 2023); machine learning, network science and neuroscience"
+   },
+   "bio": null,
+   "students": [
+    {
+     "name": "Qihang Yao",
+     "phd_year": "2025",
+     "current_institution": "Meta",
+     "website": null,
+     "source_url": "https://sites.cc.gatech.edu/fac/Constantinos.Dovrolis/start_page.html",
+     "verdict": "confirmed",
+     "reason": "Dovrolis advisees list (PhD students) states graduation date and employer matching claim"
+    },
+    {
+     "name": "Mustafa Burak Gürbüz",
+     "phd_year": "2025",
+     "current_institution": "Meta",
+     "website": null,
+     "source_url": "https://sites.cc.gatech.edu/fac/Constantinos.Dovrolis/start_page.html",
+     "verdict": "confirmed",
+     "reason": "Dovrolis advisees list (PhD students) states graduation date and employer matching claim"
+    },
+    {
+     "name": "Cameron Taylor",
+     "phd_year": "2025",
+     "current_institution": "Talon.io",
+     "website": null,
+     "source_url": "https://sites.cc.gatech.edu/fac/Constantinos.Dovrolis/start_page.html",
+     "verdict": "confirmed",
+     "reason": "Dovrolis advisees list (PhD students) states graduation date and employer matching claim"
+    },
+    {
+     "name": "Shreyas Malakarjun Patil",
+     "phd_year": "2024",
+     "current_institution": "Amazon",
+     "website": null,
+     "source_url": "https://sites.cc.gatech.edu/fac/Constantinos.Dovrolis/start_page.html",
+     "verdict": "confirmed",
+     "reason": "Dovrolis advisees list (PhD students) states graduation date and employer matching claim"
+    },
+    {
+     "name": "Kamal Shadi",
+     "phd_year": "2019",
+     "current_institution": "Decooda",
+     "website": null,
+     "source_url": "https://sites.cc.gatech.edu/fac/Constantinos.Dovrolis/start_page.html",
+     "verdict": "confirmed",
+     "reason": "Dovrolis advisees list (PhD students) states graduation date and employer matching claim"
+    },
+    {
+     "name": "Kaeser Md. Sabrin",
+     "phd_year": "2018",
+     "current_institution": "LinkedIn",
+     "website": null,
+     "source_url": "https://sites.cc.gatech.edu/fac/Constantinos.Dovrolis/start_page.html",
+     "verdict": "confirmed",
+     "reason": "Dovrolis advisees list (PhD students) states graduation date and employer matching claim"
+    },
+    {
+     "name": "Payam Siyari",
+     "phd_year": "2018",
+     "current_institution": "Uber",
+     "website": null,
+     "source_url": "https://sites.cc.gatech.edu/fac/Constantinos.Dovrolis/start_page.html",
+     "verdict": "confirmed",
+     "reason": "Dovrolis advisees list (PhD students) states graduation date and employer matching claim"
+    }
+   ]
+  },
+  {
+   "id": 137,
+   "name": "Moncef Elaoud",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 138,
+   "name": "Bechir Hamdaoui",
+   "website": {
+    "verdict": "rejected",
+    "reason": "URL resolves only to a bare Apache 'Index of /~hamdaoui' directory listing, not a homepage",
+    "url": "http://web.engr.oregonstate.edu/~hamdaoui/"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "reason": "200 image; single-person headshot; embedded on page_url (verified by viewing)",
+    "image_url": "https://engineering.oregonstate.edu/sites/engineering.oregonstate.edu/files/styles/1_1_400x400/public/2023-04/profile-bechir-hamdaoui.jpg",
+    "page_url": "https://engineering.oregonstate.edu/people/bechir-hamdaoui"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "reason": "OSU College of Engineering profile: Professor, EECS",
+    "value": "Professor, Electrical Engineering and Computer Science, Oregon State University"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 140,
+   "name": "Chin-ya Huang",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Only 'per record'; no page confirms",
+    "value": null
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 141,
+   "name": "Felix Loh",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 142,
+   "name": "Jayakrishnan Mundarath",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 143,
+   "name": "Arezou Pourmir",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 144,
+   "name": "Ugur Sezer",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  }
+ ]
+}

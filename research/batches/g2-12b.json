@@ -1,0 +1,56 @@
+{
+ "batch": "g2-12b",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 330,
+   "name": "John Broderick",
+   "institution": "Ford",
+   "year": "2015",
+   "advisor": "Ella Atkins (co-advised with Ed Durfee)",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 331,
+   "name": "Zhaojian Li",
+   "institution": "Michigan State University",
+   "year": "2016",
+   "advisor": "Ella Atkins (co-advised with Ed Durfee)",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 332,
+   "name": "Sweewarman Balachandran",
+   "institution": "NASA Langley Research Center and National Institute of Aerospace",
+   "year": "2016",
+   "advisor": "Ella Atkins (co-advised with Ed Durfee)",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 333,
+   "name": "Pedro di Donato",
+   "institution": "National Civil Aviation Agency, Brazil",
+   "year": "2017",
+   "advisor": "Ella Atkins (co-advised with Ed Durfee)",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 334,
+   "name": "Ying Lu",
+   "institution": "University of Nebraska, Lincoln",
+   "year": "2005",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": [
+    "Yijun Lu (2007)",
+    "Anwar Mamat (2011)",
+    "Guangdong Liu (2017)",
+    "Chen He (2018)"
+   ]
+  }
+ ]
+}

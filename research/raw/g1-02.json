@@ -1,0 +1,512 @@
+{
+ "batch": "g1-02",
+ "people": [
+  {
+   "id": 12,
+   "name": "Neil D. McKay",
+   "website": {
+    "url": "https://web.eecs.umich.edu/~mckay/",
+    "source_note": "Personal homepage (U-M EECS), already on record; resolves"
+   },
+   "photo": {
+    "image_url": "https://web.eecs.umich.edu/~mckay/images/neilthumb.jpg",
+    "page_url": "https://web.eecs.umich.edu/~mckay/"
+   },
+   "current_position": "Staff Research Engineer, General Motors Research (retired per record)",
+   "bio": {
+    "summary": "Neil D. McKay earned a Ph.D. in Electrical Engineering from the University of Michigan in 1985 under Kang G. Shin, with a thesis on minimum-cost control of robotic manipulators. McKay then joined General Motors Research labs as a Staff Research Engineer, working on mobile robot control, robot manipulator calibration, computer vision calibration and computer graphics. McKay taught computer graphics at the University of Michigan in Fall 1996.",
+    "research_areas": [
+     "Robot manipulator control and trajectory planning",
+     "Computer vision calibration",
+     "Computer graphics"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1985",
+    "thesis_title": "Minimum-Cost Control of Robotic Manipulators with Geometric Path Constraints",
+    "notable": [],
+    "sources": [
+     "https://web.eecs.umich.edu/~mckay/cv.html"
+    ]
+   },
+   "students": [],
+   "notes": "CV at personal site lists B.S. Rochester 1980, M.S. RPI 1982, Ph.D. Michigan 1985 (advisor Kang G. Shin). Industry researcher; no PhD students found. Web search quota ran out so only direct page fetches were used."
+  },
+  {
+   "id": 13,
+   "name": "Mike H. Woodbury",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched web for Telcordia/Michigan 1988; no identifiable page found. Industry person; no PhD students found. Search quota ran out."
+  },
+  {
+   "id": 14,
+   "name": "Ming-Syan (Frank) Chen",
+   "website": {
+    "url": "https://arbor.ee.ntu.edu.tw/~mschen/",
+    "source_note": "Personal homepage at NTU NetDB Lab"
+   },
+   "photo": {
+    "image_url": "https://homepage.iis.sinica.edu.tw/pages/photo/mschen.jpg",
+    "page_url": "https://homepage.iis.sinica.edu.tw/pages/mschen/vita_en.html"
+   },
+   "current_position": "Distinguished Professor of Electrical Engineering and NTU Chair Professor, National Taiwan University",
+   "bio": {
+    "summary": "Ming-Syan Chen received the M.S. (1985) and Ph.D. (1988) in Computer, Information and Control Engineering from the University of Michigan. Chen was a research staff member at IBM T. J. Watson Research Center (1988-1996), President/CEO of the Institute for Information Industry (2007-2008), and Distinguished Research Fellow at Academia Sinica (2008-2015). Chen is a Distinguished Professor and NTU Chair Professor at National Taiwan University and served as Dean of the College of EECS (2015-2018) and Executive Vice President (2019-2023).",
+    "research_areas": [
+     "Databases",
+     "Data mining",
+     "Machine learning",
+     "Multimedia networking"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1988",
+    "thesis_title": null,
+    "notable": [
+     "IEEE Fellow (2004)",
+     "ACM Fellow (2006)",
+     "Ministry of Education Academic Award (2009)",
+     "NSC Distinguished Research Award"
+    ],
+    "sources": [
+     "https://arbor.ee.ntu.edu.tw/~mschen/",
+     "https://scholars.lib.ntu.edu.tw/handle/123456789/718292",
+     "https://homepage.iis.sinica.edu.tw/pages/mschen/vita_en.html"
+    ]
+   },
+   "students": [
+    {
+     "name": "Yi-Ling Chen",
+     "phd_year": "2017",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/alumni.html",
+     "evidence": "Listed in the Alumni Tree under Professor Ming-Syan Chen on the NetDB Lab (NTU) alumni page"
+    },
+    {
+     "name": "Chung-Kuang Chou",
+     "phd_year": "2017",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/alumni.html",
+     "evidence": "Listed in the Alumni Tree under Professor Ming-Syan Chen on the NetDB Lab (NTU) alumni page"
+    },
+    {
+     "name": "Cheng-Ying Liu",
+     "phd_year": "2017",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/alumni.html",
+     "evidence": "Listed in the Alumni Tree under Professor Ming-Syan Chen on the NetDB Lab (NTU) alumni page"
+    },
+    {
+     "name": "Jiann-Min Ho",
+     "phd_year": "2018",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/alumni.html",
+     "evidence": "Listed in the Alumni Tree under Professor Ming-Syan Chen on the NetDB Lab (NTU) alumni page"
+    },
+    {
+     "name": "Ya-Wen Teng",
+     "phd_year": "2018",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/alumni.html",
+     "evidence": "Listed in the Alumni Tree under Professor Ming-Syan Chen on the NetDB Lab (NTU) alumni page"
+    },
+    {
+     "name": "Chi-Hsuan Wu",
+     "phd_year": "2019",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/alumni.html",
+     "evidence": "Listed in the Alumni Tree under Professor Ming-Syan Chen on the NetDB Lab (NTU) alumni page"
+    },
+    {
+     "name": "Hsi-Wen Chen",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "evidence": "Listed under Ph.D. members of the NetDB Lab (Prof. Ming-Syan Chen) member page; page date unknown"
+    },
+    {
+     "name": "Chin-Yuan Yeh",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "evidence": "Listed under Ph.D. members of the NetDB Lab (Prof. Ming-Syan Chen) member page; page date unknown"
+    },
+    {
+     "name": "Hung-Te Lee",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "evidence": "Listed under Ph.D. members of the NetDB Lab (Prof. Ming-Syan Chen) member page; page date unknown"
+    },
+    {
+     "name": "Rui Fang",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "evidence": "Listed under Ph.D. members of the NetDB Lab (Prof. Ming-Syan Chen) member page; page date unknown"
+    },
+    {
+     "name": "Shih-Hsuan Chiu",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "evidence": "Listed under Ph.D. members of the NetDB Lab (Prof. Ming-Syan Chen) member page; page date unknown"
+    },
+    {
+     "name": "Yen-Hsin Hsu",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "evidence": "Listed under Ph.D. members of the NetDB Lab (Prof. Ming-Syan Chen) member page; page date unknown"
+    },
+    {
+     "name": "Dustin Wu",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "evidence": "Listed under Ph.D. members of the NetDB Lab (Prof. Ming-Syan Chen) member page; page date unknown"
+    },
+    {
+     "name": "Ying-Hua Huang",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "evidence": "Listed under Ph.D. members of the NetDB Lab (Prof. Ming-Syan Chen) member page; page date unknown"
+    },
+    {
+     "name": "Yi-Ting Lee",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "evidence": "Listed under Ph.D. members of the NetDB Lab (Prof. Ming-Syan Chen) member page; page date unknown"
+    },
+    {
+     "name": "Hsiang-Hui Liu",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "evidence": "Listed under Ph.D. members of the NetDB Lab (Prof. Ming-Syan Chen) member page; page date unknown"
+    },
+    {
+     "name": "Yun-Jing Wang",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "evidence": "Listed under Ph.D. members of the NetDB Lab (Prof. Ming-Syan Chen) member page; page date unknown"
+    }
+   ],
+   "notes": "Record says NTU Provost; I could not confirm a Provost role (pages show Distinguished Professor, NTU Chair Professor; EVP 2019-2023). Photo is from an older Academia Sinica vita page (the NTU homepage image Chen02.jpg is a group/banner photo). Alumni tree lists 51 PhD graduates; 45 already in tree, 6 new (2017-2019); also current PhD members listed on member page (date unknown). Searched NetDB alumni and member pages; Math Genealogy not reachable."
+  },
+  {
+   "id": 15,
+   "name": "Tein-Hsien (Mike) Lin",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched web; no identifiable page found. Industry (Oracle); no PhD students found."
+  },
+  {
+   "id": 16,
+   "name": "Jyh-Charn (Steve) Liu",
+   "website": {
+    "url": "https://engineering.tamu.edu/cse/people/jliu",
+    "source_note": "Official TAMU CSE faculty profile"
+   },
+   "photo": {
+    "image_url": "https://engineering.tamu.edu/cse/_files/_images/_profile-images/liu-jyh-charn-steve-profilepic.jpg",
+    "page_url": "https://engineering.tamu.edu/cse/people/jliu"
+   },
+   "current_position": "Professor Emeritus, Computer Science & Engineering, Texas A&M University",
+   "bio": {
+    "summary": "Jyh-Charn (Steve) Liu received the Ph.D. in Electrical and Computer Engineering from the University of Michigan in 1989, after B.S. and M.S. degrees from National Cheng Kung University. Liu joined Texas A&M University in 1989 as assistant professor and is now Professor Emeritus of Computer Science and Engineering. Liu directed the Real Time Distributed Systems Lab, working on real-time distributed computing, cyber-physical systems security and behavior modeling.",
+    "research_areas": [
+     "Real-time distributed systems",
+     "Cyber-physical systems security",
+     "Behavior modeling and simulation"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1989",
+    "thesis_title": null,
+    "notable": [],
+    "sources": [
+     "https://engineering.tamu.edu/cse/people/jliu",
+     "https://rtds.cse.tamu.edu/people/director/"
+    ]
+   },
+   "students": [
+    {
+     "name": "Zelun Wang",
+     "phd_year": "2020",
+     "current_institution": "Snapchat (ML Engineer)",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "evidence": "Listed under Former PhD Students on the Real Time Distributed Systems Lab (director: Jyh-Charn Liu) page"
+    },
+    {
+     "name": "Jason Lin",
+     "phd_year": "2020",
+     "current_institution": "National Chung Hsing University",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "evidence": "Listed under Former PhD Students on the Real Time Distributed Systems Lab (director: Jyh-Charn Liu) page"
+    },
+    {
+     "name": "Guoyu Fu",
+     "phd_year": "2019",
+     "current_institution": "Google",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "evidence": "Listed under Former PhD Students on the Real Time Distributed Systems Lab (director: Jyh-Charn Liu) page"
+    },
+    {
+     "name": "Xing Wang",
+     "phd_year": "2018",
+     "current_institution": "Facebook",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "evidence": "Listed under Former PhD Students on the Real Time Distributed Systems Lab (director: Jyh-Charn Liu) page"
+    },
+    {
+     "name": "Hao Wang",
+     "phd_year": "2013",
+     "current_institution": "Cisco",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "evidence": "Listed under Former PhD Students on the Real Time Distributed Systems Lab (director: Jyh-Charn Liu) page"
+    },
+    {
+     "name": "Shi Pu",
+     "phd_year": "2013",
+     "current_institution": "Microsoft",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "evidence": "Listed under Former PhD Students on the Real Time Distributed Systems Lab (director: Jyh-Charn Liu) page"
+    },
+    {
+     "name": "John Pecarina",
+     "phd_year": "2013",
+     "current_institution": "University of Wisconsin-Madison (Aerospace Studies)",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "evidence": "Listed under Former PhD Students on the Real Time Distributed Systems Lab (director: Jyh-Charn Liu) page"
+    },
+    {
+     "name": "Sheng-Ya Lin",
+     "phd_year": "2013",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "evidence": "Listed under Former PhD Students on the Real Time Distributed Systems Lab (director: Jyh-Charn Liu) page"
+    },
+    {
+     "name": "Hai Xu",
+     "phd_year": "2011",
+     "current_institution": "Halliburton",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "evidence": "Listed under Former PhD Students on the Real Time Distributed Systems Lab (director: Jyh-Charn Liu) page"
+    },
+    {
+     "name": "Huajun Ying",
+     "phd_year": "2011",
+     "current_institution": "Blippar",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "evidence": "Listed under Former PhD Students on the Real Time Distributed Systems Lab (director: Jyh-Charn Liu) page"
+    },
+    {
+     "name": "Pu Duan",
+     "phd_year": "2011",
+     "current_institution": "Cisco",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "evidence": "Listed under Former PhD Students on the Real Time Distributed Systems Lab (director: Jyh-Charn Liu) page"
+    },
+    {
+     "name": "Hong Lu",
+     "phd_year": "2008",
+     "current_institution": "Airbnb",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "evidence": "Listed under Former PhD Students on the Real Time Distributed Systems Lab (director: Jyh-Charn Liu) page"
+    },
+    {
+     "name": "Ming Zhang",
+     "phd_year": "2008",
+     "current_institution": "Google",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "evidence": "Listed under Former PhD Students on the Real Time Distributed Systems Lab (director: Jyh-Charn Liu) page"
+    },
+    {
+     "name": "Tak Cheung Lam",
+     "phd_year": "2008",
+     "current_institution": "Cisco",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "evidence": "Listed under Former PhD Students on the Real Time Distributed Systems Lab (director: Jyh-Charn Liu) page"
+    },
+    {
+     "name": "Sung-Oh Jung",
+     "phd_year": "2005",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "evidence": "Listed under Former PhD Students on the Real Time Distributed Systems Lab (director: Jyh-Charn Liu) page"
+    },
+    {
+     "name": "Di Wu",
+     "phd_year": "2005",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "evidence": "Listed under Former PhD Students on the Real Time Distributed Systems Lab (director: Jyh-Charn Liu) page"
+    },
+    {
+     "name": "Yong Xiong",
+     "phd_year": "2004",
+     "current_institution": "Fannie Mae",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "evidence": "Listed under Former PhD Students on the Real Time Distributed Systems Lab (director: Jyh-Charn Liu) page"
+    },
+    {
+     "name": "Stephen George",
+     "phd_year": "2014",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "evidence": "Listed under Former PhD Students on the Real Time Distributed Systems Lab (director: Jyh-Charn Liu) page"
+    }
+   ],
+   "notes": "Student list from lab Former Students page (also lab site https://rtds.cse.tamu.edu/). All 18 PhD graduates new to tree. Some may have co-advisors."
+  },
+  {
+   "id": 17,
+   "name": "Parameswaran Ramanathan",
+   "website": {
+    "url": "https://ramanathan.ece.wisc.edu/",
+    "source_note": "Personal homepage, on record, resolves"
+   },
+   "photo": {
+    "image_url": "https://ramanathan.ece.wisc.edu/wp-content/uploads/sites/699/2016/07/ramanathan_parmesh1-200x300.jpg",
+    "page_url": "https://ramanathan.ece.wisc.edu/"
+   },
+   "current_position": "Professor and Vilas Distinguished Achievement Professor of Electrical and Computer Engineering, University of Wisconsin-Madison",
+   "bio": {
+    "summary": "Parameswaran (Parmesh) Ramanathan received the Ph.D. in Computer Science and Engineering from the University of Michigan in 1989, after an M.S.E. (1986) there and a B.Tech. from IIT Bombay (1984). Ramanathan joined UW-Madison in 1989 and chaired the ECE department from 2005 to 2009. Research spans ultrafast networks, millimeter-wave wireless sensing, smart grid technology and genomic networks.",
+    "research_areas": [
+     "Real-time systems and networks",
+     "Millimeter-wave wireless sensing",
+     "Smart grid",
+     "Genomic networks"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1989",
+    "thesis_title": null,
+    "notable": [
+     "IEEE Fellow",
+     "Vilas Distinguished Achievement Professor",
+     "ECE department chair 2005-2009"
+    ],
+    "sources": [
+     "https://ramanathan.ece.wisc.edu/",
+     "https://engineering.wisc.edu/directory/profile/parmesh-ramanathan"
+    ]
+   },
+   "students": [],
+   "notes": "Tree already has 22 students; Math Genealogy page showed only Dovrolis (already in tree); homepage lists no alumni. No new students found."
+  },
+  {
+   "id": 18,
+   "name": "Dar-Tzen Peng",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched web for Gogo/Michigan 1990; no identifiable page found. Industry; no PhD students found."
+  },
+  {
+   "id": 19,
+   "name": "Sunggu Lee",
+   "website": {
+    "url": "https://esa.postech.ac.kr/esa/mem/member.do",
+    "source_note": "POSTECH Embedded System Architecture Lab member page (record URL not verified)"
+   },
+   "photo": {
+    "image_url": "https://esa.postech.ac.kr/_res/postech/esa/img/Dr.%20Sunggu%20Lee.jpg",
+    "page_url": "https://esa.postech.ac.kr/esa/mem/member.do"
+   },
+   "current_position": "Professor, Electrical Engineering, POSTECH",
+   "bio": {
+    "summary": "Sunggu Lee is a professor at POSTECH and principal investigator of the Embedded System Architecture Laboratory. Lee earned a B.S. in Electrical Engineering from the University of Kansas (1985), and an M.S. (1987) and Ph.D. (1990) from the University of Michigan. Research covers wireless ad hoc networking, grid computing and real-time computing.",
+    "research_areas": [
+     "Wireless ad hoc networking",
+     "High-performance (grid) computing",
+     "Real-time computing"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1990",
+    "thesis_title": null,
+    "notable": [],
+    "sources": [
+     "https://eee.postech.ac.kr/en-people/en-professor/view.php?id=323",
+     "https://esa.postech.ac.kr/esa/mem/member.do"
+    ]
+   },
+   "students": [
+    {
+     "name": "Sanghyeon Ju",
+     "phd_year": "current",
+     "current_institution": "POSTECH",
+     "website": null,
+     "source_url": "https://esa.postech.ac.kr/esa/mem/member.do",
+     "evidence": "Listed as Ph.D. Candidate (2022-present) under Dr. Sunggu Lee, PI, on ESA lab member page"
+    }
+   ],
+   "notes": "Lab page lists only current students (one PhD candidate: Sanghyeon Ju, 2022-present; not added as the lab page does not label advisor beyond PI). Ho-Won Kim already in tree."
+  },
+  {
+   "id": 20,
+   "name": "Dilip Kandlur",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Search found DBLP entries only; no profile page confirmed; web search quota ran out. Likely industry (IBM Research); no PhD students found."
+  },
+  {
+   "id": 21,
+   "name": "Yi-Chieh Chang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Search found only co-authored papers with Shin; no profile confirmed. Industry (Sunplus); no PhD students found."
+  }
+ ]
+}

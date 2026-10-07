@@ -1,0 +1,58 @@
+{
+ "batch": "g2-10a",
+ "people": [
+  {
+   "id": 285,
+   "name": "Ilias Foundalis",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget exhausted (200/200) before any search ran; only the on-record site was fetched. Nothing else verified."
+  },
+  {
+   "id": 286,
+   "name": "Ho-Won Kim",
+   "website": {
+    "url": "http://infosec.pusan.ac.kr/",
+    "source_note": "Website on record; fetched, resolves to 'Information Security and Physical AI Laboratory' (Pusan National University)"
+   },
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget exhausted (200/200) before any search ran; only the on-record site was fetched. Nothing else verified. No student or photo info extracted from the page."
+  },
+  {
+   "id": 287,
+   "name": "Donggeon Lee",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget exhausted (200/200) before any search ran; only the on-record site was fetched. Nothing else verified."
+  },
+  {
+   "id": 288,
+   "name": "Hwajeong Seo",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget exhausted (200/200) before any search ran; only the on-record site was fetched. Nothing else verified."
+  },
+  {
+   "id": 289,
+   "name": "Jongseok Choi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget exhausted (200/200) before any search ran; only the on-record site was fetched. Nothing else verified."
+  }
+ ]
+}

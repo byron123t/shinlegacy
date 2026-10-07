@@ -1,0 +1,186 @@
+{
+ "batch": "g2-05",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 185,
+   "name": "Niaz Ahmad",
+   "institution": "Toronto Metropolitan University)",
+   "year": "",
+   "advisor": "Youngmoon Lee",
+   "website_on_record": "https://sites.google.com/view/niazahmad/home",
+   "students_in_tree": []
+  },
+  {
+   "id": 186,
+   "name": "Chanyeok Choi",
+   "institution": "CTO @ D.DDECK",
+   "year": "",
+   "advisor": "Youngmoon Lee",
+   "website_on_record": "https://www.linkedin.com/in/chanyeok-choi-b0b637117/",
+   "students_in_tree": []
+  },
+  {
+   "id": 187,
+   "name": "Jawad Khan",
+   "institution": "Gachon University",
+   "year": "",
+   "advisor": "Youngmoon Lee",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 188,
+   "name": "Donghyun Kwon",
+   "institution": "Co-Founder @  KnL Robotics",
+   "year": "",
+   "advisor": "Youngmoon Lee",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 189,
+   "name": "Seunghwan Lee",
+   "institution": "Founder @  KnL Robotics",
+   "year": "",
+   "advisor": "Youngmoon Lee",
+   "website_on_record": "https://www.linkedin.com/in/seunghwan-lee-6b140320a/",
+   "students_in_tree": []
+  },
+  {
+   "id": 190,
+   "name": "Jeremy Yuhyun Kim",
+   "institution": "Research Engineer @ A Robot",
+   "year": "",
+   "advisor": "Youngmoon Lee",
+   "website_on_record": "https://www.linkedin.com/in/jeremy-yuhyun-kim/",
+   "students_in_tree": []
+  },
+  {
+   "id": 191,
+   "name": "Saif Ullah",
+   "institution": "",
+   "year": "",
+   "advisor": "Youngmoon Lee",
+   "website_on_record": "https://www.linkedin.com/in/saif-ullah-830909198/",
+   "students_in_tree": []
+  },
+  {
+   "id": 192,
+   "name": "Gyurin Kim",
+   "institution": "",
+   "year": "",
+   "advisor": "Youngmoon Lee",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 193,
+   "name": "Zahra Batool Jaffrey",
+   "institution": "",
+   "year": "",
+   "advisor": "Youngmoon Lee",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 194,
+   "name": "Jaehwan Cho",
+   "institution": "",
+   "year": "",
+   "advisor": "Youngmoon Lee",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 195,
+   "name": "Siyuan Wang",
+   "institution": "",
+   "year": "",
+   "advisor": "Dongyao Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 196,
+   "name": "Jike Wang",
+   "institution": "",
+   "year": "",
+   "advisor": "Dongyao Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 197,
+   "name": "Zhenyu Chen",
+   "institution": "",
+   "year": "",
+   "advisor": "Dongyao Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 198,
+   "name": "Khaled Hadi",
+   "institution": "Kuwait University",
+   "year": "2009",
+   "advisor": "C. Mani Krishna",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 199,
+   "name": "Deming Liu",
+   "institution": "Cisco",
+   "year": "2004",
+   "advisor": "Yann-Hang Lee",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 200,
+   "name": "Jin Wook Lee",
+   "institution": "Samsung",
+   "year": "2005",
+   "advisor": "Yann-Hang Lee",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 201,
+   "name": "Okehee Goh",
+   "institution": "Motorola",
+   "year": "2006",
+   "advisor": "Yann-Hang Lee",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 202,
+   "name": "Moncef Hamdaoui",
+   "institution": "Nortel",
+   "year": "1994",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 203,
+   "name": "Wei Zhou",
+   "institution": "Cisco",
+   "year": "2009",
+   "advisor": "Daji Qiao",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 204,
+   "name": "Guanqun Yang",
+   "institution": "Amazon",
+   "year": "2010",
+   "advisor": "Daji Qiao",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

@@ -1,0 +1,186 @@
+{
+ "batch": "g2-07",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 225,
+   "name": "Seungmin Yoo",
+   "institution": "Samsung",
+   "year": "2016",
+   "advisor": "Sunghyun Choi",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 226,
+   "name": "Weiping Sun",
+   "institution": "Nanyang Technological University",
+   "year": "2017",
+   "advisor": "Sunghyun Choi",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 227,
+   "name": "Yeonchul Shin",
+   "institution": "Samsung",
+   "year": "2017",
+   "advisor": "Sunghyun Choi",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 228,
+   "name": "Jonghoe Koo",
+   "institution": "Samsung Research",
+   "year": "2017",
+   "advisor": "Sunghyun Choi",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 229,
+   "name": "Seongwon Kim",
+   "institution": "Seoul National University",
+   "year": "2017",
+   "advisor": "Sunghyun Choi",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 230,
+   "name": "Seongho Byeon",
+   "institution": "Samsung Research",
+   "year": "2018",
+   "advisor": "Sunghyun Choi",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 231,
+   "name": "Seungil Park",
+   "institution": "Samsung Research",
+   "year": "2018",
+   "advisor": "Sunghyun Choi",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 232,
+   "name": "Wen-Chih Peng",
+   "institution": "National Chiao Tung University",
+   "year": "2001",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 233,
+   "name": "Jen-Chan Liu",
+   "institution": "Chi Nan University",
+   "year": "2002",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 234,
+   "name": "Chang-Hung Lee",
+   "institution": "",
+   "year": "2002",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 235,
+   "name": "Cheng-Yue Chang",
+   "institution": "Arcadyan",
+   "year": "2002",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 236,
+   "name": "Cheng-Ru Lin",
+   "institution": "",
+   "year": "2003",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 237,
+   "name": "Hung-Yu Kao",
+   "institution": "National Cheng Kung University",
+   "year": "2003",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 238,
+   "name": "Chih-Lin Hu",
+   "institution": "National Central University",
+   "year": "2003",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 239,
+   "name": "Jin-Long Huang",
+   "institution": "National Chiao Tung University",
+   "year": "2003",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 240,
+   "name": "Wei-Guang Teng",
+   "institution": "National Cheng Kung University",
+   "year": "2004",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 241,
+   "name": "Chia-Chen Kuo",
+   "institution": "",
+   "year": "2004",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 242,
+   "name": "Ching-Huang Yun",
+   "institution": "I-Shou University",
+   "year": "2005",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 243,
+   "name": "Xin-Mao Huang",
+   "institution": "Aletheia University",
+   "year": "2005",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 244,
+   "name": "Ming-Jih Hsieh",
+   "institution": "",
+   "year": "2006",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

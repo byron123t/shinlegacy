@@ -1,0 +1,377 @@
+{
+ "batch": "g2-07",
+ "people": [
+  {
+   "id": 225,
+   "name": "Seungmin Yoo",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "unverifiable",
+    "value": null,
+    "reason": "Only source was an archived SNU alumni page with no URL given; could not be loaded (mwnl.snu.ac.kr unreachable)"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 226,
+   "name": "Weiping Sun",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "unverifiable",
+    "value": null,
+    "reason": "Only source was an archived SNU alumni page with no URL given; could not be loaded (mwnl.snu.ac.kr unreachable)"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 227,
+   "name": "Yeonchul Shin",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "unverifiable",
+    "value": null,
+    "reason": "Only source was an archived SNU alumni page with no URL given; could not be loaded (mwnl.snu.ac.kr unreachable)"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 228,
+   "name": "Jonghoe Koo",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "unverifiable",
+    "value": null,
+    "reason": "Only source was an archived SNU alumni page with no URL given; could not be loaded (mwnl.snu.ac.kr unreachable)"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 229,
+   "name": "Seongwon Kim",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "unverifiable",
+    "value": null,
+    "reason": "Only source was an archived SNU alumni page with no URL given; could not be loaded (mwnl.snu.ac.kr unreachable)"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 230,
+   "name": "Seongho Byeon",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "unverifiable",
+    "value": null,
+    "reason": "Only source was an archived SNU alumni page with no URL given; could not be loaded (mwnl.snu.ac.kr unreachable)"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 231,
+   "name": "Seungil Park",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "unverifiable",
+    "value": null,
+    "reason": "Only source was an archived SNU alumni page with no URL given; could not be loaded (mwnl.snu.ac.kr unreachable)"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 232,
+   "name": "Wen-Chih Peng",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://sites.google.com/site/wcpeng/",
+    "reason": "Google Sites homepage of Wen-Chih Peng, Professor, Dept. of CS, NYCU"
+   },
+   "photo": {
+    "verdict": "rejected",
+    "image_url": null,
+    "page_url": "https://sites.google.com/site/wcpeng/",
+    "reason": "Image URL returns HTTP 403 text/html via curl (not image/*); also page-embedded src could not be matched; photo not viewable"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Professor, Department of Computer Science, National Yang Ming Chiao Tung University",
+    "reason": "Homepage states Professor, Department of Computer Science, National Yang Ming Chiao Tung University"
+   },
+   "bio": null,
+   "students": [
+    {
+     "name": "Chih-Yu Lin",
+     "phd_year": "2007",
+     "current_institution": "National Chiao Tung University",
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "verdict": "confirmed",
+     "reason": "Listed on Peng's 'Ph.D supervised' page with matching year and affiliation"
+    },
+    {
+     "name": "Chih-Chieh Hung",
+     "phd_year": "2011",
+     "current_institution": "Rakuten Inc., Japan",
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "verdict": "confirmed",
+     "reason": "Listed on Peng's 'Ph.D supervised' page with matching year and affiliation"
+    },
+    {
+     "name": "Po-Ruey Lei",
+     "phd_year": "2012",
+     "current_institution": "National Defense University",
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "verdict": "confirmed",
+     "reason": "Listed on Peng's 'Ph.D supervised' page with matching year and affiliation"
+    },
+    {
+     "name": "Ling-Yin Wei",
+     "phd_year": "2012",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "verdict": "confirmed",
+     "reason": "Listed on Peng's 'Ph.D supervised' page with matching year"
+    },
+    {
+     "name": "Yi-Cheng Chen",
+     "phd_year": "2012",
+     "current_institution": "Tamkang University",
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "verdict": "confirmed",
+     "reason": "Listed on Peng's 'Ph.D supervised' page with matching year and affiliation"
+    },
+    {
+     "name": "Meng-Fen Chiang",
+     "phd_year": "2012",
+     "current_institution": "Yahoo Taiwan",
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "verdict": "confirmed",
+     "reason": "Listed on Peng's 'Ph.D supervised' page with matching year and affiliation"
+    },
+    {
+     "name": "Zhung-Xun Liao",
+     "phd_year": "2013",
+     "current_institution": "Yahoo Taiwan",
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "verdict": "confirmed",
+     "reason": "Listed on Peng's 'Ph.D supervised' page with matching year and affiliation"
+    },
+    {
+     "name": "Wen-Yuan Zhu",
+     "phd_year": "2016",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "verdict": "confirmed",
+     "reason": "Listed on Peng's 'Ph.D supervised' page with matching year"
+    },
+    {
+     "name": "Chien-Cheng Chen",
+     "phd_year": "2017",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "verdict": "confirmed",
+     "reason": "Listed on Peng's 'Ph.D supervised' page with matching year"
+    },
+    {
+     "name": "Gunarto Sindoro Njoo",
+     "phd_year": "2019",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "verdict": "confirmed",
+     "reason": "Listed on Peng's 'Ph.D supervised' page with matching year"
+    },
+    {
+     "name": "Yu-Ting Wen",
+     "phd_year": "2019",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "verdict": "confirmed",
+     "reason": "Listed on Peng's 'Ph.D supervised' page with matching year"
+    },
+    {
+     "name": "Wei-Yao Wang",
+     "phd_year": "2024",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "verdict": "confirmed",
+     "reason": "Listed on Peng's 'Ph.D supervised' page with matching year"
+    },
+    {
+     "name": "Hui-Kuo Yang",
+     "phd_year": "2024",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "verdict": "confirmed",
+     "reason": "Listed on Peng's 'Ph.D supervised' page with matching year"
+    },
+    {
+     "name": "Chiao-Ting Chen",
+     "phd_year": "2024",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "verdict": "confirmed",
+     "reason": "Listed on Peng's 'Ph.D supervised' page with matching year"
+    }
+   ]
+  },
+  {
+   "id": 233,
+   "name": "Jen-Chan Liu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 234,
+   "name": "Chang-Hung Lee",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 235,
+   "name": "Cheng-Yue Chang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 236,
+   "name": "Cheng-Ru Lin",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 237,
+   "name": "Hung-Yu Kao",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://isa.site.nthu.edu.tw/p/406-1182-272217,r4919.php?Lang=en",
+    "reason": "NTHU official faculty profile of Hung-Yu Kao, Professor, PhD National Taiwan University"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Professor, Institute of Information Systems and Applications, National Tsing Hua University",
+    "reason": "Profile lists Professor at NTHU ISA; Computer Science department and prior NCKU post not shown on page, dropped"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 238,
+   "name": "Chih-Lin Hu",
+   "website": {
+    "verdict": "unverifiable",
+    "url": null,
+    "reason": "http/https redirect loop (302/308), page never loads"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "unverifiable",
+    "value": null,
+    "reason": "Official page could not be loaded"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 239,
+   "name": "Jin-Long Huang",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://people.cs.nycu.edu.tw/~jlhuang/",
+    "reason": "Homepage of Jiun-Long Huang (name variant), Professor of CS, PhD EE NTU 2003; on NYCU domain"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Professor, Department of Computer Science, National Yang Ming Chiao Tung University",
+    "reason": "Page on people.cs.nycu.edu.tw lists Professor, Dept. of CS (page text still says National Chiao Tung University, NYCU's predecessor)"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 240,
+   "name": "Wei-Guang Teng",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 241,
+   "name": "Chia-Chen Kuo",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 242,
+   "name": "Ching-Huang Yun",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 243,
+   "name": "Xin-Mao Huang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 244,
+   "name": "Ming-Jih Hsieh",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  }
+ ]
+}

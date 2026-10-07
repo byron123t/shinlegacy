@@ -1,0 +1,186 @@
+{
+ "batch": "g2-01",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 103,
+   "name": "Yue Gao",
+   "institution": "Google Deepmind",
+   "year": "2025",
+   "advisor": "Kassem Fawaz",
+   "website_on_record": "https://pages.cs.wisc.edu/~gy/",
+   "students_in_tree": []
+  },
+  {
+   "id": 104,
+   "name": "Yucheng Yang",
+   "institution": "Meta",
+   "year": "2025",
+   "advisor": "Kassem Fawaz",
+   "website_on_record": "https://wiscprivacy.com/member/member_yucheng/",
+   "students_in_tree": []
+  },
+  {
+   "id": 105,
+   "name": "Varun Chandrasekaran",
+   "institution": "University of Illinois Urbana-Champaign",
+   "year": "2023",
+   "advisor": "Kassem Fawaz",
+   "website_on_record": "https://ece.illinois.edu/about/directory/faculty/varunc",
+   "students_in_tree": []
+  },
+  {
+   "id": 106,
+   "name": "Wen Xu",
+   "institution": "Google",
+   "year": "2009",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 107,
+   "name": "Jiayue He",
+   "institution": "McKinsey",
+   "year": "2008",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 108,
+   "name": "Yi Wang",
+   "institution": "Google",
+   "year": "2009",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 110,
+   "name": "Mengying Pan",
+   "institution": "Databricks",
+   "year": "2025",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 111,
+   "name": "Yufei Zheng",
+   "institution": "University of Massachusetts at Amherst",
+   "year": "2024",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 112,
+   "name": "Mary Hogan",
+   "institution": "Oberlin College",
+   "year": "2024",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "https://cs.oberlin.edu/~mhogan/",
+   "students_in_tree": []
+  },
+  {
+   "id": 113,
+   "name": "Xiaoqi Chen",
+   "institution": "VMware Research",
+   "year": "2023",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "https://engineering.purdue.edu/~xiaoqic/",
+   "students_in_tree": []
+  },
+  {
+   "id": 114,
+   "name": "Jennifer Gossels",
+   "institution": "Chicago Cubs",
+   "year": "2020",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 115,
+   "name": "Mina Tahmasbi Arashloo",
+   "institution": "Cornell",
+   "year": "2019",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 116,
+   "name": "Robert Harrison",
+   "institution": "West Point",
+   "year": "2019",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "https://www.westpoint.edu/rob-harrison",
+   "students_in_tree": []
+  },
+  {
+   "id": 117,
+   "name": "Mojgan Ghasemi",
+   "institution": "Akamai",
+   "year": "2017",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 118,
+   "name": "Naga Katta",
+   "institution": "Salesforce",
+   "year": "2016",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "https://nkatta.github.io/",
+   "students_in_tree": []
+  },
+  {
+   "id": 119,
+   "name": "Xin Jin",
+   "institution": "UC Berkeley",
+   "year": "2016",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "https://xinjin.github.io/",
+   "students_in_tree": []
+  },
+  {
+   "id": 120,
+   "name": "Srinivas Narayana",
+   "institution": "MIT",
+   "year": "2016",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "https://people.cs.rutgers.edu/~sn624/",
+   "students_in_tree": []
+  },
+  {
+   "id": 121,
+   "name": "Nanxi Kang",
+   "institution": "Databricks",
+   "year": "2015",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 122,
+   "name": "Peng Sun",
+   "institution": "VMware",
+   "year": "2015",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "https://www.pengsun.org/",
+   "students_in_tree": []
+  },
+  {
+   "id": 123,
+   "name": "Wenjie (Joe) Jiang",
+   "institution": "Google",
+   "year": "2012",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

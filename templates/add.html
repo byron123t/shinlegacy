@@ -1,54 +1,22 @@
 {% extends "base.html" %}
+{% block title %}Add a person · Kang G. Shin Academic Family Tree{% endblock %}
 {% block content %}
 <section class="panel narrow">
-  <h1>Add yourself to the tree</h1>
+  <h1>Add to the tree</h1>
+  <p class="sub" style="color: var(--muted)">Add yourself or a student. You'll be taken to their spot in the tree afterwards.</p>
   <form method="post" action="{{ url_for('add_post') }}" class="form">
-    <label>
-      Your name *
-      <input type="text" name="name" required placeholder="e.g., Ada Lovelace">
-    </label>
-
-    <label>
-      Institution
-      <input type="text" name="institution" placeholder="e.g., University of Example">
-    </label>
-
-    <label>
-      Year (free-form)
-      <input type="text" name="year" placeholder="e.g., PhD 2023">
-    </label>
-
-    <label>
-      Personal / Scholar URL
-      <input type="url" name="url" placeholder="https://…">
-    </label>
-
-    <label>
-      Advisor / Parent node *
-      <div class="typeahead">
-        <input
-          type="text"
-          id="parentInput"
-          required
-          placeholder="Start typing a name…"
-          autocomplete="off"
-          aria-autocomplete="list"
-          aria-controls="parentList"
-          aria-expanded="false"
-          aria-haspopup="listbox"
-          aria-describedby="parentHelp"
-        >
-        <input type="hidden" name="advisor_id" id="advisorId">
-        <div id="parentList" class="typeahead-list" role="listbox" hidden></div>
-        <div id="parentError" class="error" hidden>Please choose a match from the list.</div>
-        <p id="parentHelp" class="hint">Pick an existing person; free text is not allowed.</p>
-      </div>
-    </label>
-
-    <button type="submit">Add to tree</button>
+    {% set person = none %}
+    {% set show_advisor = true %}
+    {% set initial_advisor_id = advisor.id if advisor else none %}
+    {% include "_person_fields.html" %}
+    <div class="actions">
+      <a class="btn" href="{{ url_for('index') }}">Cancel</a>
+      <button class="btn primary" type="submit">Add to tree</button>
+    </div>
   </form>
 </section>
+{% endblock %}
 
-<!-- Add this at the end of the template block, after the form -->
+{% block scripts %}
 <script src="{{ url_for('static', filename='js/add.js') }}"></script>
 {% endblock %}

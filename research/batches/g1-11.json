@@ -1,0 +1,15 @@
+{
+ "batch": "g1-11",
+ "kind": "profile",
+ "people": [
+  {
+   "id": 102,
+   "name": "Youssef Tobah",
+   "institution": "MIT Lincoln Lab",
+   "year": "2024",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

@@ -1,0 +1,400 @@
+{
+ "batch": "g1-05",
+ "people": [
+  {
+   "id": 42,
+   "name": "Seungjae Han",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 43,
+   "name": "Seok-kyu Kweon",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 44,
+   "name": "Lei (Frank) Zhou",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 45,
+   "name": "Wu-chang Feng",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://thefengs.com/wuchang/",
+    "reason": "Loads (200); personal page of Wu-chang Feng, professor in CS at Portland State; matches PSU profile (wuchang@pdx.edu, CTFs, CyberPDX, Saturday Academy)"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://s3-us-west-2.amazonaws.com/oam.pdx.edu/profiles/wuchang.png",
+    "page_url": "https://www.pdx.edu/engineering/profile/wu-chang-feng",
+    "reason": "200 image/png; PSU profile names him and embeds this img src (alt Wu-chang Feng); single-person circular headshot"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Professor of Computer Science, Portland State University",
+    "reason": "PSU Maseeh College faculty profile: Professor, Computer Science"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Wu-chang Feng is a Professor of Computer Science in the Maseeh College of Engineering and Computer Science at Portland State University. Research and teaching focus on cloud computing, networking and security, including security education through CTFs, codelabs and outreach (CyberPDX, Saturday Academy). Received a B.S. from Penn State and a Ph.D. from the University of Michigan in 1999.",
+    "research_areas": [
+     "Cloud computing",
+     "Networking",
+     "Security",
+     "Security education"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1999",
+    "thesis_title": "Improving Internet Congestion Control and Queue Management Algorithms",
+    "notable": [
+     "Google Cloud Platform Faculty Expert",
+     "AWS Educate Cloud Ambassador"
+    ],
+    "sources": [
+     "https://www.pdx.edu/engineering/profile/wu-chang-feng",
+     "https://thefengs.com/wuchang/",
+     "https://rtcl.eecs.umich.edu/rtclweb/assets/dissertations/1999/feng_thesis.pdf"
+    ],
+    "reason": "All fields confirmed; thesis PDF opened: title, author Wu-chang Feng, 1999, Doctoral Committee 'Professor Kang G. Shin, Chair'"
+   },
+   "students": []
+  },
+  {
+   "id": 46,
+   "name": "Anees Shaikh",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "value": null,
+    "reason": "Only source is a Tech Field Day event bio (third-party, undated): says Network Architecture team at Google but gives no title; 'Senior Staff Engineer / Network Architect' not confirmed and page is not a current official page"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 47,
+   "name": "Ella Atkins (co-advised with Ed Durfee)",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://aoe.vt.edu/people/faculty/ella-atkins.html",
+    "reason": "VT AOE faculty page loads; Ella Atkins, Department Head; Ph.D. 1999 U-Michigan CSE"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://www.aoe.vt.edu/content/aoe_vt_edu/en/people/faculty/ella-atkins/_jcr_content/bio-image.transform/m-medium/image.jpg",
+    "page_url": "https://aoe.vt.edu/people/faculty/ella-atkins.html",
+    "reason": "200 image/jpeg; page embeds bio-image.transform (srcset, same image at several sizes); single-person portrait"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Fred D. Durham Chair in Engineering and Head, Kevin T. Crofton Department of Aerospace and Ocean Engineering, Virginia Tech",
+    "reason": "VT AOE faculty page"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Ella Atkins is head of the Kevin T. Crofton Department of Aerospace and Ocean Engineering at Virginia Tech and holds the Fred D. Durham Chair in Engineering. Earlier a professor of aerospace engineering at the University of Michigan, directing the Autonomous Aerospace Systems Lab, with a year as technical fellow at Collins Aerospace. Research covers AI-enabled autonomy, flight planning and control for uncrewed aircraft and advanced air mobility.",
+    "research_areas": [
+     "Autonomous aerospace systems",
+     "Unmanned aircraft systems",
+     "Flight planning and control",
+     "Advanced air mobility",
+     "Robotics"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1999",
+    "thesis_title": "Plan Generation and Hard Real-time Execution with Application to Safe, Autonomous Flight",
+    "notable": [
+     "AIAA Fellow (2019)",
+     "AIAA Intelligent Systems Award (2022)",
+     "U-M Robotics Leadership Award (2020)",
+     "NSF CAREER Award",
+     "Editor-in-Chief, Journal of Aerospace Information Systems"
+    ],
+    "sources": [
+     "https://en.wikipedia.org/wiki/Ella_Atkins",
+     "https://aoe.vt.edu/people/faculty/ella-atkins.html",
+     "https://news.vt.edu/articles/2022/05/atkins-department-head-aerospace-ocean-engineering.html"
+    ],
+    "reason": "All confirmed via VT page, VT news (Collins technical fellow, awards) and Wikipedia (thesis title, jointly supervised by Shin and Durfee)"
+   },
+   "students": []
+  },
+  {
+   "id": 48,
+   "name": "Tarek Abdelzaher",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://abdelzaher.cs.illinois.edu",
+    "reason": "Loads; Tarek Abdelzaher, Professor of Computer Science, University of Illinois, CyPhy Group"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://abdelzaher.cs.illinois.edu/images/tarek2.png",
+    "page_url": "https://abdelzaher.cs.illinois.edu",
+    "reason": "200 image/png; homepage embeds images/tarek2.png; single-person headshot (alt text empty, but it is the personal homepage)"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Sohaib and Sara Abbasi Professor of Computer Science, University of Illinois Urbana-Champaign",
+    "reason": "Homepage says Professor of Computer Science, University of Illinois; Abbasi title from Wikipedia"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Tarek Abdelzaher is the Sohaib and Sara Abbasi Professor of Computer Science at the University of Illinois Urbana-Champaign. Research spans real-time computing, cyber-physical systems, social sensing, IoT and edge AI. Received a Ph.D. from the University of Michigan in 1999 under Kang G. Shin and served as Editor-in-Chief of the Journal of Real-Time Systems for 20 years.",
+    "research_areas": [
+     "Real-time systems",
+     "Cyber-physical systems",
+     "Social sensing",
+     "Internet of Things",
+     "Edge AI"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1999",
+    "thesis_title": null,
+    "notable": [
+     "ACM Fellow (2019)",
+     "IEEE Fellow (2021)",
+     "Xerox Award for Faculty Research (2011)",
+     "IEEE TCRTS Outstanding Technical Achievement and Leadership Award (2012)",
+     "Editor-in-Chief, Journal of Real-Time Systems"
+    ],
+    "sources": [
+     "https://abdelzaher.cs.illinois.edu",
+     "https://en.wikipedia.org/wiki/Tarek_Abdelzaher"
+    ],
+    "reason": "Confirmed against homepage and Wikipedia"
+   },
+   "students": [
+    {
+     "name": "Shuochao Yao",
+     "verdict": "confirmed",
+     "phd_year": null,
+     "current_institution": "George Mason University",
+     "website": null,
+     "source_url": "https://abdelzaher.cs.illinois.edu/people.html",
+     "reason": "Listed under Alumni on his CyPhy group people page with thesis title; no year given"
+    },
+    {
+     "name": "Yiran Zhao",
+     "verdict": "confirmed",
+     "phd_year": null,
+     "current_institution": "Pinterest",
+     "website": null,
+     "source_url": "https://abdelzaher.cs.illinois.edu/people.html",
+     "reason": "Listed under Alumni on his CyPhy group people page with thesis title; no year given"
+    },
+    {
+     "name": "Jongdeog Lee",
+     "verdict": "confirmed",
+     "phd_year": null,
+     "current_institution": "Military Academy, Seoul",
+     "website": null,
+     "source_url": "https://abdelzaher.cs.illinois.edu/people.html",
+     "reason": "Listed under Alumni on his CyPhy group people page with thesis title; no year given"
+    },
+    {
+     "name": "Huajie Shao",
+     "verdict": "confirmed",
+     "phd_year": null,
+     "current_institution": "University of Illinois Urbana-Champaign",
+     "website": null,
+     "source_url": "https://abdelzaher.cs.illinois.edu/people.html",
+     "reason": "Listed under 'Current Ph.D. Students' on his group people page; no graduation year; page does not name the institution explicitly but is the UIUC group (may have since graduated)"
+    },
+    {
+     "name": "Hang Cui",
+     "verdict": "confirmed",
+     "phd_year": null,
+     "current_institution": "University of Illinois Urbana-Champaign",
+     "website": null,
+     "source_url": "https://abdelzaher.cs.illinois.edu/people.html",
+     "reason": "Listed under 'Current Ph.D. Students' on his group people page; no graduation year; page does not name the institution explicitly but is the UIUC group (may have since graduated)"
+    },
+    {
+     "name": "Shengzhong Liu",
+     "verdict": "confirmed",
+     "phd_year": null,
+     "current_institution": "University of Illinois Urbana-Champaign",
+     "website": null,
+     "source_url": "https://abdelzaher.cs.illinois.edu/people.html",
+     "reason": "Listed under 'Current Ph.D. Students' on his group people page; no graduation year; page does not name the institution explicitly but is the UIUC group (may have since graduated)"
+    },
+    {
+     "name": "Dongxin Liu",
+     "verdict": "confirmed",
+     "phd_year": null,
+     "current_institution": "University of Illinois Urbana-Champaign",
+     "website": null,
+     "source_url": "https://abdelzaher.cs.illinois.edu/people.html",
+     "reason": "Listed under 'Current Ph.D. Students' on his group people page; no graduation year; page does not name the institution explicitly but is the UIUC group (may have since graduated)"
+    },
+    {
+     "name": "Ruijie Wang",
+     "verdict": "confirmed",
+     "phd_year": null,
+     "current_institution": "University of Illinois Urbana-Champaign",
+     "website": null,
+     "source_url": "https://abdelzaher.cs.illinois.edu/people.html",
+     "reason": "Listed under 'Current Ph.D. Students' on his group people page; no graduation year; page does not name the institution explicitly but is the UIUC group (may have since graduated)"
+    },
+    {
+     "name": "Jinyang Li",
+     "verdict": "confirmed",
+     "phd_year": null,
+     "current_institution": "University of Illinois Urbana-Champaign",
+     "website": null,
+     "source_url": "https://abdelzaher.cs.illinois.edu/people.html",
+     "reason": "Listed under 'Current Ph.D. Students' on his group people page; no graduation year; page does not name the institution explicitly but is the UIUC group (may have since graduated)"
+    },
+    {
+     "name": "Md Iftekharul Islam Sakib",
+     "verdict": "confirmed",
+     "phd_year": null,
+     "current_institution": "University of Illinois Urbana-Champaign",
+     "website": null,
+     "source_url": "https://abdelzaher.cs.illinois.edu/people.html",
+     "reason": "Listed under 'Current Ph.D. Students' on his group people page; no graduation year; page does not name the institution explicitly but is the UIUC group (may have since graduated)"
+    },
+    {
+     "name": "Tianshi Wang",
+     "verdict": "confirmed",
+     "phd_year": null,
+     "current_institution": "University of Illinois Urbana-Champaign",
+     "website": null,
+     "source_url": "https://abdelzaher.cs.illinois.edu/people.html",
+     "reason": "Listed under 'Current Ph.D. Students' on his group people page; no graduation year; page does not name the institution explicitly but is the UIUC group (may have since graduated)"
+    },
+    {
+     "name": "Dachun Sun",
+     "verdict": "confirmed",
+     "phd_year": null,
+     "current_institution": "University of Illinois Urbana-Champaign",
+     "website": null,
+     "source_url": "https://abdelzaher.cs.illinois.edu/people.html",
+     "reason": "Listed under 'Current Ph.D. Students' on his group people page; no graduation year; page does not name the institution explicitly but is the UIUC group (may have since graduated)"
+    },
+    {
+     "name": "Jinning Li",
+     "verdict": "confirmed",
+     "phd_year": null,
+     "current_institution": "University of Illinois Urbana-Champaign",
+     "website": null,
+     "source_url": "https://abdelzaher.cs.illinois.edu/people.html",
+     "reason": "Listed under 'Current Ph.D. Students' on his group people page; no graduation year; page does not name the institution explicitly but is the UIUC group (may have since graduated)"
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "name": "Sunghyun Choi",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://sites.google.com/view/sunghyun-chois-home",
+    "reason": "Loads; Sunghyun Choi, IEEE Fellow, Professor KAIST EE, director AINL; bio says Ph.D. University of Michigan 1999"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Professor, School of Electrical Engineering, KAIST (since April 2026); previously Executive Vice President, Samsung (2019-2025)",
+    "reason": "Personal site and KAIST EE announcement"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Sunghyun Choi is a Professor in the School of Electrical Engineering at KAIST, where he directs the AI-Native Networking Lab, since April 2026. Previously Executive Vice President at Samsung (2019-2025), heading the Advanced Communications Research Center at Samsung Research, and professor at Seoul National University (2002-2019). Contributed to IEEE 802.11 WLAN standards and works on wireless networking, 6G and AI-native networks. Received a Ph.D. from the University of Michigan in 1999.",
+    "research_areas": [
+     "Wireless networks",
+     "WLAN",
+     "Mobile communications",
+     "AI-native networking",
+     "6G"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1999",
+    "thesis_title": null,
+    "notable": [
+     "IEEE Fellow (2014)",
+     "KICS Dr. Irwin Jacobs Award (2013)"
+    ],
+    "sources": [
+     "https://en.wikipedia.org/wiki/Sunghyun_Choi",
+     "https://sites.google.com/view/sunghyun-chois-home",
+     "https://ee.kaist.ac.kr/en/notices/professor-sunghyun-choi-joins-the-school-of-electrical-engineering/"
+    ],
+    "reason": "Dropped 'Presidential Young Scientist Award (2008)' (his site lists 'Young Scientist Award, President of Korea (2008)', wording differs) and '250+ publications, 160+ patents' (figures vary between sources and are outdated). Fixed position title from 'Samsung Research EVP' to Samsung EVP per his site"
+   },
+   "students": []
+  },
+  {
+   "id": 50,
+   "name": "Sung-Whan Moon",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 51,
+   "name": "Xi Zhang",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://people.engr.tamu.edu/xizhang/index.html",
+    "reason": "Loads; Xi Zhang, Professor, ECE, Texas A&M; Ph.D. U-Michigan; links to RTCL academic family tree"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://people.engr.tamu.edu/xizhang/Xi_Zhang_Photo.jpg",
+    "page_url": "https://people.engr.tamu.edu/xizhang/index.html",
+    "reason": "200 image/jpeg; homepage embeds Xi_Zhang_Photo.jpg (relative src); single-person portrait"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Professor and Founding Director of the Networking and Information Systems Laboratory, ECE, Texas A&M University",
+    "reason": "Homepage Short BIO and Wikipedia"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Xi Zhang is a full professor in Electrical and Computer Engineering at Texas A&M University and founding director of its Networking and Information Systems Laboratory. Holds a Ph.D. from the University of Michigan, with Kang G. Shin as doctoral advisor, and was earlier at AT&T Bell Laboratories. Research covers statistical delay-bounded QoS provisioning, 5G/6G wireless, edge computing and finite blocklength coding.",
+    "research_areas": [
+     "QoS theory for wireless networks",
+     "5G/6G",
+     "Edge computing",
+     "Finite blocklength coding",
+     "In-network caching"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": null,
+    "thesis_title": null,
+    "notable": [
+     "IEEE Fellow",
+     "NSF CAREER Award (2004)",
+     "Multiple IEEE GLOBECOM best paper awards",
+     "IEEE ICC best paper award 2018",
+     "IEEE Distinguished Lecturer",
+     "TAMU ECE Outstanding Faculty Award (2020)"
+    ],
+    "sources": [
+     "https://people.engr.tamu.edu/xizhang/index.html",
+     "https://people.engr.tamu.edu/xizhang/bio.html",
+     "https://en.wikipedia.org/wiki/Xi_Zhang_(professor)"
+    ],
+    "reason": "phd_year 2002 not found in any source, set to null; IEEE Fellow year 2016 only implied by Wikipedia reference title, so year dropped; 'In-network caching' kept as research area (caching listed on homepage)"
+   },
+   "students": []
+  }
+ ]
+}

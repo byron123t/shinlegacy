@@ -1,0 +1,55 @@
+{
+ "batch": "g2-09c",
+ "people": [
+  {
+   "id": 275,
+   "name": "Chun-Chieh Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget exhausted (WebSearch limit reached) and WebFetch failed (ECONNRESET); nothing could be verified, so nothing is returned."
+  },
+  {
+   "id": 276,
+   "name": "Heng-Yu Chi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget exhausted (WebSearch limit reached) and WebFetch failed (ECONNRESET); nothing could be verified, so nothing is returned."
+  },
+  {
+   "id": 277,
+   "name": "Qi He",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget exhausted (WebSearch limit reached) and WebFetch failed (ECONNRESET); nothing could be verified, so nothing is returned."
+  },
+  {
+   "id": 278,
+   "name": "Yong Zhu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget exhausted (WebSearch limit reached) and WebFetch failed (ECONNRESET); nothing could be verified, so nothing is returned."
+  },
+  {
+   "id": 279,
+   "name": "Manish Jain",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget exhausted (WebSearch limit reached) and WebFetch failed (ECONNRESET); nothing could be verified, so nothing is returned."
+  }
+ ]
+}

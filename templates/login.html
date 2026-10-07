@@ -1,13 +1,17 @@
 {% extends "base.html" %}
+{% block title %}Log in · Kang G. Shin Academic Family Tree{% endblock %}
 {% block content %}
 <section class="panel narrow">
-  <h1>Login</h1>
-  <form method="post" action="{{ url_for('login_post') }}" class="form">
+  <h1>Log in</h1>
+  <p style="color: var(--muted)">Enter the lab password to add or edit people in the tree.</p>
+  <form method="post" action="{{ url_for('login_post', next=request.args.get('next')) }}" class="form">
     <label>
       Password
-      <input type="password" name="password" required placeholder="Enter password">
+      <input type="password" name="password" required autofocus autocomplete="current-password">
     </label>
-    <button type="submit">Log in</button>
+    <div class="actions">
+      <button class="btn primary" type="submit">Log in</button>
+    </div>
   </form>
 </section>
 {% endblock %}

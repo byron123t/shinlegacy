@@ -1,0 +1,23 @@
+{
+  "batch": "root",
+  "people": [
+    {
+      "id": 1,
+      "name": "Kang G. Shin",
+      "website": {"url": "https://web.eecs.umich.edu/~kgshin/", "source_note": "Personal homepage at University of Michigan EECS (loads, current)"},
+      "photo": {"image_url": "https://rtcl.eecs.umich.edu/rtclweb/assets/images/people/kgshin.jpg", "page_url": "https://rtcl.eecs.umich.edu/rtclweb/people"},
+      "current_position": "Kevin and Nancy O'Connor Professor Emeritus of Computer Science, EECS, University of Michigan",
+      "bio": {
+        "summary": "Kang G. Shin is a South Korean-born computer scientist and the Kevin and Nancy O'Connor Professor Emeritus of Computer Science in the Department of Electrical Engineering and Computer Science at the University of Michigan. Shin founded the Real-Time Computing Laboratory (RTCL) in 1985 and retired from regular teaching on December 31, 2025, while continuing research. Research spans real-time and fault-tolerant systems, mobile and wireless networking, computer and network security and privacy, and cyber-physical systems. The homepage reports 93 PhD students advised.",
+        "research_areas": ["Real-time and embedded systems", "Mobile and wireless networking", "Security and privacy", "Cyber-physical systems"],
+        "phd_institution": "Cornell University",
+        "phd_year": "1978",
+        "thesis_title": "A Structured Approach to Cell Kinetics and Cancer Therapy Using System Theory",
+        "notable": ["IEEE Fellow (1992)", "Ho-Am Prize in Engineering", "Founding director of the Real-Time Computing Laboratory (RTCL), 1985"],
+        "sources": ["https://web.eecs.umich.edu/~kgshin/", "https://en.wikipedia.org/wiki/Kang_G._Shin", "https://www.mathgenealogy.org/id.php?id=87103", "https://rtcl.eecs.umich.edu/rtclweb/people"]
+      },
+      "students": [],
+      "notes": "Pass 1 (his own pages): web.eecs.umich.edu/~kgshin/students.html (current students and full PhD graduate list), rtcl.eecs.umich.edu/rtclweb/people (current students, postdocs, visitors). Pass 2 (dissertation records): RTCL Dissertations page (rtcl.eecs.umich.edu/rtclweb/dissertations, thesis list 1984-2025), Mathematics Genealogy Project id 87103 (8 students, all already in tree), Wikipedia. Deep Blue search was blocked by Cloudflare and web search did not surface chair-level records, so Deep Blue and ProQuest could not be queried directly. Both passes match the 101 students_in_tree (8 current + 93 graduates, consistent with the homepage claim of 93 PhD students); no missing graduated or current PhD students were found. Minor year variants in the tree vs. Shin's page (e.g. Yann-Hang Lee 1984 vs 1985 in tree; Peng 1989/1990; Youssef Tobah 2025 vs 2024 in tree; Karen Hou 2014/2015; Sunghyun Choi 1999/2000) are year discrepancies, not new students. Visiting students and postdocs on the page were excluded."
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+ "batch": "g2-07",
+ "people": [
+  {
+   "id": 225,
+   "name": "Seungmin Yoo",
+   "website": null,
+   "photo": null,
+   "current_position": "MX Division, Samsung Electronics, Korea",
+   "bio": null,
+   "students": [],
+   "notes": "Searched Sunghyun Choi's archived SNU alumni page; no personal site or photo found. Industry person; no PhD students expected. Affiliation per alumni page (Aug 2016 PhD)."
+  },
+  {
+   "id": 226,
+   "name": "Weiping Sun",
+   "website": null,
+   "photo": null,
+   "current_position": "Samsung Research, Samsung Electronics, Korea",
+   "bio": null,
+   "students": [],
+   "notes": "Searched Sunghyun Choi's archived SNU alumni page; no personal site or photo found. Industry person; no PhD students expected. Alumni page lists Samsung Research (Feb 2017), not NTU as on record; NTU could not be verified."
+  },
+  {
+   "id": 227,
+   "name": "Yeonchul Shin",
+   "website": null,
+   "photo": null,
+   "current_position": "Network Division, Samsung Electronics, Korea",
+   "bio": null,
+   "students": [],
+   "notes": "Searched Sunghyun Choi's archived SNU alumni page; no personal site or photo found. Industry person; no PhD students expected."
+  },
+  {
+   "id": 228,
+   "name": "Jonghoe Koo",
+   "website": null,
+   "photo": null,
+   "current_position": "Samsung Research, Samsung Electronics, Korea",
+   "bio": null,
+   "students": [],
+   "notes": "Searched Sunghyun Choi's archived SNU alumni page; no personal site or photo found. Industry person; no PhD students expected."
+  },
+  {
+   "id": 229,
+   "name": "Seongwon Kim",
+   "website": null,
+   "photo": null,
+   "current_position": "Applied AI Technology, SK Telecom, Korea",
+   "bio": null,
+   "students": [],
+   "notes": "Searched Sunghyun Choi's archived SNU alumni page; no personal site or photo found. Industry person; no PhD students expected. Alumni page lists SK Telecom (differs from SNU on record)."
+  },
+  {
+   "id": 230,
+   "name": "Seongho Byeon",
+   "website": null,
+   "photo": null,
+   "current_position": "Samsung Research, Samsung Electronics, Korea",
+   "bio": null,
+   "students": [],
+   "notes": "Searched Sunghyun Choi's archived SNU alumni page; no personal site or photo found. Industry person; no PhD students expected."
+  },
+  {
+   "id": 231,
+   "name": "Seungil Park",
+   "website": null,
+   "photo": null,
+   "current_position": "Samsung Research, Samsung Electronics, Korea",
+   "bio": null,
+   "students": [],
+   "notes": "Searched Sunghyun Choi's archived SNU alumni page; no personal site or photo found. Industry person; no PhD students expected."
+  },
+  {
+   "id": 232,
+   "name": "Wen-Chih Peng",
+   "website": {
+    "url": "https://sites.google.com/site/wcpeng/",
+    "source_note": "Personal homepage"
+   },
+   "photo": {
+    "image_url": "https://sites.google.com/sitesv-images-rt/AMxu72tyOKBipawSTCPdEWJA6ryI-GntH6C6slbHb7NLTMNHtVtyvU1e3B60tIylwABgnBQaYWBLWVT8pvjVAAxz-Xe5ouiVt-F5ds1KtyuEIusAYkYQxyM9Hlfci80wLhuRRdHYW4AjtqiwhabiAPz3klBz1lVSBPMwao8mUHTD48e3chrQhq_LSjts9N52tigXJiEb5liZp0a_2sHCtb1dJaRCBNtCbORwf7qm3by0=w1280",
+    "page_url": "https://sites.google.com/site/wcpeng/"
+   },
+   "current_position": "Professor, Department of Computer Science, National Yang Ming Chiao Tung University",
+   "bio": null,
+   "students": [
+    {
+     "name": "Chih-Yu Lin",
+     "phd_year": "2007",
+     "current_institution": "National Chiao Tung University",
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "evidence": "Listed on Wen-Chih Peng's 'Ph.D supervised' page"
+    },
+    {
+     "name": "Chih-Chieh Hung",
+     "phd_year": "2011",
+     "current_institution": "Rakuten Inc., Japan",
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "evidence": "Listed on Wen-Chih Peng's 'Ph.D supervised' page"
+    },
+    {
+     "name": "Po-Ruey Lei",
+     "phd_year": "2012",
+     "current_institution": "National Defense University",
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "evidence": "Listed on Wen-Chih Peng's 'Ph.D supervised' page"
+    },
+    {
+     "name": "Ling-Yin Wei",
+     "phd_year": "2012",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "evidence": "Listed on Wen-Chih Peng's 'Ph.D supervised' page"
+    },
+    {
+     "name": "Yi-Cheng Chen",
+     "phd_year": "2012",
+     "current_institution": "Tamkang University",
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "evidence": "Listed on Wen-Chih Peng's 'Ph.D supervised' page"
+    },
+    {
+     "name": "Meng-Fen Chiang",
+     "phd_year": "2012",
+     "current_institution": "Yahoo Taiwan",
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "evidence": "Listed on Wen-Chih Peng's 'Ph.D supervised' page"
+    },
+    {
+     "name": "Zhung-Xun Liao",
+     "phd_year": "2013",
+     "current_institution": "Yahoo Taiwan",
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "evidence": "Listed on Wen-Chih Peng's 'Ph.D supervised' page"
+    },
+    {
+     "name": "Wen-Yuan Zhu",
+     "phd_year": "2016",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "evidence": "Listed on Wen-Chih Peng's 'Ph.D supervised' page"
+    },
+    {
+     "name": "Chien-Cheng Chen",
+     "phd_year": "2017",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "evidence": "Listed on Wen-Chih Peng's 'Ph.D supervised' page"
+    },
+    {
+     "name": "Gunarto Sindoro Njoo",
+     "phd_year": "2019",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "evidence": "Listed on Wen-Chih Peng's 'Ph.D supervised' page"
+    },
+    {
+     "name": "Yu-Ting Wen",
+     "phd_year": "2019",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "evidence": "Listed on Wen-Chih Peng's 'Ph.D supervised' page"
+    },
+    {
+     "name": "Wei-Yao Wang",
+     "phd_year": "2024",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "evidence": "Listed on Wen-Chih Peng's 'Ph.D supervised' page"
+    },
+    {
+     "name": "Hui-Kuo Yang",
+     "phd_year": "2024",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "evidence": "Listed on Wen-Chih Peng's 'Ph.D supervised' page"
+    },
+    {
+     "name": "Chiao-Ting Chen",
+     "phd_year": "2024",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised",
+     "evidence": "Listed on Wen-Chih Peng's 'Ph.D supervised' page"
+    }
+   ],
+   "notes": "Homepage lists PhD supervised; PhD per page is NTU EE 2001. Photo URL is a Google Sites image served on homepage; may be unstable."
+  },
+  {
+   "id": 233,
+   "name": "Jen-Chan Liu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searches found no reliable page for this person; web search budget exhausted."
+  },
+  {
+   "id": 234,
+   "name": "Chang-Hung Lee",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searches found no reliable page for this person; web search budget exhausted."
+  },
+  {
+   "id": 235,
+   "name": "Cheng-Yue Chang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searches found no reliable page for this person; web search budget exhausted. Arcadyan affiliation unverified."
+  },
+  {
+   "id": 236,
+   "name": "Cheng-Ru Lin",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searches found no reliable page for this person; web search budget exhausted."
+  },
+  {
+   "id": 237,
+   "name": "Hung-Yu Kao",
+   "website": {
+    "url": "https://isa.site.nthu.edu.tw/p/406-1182-272217,r4919.php?Lang=en",
+    "source_note": "NTHU faculty page (Dept. of CS)"
+   },
+   "photo": null,
+   "current_position": "Professor, Department of Computer Science, National Tsing Hua University (previously Distinguished Professor, CSIE, National Cheng Kung University)",
+   "bio": null,
+   "students": [],
+   "notes": "PhD NTU EE July 2003 per bio. Moved from NCKU to NTHU. Homepage URL not found; faculty page used. No student list checked."
+  },
+  {
+   "id": 238,
+   "name": "Chih-Lin Hu",
+   "website": {
+    "url": "http://www2.ce.ncu.edu.tw/~clhu/",
+    "source_note": "NCU Dept. of Communication Engineering profile/homepage"
+   },
+   "photo": null,
+   "current_position": "Professor and Chairman, Department of Communication Engineering, National Central University",
+   "bio": null,
+   "students": [],
+   "notes": "Ph.D. National Taiwan University. Photo on NCU page was a relative URL not verified, so left null. Student list not found."
+  },
+  {
+   "id": 239,
+   "name": "Jin-Long Huang",
+   "website": {
+    "url": "https://people.cs.nycu.edu.tw/~jlhuang/",
+    "source_note": "NYCU CS faculty homepage (listed as Jiun-Long Huang)"
+   },
+   "photo": null,
+   "current_position": "Professor, Department of Computer Science, National Yang Ming Chiao Tung University",
+   "bio": null,
+   "students": [],
+   "notes": "Name variant Jiun-Long Huang; PhD NTU EE 2003. Homepage lists no PhD students; photo is relative path images/jl_new.jpg (https://people.cs.nycu.edu.tw/~jlhuang/images/jl_new.jpg), not verified so left null."
+  },
+  {
+   "id": 240,
+   "name": "Wei-Guang Teng",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No page found for Wei-Guang Teng at NCKU (searches returned only other people); web search budget exhausted."
+  },
+  {
+   "id": 241,
+   "name": "Chia-Chen Kuo",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searches found no reliable page for this person; web search budget exhausted."
+  },
+  {
+   "id": 242,
+   "name": "Ching-Huang Yun",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searches found no reliable page for this person; web search budget exhausted."
+  },
+  {
+   "id": 243,
+   "name": "Xin-Mao Huang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searches found no reliable page for this person; web search budget exhausted."
+  },
+  {
+   "id": 244,
+   "name": "Ming-Jih Hsieh",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searches found no reliable page for this person; web search budget exhausted."
+  }
+ ]
+}

@@ -1,0 +1,422 @@
+{
+ "batch": "g2-01",
+ "people": [
+  {
+   "id": 103,
+   "name": "Yue Gao",
+   "website": {
+    "url": "https://pages.cs.wisc.edu/~gy/",
+    "source_note": "Personal homepage"
+   },
+   "photo": {
+    "image_url": "https://pages.cs.wisc.edu/~gy/assets/img/prof_pic.jpg",
+    "page_url": "https://pages.cs.wisc.edu/~gy/"
+   },
+   "current_position": "Research Engineer, Google DeepMind",
+   "bio": null,
+   "students": [],
+   "notes": "Homepage states PhD at UW-Madison advised by Kassem Fawaz; industry, no PhD advising."
+  },
+  {
+   "id": 104,
+   "name": "Yucheng Yang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Record URL wiscprivacy.com member page returned 404; no other source verified (search budget exhausted). Industry, no PhD advising expected."
+  },
+  {
+   "id": 105,
+   "name": "Varun Chandrasekaran",
+   "website": {
+    "url": "https://ece.illinois.edu/about/directory/faculty/varunc",
+    "source_note": "UIUC ECE faculty profile"
+   },
+   "photo": {
+    "image_url": "https://pages.cs.wisc.edu/~chandrasekaran/images/DP.jpeg",
+    "page_url": "https://pages.cs.wisc.edu/~chandrasekaran"
+   },
+   "current_position": "Assistant Professor, ECE, University of Illinois Urbana-Champaign",
+   "bio": null,
+   "students": [],
+   "notes": "Old personal page (UW-Madison, unmaintained since 2022) lists no students; UIUC students not found. Photo is from the old personal page."
+  },
+  {
+   "id": 106,
+   "name": "Wen Xu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget was exhausted before this person could be searched; nothing verified. Industry; likely no PhD advising."
+  },
+  {
+   "id": 107,
+   "name": "Jiayue He",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget was exhausted before this person could be searched; nothing verified. Industry; likely no PhD advising."
+  },
+  {
+   "id": 108,
+   "name": "Yi Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget was exhausted before this person could be searched; nothing verified. Industry; likely no PhD advising."
+  },
+  {
+   "id": 110,
+   "name": "Mengying Pan",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget was exhausted before this person could be searched; nothing verified. Industry; likely no PhD advising."
+  },
+  {
+   "id": 111,
+   "name": "Yufei Zheng",
+   "website": {
+    "url": "https://cics.umass.edu/about/directory/yufei-zheng",
+    "source_note": "UMass CICS directory"
+   },
+   "photo": null,
+   "current_position": "Postdoctoral Research Associate, Manning CICS, UMass Amherst",
+   "bio": null,
+   "students": [],
+   "notes": "Directory page shows placeholder photo; no PhD advising."
+  },
+  {
+   "id": 112,
+   "name": "Mary Hogan",
+   "website": {
+    "url": "https://cs.oberlin.edu/~mhogan/",
+    "source_note": "Personal homepage"
+   },
+   "photo": {
+    "image_url": "https://cs.oberlin.edu/~mhogan/1D4V0944edited.jpeg",
+    "page_url": "https://cs.oberlin.edu/~mhogan/"
+   },
+   "current_position": "Assistant Professor of Computer Science, Oberlin College",
+   "bio": null,
+   "students": [],
+   "notes": "Undergraduate college; no PhD students."
+  },
+  {
+   "id": 113,
+   "name": "Xiaoqi Chen",
+   "website": {
+    "url": "https://engineering.purdue.edu/~xiaoqic/",
+    "source_note": "Personal homepage"
+   },
+   "photo": {
+    "image_url": "https://engineering.purdue.edu/~xiaoqic/res/myself2.jpg",
+    "page_url": "https://engineering.purdue.edu/~xiaoqic/"
+   },
+   "current_position": "Assistant Professor, ECE, Purdue University",
+   "bio": null,
+   "students": [
+    {
+     "name": "Tianyuan (Frank) Qiu",
+     "phd_year": "current",
+     "current_institution": "Purdue University",
+     "website": null,
+     "source_url": "https://engineering.purdue.edu/~xiaoqic/group.html",
+     "evidence": "Listed under 'PhD Students' on Xiaoqi Chen's group page"
+    },
+    {
+     "name": "Xinyu Chen",
+     "phd_year": "current",
+     "current_institution": "Purdue University",
+     "website": null,
+     "source_url": "https://engineering.purdue.edu/~xiaoqic/group.html",
+     "evidence": "Listed under 'PhD Students' on Xiaoqi Chen's group page"
+    }
+   ],
+   "notes": "Record institution (VMware Research) is outdated; joined Purdue Fall 2024."
+  },
+  {
+   "id": 114,
+   "name": "Jennifer Gossels",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget was exhausted before this person could be searched; nothing verified. Industry; likely no PhD advising."
+  },
+  {
+   "id": 115,
+   "name": "Mina Tahmasbi Arashloo",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Only found a 2019 Cornell news item (Presidential Postdoctoral Fellow); current position/website not verified (search budget exhausted)."
+  },
+  {
+   "id": 116,
+   "name": "Robert Harrison",
+   "website": {
+    "url": "https://www.westpoint.edu/rob-harrison",
+    "source_note": "West Point faculty profile"
+   },
+   "photo": {
+    "image_url": "https://s3.amazonaws.com/usma-media/inline-images/centers_research/robotics_research_center/profile_Robert_Harrison.jpg",
+    "page_url": "https://www.westpoint.edu/rob-harrison"
+   },
+   "current_position": "Associate Professor and CS Program Director, EECS, U.S. Military Academy (West Point)",
+   "bio": null,
+   "students": [],
+   "notes": "PhD student list not found on profile."
+  },
+  {
+   "id": 117,
+   "name": "Mojgan Ghasemi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget was exhausted before this person could be searched; nothing verified. Industry; likely no PhD advising."
+  },
+  {
+   "id": 118,
+   "name": "Naga Katta",
+   "website": {
+    "url": "https://nkatta.github.io/",
+    "source_note": "Personal homepage"
+   },
+   "photo": {
+    "image_url": "https://nkatta.github.io/images/profile.jpg",
+    "page_url": "https://nkatta.github.io/"
+   },
+   "current_position": "Research engineer, Salesforce",
+   "bio": null,
+   "students": [],
+   "notes": "Industry; no PhD advising."
+  },
+  {
+   "id": 119,
+   "name": "Xin Jin",
+   "website": {
+    "url": "https://xinjin.github.io/",
+    "source_note": "Personal homepage"
+   },
+   "photo": {
+    "image_url": "https://xinjin.github.io/files/xinjin.jpg",
+    "page_url": "https://xinjin.github.io/"
+   },
+   "current_position": "Associate Professor, School of Computer Science, Peking University",
+   "bio": null,
+   "students": [
+    {
+     "name": "Diandian Gu",
+     "phd_year": "current",
+     "current_institution": "Peking University",
+     "website": null,
+     "source_url": "https://xinjin.github.io/students/",
+     "evidence": "Listed under current 'Students' on Xin Jin's students page"
+    },
+    {
+     "name": "Yunshan Jia",
+     "phd_year": "current",
+     "current_institution": "Peking University",
+     "website": null,
+     "source_url": "https://xinjin.github.io/students/",
+     "evidence": "Listed under current 'Students' on Xin Jin's students page"
+    },
+    {
+     "name": "Chao Jin",
+     "phd_year": "current",
+     "current_institution": "Peking University",
+     "website": null,
+     "source_url": "https://xinjin.github.io/students/",
+     "evidence": "Listed under current 'Students' on Xin Jin's students page"
+    },
+    {
+     "name": "Chiheng Lou",
+     "phd_year": "current",
+     "current_institution": "Peking University",
+     "website": null,
+     "source_url": "https://xinjin.github.io/students/",
+     "evidence": "Listed under current 'Students' on Xin Jin's students page"
+    },
+    {
+     "name": "Sheng Qi",
+     "phd_year": "current",
+     "current_institution": "Peking University",
+     "website": null,
+     "source_url": "https://xinjin.github.io/students/",
+     "evidence": "Listed under current 'Students' on Xin Jin's students page"
+    },
+    {
+     "name": "Junyi Shu",
+     "phd_year": "current",
+     "current_institution": "Peking University",
+     "website": null,
+     "source_url": "https://xinjin.github.io/students/",
+     "evidence": "Listed under current 'Students' on Xin Jin's students page"
+    },
+    {
+     "name": "Bingyang Wu",
+     "phd_year": "current",
+     "current_institution": "Peking University",
+     "website": null,
+     "source_url": "https://xinjin.github.io/students/",
+     "evidence": "Listed under current 'Students' on Xin Jin's students page"
+    },
+    {
+     "name": "Yihao Zhao",
+     "phd_year": "current",
+     "current_institution": "Peking University",
+     "website": null,
+     "source_url": "https://xinjin.github.io/students/",
+     "evidence": "Listed under current 'Students' on Xin Jin's students page"
+    },
+    {
+     "name": "Yinmin Zhong",
+     "phd_year": "current",
+     "current_institution": "Peking University",
+     "website": null,
+     "source_url": "https://xinjin.github.io/students/",
+     "evidence": "Listed under current 'Students' on Xin Jin's students page"
+    },
+    {
+     "name": "Naiqian Zheng",
+     "phd_year": "current",
+     "current_institution": "Peking University",
+     "website": null,
+     "source_url": "https://xinjin.github.io/students/",
+     "evidence": "Listed under current 'Students' on Xin Jin's students page"
+    },
+    {
+     "name": "Zili Zhang",
+     "phd_year": "current",
+     "current_institution": "Peking University",
+     "website": null,
+     "source_url": "https://xinjin.github.io/students/",
+     "evidence": "Listed under current 'Students' on Xin Jin's students page"
+    },
+    {
+     "name": "Ruidong Zhu",
+     "phd_year": "current",
+     "current_institution": "Peking University",
+     "website": null,
+     "source_url": "https://xinjin.github.io/students/",
+     "evidence": "Listed under current 'Students' on Xin Jin's students page"
+    },
+    {
+     "name": "Zhuolong Yu",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://xinjin.github.io/students/",
+     "evidence": "Listed under 'Alumni' on Xin Jin's students page (year/institution not given; degree level not stated)"
+    },
+    {
+     "name": "Zhen Zhang",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://xinjin.github.io/students/",
+     "evidence": "Listed under 'Alumni' on Xin Jin's students page (year/institution not given; degree level not stated)"
+    },
+    {
+     "name": "Zhihao Bai",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://xinjin.github.io/students/",
+     "evidence": "Listed under 'Alumni' on Xin Jin's students page (year/institution not given; degree level not stated)"
+    },
+    {
+     "name": "Hang Zhu",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://xinjin.github.io/students/",
+     "evidence": "Listed under 'Alumni' on Xin Jin's students page (year/institution not given; degree level not stated)"
+    }
+   ],
+   "notes": "Students page does not state degree level or years; Mathematics Genealogy / dissertation records not checked (search budget exhausted). Verify before applying."
+  },
+  {
+   "id": 120,
+   "name": "Srinivas Narayana",
+   "website": {
+    "url": "https://people.cs.rutgers.edu/~sn624/",
+    "source_note": "Personal homepage"
+   },
+   "photo": {
+    "image_url": "https://people.cs.rutgers.edu/~sn624/pic4.jpg",
+    "page_url": "https://people.cs.rutgers.edu/~sn624/"
+   },
+   "current_position": "Associate Professor, Department of Computer Science, Rutgers University",
+   "bio": null,
+   "students": [
+    {
+     "name": "Bhavana Vannarth Shobhana",
+     "phd_year": "current",
+     "current_institution": "Rutgers University",
+     "website": null,
+     "source_url": "https://people.cs.rutgers.edu/~sn624/",
+     "evidence": "Listed as PhD student (began 2021, co-advised with Badri Nath)"
+    },
+    {
+     "name": "Harishankar Vishwanathan",
+     "phd_year": "current",
+     "current_institution": "Rutgers University",
+     "website": null,
+     "source_url": "https://people.cs.rutgers.edu/~sn624/",
+     "evidence": "Listed as PhD student (began 2021, co-advised with Santosh Nagarakatte)"
+    }
+   ],
+   "notes": "A web search suggested a move to IIT Madras in Sept 2025, but his own page (2026 news) still says Rutgers; unresolved."
+  },
+  {
+   "id": 121,
+   "name": "Nanxi Kang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget was exhausted before this person could be searched; nothing verified. Industry; likely no PhD advising."
+  },
+  {
+   "id": 122,
+   "name": "Peng Sun",
+   "website": {
+    "url": "https://www.pengsun.org/",
+    "source_note": "Personal homepage"
+   },
+   "photo": null,
+   "current_position": "Software Engineering Manager, Facebook (Meta), Seattle",
+   "bio": null,
+   "students": [],
+   "notes": "Homepage image is an expiring Google Sites URL, so no photo given. Industry; no PhD advising."
+  },
+  {
+   "id": 123,
+   "name": "Wenjie (Joe) Jiang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Web search budget was exhausted before this person could be searched; nothing verified. Industry; likely no PhD advising."
+  }
+ ]
+}

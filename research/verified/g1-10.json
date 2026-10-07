@@ -1,0 +1,376 @@
+{
+ "batch": "g1-10",
+ "people": [
+  {
+   "id": 92,
+   "name": "Youngmoon Lee",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://sites.google.com/umich.edu/youngmoonlee",
+    "reason": "Loads; personal Google Site, name, Hanyang Robotics dept, RAISE Lab, Michigan RTCL PhD match"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Associate Professor, Department of Robotics, Hanyang University ERICA; Founding Director, RAISE Lab",
+    "reason": "Own current page (news through 2026-09) gives Hanyang Robotics Department and founding director of RAISE Lab; page notes a 2026 sabbatical at Michigan RTCL"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Youngmoon Lee is an associate professor in the Robotics Department at Hanyang University and founding director of the RAISE Lab. Lee earned a PhD in Computer Science and Engineering from the Real-Time Computing Lab at the University of Michigan and a BS in Electrical and Computer Engineering from Seoul National University. Research interests include real-time AI and ML, robot learning, and embedded and cyber-physical systems.",
+    "research_areas": [
+     "Real-time AI and ML",
+     "Robot learning",
+     "Embedded and cyber-physical systems",
+     "Mobile and cloud computing"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2019",
+    "thesis_title": "Thermal and QoS-Aware Embedded Systems",
+    "notable": [
+     "Nominated World Top 2% Scientist (2025)",
+     "Engineering Education Early Career Award, Korean Society for Engineering Education (2023)"
+    ],
+    "sources": [
+     "https://sites.google.com/umich.edu/youngmoonlee",
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations"
+    ],
+    "reason": "All sentences checked on personal page; thesis title and year match RTCL dissertation list"
+   },
+   "students": []
+  },
+  {
+   "id": 93,
+   "name": "Arun Ganesan",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "unverifiable",
+    "value": "Meta, New York City",
+    "reason": "Only source is Shin's student list, which is dated; no current official page found"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Arun Ganesan received a PhD from the University of Michigan in 2020 with a dissertation titled 'Using Sensor Redundancy in Vehicles and Smartphones for Driving Security and Safety', listed among Kang G. Shin's students and RTCL dissertations.",
+    "research_areas": [
+     "Vehicle security",
+     "Mobile sensing"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2020",
+    "thesis_title": "Using Sensor Redundancy in Vehicles and Smartphones for Driving Security and Safety",
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "https://web.eecs.umich.edu/~kgshin/students.html"
+    ],
+    "reason": "Thesis title and year confirmed on RTCL list; CAN bus detail and some research areas not verifiable from sources, dropped CAN claim and cyber-physical area"
+   },
+   "students": []
+  },
+  {
+   "id": 94,
+   "name": "Dongyao Chen",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://chendy.tech/",
+    "reason": "Loads; personal page of Dongyao Chen naming Shin as PhD advisor, Michigan PhD, Flux Lab"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://chendy.tech/static/assets/img/dongyao-headshot.jpg",
+    "page_url": "https://chendy.tech/",
+    "reason": "Page img src static/assets/img/dongyao-headshot.jpg alt 'Dongyao Chen'; 200 image/jpeg; single-person headshot viewed"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Assistant Professor, School of Computing and Information Systems, Singapore Management University",
+    "reason": "Own homepage shows SMU live text; the SJTU text is commented out in the HTML; Shin's list (Shanghai Jiaotong) is outdated"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Dongyao Chen is an assistant professor at the School of Computing and Information Systems, Singapore Management University, where Chen leads the Flux Lab. Chen earned a PhD in Computer Science and Engineering from the University of Michigan in 2020 with Kang G. Shin as advisor. Flux Lab research centers on multimodality (including magnetic fields), security, and interactivity in sensing.",
+    "research_areas": [
+     "Multimodal sensing",
+     "Sensing security",
+     "Interactive systems"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2020",
+    "thesis_title": "Seamless Interactions Between Humans and Mobility Systems",
+    "notable": [],
+    "sources": [
+     "https://chendy.tech/",
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations"
+    ],
+    "reason": "Dropped 'mobile and ubiquitous sensing' and HCI labels not stated verbatim; rest confirmed"
+   },
+   "students": [
+    {
+     "name": "Wangwei Shen",
+     "verdict": "confirmed",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://chendy.tech/",
+     "reason": "Listed as 'Ph.D. Student' in the student section of Chen's own homepage; institution not stated there"
+    },
+    {
+     "name": "Yifeng Zhang",
+     "verdict": "confirmed",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://chendy.tech/",
+     "reason": "Listed as 'Ph.D. Student' in the student section of Chen's own homepage; institution not stated there"
+    }
+   ]
+  },
+  {
+   "id": 95,
+   "name": "Taeju Park",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "unverifiable",
+    "value": "Google, Mountain View, CA",
+    "reason": "Only source is Shin's student list, which is dated; no current official page"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Taeju Park received a PhD from the University of Michigan in 2021 with a dissertation titled 'Optimization of In-Vehicle Network Design', listed among Kang G. Shin's students and RTCL dissertations.",
+    "research_areas": [],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2021",
+    "thesis_title": "Optimization of In-Vehicle Network Design",
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "https://web.eecs.umich.edu/~kgshin/students.html"
+    ],
+    "reason": "Thesis confirmed; research areas inferred from title only, dropped. Shin's list shows 2020 in one place, RTCL dissertations list says 2021"
+   },
+   "students": []
+  },
+  {
+   "id": 96,
+   "name": "Timothy Trippel (jointly with Mattew Hicks at Virginia Tech)",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "unverifiable",
+    "value": "Google",
+    "reason": "Only source is Shin's student list, which is dated; no current official page"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Timothy Trippel received a PhD from the University of Michigan in 2021, advised jointly by Kang G. Shin and Matthew Hicks, with a dissertation titled 'Developing Trustworthy Hardware with Security-Driven Design and Verification'.",
+    "research_areas": [
+     "Hardware security",
+     "Hardware verification"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2021",
+    "thesis_title": "Developing Trustworthy Hardware with Security-Driven Design and Verification",
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "https://web.eecs.umich.edu/~kgshin/students.html"
+    ],
+    "reason": "Thesis and joint advising per Shin's list confirmed; USENIX paper claim and fuzzing area not checked in sources, dropped"
+   },
+   "students": []
+  },
+  {
+   "id": 97,
+   "name": "Juncheng Gu (jointly with M. Chowdhury)",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "unverifiable",
+    "value": "Google, Seattle, WA",
+    "reason": "Sources disagree: Shin's list says Google, Chowdhury's 2021 blog says ByteDance AI Lab; no current official page settles it"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Juncheng Gu received a PhD from the University of Michigan in 2021, co-advised by Kang G. Shin and Mosharaf Chowdhury, with a dissertation titled 'Efficient Resource Management for Deep Learning Clusters'.",
+    "research_areas": [
+     "Deep learning cluster scheduling",
+     "Memory disaggregation"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2021",
+    "thesis_title": "Efficient Resource Management for Deep Learning Clusters",
+    "notable": [],
+    "sources": [
+     "https://mosharaf.com/blog/2021/08/27/juncheng-levels-up-congrats-dr-gu/",
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "https://web.eecs.umich.edu/~kgshin/students.html"
+    ],
+    "reason": "Co-advising, thesis and 2021 defense confirmed by Chowdhury blog; Infiniswap co-authorship confirmed on Lee's pub list; Tiresias not checked and dropped"
+   },
+   "students": []
+  },
+  {
+   "id": 98,
+   "name": "Chun-Yu (Daniel) Chen",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://coralleaf.github.io/",
+    "reason": "Loads; personal page, Chun-Yu Chen, Ph.D., Meta Research Scientist, Michigan logo"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://coralleaf.github.io/files/profile_picture.png",
+    "page_url": "https://coralleaf.github.io/",
+    "reason": "Page img src ./files/profile_picture.png; 200 image/png; single-person portrait viewed"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Research Scientist, Meta Platforms",
+    "reason": "Own homepage says current Research Scientist at Meta Platforms, joined Jun 2022; Shin's list agrees (Meta, Menlo Park)"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Chun-Yu (Daniel) Chen is a research scientist at Meta Platforms who was awarded a PhD in Computer Science and Engineering from the University of Michigan in August 2022. Chen received a MobiCom 2019 Best Poster Award and placed second in the MobiCom 2019 Student Research Competition.",
+    "research_areas": [
+     "Mobile sensing",
+     "Automotive systems",
+     "Security and privacy",
+     "IoT"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2022",
+    "thesis_title": "Context-Aware Detection and Resolution of Data Anomalies for Semi-Autonomous Cyber-Physical Systems",
+    "notable": [
+     "MobiCom 2019 Best Poster Award",
+     "MobiCom 2019 Student Research Competition, second place"
+    ],
+    "sources": [
+     "https://coralleaf.github.io/",
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations"
+    ],
+    "reason": "Awards, PhD date, thesis confirmed; IoT and security areas seen on page"
+   },
+   "students": []
+  },
+  {
+   "id": 99,
+   "name": "Duc Hoang Bui",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://ducbui.com/",
+    "reason": "Loads; personal page, Michigan PhD with Shin, Microsoft AI"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://ducbui.com/files/portrait_high_res.jpg",
+    "page_url": "https://ducbui.com/",
+    "reason": "Page embeds thumbnail inside an <a href> to files/portrait_high_res.jpg (full-size of the same portrait); 200 image/jpeg; single-person portrait viewed"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Member of Technical Staff, Microsoft AI",
+    "reason": "Own homepage; Shin's list agrees"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Duc Bui received a PhD in Computer Science from the University of Michigan in 2022, working with Kang G. Shin at the Real-Time Computing Lab. PhD research was at the intersection of user privacy, program analysis and natural language processing, analyzing the consistency between privacy policies and actual data collection of mobile and web apps. Bui is a Member of Technical Staff at Microsoft AI working on privacy compliance systems.",
+    "research_areas": [
+     "User privacy",
+     "Program analysis",
+     "Natural language processing"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2022",
+    "thesis_title": "Assessment of Privacy Risks in Mobile and Web Applications/Services",
+    "notable": [
+     "Naver PhD Fellowship (2016)",
+     "Qualcomm Innovation Award finalist (2015)"
+    ],
+    "sources": [
+     "https://ducbui.com/",
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations"
+    ],
+    "reason": "Confirmed on homepage and RTCL list"
+   },
+   "students": []
+  },
+  {
+   "id": 100,
+   "name": "Mert Dieter Pese",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://mpese.com/",
+    "reason": "Loads; personal page of Mert D. Pesé, Clemson, Michigan PhD 2022"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Assistant Professor of Computer Science, Clemson University; Founding Director, TigerSec Laboratory",
+    "reason": "Own homepage, copyright 2026"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Mert D. Pesé is an assistant professor of computer science at Clemson University and founding director of the TigerSec Laboratory. Pesé earned a PhD in Computer Science and Engineering from the University of Michigan in 2022, and MS and two BS degrees from the Technical University of Munich. Research focuses on the security of autonomous and connected vehicles, trustworthy embodied AI, and automotive data privacy.",
+    "research_areas": [
+     "Autonomous vehicle security",
+     "Embodied AI security",
+     "Trustworthy AI",
+     "Automotive data privacy"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2022",
+    "thesis_title": "Bringing Practical Security to Vehicles",
+    "notable": [
+     "NSF CAREER award",
+     "Best Paper, VehicleSec 2023",
+     "Best Paper, SAE WCX 2025",
+     "Best Paper, ACM AsiaCCS 2026"
+    ],
+    "sources": [
+     "https://mpese.com/",
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations"
+    ],
+    "reason": "All confirmed on homepage and RTCL list"
+   },
+   "students": [
+    {
+     "name": "Marcos Sanson",
+     "verdict": "rejected",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://mpese.com/",
+     "reason": "Only a news line 'joined TigerSec Lab' (PhD); no student list or explicit advising statement"
+    }
+   ]
+  },
+  {
+   "id": 101,
+   "name": "Hsun-Wei Cho",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "unverifiable",
+    "value": "ADI, Dallas, TX",
+    "reason": "Only source is Shin's student list; no current official page"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Hsun-Wei Cho received a PhD from the University of Michigan in 2024 with a dissertation titled 'Enabling Direct Bluetooth-WiFi Communications', listed among Kang G. Shin's students and RTCL dissertations.",
+    "research_areas": [],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2024",
+    "thesis_title": "Enabling Direct Bluetooth-WiFi Communications",
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "https://web.eecs.umich.edu/~kgshin/students.html"
+    ],
+    "reason": "Thesis, year and Shin's list confirmed; research areas inferred from title, dropped"
+   },
+   "students": []
+  }
+ ]
+}

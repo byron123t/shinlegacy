@@ -1,0 +1,51 @@
+{
+ "batch": "g2-11a",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 305,
+   "name": "Suk Kyu Lee",
+   "institution": "Samsung",
+   "year": "2015",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 306,
+   "name": "Hyunsoon Kim",
+   "institution": "Samsung",
+   "year": "2016",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 307,
+   "name": "Mungyu Bae",
+   "institution": "KT R&D, Korea",
+   "year": "2018",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 308,
+   "name": "Seungho Yoo",
+   "institution": "KT R&D, Korea",
+   "year": "2018",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 309,
+   "name": "Murad Kablan",
+   "institution": "Stateless",
+   "year": "2017",
+   "advisor": "Eric Keller",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

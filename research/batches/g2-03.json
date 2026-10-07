@@ -1,0 +1,190 @@
+{
+ "batch": "g2-03",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 145,
+   "name": "Kamalavasan Srinivasan",
+   "institution": "Microsoft",
+   "year": "",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 146,
+   "name": "Niveditha Sundaram",
+   "institution": "",
+   "year": "",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 147,
+   "name": "Lun Tong",
+   "institution": "",
+   "year": "",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 148,
+   "name": "Chao Wang",
+   "institution": "",
+   "year": "",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 149,
+   "name": "Kuang-Ching Wang",
+   "institution": "Clemson University",
+   "year": "2003",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "http://people.clemson.edu/~kwang/",
+   "students_in_tree": []
+  },
+  {
+   "id": 150,
+   "name": "Nairan Zhang",
+   "institution": "",
+   "year": "",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 151,
+   "name": "Amrita Roy Chowdhury",
+   "institution": "University of Michigan",
+   "year": "2021",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "https://sites.google.com/wisc.edu/amrita-roy-chowdhury/",
+   "students_in_tree": [
+    "Mushtari Sadia",
+    "Yiyi Sun",
+    "Samanway Sadhu"
+   ]
+  },
+  {
+   "id": 152,
+   "name": "Ashwin Varadarajan",
+   "institution": "",
+   "year": "",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 153,
+   "name": "Zongshen Wu",
+   "institution": "",
+   "year": "",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 154,
+   "name": "Mushtari Sadia",
+   "institution": "University of Michigan",
+   "year": "",
+   "advisor": "Amrita Roy Chowdhury",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 155,
+   "name": "Yiyi Sun",
+   "institution": "University of Michigan",
+   "year": "",
+   "advisor": "Amrita Roy Chowdhury",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 156,
+   "name": "Samanway Sadhu",
+   "institution": "University of Michigan",
+   "year": "",
+   "advisor": "Amrita Roy Chowdhury",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 157,
+   "name": "Xiufeng Xie",
+   "institution": "HP Labs",
+   "year": "2017",
+   "advisor": "Xinyu Zhang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 158,
+   "name": "Chuhan Gao",
+   "institution": "",
+   "year": "",
+   "advisor": "Xinyu Zhang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 159,
+   "name": "Chi Zhang",
+   "institution": "Google",
+   "year": "2017",
+   "advisor": "Xinyu Zhang",
+   "website_on_record": "http://dword1511.info/me/",
+   "students_in_tree": []
+  },
+  {
+   "id": 160,
+   "name": "Sanjib Sur",
+   "institution": "University of South Carolina",
+   "year": "2018",
+   "advisor": "Xinyu Zhang",
+   "website_on_record": "https://cse.sc.edu/~sur/index.html",
+   "students_in_tree": []
+  },
+  {
+   "id": 161,
+   "name": "Teng Wei",
+   "institution": "Google",
+   "year": "2018",
+   "advisor": "Xinyu Zhang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 162,
+   "name": "Shilin Zhu",
+   "institution": "Pixar",
+   "year": "",
+   "advisor": "Xinyu Zhang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 163,
+   "name": "Song Wang",
+   "institution": "ByteDance",
+   "year": "",
+   "advisor": "Xinyu Zhang",
+   "website_on_record": "https://sowang46.github.io/",
+   "students_in_tree": []
+  },
+  {
+   "id": 164,
+   "name": "Timothy Woodford",
+   "institution": "MIT Lincoln Lab",
+   "year": "2023",
+   "advisor": "Xinyu Zhang",
+   "website_on_record": "https://www.twoodford.net/",
+   "students_in_tree": []
+  }
+ ]
+}

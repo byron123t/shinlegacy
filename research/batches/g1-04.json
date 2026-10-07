@@ -1,0 +1,122 @@
+{
+ "batch": "g1-04",
+ "kind": "profile",
+ "people": [
+  {
+   "id": 32,
+   "name": "Bing-rung Tsai",
+   "institution": "VMWare",
+   "year": "1994",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 33,
+   "name": "Hagbae Kim",
+   "institution": "Yonsei University, Korea",
+   "year": "1994",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 34,
+   "name": "Thomas Tsukada",
+   "institution": "Oracle",
+   "year": "1996",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 35,
+   "name": "Stuart Daniel",
+   "institution": "Oracle",
+   "year": "1996",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 36,
+   "name": "Jennifer Rexford",
+   "institution": "Princeton University (Chair of Computer Science)",
+   "year": "1996",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://www.cs.princeton.edu/~jrex/",
+   "students_in_tree": [
+    "Wen Xu (2009)",
+    "Jiayue He (2008)",
+    "Yi Wang (2009)",
+    "Mengying Pan (2025)",
+    "Yufei Zheng (2024)",
+    "Mary Hogan (2024)",
+    "Xiaoqi Chen (2023)",
+    "Jennifer Gossels (2020)",
+    "Mina Tahmasbi Arashloo (2019)",
+    "Robert Harrison (2019)",
+    "Mojgan Ghasemi (2017)",
+    "Naga Katta (2016)",
+    "Xin Jin (2016)",
+    "Srinivas Narayana (2016)",
+    "Nanxi Kang (2015)",
+    "Peng Sun (2015)",
+    "Wenjie (Joe) Jiang (2012)",
+    "Eric Keller (2011)",
+    "Yaping Zhu (2011)",
+    "Minlan Yu (2011)",
+    "Martin Suchara (2011)",
+    "Sharon Goldberg (2009)",
+    "Haakon Ringberg (2009)",
+    "Elliott Karpilovsky (2009)",
+    "Changhoon Kim (2009)"
+   ]
+  },
+  {
+   "id": 37,
+   "name": "Sushil Birla",
+   "institution": "U.S. Nuclear Regulatory Commission",
+   "year": "1997",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 38,
+   "name": "Ashish Mehra",
+   "institution": "NetApp",
+   "year": "1997",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 39,
+   "name": "Atri Indiresan",
+   "institution": "CISCO",
+   "year": "1997",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 40,
+   "name": "Khawar Zuberi",
+   "institution": "Microsoft",
+   "year": "1998",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 41,
+   "name": "Emmanuel Abram-Profeta",
+   "institution": "Microsoft",
+   "year": "1998",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

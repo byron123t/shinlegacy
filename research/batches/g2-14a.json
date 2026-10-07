@@ -1,0 +1,51 @@
+{
+ "batch": "g2-14a",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 365,
+   "name": "Lipeng Wan",
+   "institution": "",
+   "year": "2016",
+   "advisor": "Qing (Charles) Cao",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 366,
+   "name": "Sisi Xiong",
+   "institution": "",
+   "year": "2017",
+   "advisor": "Qing (Charles) Cao",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 367,
+   "name": "Yusuf Albayram",
+   "institution": "Central Connecticut State University",
+   "year": "2016",
+   "advisor": "Mohammad M. Khan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 368,
+   "name": "Michael Fagan",
+   "institution": "NIST",
+   "year": "2017",
+   "advisor": "Mohammad M. Khan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 369,
+   "name": "Nhan Nguyen",
+   "institution": "Akamai",
+   "year": "2018",
+   "advisor": "Mohammad M. Khan",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

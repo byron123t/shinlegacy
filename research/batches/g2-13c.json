@@ -1,0 +1,51 @@
+{
+ "batch": "g2-13c",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 355,
+   "name": "Md Tanvir Al Amin",
+   "institution": "Google",
+   "year": "2017",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 356,
+   "name": "Shiguang Wang",
+   "institution": "",
+   "year": "2017",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 357,
+   "name": "Shaohan Hu",
+   "institution": "IBM T.J. Watson",
+   "year": "2017",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 358,
+   "name": "Prasanna Giridhar",
+   "institution": "",
+   "year": "2018",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 359,
+   "name": "Yijun Lu",
+   "institution": "Alibaba",
+   "year": "2007",
+   "advisor": "Ying Lu",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

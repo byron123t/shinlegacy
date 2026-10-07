@@ -1,0 +1,119 @@
+{
+ "batch": "g1-10",
+ "kind": "profile",
+ "people": [
+  {
+   "id": 92,
+   "name": "Youngmoon Lee",
+   "institution": "Hanyang University, Korea",
+   "year": "2019",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://sites.google.com/umich.edu/youngmoonlee",
+   "students_in_tree": [
+    "Niaz Ahmad",
+    "Chanyeok Choi",
+    "Jawad Khan",
+    "Donghyun Kwon",
+    "Seunghwan Lee",
+    "Jeremy Yuhyun Kim",
+    "Saif Ullah",
+    "Gyurin Kim",
+    "Zahra Batool Jaffrey",
+    "Jaehwan Cho"
+   ]
+  },
+  {
+   "id": 93,
+   "name": "Arun Ganesan",
+   "institution": "Meta (Facebook), New York City",
+   "year": "2020",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 94,
+   "name": "Dongyao Chen",
+   "institution": "Shanghai Jiaotong University",
+   "year": "2020",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://chendy.tech/",
+   "students_in_tree": [
+    "Siyuan Wang",
+    "Jike Wang",
+    "Zhenyu Chen"
+   ]
+  },
+  {
+   "id": 95,
+   "name": "Taeju Park",
+   "institution": "Google, Mountainview, CA",
+   "year": "2021",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 96,
+   "name": "Timothy Trippel (jointly with Mattew Hicks at Virginia Tech)",
+   "institution": "Google",
+   "year": "2021",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 97,
+   "name": "Juncheng Gu (jointly with M. Chowdhury)",
+   "institution": "Systems Group, Google, Seattle, WA",
+   "year": "2022",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 98,
+   "name": "Chun-Yu (Daniel) Chen",
+   "institution": "Facebook, Menlo Park, CA",
+   "year": "2022",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://coralleaf.github.io/",
+   "students_in_tree": []
+  },
+  {
+   "id": 99,
+   "name": "Duc Hoang Bui",
+   "institution": "Snap, Santa Monica, CA",
+   "year": "2022",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://ducbui.com/",
+   "students_in_tree": []
+  },
+  {
+   "id": 100,
+   "name": "Mert Dieter Pese",
+   "institution": "Clemson University",
+   "year": "2022",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://mpese.com/",
+   "students_in_tree": [
+    "Levent Celik",
+    "Jan de Voor",
+    "Alkim Domeke",
+    "David Fernandez",
+    "Pedram MohajerAnsari",
+    "Derik Pack",
+    "Robert Taylor"
+   ]
+  },
+  {
+   "id": 101,
+   "name": "Hsun-Wei Cho",
+   "institution": "ADI, Dallas, TX",
+   "year": "2024",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

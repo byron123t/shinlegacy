@@ -1,0 +1,245 @@
+{
+ "batch": "g2-06",
+ "people": [
+  {
+   "id": 205,
+   "name": "Xi Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 206,
+   "name": "Zi Li",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 207,
+   "name": "Yang Peng",
+   "website": {
+    "verdict": "confirmed",
+    "url": "http://faculty.washington.edu/yangpeng/",
+    "reason": "'Welcome to Yang Peng's Homepage', UW Bothell, PhD Iowa State 2014 matches context"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "http://faculty.washington.edu/yangpeng/img/Yang.jpg",
+    "page_url": "http://faculty.washington.edu/yangpeng/",
+    "reason": "Page embeds img/Yang.jpg; curl 200 image/jpeg; viewed: single-person portrait photograph"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Associate Professor, Computing and Software Systems, University of Washington Bothell",
+    "reason": "Homepage header: Associate Professor, Computing and Software Systems, School of STEM, UW Bothell"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 208,
+   "name": "Ka Yang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 209,
+   "name": "Xiaoyun Zhang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 210,
+   "name": "Taewoon Kim",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://sites.google.com/site/twoonkim/",
+    "reason": "Loads; 'Taewoon (Daniel) Kim's Home', PhD ISU 2018 advised by Daji Qiao; notes it has moved to a Notion site but page is his own"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Associate Professor, School of Computer Science and Engineering, Pusan National University",
+    "reason": "Page: Associate Prof., CSE, Pusan National University, 2024.09-present"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 211,
+   "name": "Jia Tang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 212,
+   "name": "Sunggeun Jin",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Only source is the advisor's alumni list, an undated snapshot (other entries on it show dates years old); not a current official page for this person."
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 213,
+   "name": "Youngsoo Kim",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Only source is the advisor's alumni list, an undated snapshot (other entries on it show dates years old); not a current official page for this person."
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 214,
+   "name": "Seongkwan Kim",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Only source is the advisor's alumni list, an undated snapshot (other entries on it show dates years old); not a current official page for this person."
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 215,
+   "name": "Youngkyu Choi",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Only source is the advisor's alumni list, an undated snapshot (other entries on it show dates years old); not a current official page for this person."
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 216,
+   "name": "Jeonggyun Yu",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Only source is the advisor's alumni list, an undated snapshot (other entries on it show dates years old); not a current official page for this person."
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 217,
+   "name": "Kwanghun Han",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Only source is the advisor's alumni list, an undated snapshot (other entries on it show dates years old); not a current official page for this person."
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 218,
+   "name": "Dongmyoung Kim",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Only source is the advisor's alumni list, an undated snapshot (other entries on it show dates years old); not a current official page for this person."
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 219,
+   "name": "Munhwan Choi",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Only source is the advisor's alumni list, an undated snapshot (other entries on it show dates years old); not a current official page for this person."
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 220,
+   "name": "Edwin Monroy",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Only source is the advisor's alumni list, an undated snapshot (other entries on it show dates years old); not a current official page for this person."
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 221,
+   "name": "Hyewon Lee",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Only source is the advisor's alumni list, an undated snapshot (other entries on it show dates years old); not a current official page for this person."
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 222,
+   "name": "Wonbo Lee",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Only source is the advisor's alumni list, an undated snapshot (other entries on it show dates years old); not a current official page for this person."
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 223,
+   "name": "Okhwan Lee",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Only source is the advisor's alumni list, an undated snapshot (other entries on it show dates years old); not a current official page for this person."
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 224,
+   "name": "Jongwoo Hong",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Only source is the advisor's alumni list, an undated snapshot (other entries on it show dates years old); not a current official page for this person."
+   },
+   "bio": null,
+   "students": []
+  }
+ ]
+}

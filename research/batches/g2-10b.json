@@ -1,0 +1,51 @@
+{
+ "batch": "g2-10b",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 290,
+   "name": "Jihyun Kim",
+   "institution": "",
+   "year": "2017",
+   "advisor": "Ho-Won Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 291,
+   "name": "Bin Wang",
+   "institution": "",
+   "year": "2000",
+   "advisor": "Chao-Ju (Jennifer) Hou",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 292,
+   "name": "Hung-Ying Tyan",
+   "institution": "National Sun Yat-sen University",
+   "year": "2001",
+   "advisor": "Chao-Ju (Jennifer) Hou",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 293,
+   "name": "Yuan Gao",
+   "institution": "Bell Labs",
+   "year": "2002",
+   "advisor": "Chao-Ju (Jennifer) Hou",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 294,
+   "name": "Guanghui He",
+   "institution": "Microsoft",
+   "year": "2004",
+   "advisor": "Chao-Ju (Jennifer) Hou",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

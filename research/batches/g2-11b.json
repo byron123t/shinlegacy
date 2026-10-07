@@ -1,0 +1,51 @@
+{
+ "batch": "g2-11b",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 310,
+   "name": "Aimee Coughlin",
+   "institution": "Facebook",
+   "year": "2018",
+   "advisor": "Eric Keller",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 311,
+   "name": "Rui Miao",
+   "institution": "Alibaba Research, China",
+   "year": "",
+   "advisor": "Minlan Yu",
+   "website_on_record": "https://nsl.usc.edu/people/rmiao/",
+   "students_in_tree": []
+  },
+  {
+   "id": 312,
+   "name": "Masoud Moshref",
+   "institution": "Barefoot Networks",
+   "year": "2016",
+   "advisor": "Minlan Yu",
+   "website_on_record": "http://masoudmoshref.com/",
+   "students_in_tree": []
+  },
+  {
+   "id": 313,
+   "name": "Dimitris Papadopoulos",
+   "institution": "Hong Kong University of Science and Technology",
+   "year": "2016",
+   "advisor": "Sharon Goldberg",
+   "website_on_record": "https://www.cse.ust.hk/~dipapado/",
+   "students_in_tree": []
+  },
+  {
+   "id": 314,
+   "name": "Davide Proserpio",
+   "institution": "USC",
+   "year": "2016",
+   "advisor": "Sharon Goldberg",
+   "website_on_record": "http://www-bcf.usc.edu/~proserpi/",
+   "students_in_tree": []
+  }
+ ]
+}

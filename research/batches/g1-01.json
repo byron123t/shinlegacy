@@ -1,0 +1,102 @@
+{
+ "batch": "g1-01",
+ "kind": "profile",
+ "people": [
+  {
+   "id": 2,
+   "name": "Brian Tang",
+   "institution": "University of Michigan",
+   "year": "2026",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://www.bjaytang.com/",
+   "students_in_tree": []
+  },
+  {
+   "id": 3,
+   "name": "C. Mani Krishna",
+   "institution": "University of Massachusetts Amherst",
+   "year": "1984",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://www.umass.edu/engineering/about/directory/mani-krishna",
+   "students_in_tree": [
+    "Khaled Hadi (2009)"
+   ]
+  },
+  {
+   "id": 4,
+   "name": "Yann-Hang Lee",
+   "institution": "Arizona State University",
+   "year": "1985",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://search.asu.edu/profile/284224",
+   "students_in_tree": [
+    "Deming Liu (2004)",
+    "Jin Wook Lee (2005)",
+    "Okehee Goh (2006)"
+   ]
+  },
+  {
+   "id": 5,
+   "name": "Kailai Cui",
+   "institution": "University of Michigan",
+   "year": "2027",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 6,
+   "name": "Noah T. Curran",
+   "institution": "University of Michigan",
+   "year": "2026",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://ntcurran.com/",
+   "students_in_tree": []
+  },
+  {
+   "id": 7,
+   "name": "Kaylee Yaxuan Li",
+   "institution": "University of Michigan",
+   "year": "2027",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 8,
+   "name": "Jianshuo Liu",
+   "institution": "University of Michigan",
+   "year": "2028",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 9,
+   "name": "Mingke Wang",
+   "institution": "University of Michigan",
+   "year": "2026",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "http://www.mingkewang.net/",
+   "students_in_tree": []
+  },
+  {
+   "id": 10,
+   "name": "Wei-Lun Huang",
+   "institution": "University of Michigan",
+   "year": "2026",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 11,
+   "name": "Long Huang",
+   "institution": "University of Michigan",
+   "year": "2027",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

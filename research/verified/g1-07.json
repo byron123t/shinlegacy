@@ -1,0 +1,316 @@
+{
+ "batch": "g1-07",
+ "people": [
+  {
+   "id": 62,
+   "name": "Mohamad El-Gendy",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Ciena, San Jose, CA",
+    "reason": "Listed on Kang G. Shin's official student/alumni page"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Mohamad El-Gendy received a PhD from the University of Michigan in 2005 under Kang G. Shin with a thesis titled 'Model-Based Quality of Service Control'. Shin's alumni list places this person at Ciena, San Jose, CA.",
+    "research_areas": [
+     "quality of service control"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2005",
+    "thesis_title": "Model-Based Quality of Service Control",
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "https://web.eecs.umich.edu/~kgshin/students.html"
+    ],
+    "reason": "Thesis title/year from RTCL dissertation list; position from Shin's student page; research areas limited to what thesis title supports. Dissertation listed as 'Mohamed A. El Gendy'; same person by title/year/alumni list."
+   },
+   "students": []
+  },
+  {
+   "id": 63,
+   "name": "Songkuk Kim",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://scholar.google.com/citations?user=YLKW-eEAAAAJ&hl=en",
+    "reason": "Scholar profile for Songkuk Kim loads, affiliation Yonsei University (verified yonsei.ac.kr email), matches Shin's list"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Yonsei University, Korea",
+    "reason": "Listed on Kang G. Shin's official student/alumni page; Scholar also shows Yonsei"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Songkuk Kim received a PhD from the University of Michigan in 2006 under Kang G. Shin with a thesis titled 'Improving the Dependability of Computer Networks'. The person is affiliated with Yonsei University, and the Google Scholar profile lists work on vision transformers and semantic communications.",
+    "research_areas": [
+     "computer networks",
+     "dependability",
+     "computer vision",
+     "machine learning"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2006",
+    "thesis_title": "Improving the Dependability of Computer Networks",
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "https://web.eecs.umich.edu/~kgshin/students.html",
+     "https://scholar.google.com/citations?user=YLKW-eEAAAAJ&hl=en"
+    ],
+    "reason": "Scholar profile fetched: name, Yonsei affiliation, vision transformer and semantic communications papers confirmed; 'faculty member' not confirmed."
+   },
+   "students": []
+  },
+  {
+   "id": 64,
+   "name": "Hai Huang",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "IBM T.J. Watson Research Center",
+    "reason": "Listed on Kang G. Shin's official student/alumni page"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Hai Huang received a PhD from the University of Michigan in 2006 under Kang G. Shin with a thesis titled 'Exploiting Unused Storage Resources to Enhance Systems' Energy Efficiency, Performance, and Fault-Tolerance'. Shin's alumni list places this person at IBM T.J. Watson Research Center.",
+    "research_areas": [
+     "storage systems",
+     "energy efficiency",
+     "fault tolerance"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2006",
+    "thesis_title": "Exploiting Unused Storage Resources to Enhance Systems' Energy Efficiency, Performance, and Fault-Tolerance",
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "https://web.eecs.umich.edu/~kgshin/students.html"
+    ],
+    "reason": "Thesis title/year from RTCL dissertation list; position from Shin's student page; research areas limited to what thesis title supports."
+   },
+   "students": []
+  },
+  {
+   "id": 65,
+   "name": "Jai-Jin Lim",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Samsung",
+    "reason": "Listed on Kang G. Shin's official student/alumni page"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Jai-Jin Lim received a PhD from the University of Michigan in 2007 under Kang G. Shin with a thesis titled 'Resilient and Efficient Gradient-based Coordinate Routing in Wireless Mesh Networks'. Shin's alumni list places this person at Samsung.",
+    "research_areas": [
+     "wireless mesh networks",
+     "routing"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2007",
+    "thesis_title": "Resilient and Efficient Gradient-based Coordinate Routing in Wireless Mesh Networks",
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "https://web.eecs.umich.edu/~kgshin/students.html"
+    ],
+    "reason": "Thesis title/year from RTCL dissertation list; position from Shin's student page; research areas limited to what thesis title supports."
+   },
+   "students": []
+  },
+  {
+   "id": 66,
+   "name": "Wei Sun",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Google",
+    "reason": "Listed on Kang G. Shin's official student/alumni page"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Wei Sun received a PhD from the University of Michigan in 2007 under Kang G. Shin with a thesis titled 'QoS Support in Large-Scale Computer Networks based on Aggregate Scheduling and BGP Routing Enhancement'. Shin's alumni list places this person at Google.",
+    "research_areas": [
+     "QoS",
+     "network scheduling",
+     "BGP routing"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2007",
+    "thesis_title": "QoS Support in Large-Scale Computer Networks based on Aggregate Scheduling and BGP Routing Enhancement",
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "https://web.eecs.umich.edu/~kgshin/students.html"
+    ],
+    "reason": "Thesis title/year from RTCL dissertation list; position from Shin's student page; research areas limited to what thesis title supports."
+   },
+   "students": []
+  },
+  {
+   "id": 67,
+   "name": "Abhijit Bose",
+   "website": {
+    "verdict": "rejected",
+    "url": "https://mlconf.com/?p=8045",
+    "reason": "MLconf speaker profile is a third-party conference page, not the person's own or official page"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://mlconf.com/wp-content/uploads/2013/11/Executive-Bio-Abhijit-2-e1645028780271.jpg",
+    "page_url": "https://mlconf.com/?p=8045",
+    "reason": "Page names Abhijit Bose and embeds image in <img src>; 200 image/jpeg; viewed: single-person headshot (man with glasses, striped shirt)"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Capital One, NYC",
+    "reason": "Listed on Kang G. Shin's official student/alumni page; MLconf also shows Capital One"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Abhijit Bose received a PhD from the University of Michigan in 2008 under Kang G. Shin with a thesis titled 'Propagation, Detection and Containment of Mobile Malware'. A conference speaker bio describes Bose as Managing Vice President of Capital One's Center for Machine Learning, previously head of engineering for Facebook AI Research and Managing Director of Data Science at JP Morgan, with earlier roles at IBM, Google and American Express.",
+    "research_areas": [
+     "machine learning",
+     "data science",
+     "mobile malware"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2008",
+    "thesis_title": "Propagation, Detection and Containment of Mobile Malware",
+    "notable": [
+     "Head of Engineering, Facebook AI Research (previous)",
+     "Managing Director of Data Science, JP Morgan (previous)"
+    ],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "https://web.eecs.umich.edu/~kgshin/students.html",
+     "https://mlconf.com/?p=8045"
+    ],
+    "reason": "MLconf bio confirms Capital One C4ML, Facebook AI Research, JP Morgan, IBM/Google/AmEx; Capital One matches Shin's list."
+   },
+   "students": []
+  },
+  {
+   "id": 68,
+   "name": "Chang-hao (Howard) Tsai",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Skytap Cloud",
+    "reason": "Listed on Kang G. Shin's official student/alumni page"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Chang-hao (Howard) Tsai received a PhD from the University of Michigan under Kang G. Shin with a thesis titled 'System Architectures with Virtualized Resources in a Large-Scale Computing Infrastructure'. Shin's alumni list places this person at Skytap Cloud.",
+    "research_areas": [
+     "virtualization",
+     "large-scale computing infrastructure"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": null,
+    "thesis_title": "System Architectures with Virtualized Resources in a Large-Scale Computing Infrastructure",
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "https://web.eecs.umich.edu/~kgshin/students.html"
+    ],
+    "reason": "PhD year dropped: RTCL dissertation list says 2009, Shin's alumni list says 2008. Thesis title/year from RTCL dissertation list; position from Shin's student page; research areas limited to what thesis title supports. Dissertation listed as 'Chang-Hao Tsai'."
+   },
+   "students": []
+  },
+  {
+   "id": 69,
+   "name": "Jian Wu",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Google",
+    "reason": "Listed on Kang G. Shin's official student/alumni page"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Jian Wu received a PhD from the University of Michigan under Kang G. Shin with a thesis titled 'Toward a Robust Internet Interdomain Routing'. Shin's alumni list places this person at Google.",
+    "research_areas": [
+     "Internet interdomain routing"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": null,
+    "thesis_title": "Toward a Robust Internet Interdomain Routing",
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "https://web.eecs.umich.edu/~kgshin/students.html"
+    ],
+    "reason": "PhD year dropped: RTCL dissertation list says 2009, Shin's alumni list says 2008. Thesis title/year from RTCL dissertation list; position from Shin's student page; research areas limited to what thesis title supports."
+   },
+   "students": []
+  },
+  {
+   "id": 70,
+   "name": "Kyu-Han Kim",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Echo AI, Palo Alto, CA",
+    "reason": "Listed on Kang G. Shin's official student/alumni page; Echo AI role not corroborated elsewhere"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Kyu-Han Kim received a PhD from the University of Michigan in 2009 under Kang G. Shin with a thesis titled 'Improving QoS and Management in Multi-hop Wireless Networks'. Shin's alumni list places this person at Echo AI, Palo Alto, CA.",
+    "research_areas": [
+     "multi-hop wireless networks",
+     "QoS"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2009",
+    "thesis_title": "Improving QoS and Management in Multi-hop Wireless Networks",
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "https://web.eecs.umich.edu/~kgshin/students.html"
+    ],
+    "reason": "Dropped HP Labs and Deutsche Telekom claims: only seen via search snippets of aggregators, not re-openable."
+   },
+   "students": []
+  },
+  {
+   "id": 71,
+   "name": "Zhigang Chen",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "WuXi AppTec, Chief Digital Officer (CDO)",
+    "reason": "Listed on Kang G. Shin's official student/alumni page; Echo AI role not corroborated elsewhere"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Zhigang Chen received a PhD from the University of Michigan in 2009 under Kang G. Shin with a thesis titled 'Energy-efficient Information Collection and Dissemination in Wireless Sensor Networks'. Shin's alumni list places this person at WuXi AppTec, Chief Digital Officer (CDO).",
+    "research_areas": [
+     "wireless sensor networks",
+     "energy-efficient information collection"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2009",
+    "thesis_title": "Energy-efficient Information Collection and Dissemination in Wireless Sensor Networks",
+    "notable": [],
+    "sources": [
+     "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+     "https://web.eecs.umich.edu/~kgshin/students.html"
+    ],
+    "reason": "Thesis title/year from RTCL dissertation list; position from Shin's student page; research areas limited to what thesis title supports. Position as listed on Shin's page."
+   },
+   "students": []
+  }
+ ]
+}

@@ -1,0 +1,285 @@
+{
+ "batch": "g1-08",
+ "people": [
+  {
+   "id": 72,
+   "name": "Min-Gyu Cho",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 73,
+   "name": "Pradeep Padala",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "value": null,
+    "reason": "Only source is CB Insights (aggregator); no current official page confirms the role, and 'entrepreneur and investor' is unsupported"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Pradeep Padala earned a PhD from the University of Michigan in 2009 under Kang G. Shin, with the dissertation 'Automated Management of Virtualized Data Centers'.",
+    "research_areas": [],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2009",
+    "thesis_title": "Automated Management of Virtualized Data Centers",
+    "notable": [],
+    "sources": [
+     "https://mathgenealogy.org/id.php?id=155427"
+    ],
+    "reason": "Math Genealogy confirms PhD, year, thesis, advisor. Career claims (ContainerX co-founder, Cisco acquisition, Fylamynt 2019, VMware) rest on CB Insights aggregator or snippets and were dropped; research areas not stated by a reliable page"
+   },
+   "students": []
+  },
+  {
+   "id": 74,
+   "name": "Jisoo Yang",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://web.cs.unlv.edu/jisooy/",
+    "reason": "UNLV CS personal homepage; Jisoo Yang, Assistant Professor, PhD Michigan 2010"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://web.cs.unlv.edu/jisooy/image/portrait_small.jpg",
+    "page_url": "https://web.cs.unlv.edu/jisooy/",
+    "reason": "Page embeds it as <img alt='Jisoo Yang'>; 200 image/jpeg; viewed: single-person portrait"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Assistant Professor, Department of Computer Science, University of Nevada, Las Vegas",
+    "reason": "Stated on UNLV homepage (page content appears dated around 2017, so may be stale)"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Jisoo Yang is an Assistant Professor of Computer Science at UNLV who received a PhD in Computer Science from the University of Michigan in 2010. Research focuses on operating system and architecture support for new memory technologies such as 3D XPoint and 3D NAND. Prior systems work involved modifying the Linux kernel and Xen hypervisor, and included processor architecture work at Intel.",
+    "research_areas": [
+     "Operating systems",
+     "Computer architecture",
+     "Non-volatile memory and storage"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2010",
+    "thesis_title": null,
+    "notable": [],
+    "sources": [
+     "https://web.cs.unlv.edu/jisooy/"
+    ],
+    "reason": "Dropped NVM Express, Intel SGX and 'contributed to' Linux (page says modified); rest matches homepage"
+   },
+   "students": []
+  },
+  {
+   "id": 75,
+   "name": "Hyoil Kim",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://wmnl.unist.ac.kr/?p=2378",
+    "reason": "UNIST WMNL professor page, name and affiliation match"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Professor, Department of Electrical Engineering, UNIST; Director, Wireless and Mobile Networking Laboratory (WMNL)",
+    "reason": "Stated on lab page"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Hyoil Kim is a Professor of Electrical Engineering at UNIST in Korea and directs the Wireless and Mobile Networking Laboratory. Kim earned a BS from Seoul National University in 1999 and an MS (2005) and PhD (2010) from the University of Michigan under Kang G. Shin. Research focuses on AI-empowered networking, 5G/6G, and dynamic spectrum access.",
+    "research_areas": [
+     "Wireless and mobile networking",
+     "Dynamic spectrum access",
+     "Cognitive radio networks",
+     "5G/6G",
+     "AI-empowered networking"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2010",
+    "thesis_title": "Efficient Identification and Utilization of Spectrum Opportunities in Cognitive Radio Networks",
+    "notable": [
+     "Distinguished Member of INFOCOM TPC (2022, 2025)",
+     "New Challenger Award, UNIST (2024)",
+     "Achievement Award, KICS (2024)"
+    ],
+    "sources": [
+     "https://wmnl.unist.ac.kr/?p=2378"
+    ],
+    "reason": "All fields match lab page"
+   },
+   "students": []
+  },
+  {
+   "id": 76,
+   "name": "Ashwini Kumar",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 77,
+   "name": "Alexander Min",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 78,
+   "name": "Xin Hu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 79,
+   "name": "Yuanyuan Zeng",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 80,
+   "name": "Mathew Knysz",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "unverifiable",
+    "value": null,
+    "reason": "Press-release source returned 403 in research and no page was provided to re-open; cannot confirm"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 81,
+   "name": "Xinyu Zhang",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://xyzhang.ucsd.edu/index.html",
+    "reason": "Personal site of Xinyu Zhang, UCSD ECE"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://xyzhang.ucsd.edu/images/xyzhang.jpg",
+    "page_url": "https://xyzhang.ucsd.edu/index.html",
+    "reason": "Page fills <img id=prof-photo alt='Xinyu Zhang'> from data.js photo: images/xyzhang.jpg; 200 image/jpeg; viewed: single-person portrait (casual outdoor)"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Professor of Electrical and Computer Engineering, UC San Diego; Ericsson Endowed Chair in Wireless Access Networks; Director, Center for Wireless Communications",
+    "reason": "Homepage data and CV (Mar 2026)"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Xinyu Zhang is a Professor of Electrical and Computer Engineering at UC San Diego, holding the Ericsson Endowed Chair and directing the Center for Wireless Communications. Research covers next-generation wireless network architectures and ubiquitous sensing, with emphasis on millimeter-wave networking, metasurface-empowered communications and AI-augmented mobile computing. Zhang earned a PhD at the University of Michigan in 2012 under Kang G. Shin and was previously an Assistant Professor at UW-Madison (2012-2017).",
+    "research_areas": [
+     "Wireless networking",
+     "Millimeter-wave systems",
+     "Metasurfaces",
+     "Wireless sensing",
+     "Mobile computing"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2012",
+    "thesis_title": "MAC/PHY Co-Design of CSMA Wireless Networks Based on Software Radios",
+    "notable": [
+     "ACM SIGMOBILE Rockstar Award (2023)",
+     "Best Paper Awards: MobiCom 2020, SenSys 2023, SenSys 2026",
+     "Google Faculty Research Award (2020)",
+     "TPC co-chair MobiCom 2019, SECON 2017"
+    ],
+    "sources": [
+     "https://xyzhang.ucsd.edu/index.html",
+     "https://xyzhang.ucsd.edu/data.js",
+     "https://xyzhang.ucsd.edu/CV_XinyuZhang_032026.pdf"
+    ],
+    "reason": "Homepage data.js and CV confirm all; CV supplies PhD, advisor and thesis title (raw had null thesis)"
+   },
+   "students": [
+    {
+     "name": "Songlin Xu",
+     "verdict": "confirmed",
+     "phd_year": "2026",
+     "current_institution": "Assistant Professor, Hong Kong Polytechnic University",
+     "website": "https://songlinxu.com",
+     "source_url": "https://xyzhang.ucsd.edu/data.js",
+     "reason": "Alumni list role 'phd' 09/2021-03/2026; 2026 graduate news"
+    },
+    {
+     "name": "Kai Zheng",
+     "verdict": "confirmed",
+     "phd_year": "2025",
+     "current_institution": "Senior Research Engineer, Samsung Research America",
+     "website": "https://kaizheng.me",
+     "source_url": "https://xyzhang.ucsd.edu/data.js",
+     "reason": "Alumni list role 'phd' 09/2020-08/2025; 2025 graduate news"
+    },
+    {
+     "name": "Hongsik Yoon",
+     "verdict": "confirmed",
+     "phd_year": "current",
+     "current_institution": "UC San Diego",
+     "website": null,
+     "source_url": "https://xyzhang.ucsd.edu/data.js",
+     "reason": "Listed under 'Ph.D. Research Assistants' (current team) on advisor's site (ECE)"
+    },
+    {
+     "name": "Wuqiong Zhao",
+     "verdict": "confirmed",
+     "phd_year": "current",
+     "current_institution": "UC San Diego",
+     "website": "https://wqzhao.org/",
+     "source_url": "https://xyzhang.ucsd.edu/data.js",
+     "reason": "Listed under 'Ph.D. Research Assistants' (current team) on advisor's site (ECE)"
+    },
+    {
+     "name": "Qinpei Luo",
+     "verdict": "confirmed",
+     "phd_year": "current",
+     "current_institution": "UC San Diego",
+     "website": "https://scholar.google.com/citations?user=NezngRAAAAAJ&hl=en",
+     "source_url": "https://xyzhang.ucsd.edu/data.js",
+     "reason": "Listed under 'Ph.D. Research Assistants' (current team) on advisor's site (ECE)"
+    },
+    {
+     "name": "Xingyu Chen",
+     "verdict": "confirmed",
+     "phd_year": "current",
+     "current_institution": "UC San Diego",
+     "website": "https://xingyuchen.me/",
+     "source_url": "https://xyzhang.ucsd.edu/data.js",
+     "reason": "Listed under 'Ph.D. Research Assistants' (current team) on advisor's site (CSE)"
+    },
+    {
+     "name": "Baicheng Chen",
+     "verdict": "confirmed",
+     "phd_year": "current",
+     "current_institution": "UC San Diego",
+     "website": "https://www.baichengchen.com/",
+     "source_url": "https://xyzhang.ucsd.edu/data.js",
+     "reason": "Listed under 'Ph.D. Research Assistants' (current team) on advisor's site (CSE)"
+    },
+    {
+     "name": "Dae Cheol Kwon",
+     "verdict": "confirmed",
+     "phd_year": "current",
+     "current_institution": "UC San Diego",
+     "website": null,
+     "source_url": "https://xyzhang.ucsd.edu/data.js",
+     "reason": "Listed under 'Ph.D. Research Assistants' (current team) on advisor's site (ECE)"
+    }
+   ]
+  }
+ ]
+}

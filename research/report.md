@@ -1,0 +1,415 @@
+# Research review
+
+- Field updates: 289
+- New students: 109
+- Ignored (rejected/unverifiable): {'website': 18, 'photo': 3, 'bio': 0, 'position': 41, 'student': 35}
+
+## New students
+
+- **Zelun Wang** (2020) — advisor Jyh-Charn (Steve) Liu; Snapchat (ML Engineer) — [source](https://rtds.cse.tamu.edu/people/previous-students/)
+- **Jason Lin** (2020) — advisor Jyh-Charn (Steve) Liu; National Chung Hsing University — [source](https://rtds.cse.tamu.edu/people/previous-students/)
+- **Guoyu Fu** (2019) — advisor Jyh-Charn (Steve) Liu; Google — [source](https://rtds.cse.tamu.edu/people/previous-students/)
+- **Xing Wang** (2018) — advisor Jyh-Charn (Steve) Liu; Facebook — [source](https://rtds.cse.tamu.edu/people/previous-students/)
+- **Hao Wang** (2013) — advisor Jyh-Charn (Steve) Liu; Cisco — [source](https://rtds.cse.tamu.edu/people/previous-students/)
+- **Shi Pu** (2013) — advisor Jyh-Charn (Steve) Liu; Microsoft — [source](https://rtds.cse.tamu.edu/people/previous-students/)
+- **John Pecarina** (2013) — advisor Jyh-Charn (Steve) Liu; University of Wisconsin-Madison (Aerospace Studies) — [source](https://rtds.cse.tamu.edu/people/previous-students/)
+- **Sheng-Ya Lin** (2013) — advisor Jyh-Charn (Steve) Liu;  — [source](https://rtds.cse.tamu.edu/people/previous-students/)
+- **Hai Xu** (2011) — advisor Jyh-Charn (Steve) Liu; Halliburton — [source](https://rtds.cse.tamu.edu/people/previous-students/)
+- **Huajun Ying** (2011) — advisor Jyh-Charn (Steve) Liu; Blippar — [source](https://rtds.cse.tamu.edu/people/previous-students/)
+- **Pu Duan** (2011) — advisor Jyh-Charn (Steve) Liu; Cisco — [source](https://rtds.cse.tamu.edu/people/previous-students/)
+- **Hong Lu** (2008) — advisor Jyh-Charn (Steve) Liu; Airbnb — [source](https://rtds.cse.tamu.edu/people/previous-students/)
+- **Ming Zhang** (2008) — advisor Jyh-Charn (Steve) Liu; Google — [source](https://rtds.cse.tamu.edu/people/previous-students/)
+- **Tak Cheung Lam** (2008) — advisor Jyh-Charn (Steve) Liu; Cisco — [source](https://rtds.cse.tamu.edu/people/previous-students/)
+- **Sung-Oh Jung** (2005) — advisor Jyh-Charn (Steve) Liu;  — [source](https://rtds.cse.tamu.edu/people/previous-students/)
+- **Di Wu** (2005) — advisor Jyh-Charn (Steve) Liu;  — [source](https://rtds.cse.tamu.edu/people/previous-students/)
+- **Yong Xiong** (2004) — advisor Jyh-Charn (Steve) Liu; Fannie Mae — [source](https://rtds.cse.tamu.edu/people/previous-students/)
+- **Stephen George** (2014) — advisor Jyh-Charn (Steve) Liu;  — [source](https://rtds.cse.tamu.edu/people/previous-students/)
+- **Satadal Sengupta** (2026) — advisor Jennifer Rexford; UT-Austin (postdoc, fall 2026) — [source](https://www.cs.princeton.edu/~jrex/)
+- **Sophia Yoo** (2026) — advisor Jennifer Rexford; Amherst College (assistant professor, summer 2026) — [source](https://www.cs.princeton.edu/~jrex/)
+- **Shuochao Yao** (?) — advisor Tarek Abdelzaher; George Mason University — [source](https://abdelzaher.cs.illinois.edu/people.html)
+- **Yiran Zhao** (?) — advisor Tarek Abdelzaher; Pinterest — [source](https://abdelzaher.cs.illinois.edu/people.html)
+- **Jongdeog Lee** (?) — advisor Tarek Abdelzaher; Military Academy, Seoul — [source](https://abdelzaher.cs.illinois.edu/people.html)
+- **Huajie Shao** (?) — advisor Tarek Abdelzaher; University of Illinois Urbana-Champaign — [source](https://abdelzaher.cs.illinois.edu/people.html)
+- **Hang Cui** (?) — advisor Tarek Abdelzaher; University of Illinois Urbana-Champaign — [source](https://abdelzaher.cs.illinois.edu/people.html)
+- **Shengzhong Liu** (?) — advisor Tarek Abdelzaher; University of Illinois Urbana-Champaign — [source](https://abdelzaher.cs.illinois.edu/people.html)
+- **Dongxin Liu** (?) — advisor Tarek Abdelzaher; University of Illinois Urbana-Champaign — [source](https://abdelzaher.cs.illinois.edu/people.html)
+- **Ruijie Wang** (?) — advisor Tarek Abdelzaher; University of Illinois Urbana-Champaign — [source](https://abdelzaher.cs.illinois.edu/people.html)
+- **Jinyang Li** (?) — advisor Tarek Abdelzaher; University of Illinois Urbana-Champaign — [source](https://abdelzaher.cs.illinois.edu/people.html)
+- **Md Iftekharul Islam Sakib** (?) — advisor Tarek Abdelzaher; University of Illinois Urbana-Champaign — [source](https://abdelzaher.cs.illinois.edu/people.html)
+- **Tianshi Wang** (?) — advisor Tarek Abdelzaher; University of Illinois Urbana-Champaign — [source](https://abdelzaher.cs.illinois.edu/people.html)
+- **Dachun Sun** (?) — advisor Tarek Abdelzaher; University of Illinois Urbana-Champaign — [source](https://abdelzaher.cs.illinois.edu/people.html)
+- **Jinning Li** (?) — advisor Tarek Abdelzaher; University of Illinois Urbana-Champaign — [source](https://abdelzaher.cs.illinois.edu/people.html)
+- **Songlin Xu** (2026) — advisor Xinyu Zhang; Assistant Professor, Hong Kong Polytechnic University — [source](https://xyzhang.ucsd.edu/data.js)
+- **Kai Zheng** (2025) — advisor Xinyu Zhang; Senior Research Engineer, Samsung Research America — [source](https://xyzhang.ucsd.edu/data.js)
+- **Hongsik Yoon** (current) — advisor Xinyu Zhang; UC San Diego — [source](https://xyzhang.ucsd.edu/data.js)
+- **Wuqiong Zhao** (current) — advisor Xinyu Zhang; UC San Diego — [source](https://xyzhang.ucsd.edu/data.js)
+- **Qinpei Luo** (current) — advisor Xinyu Zhang; UC San Diego — [source](https://xyzhang.ucsd.edu/data.js)
+- **Xingyu Chen** (current) — advisor Xinyu Zhang; UC San Diego — [source](https://xyzhang.ucsd.edu/data.js)
+- **Baicheng Chen** (current) — advisor Xinyu Zhang; UC San Diego — [source](https://xyzhang.ucsd.edu/data.js)
+- **Dae Cheol Kwon** (current) — advisor Xinyu Zhang; UC San Diego — [source](https://xyzhang.ucsd.edu/data.js)
+- **Wangwei Shen** (current) — advisor Dongyao Chen;  — [source](https://chendy.tech/)
+- **Yifeng Zhang** (current) — advisor Dongyao Chen;  — [source](https://chendy.tech/)
+- **Tianyuan (Frank) Qiu** (current) — advisor Xiaoqi Chen; Purdue University — [source](https://engineering.purdue.edu/~xiaoqic/group.html)
+- **Xinyu Chen** (current) — advisor Xiaoqi Chen; Purdue University — [source](https://engineering.purdue.edu/~xiaoqic/group.html)
+- **Bhavana Vannarth Shobhana** (current) — advisor Srinivas Narayana; Rutgers University — [source](https://people.cs.rutgers.edu/~sn624/)
+- **Harishankar Vishwanathan** (current) — advisor Srinivas Narayana; Rutgers University — [source](https://people.cs.rutgers.edu/~sn624/)
+- **Bashayer Alharbi** (current) — advisor Eric Keller; University of Colorado Boulder — [source](https://eric-keller.github.io/)
+- **Shirin Ebadi** (current) — advisor Eric Keller; University of Colorado Boulder — [source](https://eric-keller.github.io/)
+- **Sara Daneshvar** (current) — advisor Eric Keller; University of Colorado Boulder — [source](https://eric-keller.github.io/)
+- **Richard Thompson** (current) — advisor Eric Keller; University of Colorado Boulder — [source](https://eric-keller.github.io/)
+- **Victor Jimenez** (current) — advisor Eric Keller; University of Colorado Boulder — [source](https://eric-keller.github.io/)
+- **Erika Hunhoff** (2025) — advisor Eric Keller; AMD — [source](https://eric-keller.github.io/)
+- **Maziyar Nazari** (2025) — advisor Eric Keller; Meta — [source](https://eric-keller.github.io/)
+- **Karl Olson** (2024) — advisor Eric Keller; US Military Academy / Army Cyber Institute — [source](https://eric-keller.github.io/)
+- **Greg Cusack** (2022) — advisor Eric Keller; Solana — [source](https://eric-keller.github.io/)
+- **Marcelo Abranches** (2022) — advisor Eric Keller; CGU (Brazil) — [source](https://eric-keller.github.io/)
+- **Sepideh Goodarzy** (2022) — advisor Eric Keller; Google — [source](https://eric-keller.github.io/)
+- **Mohammad Hashemi** (2021) — advisor Eric Keller; Illumina — [source](https://eric-keller.github.io/)
+- **Azzam Alsudais** (2020) — advisor Eric Keller; King Saud University — [source](https://eric-keller.github.io/)
+- **Yang Zhou** (?) — advisor Minlan Yu; UC Davis (assistant professor; previously postdoc at UC Berkeley) — [source](https://minlanyu.seas.harvard.edu/student.html)
+- **Zhiying Xu** (?) — advisor Minlan Yu; Amazon — [source](https://minlanyu.seas.harvard.edu/student.html)
+- **Junzhi Gong** (?) — advisor Minlan Yu; Google — [source](https://minlanyu.seas.harvard.edu/student.html)
+- **Jiaqi Gao** (?) — advisor Minlan Yu; Alibaba Research — [source](https://minlanyu.seas.harvard.edu/student.html)
+- **Sivaram Ramanathan** (?) — advisor Minlan Yu; Meta — [source](https://minlanyu.seas.harvard.edu/student.html)
+- **Yuliang Li** (?) — advisor Minlan Yu; Google — [source](https://minlanyu.seas.harvard.edu/student.html)
+- **Omid Alipourfard** (?) — advisor Minlan Yu;  — [source](https://minlanyu.seas.harvard.edu/student.html)
+- **Weifan Jiang** (current) — advisor Minlan Yu; Harvard University — [source](https://minlanyu.seas.harvard.edu/student.html)
+- **Chonlam Lao** (current) — advisor Minlan Yu; Harvard University — [source](https://minlanyu.seas.harvard.edu/student.html)
+- **Minghao Li** (current) — advisor Minlan Yu; Harvard University — [source](https://minlanyu.seas.harvard.edu/student.html)
+- **Xingyu Xiang** (current) — advisor Minlan Yu; Harvard University — [source](https://minlanyu.seas.harvard.edu/student.html)
+- **Yiyu Liu** (current) — advisor Minlan Yu; Harvard University — [source](https://minlanyu.seas.harvard.edu/student.html)
+- **Xuanlin Jiang** (current) — advisor Minlan Yu; Harvard University — [source](https://minlanyu.seas.harvard.edu/student.html)
+- **Ethan Heilman** (?) — advisor Sharon Goldberg;  — [source](https://www.cs.bu.edu/fac/goldbe/)
+- **Aanchal Malhotra** (?) — advisor Sharon Goldberg;  — [source](https://www.cs.bu.edu/fac/goldbe/)
+- **Sarah Scheffler** (?) — advisor Sharon Goldberg;  — [source](https://www.cs.bu.edu/fac/goldbe/)
+- **Qihang Yao** (2025) — advisor Constantine Dovrolis; Meta — [source](https://sites.cc.gatech.edu/fac/Constantinos.Dovrolis/start_page.html)
+- **Mustafa Burak Gürbüz** (2025) — advisor Constantine Dovrolis; Meta — [source](https://sites.cc.gatech.edu/fac/Constantinos.Dovrolis/start_page.html)
+- **Cameron Taylor** (2025) — advisor Constantine Dovrolis; Talon.io — [source](https://sites.cc.gatech.edu/fac/Constantinos.Dovrolis/start_page.html)
+- **Shreyas Malakarjun Patil** (2024) — advisor Constantine Dovrolis; Amazon — [source](https://sites.cc.gatech.edu/fac/Constantinos.Dovrolis/start_page.html)
+- **Kamal Shadi** (2019) — advisor Constantine Dovrolis; Decooda — [source](https://sites.cc.gatech.edu/fac/Constantinos.Dovrolis/start_page.html)
+- **Kaeser Md. Sabrin** (2018) — advisor Constantine Dovrolis; LinkedIn — [source](https://sites.cc.gatech.edu/fac/Constantinos.Dovrolis/start_page.html)
+- **Payam Siyari** (2018) — advisor Constantine Dovrolis; Uber — [source](https://sites.cc.gatech.edu/fac/Constantinos.Dovrolis/start_page.html)
+- **Siddarth Sitaraman** (current) — advisor Amrita Roy Chowdhury; University of Michigan — [source](https://sites.google.com/wisc.edu/amrita-roy-chowdhury/)
+- **Huseyin Sahin** (current) — advisor Amrita Roy Chowdhury; University of Michigan — [source](https://sites.google.com/wisc.edu/amrita-roy-chowdhury/)
+- **Emmanuel Addo Addae** (current) — advisor Sanjib Sur; University of South Carolina — [source](https://syrex.cse.sc.edu/team/)
+- **Pingping Cai** (current) — advisor Sanjib Sur; University of South Carolina — [source](https://syrex.cse.sc.edu/team/)
+- **Zhuangzhuang Gu** (current) — advisor Sanjib Sur; University of South Carolina — [source](https://syrex.cse.sc.edu/team/)
+- **Sabbir Saadat** (current) — advisor Sanjib Sur; University of South Carolina — [source](https://syrex.cse.sc.edu/team/)
+- **Zarin Shejuti** (current) — advisor Sanjib Sur; University of South Carolina — [source](https://syrex.cse.sc.edu/team/)
+- **Aayush Shrestha** (current) — advisor Sanjib Sur; University of South Carolina — [source](https://syrex.cse.sc.edu/team/)
+- **Abdulahi Taiwo** (current) — advisor Sanjib Sur; University of South Carolina — [source](https://syrex.cse.sc.edu/team/)
+- **Reza Tavasoli** (current) — advisor Sanjib Sur; University of South Carolina — [source](https://syrex.cse.sc.edu/team/)
+- **Aakriti Adhikari** (2025) — advisor Sanjib Sur;  — [source](https://syrex.cse.sc.edu/team/)
+- **Hem Regmi** (2025) — advisor Sanjib Sur;  — [source](https://syrex.cse.sc.edu/team/)
+- **Chih-Yu Lin** (2007) — advisor Wen-Chih Peng; National Chiao Tung University — [source](https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised)
+- **Chih-Chieh Hung** (2011) — advisor Wen-Chih Peng; Rakuten Inc., Japan — [source](https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised)
+- **Po-Ruey Lei** (2012) — advisor Wen-Chih Peng; National Defense University — [source](https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised)
+- **Ling-Yin Wei** (2012) — advisor Wen-Chih Peng;  — [source](https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised)
+- **Yi-Cheng Chen** (2012) — advisor Wen-Chih Peng; Tamkang University — [source](https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised)
+- **Meng-Fen Chiang** (2012) — advisor Wen-Chih Peng; Yahoo Taiwan — [source](https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised)
+- **Zhung-Xun Liao** (2013) — advisor Wen-Chih Peng; Yahoo Taiwan — [source](https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised)
+- **Wen-Yuan Zhu** (2016) — advisor Wen-Chih Peng;  — [source](https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised)
+- **Chien-Cheng Chen** (2017) — advisor Wen-Chih Peng;  — [source](https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised)
+- **Gunarto Sindoro Njoo** (2019) — advisor Wen-Chih Peng;  — [source](https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised)
+- **Yu-Ting Wen** (2019) — advisor Wen-Chih Peng;  — [source](https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised)
+- **Wei-Yao Wang** (2024) — advisor Wen-Chih Peng;  — [source](https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised)
+- **Hui-Kuo Yang** (2024) — advisor Wen-Chih Peng;  — [source](https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised)
+- **Chiao-Ting Chen** (2024) — advisor Wen-Chih Peng;  — [source](https://sites.google.com/site/wcpeng/wcpeng/ph-d-supvised)
+
+## Needs a human look
+
+- Sunggu Lee: confirmed website https://esa.postech.ac.kr/esa/mem/member.do differs from http://esa.postech.ac.kr/index.php/members/sunggulee/ (kept; use --replace-websites)
+- Martin Suchara: confirmed website https://voices.uchicago.edu/suchara differs from http://martinsuchara.com (kept; use --replace-websites)
+- Ashish Hooda: confirmed website https://ashishhoodaiitd.github.io/ differs from https://pages.cs.wisc.edu/~hooda/ (kept; use --replace-websites)
+
+## Field updates
+
+- Brian Tang: photo → https://rtcl.eecs.umich.edu/rtclweb/assets/images/people/bjaytang.png
+- Brian Tang: position → PhD Candidate, Computer Science and Engineering, University of Michigan
+- Brian Tang: bio (348 chars)
+- C. Mani Krishna: photo → https://www.umass.edu/engineering/sites/g/files/ijdqth166/files/styles/1_1_m/public/2022-11/cmani_krishna_crop.jpeg
+- C. Mani Krishna: position → Professor, Electrical and Computer Engineering, University of Massachusetts Amherst
+- C. Mani Krishna: bio (385 chars)
+- Yann-Hang Lee: photo → https://webapp4.asu.edu/photo-ws/directory_photo/ylee1?size=medium&break=1791413215&blankImage2=1
+- Yann-Hang Lee: position → Emeritus Professor, School of Computing and Augmented Intelligence, Arizona State University
+- Yann-Hang Lee: bio (619 chars)
+- Kailai Cui: photo → https://rtcl.eecs.umich.edu/rtclweb/assets/images/people/kailaic.jpeg
+- Kailai Cui: position → PhD Candidate, Real-Time Computing Lab, University of Michigan
+- Kailai Cui: bio (227 chars)
+- Noah T. Curran: photo → https://rtcl.eecs.umich.edu/rtclweb/assets/images/people/noah-curran.jpg
+- Noah T. Curran: position → PhD Candidate, Real-Time Computing Lab, University of Michigan
+- Noah T. Curran: bio (291 chars)
+- Kaylee Yaxuan Li: photo → https://rtcl.eecs.umich.edu/rtclweb/assets/images/people/yaxuanli.jpg
+- Kaylee Yaxuan Li: position → PhD Candidate, Real-Time Computing Lab, University of Michigan
+- Kaylee Yaxuan Li: bio (109 chars)
+- Jianshuo Liu: photo → https://rtcl.eecs.umich.edu/rtclweb/assets/images/people/jianshuo.png
+- Jianshuo Liu: position → PhD Student, Real-Time Computing Lab, University of Michigan
+- Jianshuo Liu: bio (86 chars)
+- Mingke Wang: photo → https://rtcl.eecs.umich.edu/rtclweb/assets/images/people/mingkew.jpeg
+- Mingke Wang: position → PhD Candidate, Real-Time Computing Lab, University of Michigan
+- Mingke Wang: bio (128 chars)
+- Wei-Lun Huang: photo → https://rtcl.eecs.umich.edu/rtclweb/assets/images/people/wei-lun.jpg
+- Wei-Lun Huang: position → PhD Candidate, Real-Time Computing Lab, University of Michigan
+- Wei-Lun Huang: bio (261 chars)
+- Long Huang: photo → https://rtcl.eecs.umich.edu/rtclweb/assets/images/people/huanlong.jpg
+- Long Huang: position → PhD Candidate, Real-Time Computing Lab, University of Michigan
+- Long Huang: bio (210 chars)
+- Neil D. McKay: photo → https://web.eecs.umich.edu/~mckay/images/neilthumb.jpg
+- Neil D. McKay: bio (588 chars)
+- Ming-Syan (Frank) Chen: website → https://arbor.ee.ntu.edu.tw/~mschen/
+- Ming-Syan (Frank) Chen: photo → https://homepage.iis.sinica.edu.tw/pages/photo/mschen.jpg
+- Ming-Syan (Frank) Chen: position → NTU Chair Professor, National Taiwan University
+- Ming-Syan (Frank) Chen: bio (520 chars)
+- Jyh-Charn (Steve) Liu: website → https://engineering.tamu.edu/cse/people/jliu
+- Jyh-Charn (Steve) Liu: photo → https://engineering.tamu.edu/cse/_files/_images/_profile-images/liu-jyh-charn-steve-profilepic.jpg
+- Jyh-Charn (Steve) Liu: position → Professor Emeritus, Computer Science & Engineering, Texas A&M University
+- Jyh-Charn (Steve) Liu: bio (366 chars)
+- Parameswaran Ramanathan: photo → https://ramanathan.ece.wisc.edu/wp-content/uploads/sites/699/2016/07/ramanathan_parmesh1-200x300.jpg
+- Parameswaran Ramanathan: position → Professor of Electrical and Computer Engineering and Associate Dean for Graduate Education, University of Wisconsin-Madison
+- Parameswaran Ramanathan: bio (528 chars)
+- Sunggu Lee: photo → https://esa.postech.ac.kr/_res/postech/esa/img/Dr.%20Sunggu%20Lee.jpg
+- Sunggu Lee: position → Professor, POSTECH (Embedded System Architecture Laboratory)
+- Sunggu Lee: bio (267 chars)
+- Xianzhong (John) Cui: position → Retired, General Motors
+- Daniel K. Kiskis: position → Senior Business Architect, Ford Motor Company
+- Sungtaeg Jun: position → Youngsan University, Korea
+- Qin Zheng: position → China Telecom, Dallas, TX
+- Chao-Ju (Jennifer) Hou: position → Deceased (died December 2, 2007); was Professor of Computer Science, University of Illinois Urbana-Champaign
+- Chao-Ju (Jennifer) Hou: bio (499 chars)
+- David J. Musliner (co-advised with Ed Durfee): website → https://www.sift.net/staff/david-musliner
+- David J. Musliner (co-advised with Ed Durfee): photo → https://www.sift.net/sites/default/files/styles/staff_full_content_photo/public/images/staff/dmusliner.jpg
+- David J. Musliner (co-advised with Ed Durfee): position → Fellow, Smart Information Flow Technologies (SIFT)
+- David J. Musliner (co-advised with Ed Durfee): bio (517 chars)
+- James W. Dolter: position → Retired, QualComm
+- Victor B. Lortz: position → Nike
+- Alan Olson: position → Aerospace Corporation
+- Chih-Che (Chris) Chou: position → TECOM Co., LTD, Taiwan
+- Bing-rung Tsai: position → Retired, formerly VMware
+- Bing-rung Tsai: bio (284 chars)
+- Hagbae Kim: photo → https://ee.yonsei.ac.kr/_attach/image/2024/11/thumb_DhuAlToPtuhGTsjSPBGo0.png
+- Hagbae Kim: position → Professor, School of Electrical and Electronic Engineering, Yonsei University
+- Hagbae Kim: bio (272 chars)
+- Thomas Tsukada: position → Oracle
+- Thomas Tsukada: bio (275 chars)
+- Stuart Daniel: position → Oracle
+- Stuart Daniel: bio (238 chars)
+- Jennifer Rexford: photo → https://www.cs.princeton.edu/~jrex/jrex-2023.jpg
+- Jennifer Rexford: position → Provost and Gordon Y. S. Wu Professor in Engineering, Professor of Computer Science, Princeton University
+- Jennifer Rexford: bio (418 chars)
+- Sushil Birla: position → U.S. Nuclear Regulatory Commission (former GM Fellow)
+- Sushil Birla: bio (288 chars)
+- Ashish Mehra: position → FalconX Gateway (former research staff at IBM Research; Head of Products at an AI startup)
+- Ashish Mehra: bio (337 chars)
+- Atri Indiresan: position → Cisco
+- Atri Indiresan: bio (244 chars)
+- Khawar Zuberi: position → Microsoft
+- Khawar Zuberi: bio (249 chars)
+- Emmanuel Abram-Profeta: position → Microsoft
+- Emmanuel Abram-Profeta: bio (255 chars)
+- Wu-chang Feng: website → https://thefengs.com/wuchang/
+- Wu-chang Feng: photo → https://s3-us-west-2.amazonaws.com/oam.pdx.edu/profiles/wuchang.png
+- Wu-chang Feng: position → Professor of Computer Science, Portland State University
+- Wu-chang Feng: bio (389 chars)
+- Ella Atkins (co-advised with Ed Durfee): website → https://aoe.vt.edu/people/faculty/ella-atkins.html
+- Ella Atkins (co-advised with Ed Durfee): photo → https://www.aoe.vt.edu/content/aoe_vt_edu/en/people/faculty/ella-atkins/_jcr_content/bio-image.transform/m-medium/image.jpg
+- Ella Atkins (co-advised with Ed Durfee): position → Fred D. Durham Chair in Engineering and Head, Kevin T. Crofton Department of Aerospace and Ocean Engineering, Virginia Tech
+- Ella Atkins (co-advised with Ed Durfee): bio (449 chars)
+- Tarek Abdelzaher: website → https://abdelzaher.cs.illinois.edu
+- Tarek Abdelzaher: photo → https://abdelzaher.cs.illinois.edu/images/tarek2.png
+- Tarek Abdelzaher: position → Sohaib and Sara Abbasi Professor of Computer Science, University of Illinois Urbana-Champaign
+- Tarek Abdelzaher: bio (373 chars)
+- Sunghyun Choi: website → https://sites.google.com/view/sunghyun-chois-home
+- Sunghyun Choi: position → Professor, School of Electrical Engineering, KAIST (since April 2026); previously Executive Vice President, Samsung (2019-2025)
+- Sunghyun Choi: bio (493 chars)
+- Xi Zhang: website → https://people.engr.tamu.edu/xizhang/index.html
+- Xi Zhang: photo → https://people.engr.tamu.edu/xizhang/Xi_Zhang_Photo.jpg
+- Xi Zhang: position → Professor and Founding Director of the Networking and Information Systems Laboratory, ECE, Texas A&M University
+- Xi Zhang: bio (418 chars)
+- Hani Jamjoom: position → Principal Research Scientist and Manager, IBM T. J. Watson Research Center
+- Hani Jamjoom: bio (470 chars)
+- Haining Wang: website → https://ece.vt.edu/people/profile/wangh.html
+- Haining Wang: photo → https://ece.vt.edu/content/ece_vt_edu/en/people/profile/wangh/_jcr_content/bio-image.transform/m-medium/image.jpg
+- Haining Wang: position → Professor, Electrical and Computer Engineering, Virginia Tech (Arlington, VA)
+- Haining Wang: bio (347 chars)
+- Padmanabhan (Babu) Pillai: website → https://www.andrew.cmu.edu/user/pspillai/
+- Padmanabhan (Babu) Pillai: photo → https://www.andrew.cmu.edu/user/pspillai/pillai.jpg
+- Padmanabhan (Babu) Pillai: position → Associate Teaching Professor, Computer Science Department, Carnegie Mellon University
+- Padmanabhan (Babu) Pillai: bio (425 chars)
+- Daji Qiao: website → https://www.engineering.iastate.edu/people/profile/daji/
+- Daji Qiao: photo → https://www.engineering.iastate.edu/people/files/2020/03/daji3.jpg
+- Daji Qiao: position → Professor, Electrical and Computer Engineering, Iowa State University
+- Daji Qiao: bio (416 chars)
+- Chun-Ting Chou: photo → https://theomnieyes.com/wp-content/uploads/2025/05/ting.png
+- Chun-Ting Chou: position → Professor, National Taiwan University; CEO and co-founder, OmniEyes
+- Chun-Ting Chou: bio (248 chars)
+- Mohamad El-Gendy: position → Ciena, San Jose, CA
+- Mohamad El-Gendy: bio (215 chars)
+- Songkuk Kim: position → Yonsei University, Korea
+- Songkuk Kim: bio (301 chars)
+- Hai Huang: position → IBM T.J. Watson Research Center
+- Hai Huang: bio (289 chars)
+- Jai-Jin Lim: position → Samsung
+- Jai-Jin Lim: bio (243 chars)
+- Wei Sun: position → Google
+- Wei Sun: bio (257 chars)
+- Abhijit Bose: photo → https://mlconf.com/wp-content/uploads/2013/11/Executive-Bio-Abhijit-2-e1645028780271.jpg
+- Abhijit Bose: position → Capital One, NYC
+- Abhijit Bose: bio (444 chars)
+- Chang-hao (Howard) Tsai: position → Skytap Cloud
+- Chang-hao (Howard) Tsai: bio (258 chars)
+- Jian Wu: position → Google
+- Jian Wu: bio (191 chars)
+- Kyu-Han Kim: position → Echo AI, Palo Alto, CA
+- Kyu-Han Kim: bio (234 chars)
+- Zhigang Chen: position → WuXi AppTec, Chief Digital Officer (CDO)
+- Zhigang Chen: bio (279 chars)
+- Pradeep Padala: bio (161 chars)
+- Jisoo Yang: photo → https://web.cs.unlv.edu/jisooy/image/portrait_small.jpg
+- Jisoo Yang: position → Assistant Professor, Department of Computer Science, University of Nevada, Las Vegas
+- Jisoo Yang: bio (391 chars)
+- Hyoil Kim: website → https://wmnl.unist.ac.kr/?p=2378
+- Hyoil Kim: position → Professor, Department of Electrical Engineering, UNIST; Director, Wireless and Mobile Networking Laboratory (WMNL)
+- Hyoil Kim: bio (347 chars)
+- Xinyu Zhang: photo → https://xyzhang.ucsd.edu/images/xyzhang.jpg
+- Xinyu Zhang: position → Professor of Electrical and Computer Engineering, UC San Diego; Ericsson Endowed Chair in Wireless Access Networks; Director, Center for Wireless Communications
+- Xinyu Zhang: bio (520 chars)
+- Katharine Chang: position → Apple, Silicon Valley, CA
+- Eugene Chai: website → https://www.nokia.com/people/eugene-chai/
+- Eugene Chai: photo → https://www.nokia.com/sites/default/files/styles/nokia_blog_author_medium/public/2025-01/img_3099_edited_2.jpg.webp
+- Eugene Chai: position → Principal Researcher, Nokia Bell Labs, Murray Hill, NJ
+- Kai-Yun (Karen) Hou: position → Apple, Silicon Valley, CA
+- Xiaoen Ju: position → OpenAI, New York, NY
+- Krishna Garikipati: position → Niantic, Inc., Silicon Valley, CA
+- Huan Feng: position → Meta (Facebook), Menlo Park, CA
+- Kassem Fawaz: website → https://kassemfawaz.com
+- Kassem Fawaz: photo → https://kassemfawaz.com/assets/portrait.jpg
+- Kassem Fawaz: position → Associate Professor and Associate Chair for Research, Electrical and Computer Engineering, University of Wisconsin-Madison
+- Kassem Fawaz: bio (493 chars)
+- Eugene (Sunmin) Kim: position → Apple, Silicon Valley, CA
+- Yu-Chih Tung: website → https://yctung.github.io
+- Yu-Chih Tung: photo → https://yctung.github.io/images/profile_2015_mid.jpg
+- Yu-Chih Tung: position → Research Scientist, Meta (Facebook)
+- Yu-Chih Tung: bio (313 chars)
+- Kyong Tak Cho: position → Cash App, Silicon Valley, CA
+- Kyong Tak Cho: bio (326 chars)
+- Youngmoon Lee: position → Associate Professor, Department of Robotics, Hanyang University ERICA; Founding Director, RAISE Lab
+- Youngmoon Lee: bio (429 chars)
+- Arun Ganesan: bio (242 chars)
+- Dongyao Chen: photo → https://chendy.tech/static/assets/img/dongyao-headshot.jpg
+- Dongyao Chen: position → Assistant Professor, School of Computing and Information Systems, Singapore Management University
+- Dongyao Chen: bio (390 chars)
+- Taeju Park: bio (198 chars)
+- Timothy Trippel (jointly with Mattew Hicks at Virginia Tech): bio (229 chars)
+- Juncheng Gu (jointly with M. Chowdhury): bio (205 chars)
+- Chun-Yu (Daniel) Chen: photo → https://coralleaf.github.io/files/profile_picture.png
+- Chun-Yu (Daniel) Chen: position → Research Scientist, Meta Platforms
+- Chun-Yu (Daniel) Chen: bio (284 chars)
+- Duc Hoang Bui: photo → https://ducbui.com/files/portrait_high_res.jpg
+- Duc Hoang Bui: position → Member of Technical Staff, Microsoft AI
+- Duc Hoang Bui: bio (437 chars)
+- Mert Dieter Pese: position → Assistant Professor of Computer Science, Clemson University; Founding Director, TigerSec Laboratory
+- Mert Dieter Pese: bio (417 chars)
+- Hsun-Wei Cho: bio (204 chars)
+- Youssef Tobah: bio (532 chars)
+- Yue Gao: position → Research Engineer, Google DeepMind
+- Varun Chandrasekaran: photo → https://pages.cs.wisc.edu/~chandrasekaran/images/DP.jpeg
+- Varun Chandrasekaran: position → Assistant Professor, ECE, University of Illinois Urbana-Champaign
+- Yufei Zheng: website → https://cics.umass.edu/about/directory/yufei-zheng
+- Yufei Zheng: position → Postdoctoral Research Associate, Manning CICS, UMass Amherst
+- Mary Hogan: photo → https://cs.oberlin.edu/~mhogan/1D4V0944edited.jpeg
+- Mary Hogan: position → Assistant Professor of Computer Science, Oberlin College
+- Xiaoqi Chen: photo → https://engineering.purdue.edu/~xiaoqic/res/myself2.jpg
+- Xiaoqi Chen: position → Assistant Professor, ECE, Purdue University
+- Robert Harrison: photo → https://s3.amazonaws.com/usma-media/inline-images/centers_research/robotics_research_center/profile_Robert_Harrison.jpg
+- Robert Harrison: position → Associate Professor and CS Program Director, EECS, U.S. Military Academy (West Point)
+- Naga Katta: photo → https://nkatta.github.io/images/profile.jpg
+- Naga Katta: position → Research engineer, Salesforce
+- Xin Jin: photo → https://xinjin.github.io/files/xinjin.jpg
+- Xin Jin: position → Associate Professor, School of Computer Science, Peking University
+- Srinivas Narayana: photo → https://people.cs.rutgers.edu/~sn624/pic4.jpg
+- Srinivas Narayana: position → Associate Professor, Department of Computer Science, Rutgers University
+- Peng Sun: position → Software Engineering Manager, Facebook (Meta), Seattle
+- Eric Keller: photo → https://eric-keller.github.io/img/portrait-eric.jpg
+- Eric Keller: position → Professor of ECEE, University of Colorado Boulder; co-founder/CTO of Navera
+- Minlan Yu: photo → https://minlanyu.seas.harvard.edu/_images/minlanyu.jpg
+- Minlan Yu: position → Gordon McKay Professor of Computer Science, Harvard SEAS
+- Martin Suchara: photo → https://voices.uchicago.edu/suchara/files/2021/11/MartinSuchara-300x300.jpg
+- Martin Suchara: position → Director of Quantum Applications, IonQ; PhD advisor at Pritzker School of Molecular Engineering, University of Chicago
+- Sharon Goldberg: position → Associate Professor of Computer Science, Boston University
+- Haakon Ringberg: website → http://haakonringberg.com/
+- Haakon Ringberg: position → Senior Director of Engineering, Google (New York City)
+- Changhoon Kim: position → Moloco
+- Tai-lin Chin: photo → http://faculty.csie.ntust.edu.tw/~tchin/photo.png
+- Tai-lin Chin: position → Professor, Dept. of CSIE, National Taiwan University of Science and Technology
+- Constantine Dovrolis: photo → https://sites.cc.gatech.edu/fac/Constantinos.Dovrolis/Images/constantine-dovrolis-june2020-face.jpg
+- Constantine Dovrolis: position → Professor (moved from Georgia Tech to Cyprus in 2023); machine learning, network science and neuroscience
+- Bechir Hamdaoui: photo → https://engineering.oregonstate.edu/sites/engineering.oregonstate.edu/files/styles/1_1_400x400/public/2023-04/profile-bechir-hamdaoui.jpg
+- Bechir Hamdaoui: position → Professor, Electrical Engineering and Computer Science, Oregon State University
+- Kuang-Ching Wang: position → Empire Innovation Professor of Trustworthy AI and Director of the School of Computing, Binghamton University (SUNY); formerly Provost Distinguished Professor, Clemson University
+- Amrita Roy Chowdhury: position → Assistant Professor of Computer Science and Engineering, University of Michigan
+- Mushtari Sadia: position → PhD student, University of Michigan
+- Yiyi Sun: position → PhD student, University of Michigan
+- Samanway Sadhu: position → PhD student, University of Michigan
+- Chi Zhang: photo → http://dword1511.info/me/images/photo.jpg
+- Chi Zhang: position → Embedded Software Engineer, Google (San Diego)
+- Sanjib Sur: photo → https://cse.sc.edu/~sur/images/Sanjib_photo1.jpg
+- Sanjib Sur: position → Associate Professor of Computer Science and Engineering, University of South Carolina
+- Song Wang: photo → https://sowang46.github.io/images/profile.png
+- Song Wang: position → Network software developer/researcher, ByteDance
+- Timothy Woodford: position → Research Scientist, MIT Lincoln Laboratory
+- Renjie Zhao: photo → https://renjiezhao.github.io/images/photo.jpg
+- Renjie Zhao: position → Assistant Professor of Computer Science, Johns Hopkins University
+- Ke Sun: photo → https://samsonsjarkal.github.io/KeSun/img/photo_KeSun_UMich_480.jpg
+- Ke Sun: position → Assistant Professor of CSE, University of Michigan
+- Ashish Hooda: photo → https://ashishhoodaiitd.github.io/files/dp.jpg
+- Ashish Hooda: position → Research Scientist, Google DeepMind (Gemini post-training)
+- Asmit Nayak: photo → https://www.asmitnayak.com/assets/images/profile.jpg
+- Asmit Nayak: position → PhD student, UW-Madison; Chateaubriand Fellow at Inria Centre at Universite Cote d'Azur (from Jan 2026)
+- Ben Jacobsen: photo → https://raw.githubusercontent.com/ben-jacobsen/ben-jacobsen.github.io/master/assets/cropped_outside.jpg
+- Ben Jacobsen: position → PhD candidate in Computer Science, UW-Madison
+- Guruprasad Ramesh: photo → https://wiscprivacy.com/images/guruprasad.jpg
+- Guruprasad Ramesh: position → PhD student, UW-Madison (WI-PI group)
+- Jackson West: photo → https://www.jacksonwaynewest.com/authors/admin/avatar_hu3d03a01dcc18bc5be0e67db3d8d209a6_2855860_270x270_fill_q75_lanczos_center.jpg
+- Jackson West: position → PhD student in Computer Science, UW-Madison (advised by Suman Banerjee and Kassem Fawaz)
+- Rishabh Khandelwal: photo → https://wiscprivacy.com/images/rishabh.jpg
+- Rishabh Khandelwal: position → Google Research
+- Shirley Zhang: position → PhD student in Computer Science, UW-Madison
+- Yash Wani: photo → https://wiscprivacy.com/images/yash.jpg
+- Yash Wani: position → PhD student, UW-Madison (WI-PI group)
+- Harrison Rosenberg: photo → https://wiscprivacy.com/images/harrison.png
+- Harrison Rosenberg: position → ALL3D, Inc.
+- Shimaa Ahmed: photo → https://wiscprivacy.com/images/shimaa5.jpg
+- Shimaa Ahmed: position → Visa Research
+- Niaz Ahmad: position → Postdoctoral Research Fellow, CVIS Lab, Toronto Metropolitan University
+- Siyuan Wang: position → Ph.D. student, Shanghai Jiao Tong University (Flux Lab)
+- Jike Wang: position → Ph.D. student, Shanghai Jiao Tong University (Flux Lab)
+- Zhenyu Chen: position → Ph.D. student, Shanghai Jiao Tong University (Flux Lab)
+- Khaled Hadi: website → https://engineering.ku.edu.kw/ar/cpe/people/khald-mhmd-hady
+- Khaled Hadi: photo → https://engineering.ku.edu.kw/sites/default/files/styles/scale_and_crop_320x320/public/2024-10/khaled-hadi.jpg
+- Khaled Hadi: position → Assistant Professor of Computer Engineering, Kuwait University
+- Yang Peng: photo → http://faculty.washington.edu/yangpeng/img/Yang.jpg
+- Yang Peng: position → Associate Professor, Computing and Software Systems, University of Washington Bothell
+- Taewoon Kim: website → https://sites.google.com/site/twoonkim/
+- Taewoon Kim: position → Associate Professor, School of Computer Science and Engineering, Pusan National University
+- Wen-Chih Peng: website → https://sites.google.com/site/wcpeng/
+- Wen-Chih Peng: position → Professor, Department of Computer Science, National Yang Ming Chiao Tung University
+- Hung-Yu Kao: website → https://isa.site.nthu.edu.tw/p/406-1182-272217,r4919.php?Lang=en
+- Hung-Yu Kao: position → Professor, Institute of Information Systems and Applications, National Tsing Hua University
+- Jin-Long Huang: website → https://people.cs.nycu.edu.tw/~jlhuang/
+- Jin-Long Huang: position → Professor, Department of Computer Science, National Yang Ming Chiao Tung University
+- Bi-Ru Dai: website → https://ipmarket.ntust.edu.tw/expert1.asp?ser=4043
+- Chien-Chin Chen: website → https://homepage.ntu.edu.tw/~patonchen/
+- Chien-Chin Chen: position → Professor, Department of Information Management, National Taiwan University
+- Mi-Yen Yeh: website → https://homepage.iis.sinica.edu.tw/pages/miyen/index_en.html
+- Mi-Yen Yeh: position → Research Fellow, Academia Sinica
+- Chih-Hua Tai: website → https://web.ntpu.edu.tw/~hanatai/indexE.htm
+- Chih-Hua Tai: photo → https://web.ntpu.edu.tw/~hanatai/images/pic.jpg
+- Chih-Hua Tai: position → Associate Professor, Department of Computer Science and Information Engineering, National Taipei University
+- Keng-Pei Lin: website → https://db.cm.nsysu.edu.tw/pages/林耕霈_1402_EN.html
+- Keng-Pei Lin: photo → https://db.cm.nsysu.edu.tw/webpagePhoto/林耕霈.jpg
+- Keng-Pei Lin: position → Associate Professor, Department of Information Management, National Sun Yat-sen University
+- Partha Kanuparthy: website → https://kanuparthy.wordpress.com/
+- Partha Kanuparthy: position → Software Engineer (Principal/Director) at Meta, since 2020
+- Kang G. Shin: photo → https://rtcl.eecs.umich.edu/rtclweb/assets/images/people/kgshin.jpg
+- Kang G. Shin: position → Kevin and Nancy O'Connor Professor Emeritus of Computer Science, EECS, University of Michigan
+- Kang G. Shin: bio (515 chars)

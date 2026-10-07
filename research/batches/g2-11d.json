@@ -1,0 +1,51 @@
+{
+ "batch": "g2-11d",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 320,
+   "name": "Jamie Lennon",
+   "institution": "Naval Research Laboratory",
+   "year": "2006",
+   "advisor": "Ella Atkins (co-advised with Ed Durfee)",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 321,
+   "name": "Min Xue",
+   "institution": "NASA Ames Research Center",
+   "year": "2006",
+   "advisor": "Ella Atkins (co-advised with Ed Durfee)",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 322,
+   "name": "Ryan Eubank",
+   "institution": "MIT Lincoln Laboratory",
+   "year": "2012",
+   "advisor": "Ella Atkins (co-advised with Ed Durfee)",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 323,
+   "name": "Ali Nasir",
+   "institution": "University of Central Punjab, Pakistan",
+   "year": "2012",
+   "advisor": "Ella Atkins (co-advised with Ed Durfee)",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 324,
+   "name": "Johnhenri Richardson",
+   "institution": "Northrop Grumman",
+   "year": "2013",
+   "advisor": "Ella Atkins (co-advised with Ed Durfee)",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

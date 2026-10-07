@@ -1,0 +1,573 @@
+{
+ "batch": "g1-02",
+ "people": [
+  {
+   "id": 12,
+   "name": "Neil D. McKay",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://web.eecs.umich.edu/~mckay/",
+    "reason": "Loads (200); 'Neil McKay's Home Page' with CV; personal U-M EECS page"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://web.eecs.umich.edu/~mckay/images/neilthumb.jpg",
+    "page_url": "https://web.eecs.umich.edu/~mckay/",
+    "reason": "200 image/jpeg; single-person face portrait; embedded as <img src=images/neilthumb.jpg> on the homepage (page names Neil McKay)"
+   },
+   "current_position": {
+    "verdict": "rejected",
+    "value": null,
+    "reason": "CV (undated) says 'May 1985 to present: Staff Research Engineer, GM Research'; not a current official page and retirement unconfirmed"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Neil D. McKay earned a Ph.D. in Electrical Engineering from the University of Michigan in 1985 (advisor Kang G. Shin), after a B.S. from the University of Rochester (1980) and an M.S. from Rensselaer Polytechnic Institute (1982). The thesis was on minimum-cost control of robotic manipulators with geometric path constraints. McKay joined General Motors Research in 1985 as a Staff Research Engineer, working on mobile robot control, robot manipulator calibration, computer vision calibration and computer graphics, and taught computer graphics at the University of Michigan in Fall 1996.",
+    "research_areas": [
+     "Robot manipulator control and trajectory planning",
+     "Computer vision calibration",
+     "Computer graphics"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1985",
+    "thesis_title": "Minimum-Cost Control of Robotic Manipulators with Geometric Path Constraints",
+    "notable": [],
+    "sources": [
+     "https://web.eecs.umich.edu/~mckay/cv.html"
+    ],
+    "reason": "All facts match the CV; 'robot manipulator control and trajectory planning' areas inferred from publications list, kept; retirement not stated so omitted"
+   },
+   "students": []
+  },
+  {
+   "id": 13,
+   "name": "Mike H. Woodbury",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 14,
+   "name": "Ming-Syan (Frank) Chen",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://arbor.ee.ntu.edu.tw/~mschen/",
+    "reason": "Loads (200); Ming-Syan Chen's homepage (陳銘憲) at NTU NetDB Lab"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://homepage.iis.sinica.edu.tw/pages/photo/mschen.jpg",
+    "page_url": "https://homepage.iis.sinica.edu.tw/pages/mschen/vita_en.html",
+    "reason": "200 image/jpeg 180x240; single-person portrait (older photo); embedded as <img src=/pages/photo/mschen.jpg alt=mschen> on Chen's Academia Sinica vita page"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "NTU Chair Professor, National Taiwan University",
+    "reason": "Own NTU homepage lists 'NTU Chair Professor ... since 2017'; Provost not found on any page; EVP/Dean dates undated"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Ming-Syan Chen received the B.S. in electrical engineering from National Taiwan University and the M.S. (1985) and Ph.D. (1988) in Computer, Information and Control Engineering from the University of Michigan. Chen was a research staff member at IBM T. J. Watson Research Center (1988-1996), President/CEO of the Institute for Information Industry (2007-2008) and Distinguished Research Fellow at Academia Sinica (2008-2015), and is an NTU Chair Professor at National Taiwan University. Chen is a Fellow of ACM and IEEE.",
+    "research_areas": [
+     "Databases",
+     "Data mining",
+     "Machine learning",
+     "Multimedia networking"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1988",
+    "thesis_title": null,
+    "notable": [
+     "IEEE Fellow",
+     "ACM Fellow",
+     "National Chair Professorship, Ministry of Education",
+     "NSC Distinguished Research Award"
+    ],
+    "sources": [
+     "https://homepage.iis.sinica.edu.tw/pages/mschen/vita_en.html",
+     "https://arbor.ee.ntu.edu.tw/~mschen/"
+    ],
+    "reason": "Dropped Dean 2015-2018 and EVP 2019-2023 dates and fellowship years (no dates given on fetched pages); scholars.lib.ntu.edu.tw not re-checked"
+   },
+   "students": [
+    {
+     "name": "Yi-Ling Chen",
+     "verdict": "rejected",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/alumni.html",
+     "reason": "Alumni Tree under Prof. Ming-Syan Chen lists name and year only; no page text says Ph.D. (degree type not established, could be MS)"
+    },
+    {
+     "name": "Chung-Kuang Chou",
+     "verdict": "rejected",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/alumni.html",
+     "reason": "Alumni Tree under Prof. Ming-Syan Chen lists name and year only; no page text says Ph.D. (degree type not established, could be MS)"
+    },
+    {
+     "name": "Cheng-Ying Liu",
+     "verdict": "rejected",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/alumni.html",
+     "reason": "Alumni Tree under Prof. Ming-Syan Chen lists name and year only; no page text says Ph.D. (degree type not established, could be MS)"
+    },
+    {
+     "name": "Jiann-Min Ho",
+     "verdict": "rejected",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/alumni.html",
+     "reason": "Alumni Tree under Prof. Ming-Syan Chen lists name and year only; no page text says Ph.D. (degree type not established, could be MS)"
+    },
+    {
+     "name": "Ya-Wen Teng",
+     "verdict": "rejected",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/alumni.html",
+     "reason": "Alumni Tree under Prof. Ming-Syan Chen lists name and year only; no page text says Ph.D. (degree type not established, could be MS)"
+    },
+    {
+     "name": "Chi-Hsuan Wu",
+     "verdict": "rejected",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/alumni.html",
+     "reason": "Alumni Tree under Prof. Ming-Syan Chen lists name and year only; no page text says Ph.D. (degree type not established, could be MS)"
+    },
+    {
+     "name": "Hsi-Wen Chen",
+     "verdict": "rejected",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "reason": "Current member listed under 'Ph.D.' on lab member page, but no advisor named and not a graduate; advising relationship with Chen not explicit"
+    },
+    {
+     "name": "Chin-Yuan Yeh",
+     "verdict": "rejected",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "reason": "Current member listed under 'Ph.D.' on lab member page, but no advisor named and not a graduate; advising relationship with Chen not explicit"
+    },
+    {
+     "name": "Hung-Te Lee",
+     "verdict": "rejected",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "reason": "Current member listed under 'Ph.D.' on lab member page, but no advisor named and not a graduate; advising relationship with Chen not explicit"
+    },
+    {
+     "name": "Rui Fang",
+     "verdict": "rejected",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "reason": "Current member listed under 'Ph.D.' on lab member page, but no advisor named and not a graduate; advising relationship with Chen not explicit"
+    },
+    {
+     "name": "Shih-Hsuan Chiu",
+     "verdict": "rejected",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "reason": "Current member listed under 'Ph.D.' on lab member page, but no advisor named and not a graduate; advising relationship with Chen not explicit"
+    },
+    {
+     "name": "Yen-Hsin Hsu",
+     "verdict": "rejected",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "reason": "Current member listed under 'Ph.D.' on lab member page, but no advisor named and not a graduate; advising relationship with Chen not explicit"
+    },
+    {
+     "name": "Dustin Wu",
+     "verdict": "rejected",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "reason": "Current member listed under 'Ph.D.' on lab member page, but no advisor named and not a graduate; advising relationship with Chen not explicit"
+    },
+    {
+     "name": "Ying-Hua Huang",
+     "verdict": "rejected",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "reason": "Current member listed under 'Ph.D.' on lab member page, but no advisor named and not a graduate; advising relationship with Chen not explicit"
+    },
+    {
+     "name": "Yi-Ting Lee",
+     "verdict": "rejected",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "reason": "Current member listed under 'Ph.D.' on lab member page, but no advisor named and not a graduate; advising relationship with Chen not explicit"
+    },
+    {
+     "name": "Hsiang-Hui Liu",
+     "verdict": "rejected",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "reason": "Current member listed under 'Ph.D.' on lab member page, but no advisor named and not a graduate; advising relationship with Chen not explicit"
+    },
+    {
+     "name": "Yun-Jing Wang",
+     "verdict": "rejected",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "reason": "Current member listed under 'Ph.D.' on lab member page, but no advisor named and not a graduate; advising relationship with Chen not explicit"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "name": "Tein-Hsien (Mike) Lin",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 16,
+   "name": "Jyh-Charn (Steve) Liu",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://engineering.tamu.edu/cse/people/jliu",
+    "reason": "Resolves to official TAMU CSE profile (profiles/jliu.html) for Jyh-Charn 'Steve' Liu"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://engineering.tamu.edu/cse/_files/_images/_profile-images/liu-jyh-charn-steve-profilepic.jpg",
+    "page_url": "https://engineering.tamu.edu/cse/people/jliu",
+    "reason": "200 image/jpeg; single-person professional headshot; filename 'profilepic' referenced on profile page"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Professor Emeritus, Computer Science & Engineering, Texas A&M University",
+    "reason": "Official TAMU CSE profile"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Jyh-Charn (Steve) Liu received the Ph.D. in Electrical and Computer Engineering from the University of Michigan in 1989, after the B.S. (1979) and M.S. (1981) in Electrical Engineering from National Cheng Kung University, Taiwan. Liu is Professor Emeritus of Computer Science and Engineering at Texas A&M University and directs the Real Time Distributed Systems Lab.",
+    "research_areas": [
+     "Real-time distributed systems"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1989",
+    "thesis_title": null,
+    "notable": [],
+    "sources": [
+     "https://engineering.tamu.edu/cse/people/jliu",
+     "https://rtds.cse.tamu.edu/people/director/"
+    ],
+    "reason": "Dropped 'joined TAMU 1989' and cyber-physical/behavior-modeling research areas (not seen on fetched pages)"
+   },
+   "students": [
+    {
+     "name": "Zelun Wang",
+     "verdict": "confirmed",
+     "phd_year": "2020",
+     "current_institution": "Snapchat (ML Engineer)",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "reason": "Listed under 'Former PhD Students' on the Real Time Distributed Systems Lab page; lab director is Liu, but page names no advisor explicitly (co-advising possible)"
+    },
+    {
+     "name": "Jason Lin",
+     "verdict": "confirmed",
+     "phd_year": "2020",
+     "current_institution": "National Chung Hsing University",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "reason": "Listed under 'Former PhD Students' on the Real Time Distributed Systems Lab page; lab director is Liu, but page names no advisor explicitly (co-advising possible)"
+    },
+    {
+     "name": "Guoyu Fu",
+     "verdict": "confirmed",
+     "phd_year": "2019",
+     "current_institution": "Google",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "reason": "Listed under 'Former PhD Students' on the Real Time Distributed Systems Lab page; lab director is Liu, but page names no advisor explicitly (co-advising possible)"
+    },
+    {
+     "name": "Xing Wang",
+     "verdict": "confirmed",
+     "phd_year": "2018",
+     "current_institution": "Facebook",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "reason": "Listed under 'Former PhD Students' on the Real Time Distributed Systems Lab page; lab director is Liu, but page names no advisor explicitly (co-advising possible)"
+    },
+    {
+     "name": "Hao Wang",
+     "verdict": "confirmed",
+     "phd_year": "2013",
+     "current_institution": "Cisco",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "reason": "Listed under 'Former PhD Students' on the Real Time Distributed Systems Lab page; lab director is Liu, but page names no advisor explicitly (co-advising possible)"
+    },
+    {
+     "name": "Shi Pu",
+     "verdict": "confirmed",
+     "phd_year": "2013",
+     "current_institution": "Microsoft",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "reason": "Listed under 'Former PhD Students' on the Real Time Distributed Systems Lab page; lab director is Liu, but page names no advisor explicitly (co-advising possible)"
+    },
+    {
+     "name": "John Pecarina",
+     "verdict": "confirmed",
+     "phd_year": "2013",
+     "current_institution": "University of Wisconsin-Madison (Aerospace Studies)",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "reason": "Listed under 'Former PhD Students' on the Real Time Distributed Systems Lab page; lab director is Liu, but page names no advisor explicitly (co-advising possible)"
+    },
+    {
+     "name": "Sheng-Ya Lin",
+     "verdict": "confirmed",
+     "phd_year": "2013",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "reason": "Listed under 'Former PhD Students' on the Real Time Distributed Systems Lab page; lab director is Liu, but page names no advisor explicitly (co-advising possible)"
+    },
+    {
+     "name": "Hai Xu",
+     "verdict": "confirmed",
+     "phd_year": "2011",
+     "current_institution": "Halliburton",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "reason": "Listed under 'Former PhD Students' on the Real Time Distributed Systems Lab page; lab director is Liu, but page names no advisor explicitly (co-advising possible)"
+    },
+    {
+     "name": "Huajun Ying",
+     "verdict": "confirmed",
+     "phd_year": "2011",
+     "current_institution": "Blippar",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "reason": "Listed under 'Former PhD Students' on the Real Time Distributed Systems Lab page; lab director is Liu, but page names no advisor explicitly (co-advising possible)"
+    },
+    {
+     "name": "Pu Duan",
+     "verdict": "confirmed",
+     "phd_year": "2011",
+     "current_institution": "Cisco",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "reason": "Listed under 'Former PhD Students' on the Real Time Distributed Systems Lab page; lab director is Liu, but page names no advisor explicitly (co-advising possible)"
+    },
+    {
+     "name": "Hong Lu",
+     "verdict": "confirmed",
+     "phd_year": "2008",
+     "current_institution": "Airbnb",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "reason": "Listed under 'Former PhD Students' on the Real Time Distributed Systems Lab page; lab director is Liu, but page names no advisor explicitly (co-advising possible)"
+    },
+    {
+     "name": "Ming Zhang",
+     "verdict": "confirmed",
+     "phd_year": "2008",
+     "current_institution": "Google",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "reason": "Listed under 'Former PhD Students' on the Real Time Distributed Systems Lab page; lab director is Liu, but page names no advisor explicitly (co-advising possible)"
+    },
+    {
+     "name": "Tak Cheung Lam",
+     "verdict": "confirmed",
+     "phd_year": "2008",
+     "current_institution": "Cisco",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "reason": "Listed under 'Former PhD Students' on the Real Time Distributed Systems Lab page; lab director is Liu, but page names no advisor explicitly (co-advising possible)"
+    },
+    {
+     "name": "Sung-Oh Jung",
+     "verdict": "confirmed",
+     "phd_year": "2005",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "reason": "Listed under 'Former PhD Students' on the Real Time Distributed Systems Lab page; lab director is Liu, but page names no advisor explicitly (co-advising possible)"
+    },
+    {
+     "name": "Di Wu",
+     "verdict": "confirmed",
+     "phd_year": "2005",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "reason": "Listed under 'Former PhD Students' on the Real Time Distributed Systems Lab page; lab director is Liu, but page names no advisor explicitly (co-advising possible)"
+    },
+    {
+     "name": "Yong Xiong",
+     "verdict": "confirmed",
+     "phd_year": "2004",
+     "current_institution": "Fannie Mae",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "reason": "Listed under 'Former PhD Students' on the Real Time Distributed Systems Lab page; lab director is Liu, but page names no advisor explicitly (co-advising possible)"
+    },
+    {
+     "name": "Stephen George",
+     "verdict": "confirmed",
+     "phd_year": "2014",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/previous-students/",
+     "reason": "Listed under 'Former PhD Students' on the Real Time Distributed Systems Lab page; lab director is Liu, but page names no advisor explicitly (co-advising possible)"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "name": "Parameswaran Ramanathan",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://ramanathan.ece.wisc.edu/",
+    "reason": "Loads; Parmesh Ramanathan's UW-Madison ECE page"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://ramanathan.ece.wisc.edu/wp-content/uploads/sites/699/2016/07/ramanathan_parmesh1-200x300.jpg",
+    "page_url": "https://ramanathan.ece.wisc.edu/",
+    "reason": "200 image/jpeg; single-person portrait; embedded <img> on homepage"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Professor of Electrical and Computer Engineering and Associate Dean for Graduate Education, University of Wisconsin-Madison",
+    "reason": "Homepage Professional Appointments; 'Vilas Distinguished Achievement Professor' not seen"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Parameswaran (Parmesh) Ramanathan received the Ph.D. in Computer Science and Engineering (1989) and M.S.E. in Computer Engineering (1986) from the University of Michigan, and the B.Tech. in Electrical Engineering from IIT Bombay (1984). Ramanathan is a Professor of Electrical and Computer Engineering at the University of Wisconsin-Madison, served as department chair from 2005 to 2009, and is an IEEE Fellow. The lab works on ultrafast networks, millimeter-wave wireless networks, smart grid technologies and genomic networks.",
+    "research_areas": [
+     "Ultrafast networks",
+     "Millimeter-wave wireless networks",
+     "Smart grid",
+     "Genomic networks"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1989",
+    "thesis_title": null,
+    "notable": [
+     "IEEE Fellow (for contributions to real-time systems and networks)"
+    ],
+    "sources": [
+     "https://ramanathan.ece.wisc.edu/"
+    ],
+    "reason": "Dropped Vilas professorship and 'joined UW 1989'; changed research areas to those on the page"
+   },
+   "students": []
+  },
+  {
+   "id": 18,
+   "name": "Dar-Tzen Peng",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 19,
+   "name": "Sunggu Lee",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://esa.postech.ac.kr/esa/mem/member.do",
+    "reason": "Lab member page lists Dr. Sunggu Lee as Principal Investigator, Professor (record URL esa.postech.ac.kr/index.php/... returns 404)"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://esa.postech.ac.kr/_res/postech/esa/img/Dr.%20Sunggu%20Lee.jpg",
+    "page_url": "https://esa.postech.ac.kr/esa/mem/member.do",
+    "reason": "200 image/jpeg; single-person portrait; page embeds <img src='/_res/postech/esa/img/Dr. Sunggu Lee.jpg' alt='Dr. Sunggu Lee'>"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Professor, POSTECH (Embedded System Architecture Laboratory)",
+    "reason": "Lab member page: Principal Investigator, Position Professor"
+   },
+   "bio": {
+    "verdict": "confirmed",
+    "summary": "Sunggu Lee is a Professor at POSTECH and principal investigator of the Embedded System Architecture Laboratory. POSTECH's EEE profile lists a degree from the University of Kansas in electrical engineering (1981-1985) and University of Michigan studies ending in 1990.",
+    "research_areas": [],
+    "phd_institution": "University of Michigan",
+    "phd_year": "1990",
+    "thesis_title": null,
+    "notable": [],
+    "sources": [
+     "https://esa.postech.ac.kr/esa/mem/member.do",
+     "https://eee.postech.ac.kr/en-people/en-professor/view.php?id=323"
+    ],
+    "reason": "Dropped research areas and M.S. year (not found on fetched pages); Michigan 1987-1990 per EEE profile"
+   },
+   "students": [
+    {
+     "name": "Sanghyeon Ju",
+     "verdict": "rejected",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://esa.postech.ac.kr/esa/mem/member.do",
+     "reason": "Current graduate student on lab page (2022-present); page does not label advisor or confirm Ph.D. track; not a graduate"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "name": "Dilip Kandlur",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 21,
+   "name": "Yi-Chieh Chang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  }
+ ]
+}

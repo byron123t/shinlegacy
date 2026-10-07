@@ -1,0 +1,217 @@
+{
+ "batch": "g1-06",
+ "people": [
+  {
+   "id": 52,
+   "name": "John Reumann",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Search tooling was limited (web search quota exhausted mid-batch), so only directly fetched pages are used. Early searches found no page identifiable as this John Reumann; no website, photo or bio could be tied to the person. No student information found."
+  },
+  {
+   "id": 53,
+   "name": "Hani Jamjoom",
+   "website": {
+    "url": "http://jamjoom.net/",
+    "source_note": "Personal homepage; loads and is current"
+   },
+   "photo": null,
+   "current_position": "Principal Research Scientist and Manager, IBM T. J. Watson Research Center",
+   "bio": {
+    "summary": "Hani Jamjoom is a Principal Research Scientist and Manager at IBM T. J. Watson Research Center, leading a group on cloud and system security (confidential AI computing, agentic security, supply chain integrity). Earlier roles included leading Software-defined Data Governance work in IBM's Watson Data Platform and managing the Next Generation Platforms group. The PhD in computer science and engineering from the University of Michigan focused on intelligent controls in networks and operating systems.",
+    "research_areas": [
+     "Cloud and system security",
+     "Confidential computing",
+     "Network function virtualization",
+     "Software defined networks"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2004",
+    "thesis_title": null,
+    "notable": [
+     "Member of the IBM Academy of Technology"
+    ],
+    "sources": [
+     "http://jamjoom.net/"
+    ]
+   },
+   "students": [],
+   "notes": "Search tooling was limited (web search quota exhausted mid-batch), so only directly fetched pages are used. Homepage photo (hani_jamjoom_2022.jpg) is a casual full-body mirror selfie, not a headshot, so no photo returned. Homepage mentions no PhD students; none found."
+  },
+  {
+   "id": 54,
+   "name": "Haining Wang",
+   "website": {
+    "url": "https://ece.vt.edu/people/profile/wangh.html",
+    "source_note": "Virginia Tech ECE faculty profile (Google Scholar: https://scholar.google.com/citations?user=tmOInzMAAAAJ)"
+   },
+   "photo": {
+    "image_url": "https://ece.vt.edu/content/ece_vt_edu/en/people/profile/wangh/_jcr_content/bio-image.transform/m-medium/image.jpg",
+    "page_url": "https://ece.vt.edu/people/profile/wangh.html"
+   },
+   "current_position": "Professor, Bradley Department of Electrical and Computer Engineering, Virginia Tech (Arlington, VA)",
+   "bio": {
+    "summary": "Haining Wang is a Professor in the Bradley Department of Electrical and Computer Engineering at Virginia Tech, based at the Virginia Tech Research Center in Arlington. Research covers cybersecurity, networking systems, cloud computing and cyber-physical systems. The PhD was earned at the University of Michigan in 2003, and IEEE Fellow status was granted in 2020 for contributions to network and cloud security.",
+    "research_areas": [
+     "Cybersecurity",
+     "Networking systems",
+     "Cloud computing",
+     "Cyber-physical systems"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2003",
+    "thesis_title": null,
+    "notable": [
+     "IEEE Fellow (2020)"
+    ],
+    "sources": [
+     "https://ece.vt.edu/people/profile/wangh.html"
+    ]
+   },
+   "students": [],
+   "notes": "Search tooling was limited (web search quota exhausted mid-batch), so only directly fetched pages are used. nss.ece.vt.edu/people.html lists current students and alumni jointly under Angelos Stavrou and Haining Wang, with no individual attribution, so none reported as students. Earlier-career (William & Mary) students not found."
+  },
+  {
+   "id": 55,
+   "name": "Padmanabhan (Babu) Pillai",
+   "website": {
+    "url": "https://www.andrew.cmu.edu/user/pspillai/",
+    "source_note": "Personal homepage at CMU"
+   },
+   "photo": {
+    "image_url": "https://www.andrew.cmu.edu/user/pspillai/pillai.jpg",
+    "page_url": "https://www.andrew.cmu.edu/user/pspillai/"
+   },
+   "current_position": "Associate Teaching Professor, Computer Science Department, Carnegie Mellon University",
+   "bio": {
+    "summary": "Padmanabhan (Babu) Pillai is an Associate Teaching Professor in Computer Science at Carnegie Mellon University, previously a Senior Research Engineer at Intel Labs. A systems researcher, work centers on distributed, interactive systems, operating systems, real-time and embedded systems, power management and edge computing (cloudlets). The PhD was completed at the University of Michigan under Kang Shin in the Real-Time Computing Lab.",
+    "research_areas": [
+     "Distributed interactive systems",
+     "Operating systems",
+     "Real-time and embedded systems",
+     "Power management",
+     "Edge computing"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2004",
+    "thesis_title": "Energy-Aware Operating System Design",
+    "notable": [
+     "Senior Research Engineer, Intel Labs (2003 onward)"
+    ],
+    "sources": [
+     "https://www.andrew.cmu.edu/user/pspillai/"
+    ]
+   },
+   "students": [],
+   "notes": "Search tooling was limited (web search quota exhausted mid-batch), so only directly fetched pages are used. Homepage lists no PhD students; none found."
+  },
+  {
+   "id": 56,
+   "name": "Daji Qiao",
+   "website": {
+    "url": "https://www.engineering.iastate.edu/people/profile/daji/",
+    "source_note": "Iowa State College of Engineering faculty profile"
+   },
+   "photo": {
+    "image_url": "https://www.engineering.iastate.edu/people/files/2020/03/daji3.jpg",
+    "page_url": "https://www.engineering.iastate.edu/people/profile/daji/"
+   },
+   "current_position": "Professor of Electrical and Computer Engineering, Iowa State University",
+   "bio": {
+    "summary": "Daji Qiao is a Professor of Electrical and Computer Engineering at Iowa State University. Research areas are computing and networking systems, wireless networking and mobile computing, sensor networks and the Internet of Things, and cyber security. The PhD in electrical engineering (systems) is from the University of Michigan, following an MS from Ohio State University and a BE from Tsinghua University.",
+    "research_areas": [
+     "Wireless networking and mobile computing",
+     "Sensor networks and IoT",
+     "Computing and networking systems",
+     "Cyber security"
+    ],
+    "phd_institution": "University of Michigan",
+    "phd_year": "2004",
+    "thesis_title": null,
+    "notable": [],
+    "sources": [
+     "https://www.engineering.iastate.edu/people/profile/daji/"
+    ]
+   },
+   "students": [],
+   "notes": "Search tooling was limited (web search quota exhausted mid-batch), so only directly fetched pages are used. Profile page lists no student roster; Google Scholar: https://scholar.google.com/citations?user=9jH6uzIAAAAJ. No additional students found beyond those already in the tree. Associate chair title appeared only in search snippets, not included."
+  },
+  {
+   "id": 57,
+   "name": "Haksun Li (co-advised with Ed Durfee)",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Search tooling was limited (web search quota exhausted mid-batch), so only directly fetched pages are used. No page found for this person."
+  },
+  {
+   "id": 58,
+   "name": "Zonghua (Sam) Gu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Search tooling was limited (web search quota exhausted mid-batch), so only directly fetched pages are used. Searches for an Umea University page were inconclusive (results pointed to unrelated people); nothing confirmed."
+  },
+  {
+   "id": 59,
+   "name": "Shige Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Search tooling was limited (web search quota exhausted mid-batch), so only directly fetched pages are used. No page found."
+  },
+  {
+   "id": 60,
+   "name": "Chun-Ting Chou",
+   "website": {
+    "url": "https://theomnieyes.com/ja/%e4%bc%9a%e7%a4%be%e6%a6%82%e8%a6%81/",
+    "source_note": "OmniEyes company overview page (CEO and co-founder profile)"
+   },
+   "photo": {
+    "image_url": "https://theomnieyes.com/wp-content/uploads/2025/05/ting.png",
+    "page_url": "https://theomnieyes.com/ja/%e4%bc%9a%e7%a4%be%e6%a6%82%e8%a6%81/"
+   },
+   "current_position": "Professor, National Taiwan University; CEO and co-founder, OmniEyes",
+   "bio": {
+    "summary": "Chun-Ting Chou is a Professor at National Taiwan University and CEO and co-founder of OmniEyes, an AI vision company founded in 2017 for fleet safety. Two decades of research cover wireless communications, IoT and edge computing, with over 30 patents in IEEE and ECMA standards.",
+    "research_areas": [
+     "Wireless communications",
+     "IoT",
+     "Edge computing"
+    ],
+    "phd_institution": null,
+    "phd_year": null,
+    "thesis_title": null,
+    "notable": [
+     "Young Overseas Scholar Award",
+     "Pan Wen-Yuan Foundation IoT Innovation Award",
+     "Ministry of Science and Technology Startup Pioneer Award"
+    ],
+    "sources": [
+     "https://theomnieyes.com/ja/%e4%bc%9a%e7%a4%be%e6%a6%82%e8%a6%81/"
+    ]
+   },
+   "students": [],
+   "notes": "Search tooling was limited (web search quota exhausted mid-batch), so only directly fetched pages are used. NTU faculty page not located; PhD details not confirmed from fetched pages. No students found."
+  },
+  {
+   "id": 61,
+   "name": "Taejoon Park",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Search tooling was limited (web search quota exhausted mid-batch), so only directly fetched pages are used. No page found."
+  }
+ ]
+}

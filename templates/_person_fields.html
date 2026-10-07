@@ -1,0 +1,59 @@
+{# Shared fields for add/edit. Expects `person` (may be none) and `initial_advisor_id`. #}
+<label>
+  Name *
+  <input type="text" name="name" required value="{{ person.name if person else '' }}" placeholder="e.g., Ada Lovelace" autocomplete="name">
+</label>
+
+<label>
+  Institution
+  <input type="text" name="institution" value="{{ (person.institution or '') if person else '' }}" placeholder="e.g., University of Michigan" autocomplete="organization">
+  <span class="hint">Where they are now (or were last).</span>
+</label>
+
+<label>
+  Year
+  <input type="text" name="year" value="{{ (person.year or '') if person else '' }}" placeholder="e.g., 2023" inputmode="numeric">
+  <span class="hint">PhD graduation year, or expected year for current students.</span>
+</label>
+
+<label>
+  Website
+  <input type="url" name="url" value="{{ (person.url or '') if person else '' }}" placeholder="https://…" autocomplete="url">
+</label>
+
+<label>
+  Current position
+  <input type="text" name="position" value="{{ (person.position or '') if person else '' }}" placeholder="e.g., Professor of EECS, University of Michigan">
+</label>
+
+<label>
+  Photo URL
+  <input type="url" name="photo_url" value="{{ (person.photo_url or '') if person else '' }}" placeholder="https://…/headshot.jpg">
+  <span class="hint">A direct link to a headshot from their own or an official page.</span>
+</label>
+
+{% if show_advisor %}
+<label>
+  Advisor *
+  <div class="typeahead">
+    <input
+      type="text"
+      id="parentInput"
+      class="input"
+      required
+      placeholder="Start typing a name…"
+      autocomplete="off"
+      aria-autocomplete="list"
+      aria-controls="parentList"
+      aria-expanded="false"
+      aria-haspopup="listbox"
+      aria-describedby="parentHelp"
+      {% if initial_advisor_id %}data-initial-id="{{ initial_advisor_id }}"{% endif %}
+    >
+    <input type="hidden" name="advisor_id" id="advisorId" value="{{ initial_advisor_id or '' }}">
+    <div id="parentList" class="typeahead-list" role="listbox" hidden></div>
+    <div id="parentError" class="error" hidden>Please choose someone from the list.</div>
+  </div>
+  <span id="parentHelp" class="hint">Must be someone already in the tree.</span>
+</label>
+{% endif %}

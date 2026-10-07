@@ -1,0 +1,24 @@
+{
+  "batch": "root",
+  "people": [
+    {
+      "id": 1,
+      "name": "Kang G. Shin",
+      "website": {"verdict": "confirmed", "url": "https://web.eecs.umich.edu/~kgshin/", "reason": "Loads; Kang Shin's Home Page, RTCL, University of Michigan EECS, kgshin@umich.edu, emeritus status stated"},
+      "photo": {"verdict": "confirmed", "image_url": "https://rtcl.eecs.umich.edu/rtclweb/assets/images/people/kgshin.jpg", "page_url": "https://rtcl.eecs.umich.edu/rtclweb/people", "reason": "200 image/jpeg; people page has kgshin_panel with this img src and names Kang G. Shin; viewed: single-person studio headshot"},
+      "current_position": {"verdict": "confirmed", "value": "Kevin and Nancy O'Connor Professor Emeritus of Computer Science, EECS, University of Michigan", "reason": "Own homepage states Professor Emeritus (retired from regular teaching Dec 31, 2025, still active in research)"},
+      "bio": {
+        "verdict": "confirmed",
+        "summary": "Kang G. Shin is the Kevin and Nancy O'Connor Professor Emeritus of Computer Science in the Department of Electrical Engineering and Computer Science at the University of Michigan and founding director of the Real-Time Computing Laboratory (RTCL). Retired from regular teaching on December 31, 2025, Shin continues research. Research spans mobile and wireless networking, computer and network security and privacy, cyber-physical systems, and real-time embedded systems. The homepage reports 93 PhD students advised.",
+        "research_areas": ["Real-time and embedded systems", "Mobile and wireless networking", "Security and privacy", "Cyber-physical systems"],
+        "phd_institution": "Cornell University",
+        "phd_year": "1978",
+        "thesis_title": "A Structured Approach to Cell Kinetics and Cancer Therapy Using System Theory",
+        "notable": ["IEEE Fellow", "Ho-Am Prize in Engineering", "Founding director of the Real-Time Computing Laboratory (RTCL)"],
+        "sources": ["https://web.eecs.umich.edu/~kgshin/", "https://en.wikipedia.org/wiki/Kang_G._Shin", "https://www.mathgenealogy.org/id.php?id=87103", "https://rtcl.eecs.umich.edu/rtclweb/people"],
+        "reason": "PhD Cornell 1978 and thesis title confirmed by MGP and Wikipedia; Ho-Am Prize confirmed (Wikipedia, official bio PDF); IEEE Fellow confirmed by bio PDF, but year 1992 only appears as a Wikipedia reference title so year dropped; 1985 founding year not found in any source, dropped; 'South Korean-born' and 'real-time and fault-tolerant' wording dropped/trimmed as not directly stated on checked pages (real-time covered by homepage)"
+      },
+      "students": []
+    }
+  ]
+}

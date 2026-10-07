@@ -1,0 +1,51 @@
+{
+ "batch": "g2-09c",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 275,
+   "name": "Chun-Chieh Chen",
+   "institution": "",
+   "year": "2016",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 276,
+   "name": "Heng-Yu Chi",
+   "institution": "",
+   "year": "2016",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 277,
+   "name": "Qi He",
+   "institution": "Apple",
+   "year": "2005",
+   "advisor": "Constantine Dovrolis",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 278,
+   "name": "Yong Zhu",
+   "institution": "Google",
+   "year": "2006",
+   "advisor": "Constantine Dovrolis",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 279,
+   "name": "Manish Jain",
+   "institution": "Akamai",
+   "year": "2006",
+   "advisor": "Constantine Dovrolis",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}
