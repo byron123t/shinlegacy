@@ -45,7 +45,7 @@ function initGenealogy({ dataUrl }) {
   const slideHost = document.getElementById("slideHost");
   const slideYear = document.getElementById("slideYear");
 
-  let layout = LAYOUTS.includes(readPref("layout")) ? readPref("layout") : "radial";
+  let layout = LAYOUTS.includes(readPref("layout")) ? readPref("layout") : "story";
   let lastLayout = null;      // layout of the previous render (story→story revolves)
   let storyRot = 0;           // storybook: current rotation of the circle
   let polarCache = new Map(); // storybook: id -> {a, r} from the previous render
