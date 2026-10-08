@@ -1,0 +1,87 @@
+{
+ "batch": "g2-12d",
+ "people": [
+  {
+   "id": 340,
+   "name": "Qing (Charles) Cao",
+   "website": {
+    "url": "https://lanterns.eecs.utk.edu/",
+    "source_note": "Lanterns Lab (Cao's group site), lists him as faculty; site has an invalid TLS certificate (loads with curl -k)"
+   },
+   "photo": {
+    "image_url": "https://eecs.utk.edu/wp-content/uploads/sites/10/2020/01/qing-cao.jpg",
+    "page_url": "https://eecs.utk.edu/people/qing-charles-cao/"
+   },
+   "current_position": "Associate Professor, Min H. Kao Department of Electrical Engineering and Computer Science, University of Tennessee, Knoxville",
+   "bio": null,
+   "students": [
+    {
+     "name": "Zheng Lu",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://lanterns.eecs.utk.edu/members.html",
+     "evidence": "Listed under 'Current Students' as Ph.D. Student on Cao's Lanterns Lab members page (page appears dated ~2014, so may have graduated since)"
+    },
+    {
+     "name": "Yunhe Feng",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://lanterns.eecs.utk.edu/members.html",
+     "evidence": "Listed under 'Current Students' as Ph.D. Student on Cao's Lanterns Lab members page (page appears dated ~2014, so may have graduated since)"
+    }
+   ],
+   "notes": "Members page also lists in-tree students (Wang, Yao, Wan, Xiong) and only MS students otherwise. UTK EECS profile https://eecs.utk.edu/people/qing-charles-cao/ confirms PhD UIUC 2008 and Associate Professor. Math Genealogy not checked for Cao."
+  },
+  {
+   "id": 341,
+   "name": "Raghu Ganti",
+   "website": {
+    "url": "https://research.ibm.com/people/raghu-kiran-ganti",
+    "source_note": "IBM Research staff profile (Raghu Kiran Ganti)"
+   },
+   "photo": {
+    "image_url": "https://research-website-prod-ibmers-images.s3.us-east.cloud-object-storage.appdomain.cloud/375",
+    "page_url": "https://research.ibm.com/people/raghu-kiran-ganti"
+   },
+   "current_position": "Distinguished Engineer / Principal Research Scientist, IBM T. J. Watson Research Center",
+   "bio": null,
+   "students": [],
+   "notes": "IBM profile confirms MS/PhD UIUC Aug 2010 with Abdelzaher. Photo URL is the image given as schema.org Person.image in the profile JSON-LD (200 image/jpeg, single-person headshot, viewed); the visible img tag on the page was a placeholder. No PhD students found; industry researcher, none searched in depth. No Scholar/DBLP page located."
+  },
+  {
+   "id": 342,
+   "name": "Praveen Jayachandran",
+   "website": {
+    "url": "https://accsindia.org/praveen-jayachandran/",
+    "source_note": "ACCS speaker bio: IBM Research Bangalore, UIUC PhD Sept 2010 advised by Abdelzaher (undated, ~2017). Only page found; no personal or current IBM page located"
+   },
+   "photo": null,
+   "current_position": "Scientist at IBM Research India (per ~2017 bio; current role not confirmed)",
+   "bio": null,
+   "students": [],
+   "notes": "ACCS bio confirms identity (thesis 'Feasible Region Calculus'). ACCS page has a photo (https://i0.wp.com/accsindia.org/wp-content/uploads/2017/08/praveen-jayachandran.jpg) but it is a society page, not personal/institutional, so not used. research.ibm.com/people/praveen-jayachandran returned 404. Search results mention recent DBLP papers (2023-24) with IBM affiliation. No PhD students found."
+  },
+  {
+   "id": 343,
+   "name": "Jin Heo",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Co-authored with Abdelzaher (TPDS 2011; ICDCS 2012) per DBLP-mirror search results, but no page confirming VMware or a personal site found. A Jin Heo with a Georgia Tech PhD (Gavrilovska advisor, 2026 NSDI) appears to be a different, later person and was NOT used. IDEALS returned 403 to curl; DBLP API did not respond."
+  },
+  {
+   "id": 344,
+   "name": "Nam Pham",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Co-authored ICDCS 2012 with Abdelzaher (Li, Le, Pham, Heo, Abdelzaher) but no page tying a Nam Pham to Booking.com or a personal site found; common name, so nothing accepted. IDEALS returned 403; DBLP API did not respond."
+  }
+ ]
+}

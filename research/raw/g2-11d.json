@@ -1,0 +1,55 @@
+{
+ "batch": "g2-11d",
+ "people": [
+  {
+   "id": 320,
+   "name": "Jamie Lennon",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched once (WebSearch) plus fetched Mathematics Genealogy page for Ella Atkins (https://mathgenealogy.org/id.php?id=108701): lists Jamie Lennon, University of Maryland College Park, 2006, advisor Atkins (confirms advisor/year; school is Maryland). No website, photo or position found; NRL affiliation unconfirmed. No PhD students found; likely none."
+  },
+  {
+   "id": 321,
+   "name": "Min Xue",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "MGP (https://mathgenealogy.org/id.php?id=108701) lists Min Xue, Univ. of Maryland College Park, 2006, advisor Ella Atkins; mathgenealogy.org/id.php?id=151082 gives dissertation 'Real Time Terminal Area Trajectory Planning for Runway Independent Aircraft'. NASA Ames affiliation not confirmed. No website/photo found; no students found."
+  },
+  {
+   "id": 322,
+   "name": "Ryan Eubank",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Two searches' worth of effort found nothing about this person; Atkins lab people page (a2sys.engin.umich.edu) failed to resolve; DBLP/Deep Blue curl lookups returned nothing (network failures). Nothing confirmed."
+  },
+  {
+   "id": 323,
+   "name": "Ali Nasir",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Search found nothing tied to this person; lab page and DBLP/Deep Blue lookups failed. Nothing confirmed."
+  },
+  {
+   "id": 324,
+   "name": "Johnhenri Richardson",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Google Scholar results page fetched (https://scholar.google.com/scholar?q=Johnhenri+Richardson) shows a 2013 dissertation on airplane gust/turbulence response and 2010 small helicopter UAV papers by J.R. Richardson, consistent with Michigan aerospace but no profile or advising evidence opened; nothing confirmed. No website/photo/students."
+  }
+ ]
+}

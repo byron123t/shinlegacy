@@ -1,0 +1,63 @@
+{
+  "batch": "g2-09a",
+  "people": [
+    {
+      "id": 265,
+      "name": "Chi-Jen Wu",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 266,
+      "name": "Hui-Ru Wu",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 267,
+      "name": "Yu-Chieh Lin",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 268,
+      "name": "Chiang-Chi Liao",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 269,
+      "name": "Chih-Ya Shen",
+      "website": {
+        "verdict": "confirmed",
+        "url": "https://www.cs.nthu.edu.tw/~chihya/",
+        "reason": "Personal homepage at NTHU CS; name and PhD (EE, NTU, June 2013) match"
+      },
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://www.cs.nthu.edu.tw/~chihya/images/me.png",
+        "page_url": "https://www.cs.nthu.edu.tw/~chihya/",
+        "reason": "Page embeds images/me.png; 200 image/png; single-person portrait"
+      },
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "Professor, Department of Computer Science, National Tsing Hua University",
+        "reason": "Stated on personal homepage"
+      },
+      "bio": null,
+      "students": []
+    }
+  ]
+}

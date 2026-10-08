@@ -1,0 +1,29 @@
+{
+  "batch": "g2-14a",
+  "people": [
+    {
+      "id": 365, "name": "Lipeng Wan", "website": null, "photo": null, "current_position": null, "bio": null, "students": [],
+      "notes": "Confirmed as Ph.D. student of Qing (Charles) Cao on https://lanterns.eecs.utk.edu/members.html (UTK EECS). Publication pages (web.eecs.utk.edu/~qcao1, DBLP pid/16/581) show co-authored papers with Cao and ORNL authors (Feiyi Wang, Sarp Oral), but no page was opened that states current employer, so position left null. A Nanchang University 'Wan Lipeng' (physics) is a different person. DBLP and Semantic Scholar fetches blocked (Anubis / 429). No website or photo found; no students found."
+    },
+    {
+      "id": 366, "name": "Sisi Xiong", "website": null, "photo": null, "current_position": null, "bio": null, "students": [],
+      "notes": "Confirmed as Ph.D. student of Qing (Charles) Cao on https://lanterns.eecs.utk.edu/members.html. Two searches returned no personal page, current position, website or photo; other Xiong results were different people. No students found."
+    },
+    {
+      "id": 367, "name": "Yusuf Albayram", "website": null, "photo": null, "current_position": null, "bio": null, "students": [],
+      "notes": "Three searches for the name with CCSU returned nothing about him; DBLP fetch blocked (Anubis). Could not confirm the CCSU affiliation on record or find a website/photo. No students found."
+    },
+    {
+      "id": 368, "name": "Michael Fagan",
+      "website": {"url": "https://www.nist.gov/people/michael-fagan", "source_note": "NIST staff profile; Ph.D. CSE, University of Connecticut, Dec 2017, matches record"},
+      "photo": {"image_url": "https://www.nist.gov/sites/default/files/styles/480_x_480_limit/public/images/2022/05/13/Fagan%2C%20Michael_Portrait.jpg.webp?itok=5MwKm34C", "page_url": "https://www.nist.gov/people/michael-fagan"},
+      "current_position": "Researcher (usable security / digital identity), Cybersecurity and Privacy Applications Group, NIST",
+      "bio": null, "students": [],
+      "notes": "NIST profile fetched; image downloaded (HTTP 200 image/webp) and viewed: single-person headshot. Exact job title not stated on page. No PhD students advised mentioned; none returned."
+    },
+    {
+      "id": 369, "name": "Nhan Nguyen", "website": null, "photo": null, "current_position": null, "bio": null, "students": [],
+      "notes": "Two searches found no page tying a Nhan Nguyen to Akamai, UConn or Khan; results were other people with the same name. Identity unconfirmed. Likely industry, no PhD students expected."
+    }
+  ]
+}

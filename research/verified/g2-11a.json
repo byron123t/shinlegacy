@@ -1,0 +1,20 @@
+{
+ "batch": "g2-11a",
+ "people": [
+  {"id": 305, "name": "Suk Kyu Lee", "website": null, "photo": null,
+   "current_position": {"verdict": "rejected", "value": null, "reason": "Only source is advisor's lab alumni list, not a current official page"},
+   "bio": null, "students": []},
+  {"id": 306, "name": "Hyunsoon Kim", "website": null, "photo": null,
+   "current_position": {"verdict": "rejected", "value": null, "reason": "Only source is advisor's lab alumni list, not a current official page"},
+   "bio": null, "students": []},
+  {"id": 307, "name": "Mungyu Bae", "website": null, "photo": null,
+   "current_position": {"verdict": "rejected", "value": null, "reason": "Only source is advisor's lab alumni list, not a current official page"},
+   "bio": null, "students": []},
+  {"id": 308, "name": "Seungho Yoo", "website": null, "photo": null,
+   "current_position": {"verdict": "rejected", "value": null, "reason": "Only source is advisor's lab alumni list, not a current official page"},
+   "bio": null, "students": []},
+  {"id": 309, "name": "Murad Kablan", "website": null, "photo": null,
+   "current_position": {"verdict": "confirmed", "value": "CEO and co-founder, Stateless Inc.", "reason": "CU Boulder CS 2020 news page about him (PhDCompSci'17) quotes 'my role as CEO' and describes founding Stateless Inc."},
+   "bio": null, "students": []}
+ ]
+}

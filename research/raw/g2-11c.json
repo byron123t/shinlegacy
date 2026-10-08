@@ -1,0 +1,55 @@
+{
+ "batch": "g2-11c",
+ "people": [
+  {
+   "id": 315,
+   "name": "Hyoung-gyu Choi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched dissertation records and name variants (Yonsei, Seungjae Han); no identifiable page found."
+  },
+  {
+   "id": 316,
+   "name": "Keon-taek Lee",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No search spent beyond group; no public page tied to this person found."
+  },
+  {
+   "id": 317,
+   "name": "Soo-hoon Moon",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched name, Samsung, Yonsei; no match found."
+  },
+  {
+   "id": 318,
+   "name": "Chris Chambers",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched Bungie/Portland State/Feng; PSU profile of Feng lists no students; PDXScholar fetch returned 403; DBLP fetch timed out."
+  },
+  {
+   "id": 319,
+   "name": "Ed Kaiser",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched Bungie/Portland State/Feng; PDXScholar 403; mathgenealogy query not usable. Nothing confirmed."
+  }
+ ]
+}

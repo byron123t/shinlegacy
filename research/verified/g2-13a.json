@@ -1,0 +1,25 @@
+{
+  "batch": "g2-13a",
+  "people": [
+    {"id": 345, "name": "Yong Yang", "website": null, "photo": null, "current_position": null, "bio": null, "students": []},
+    {"id": 346, "name": "Hossein Ahmadi", "website": null, "photo": null, "current_position": null, "bio": null, "students": []},
+    {"id": 347, "name": "Mohammad M. Khan",
+     "website": {"verdict": "confirmed", "url": "https://maifikhan.cse.uconn.edu/", "reason": "Loads; personal lab page of Mohammad Maifi Hasan Khan, Associate Professor CSE, UConn, PhD UIUC 2011 (matches tree: UIUC 2011); lists Abdelzaher as frequent co-author"},
+     "photo": {"verdict": "confirmed", "image_url": "https://maifikhan-cse.media.uconn.edu/wp-content/uploads/sites/2628/2018/11/image002-400x336.jpg", "page_url": "https://maifikhan.cse.uconn.edu/", "reason": "Embedded on page; 200 image/jpeg; viewed: single-person portrait headshot"},
+     "current_position": {"verdict": "confirmed", "value": "Associate Professor, School of Computing (Computer Science and Engineering), University of Connecticut", "reason": "Lab page and UConn engineering profile (https://engineering.uconn.edu/person/mohammad-khan/) both state Associate Professor; PhD UIUC 2011"},
+     "bio": null,
+     "students": [
+       {"name": "Md Abdullah Al Fahim", "verdict": "confirmed", "phd_year": "2022", "current_institution": "Google", "website": null, "source_url": "https://maifikhan.cse.uconn.edu/", "reason": "Listed under graduated PhD students on advisor's own lab page"},
+       {"name": "Theodore Jensen", "verdict": "confirmed", "phd_year": "2021", "current_institution": "NIST Visualization and Usability Group", "website": null, "source_url": "https://maifikhan.cse.uconn.edu/", "reason": "Listed under graduated PhD students on advisor's own lab page"},
+       {"name": "Kewen Wang", "verdict": "confirmed", "phd_year": "2020", "current_institution": "Salesforce", "website": null, "source_url": "https://maifikhan.cse.uconn.edu/", "reason": "Listed under graduated PhD students on advisor's own lab page"}
+     ]},
+    {"id": 348, "name": "Hieu Le", "website": null, "photo": null,
+     "current_position": {"verdict": "rejected", "value": null, "reason": "Raw claim itself says identity of Tale City founder with the UIUC alumnus is unconfirmed; CB Insights shows no background; not re-verified. Rejected on identity grounds."},
+     "bio": null, "students": []},
+    {"id": 349, "name": "Md Yusuf Uddin",
+     "website": {"verdict": "rejected", "url": null, "reason": "http://m.web.umkc.edu/mu9b4 only returns a redirect notice naming no owner; identity cannot be tied to this person"},
+     "photo": {"verdict": "rejected", "image_url": null, "page_url": null, "reason": "Image is 200 image/jpeg and a single-person portrait from UMKC profile of Md Yusuf Sarwar Uddin, but that person's advisor and PhD year are not stated (only UIUC CS PhD, BUET BSc/MSc), so identity with the tree entry (advisor Abdelzaher, 2012) is name/affiliation match only"},
+     "current_position": {"verdict": "rejected", "value": null, "reason": "UMKC page lists inconsistent title (Associate vs Assistant) and identity link to the tree entry is unconfirmed (no advisor/year)"},
+     "bio": null, "students": []}
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "batch": "g2-11a",
+  "people": [
+    {"id": 305, "name": "Suk Kyu Lee", "website": null, "photo": null,
+     "current_position": "Samsung Electronics (per advisor's lab alumni list; may be outdated)", "bio": null, "students": [],
+     "notes": "Source https://wine.korea.ac.kr/members (Hwangnam Kim's WINE Lab, Ph.D. Alumni): 'Suk Kyu Lee, Ph.D. 2015, currently at Samsung Electronics'; also listed as visiting scholar Jan-Mar 2018. One web search found no personal page; DBLP unreachable (ECONNRESET). No website/photo confirmed. No students found."},
+    {"id": 306, "name": "Hyunsoon Kim", "website": null, "photo": null,
+     "current_position": "Samsung Electronics (per advisor's lab alumni list; may be outdated)", "bio": null, "students": [],
+     "notes": "Source https://wine.korea.ac.kr/members: 'Hyunsoon Kim, Ph.D. 2016, currently at Samsung Electronics'. Web search found no personal page; DBLP unreachable. No students found."},
+    {"id": 307, "name": "Mungyu Bae", "website": null, "photo": null,
+     "current_position": "Samsung Electronics (per advisor's lab alumni list; record says KT R&D)", "bio": null, "students": [],
+     "notes": "Source https://wine.korea.ac.kr/members: 'Mungyu Bae, Ph.D. 2018, currently at Samsung Electronics'. rankdblp.com/authors/__name__mungyu_bae.html shows many papers co-authored with Hwangnam Kim (a ranking aggregator, not a personal page, so not used as website). No personal page, photo or students found."},
+    {"id": 308, "name": "Seungho Yoo", "website": null, "photo": null,
+     "current_position": "Assistant Professor, Pukyong National University (per advisor's lab alumni list)", "bio": null, "students": [],
+     "notes": "Source https://wine.korea.ac.kr/members: 'Seungho Yoo, Ph.D. 2018, currently an Assistant Professor at Pukyong National University'; also visiting scholar Jan-Aug 2022. Did not locate the Pukyong faculty page, so no website or photo. Student list not searched beyond this; none found."},
+    {"id": 309, "name": "Murad Kablan", "website": null, "photo": null,
+     "current_position": "CEO and co-founder, Stateless Inc.",
+     "bio": null, "students": [],
+     "notes": "Source https://www.colorado.edu/cs/2020/01/29/murad-kablan-phdcompsci17: PhD Computer Science CU Boulder 2017, CEO of Stateless; page does not state advisor, but Stateless was co-founded with Eric Keller (CU Boulder news, colorado.edu/engineering/2017/12/05/cu-boulder-spinout-stateless-raises-14-million-seed-stage-funding). The page photo (murad-eric.jpg) is a two-person photo, so rejected as a photo. No personal site found. No students found (industry)."}
+  ]
+}

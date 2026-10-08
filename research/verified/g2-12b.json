@@ -1,0 +1,176 @@
+{
+ "batch": "g2-12b",
+ "people": [
+  {
+   "id": 330,
+   "name": "John Broderick",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 331,
+   "name": "Zhaojian Li",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://www.egr.msu.edu/rival/",
+    "reason": "RIVAL lab homepage names Zhaojian Li as director, MSU; linked as Faculty Website from MSU profile"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://engineering.msu.edu/sites/default/files/styles/focal_profile_image/public/2026-01/zhaojian-headshot.png",
+    "page_url": "https://engineering.msu.edu/faculty/zhaojian-li",
+    "reason": "200 image/png; single-person headshot viewed; embedded on MSU faculty page with alt text naming Li"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Red Cedar Distinguished Professor of Mechanical Engineering (and Electrical and Computer Engineering), Michigan State University",
+    "reason": "MSU faculty page: Red Cedar Distinguished Professor, Mechanical Engineering; also ECE Professor"
+   },
+   "bio": null,
+   "students": [
+    {
+     "name": "Dong Chen",
+     "verdict": "confirmed",
+     "phd_year": null,
+     "current_institution": "Mississippi State University",
+     "website": null,
+     "source_url": "https://www.egr.msu.edu/rival/group.html",
+     "reason": "Alumni list labels as Ph.D. student with enrollment range; graduation year not explicitly stated, so phd_year null"
+    },
+    {
+     "name": "Pengyu Chu",
+     "verdict": "confirmed",
+     "phd_year": null,
+     "current_institution": "Huawei",
+     "website": null,
+     "source_url": "https://www.egr.msu.edu/rival/group.html",
+     "reason": "Alumni list labels as Ph.D. student with enrollment range; graduation year not explicitly stated, so phd_year null"
+    },
+    {
+     "name": "Kaian Chen",
+     "verdict": "confirmed",
+     "phd_year": null,
+     "current_institution": "Ford Motor Company",
+     "website": null,
+     "source_url": "https://www.egr.msu.edu/rival/group.html",
+     "reason": "Alumni list labels as Ph.D. student with enrollment range; graduation year not explicitly stated, so phd_year null"
+    },
+    {
+     "name": "Kyle Lammers",
+     "verdict": "confirmed",
+     "phd_year": "current",
+     "current_institution": "Michigan State University",
+     "website": null,
+     "source_url": "https://www.egr.msu.edu/rival/group.html",
+     "reason": "Listed under Current Ph.D. Students on lab group page"
+    },
+    {
+     "name": "Mohammad Hajidavalloo",
+     "verdict": "confirmed",
+     "phd_year": "current",
+     "current_institution": "Michigan State University",
+     "website": null,
+     "source_url": "https://www.egr.msu.edu/rival/group.html",
+     "reason": "Listed under Current Ph.D. Students on lab group page"
+    },
+    {
+     "name": "Ramin Vahidimoghaddam",
+     "verdict": "confirmed",
+     "phd_year": "current",
+     "current_institution": "Michigan State University",
+     "website": null,
+     "source_url": "https://www.egr.msu.edu/rival/group.html",
+     "reason": "Listed under Current Ph.D. Students on lab group page"
+    },
+    {
+     "name": "Huanqing Wang",
+     "verdict": "confirmed",
+     "phd_year": "current",
+     "current_institution": "Michigan State University",
+     "website": null,
+     "source_url": "https://www.egr.msu.edu/rival/group.html",
+     "reason": "Listed under Current Ph.D. Students on lab group page"
+    },
+    {
+     "name": "Chuwei Ye",
+     "verdict": "confirmed",
+     "phd_year": "current",
+     "current_institution": "Michigan State University",
+     "website": null,
+     "source_url": "https://www.egr.msu.edu/rival/group.html",
+     "reason": "Listed under Current Ph.D. Students on lab group page"
+    },
+    {
+     "name": "Jiajia Li",
+     "verdict": "confirmed",
+     "phd_year": "current",
+     "current_institution": "Michigan State University",
+     "website": null,
+     "source_url": "https://www.egr.msu.edu/rival/group.html",
+     "reason": "Listed under Current Ph.D. Students on lab group page"
+    },
+    {
+     "name": "Keyi Zhu",
+     "verdict": "confirmed",
+     "phd_year": "current",
+     "current_institution": "Michigan State University",
+     "website": null,
+     "source_url": "https://www.egr.msu.edu/rival/group.html",
+     "reason": "Listed under Current Ph.D. Students on lab group page"
+    },
+    {
+     "name": "Chaaran Arunachalam",
+     "verdict": "confirmed",
+     "phd_year": "current",
+     "current_institution": "Michigan State University",
+     "website": null,
+     "source_url": "https://www.egr.msu.edu/rival/group.html",
+     "reason": "Listed under Current Ph.D. Students on lab group page"
+    },
+    {
+     "name": "Zheng Yang",
+     "verdict": "confirmed",
+     "phd_year": "current",
+     "current_institution": "Michigan State University",
+     "website": null,
+     "source_url": "https://www.egr.msu.edu/rival/group.html",
+     "reason": "Listed under Current Ph.D. Students on lab group page"
+    }
+   ]
+  },
+  {
+   "id": 332,
+   "name": "Sweewarman Balachandran",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 333,
+   "name": "Pedro di Donato",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "unverifiable",
+    "value": null,
+    "reason": "Only source (a2sys.engin.umich.edu alumni page) does not load (DNS failure); snippet-based claim cannot be confirmed"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 334,
+   "name": "Ying Lu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  }
+ ]
+}

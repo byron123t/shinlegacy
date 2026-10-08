@@ -1,0 +1,75 @@
+{
+ "batch": "g2-12c",
+ "people": [
+  {
+   "id": 335,
+   "name": "Ronghua Zhang",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "value": null,
+    "reason": "'Deep Map, Inc.' appears only on the undated Abdelzaher lab alumni list (abdelzaher.cs.illinois.edu/people.html, loads, 200). That is not a current official page for the person and may be stale; no current official profile found."
+   },
+   "bio": null,
+   "students": [],
+   "notes": "No claims confirmed; raw website/photo/bio/students were null/empty."
+  },
+  {
+   "id": 336,
+   "name": "Shashi Prabh",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "value": null,
+    "reason": "'Ahmedabad University' appears only on the undated Abdelzaher lab alumni list (abdelzaher.cs.illinois.edu/people.html, loads, 200). That is not a current official page for the person and may be stale; no current official profile found."
+   },
+   "bio": null,
+   "students": [],
+   "notes": "No claims confirmed; raw website/photo/bio/students were null/empty."
+  },
+  {
+   "id": 337,
+   "name": "Tibor Horvath",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "value": null,
+    "reason": "'Google' appears only on the undated Abdelzaher lab alumni list (abdelzaher.cs.illinois.edu/people.html, loads, 200). That is not a current official page for the person and may be stale; no current official profile found."
+   },
+   "bio": null,
+   "students": [],
+   "notes": "No claims confirmed; raw website/photo/bio/students were null/empty."
+  },
+  {
+   "id": 338,
+   "name": "Chengdu Huang",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "value": null,
+    "reason": "'CTO, BorderX' appears only on the undated Abdelzaher lab alumni list (abdelzaher.cs.illinois.edu/people.html, loads, 200). That is not a current official page for the person and may be stale; no current official profile found."
+   },
+   "bio": null,
+   "students": [],
+   "notes": "No claims confirmed; raw website/photo/bio/students were null/empty."
+  },
+  {
+   "id": 339,
+   "name": "Liqian Luo",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "value": null,
+    "reason": "'Google' appears only on the undated Abdelzaher lab alumni list (abdelzaher.cs.illinois.edu/people.html, loads, 200). That is not a current official page for the person and may be stale; no current official profile found."
+   },
+   "bio": null,
+   "students": [],
+   "notes": "No claims confirmed; raw website/photo/bio/students were null/empty."
+  }
+ ]
+}

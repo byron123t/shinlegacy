@@ -1,0 +1,26 @@
+{
+  "batch": "g2-13b",
+  "people": [
+    {"id": 350, "name": "Dong Wang",
+     "website": {"verdict": "confirmed", "url": "https://ischool.illinois.edu/people/dong-wang", "reason": "Loads; official UIUC iSchool profile; PhD CS UIUC, former Notre Dame associate professor, co-author with Abdelzaher (matches tree)"},
+     "photo": {"verdict": "confirmed", "image_url": "https://ischool.illinois.edu/sites/default/files/images/Dong-Wang-23.jpg", "page_url": "https://ischool.illinois.edu/people/dong-wang", "reason": "Page embeds Dong-Wang-23.jpg (styled derivative path); 200 image/jpeg; viewed: single-person portrait"},
+     "current_position": {"verdict": "confirmed", "value": "Professor and Associate Dean for Research, School of Information Sciences, University of Illinois Urbana-Champaign", "reason": "Stated on official UIUC profile page"},
+     "bio": null, "students": []},
+    {"id": 351, "name": "Eun Soo Seo", "website": null, "photo": null,
+     "current_position": {"verdict": "rejected", "value": null, "reason": "Sourced only from the undated Abdelzaher lab alumni list; not a current official page and not confirmed elsewhere"},
+     "bio": null, "students": []},
+    {"id": 352, "name": "Lu Su",
+     "website": {"verdict": "confirmed", "url": "https://engineering.purdue.edu/~lusu/", "reason": "Loads; personal homepage, PhD CS UIUC 2013, advisor Tarek Abdelzaher (matches tree)"},
+     "photo": {"verdict": "rejected", "image_url": null, "page_url": null, "reason": "Embedded and 200 image/jpeg, but viewed image is a casual snapshot in front of a hotel/landscape, not a headshot or portrait"},
+     "current_position": {"verdict": "confirmed", "value": "Associate Professor, School of Electrical and Computer Engineering, Purdue University", "reason": "Stated on his Purdue homepage"},
+     "bio": null, "students": []},
+    {"id": 353, "name": "Fatemeh Saremi", "website": null,
+     "photo": {"verdict": "rejected", "image_url": null, "page_url": null, "reason": "Source is the undated Abdelzaher alumni list; image is a low-resolution grainy passport-style photo, and not from a current official page"},
+     "current_position": {"verdict": "rejected", "value": null, "reason": "Only source is undated Abdelzaher alumni list ('Software Developer', no employer); not confirmed elsewhere"},
+     "bio": null, "students": []},
+    {"id": 354, "name": "Shen Li", "website": null,
+     "photo": {"verdict": "rejected", "image_url": null, "page_url": null, "reason": "Source is the undated Abdelzaher alumni list only; not a current official page"},
+     "current_position": {"verdict": "rejected", "value": null, "reason": "Meta/PyTorch Distributed claim rests on a secondary alphaxiv profile with no established same-person link; alumni list is undated"},
+     "bio": null, "students": []}
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "batch": "g2-13a",
+  "people": [
+    {"id": 345, "name": "Yong Yang", "website": null, "photo": null, "current_position": null, "bio": null, "students": [],
+     "notes": "One web search (Yong Yang, Philips Research NA, UIUC) returned only Abdelzaher pages; name too common to identify without a lead. mathgenealogy.org lists no students for Abdelzaher (id 137554). IDEALS fetch returned 403. Nothing confirmed."},
+    {"id": 346, "name": "Hossein Ahmadi", "website": null, "photo": null, "current_position": null, "bio": null, "students": [],
+     "notes": "Two searches found no tie between any Hossein Ahmadi and Google Research / UIUC / Abdelzaher (a Plymouth eHealth fellow and Hossein Mobahi are different people). Nothing confirmed."},
+    {"id": 347, "name": "Mohammad M. Khan", "website": {"url": "https://maifikhan.cse.uconn.edu/", "source_note": "Personal lab homepage (Mohammad Maifi Hasan Khan), UConn CSE"},
+     "photo": {"image_url": "https://maifikhan-cse.media.uconn.edu/wp-content/uploads/sites/2628/2018/11/image002-400x336.jpg", "page_url": "https://maifikhan.cse.uconn.edu/"},
+     "current_position": "Associate Professor, School of Computing (Computer Science and Engineering), University of Connecticut",
+     "bio": null,
+     "students": [
+       {"name": "Md Abdullah Al Fahim", "phd_year": "2022", "current_institution": "Google", "website": null, "source_url": "https://maifikhan.cse.uconn.edu/", "evidence": "Listed under 'Graduated Ph.D. Students' on Khan's own lab homepage"},
+       {"name": "Theodore Jensen", "phd_year": "2021", "current_institution": "NIST Visualization and Usability Group", "website": null, "source_url": "https://maifikhan.cse.uconn.edu/", "evidence": "Listed under 'Graduated Ph.D. Students' on Khan's own lab homepage"},
+       {"name": "Kewen Wang", "phd_year": "2020", "current_institution": "Salesforce", "website": null, "source_url": "https://maifikhan.cse.uconn.edu/", "evidence": "Listed under 'Graduated Ph.D. Students' on Khan's own lab homepage"}
+     ],
+     "notes": "Identified via UConn engineering profile (https://engineering.uconn.edu/person/mohammad-khan/: PhD UIUC 2011, appears as Mohammad Maifi Hasan Khan). Alternate photo: https://engineering.media.uconn.edu/wp-content/uploads/sites/3738/2024/07/MOHAMMAD-MAIFI-HASAN-KHAN-300x297-1.jpg (HTTP 200 image/jpeg). Albayram, Fagan, Nguyen already in tree. Only graduated students listed; no current students found. Photo content not visually inspected."},
+    {"id": 348, "name": "Hieu Le", "website": null, "photo": null, "current_position": "Founder and CEO, Tale City (per CB Insights; identity of this Hieu Le with the UIUC alumnus not confirmed)", "bio": null, "students": [],
+     "notes": "CB Insights (https://www.cbinsights.com/company/tale-city/people) lists Hieu Le as founder/CEO of Tale City, no background shown. A LinkedIn profile (vn.linkedin.com/in/hieukhacle) mentions Champaign IL and Singapore patent but was not tied to Tale.city; not used as website. Industry person; no PhD students expected."},
+    {"id": 349, "name": "Md Yusuf Uddin", "website": {"url": "http://m.web.umkc.edu/mu9b4", "source_note": "Personal page linked from UMKC profile of Md Yusuf Sarwar Uddin; not itself opened"},
+     "photo": {"image_url": "https://sse.umkc.edu/profiles/profile-pictures/md-yusuf-sarwar-uddin-portrait-003-2861-1-7c9ada6002c6bb692633c0dd014984b9.jpg", "page_url": "https://sse.umkc.edu/profiles/uddin-md-yusuf-sarwar.html"},
+     "current_position": "Associate Professor, School of Science and Engineering (Computer Science and Electrical Engineering), University of Missouri-Kansas City",
+     "bio": null, "students": [],
+     "notes": "UMKC profile (https://sse.umkc.edu/profiles/uddin-md-yusuf-sarwar.html) says UIUC PhD in CS, BUET BSc/MSc CSE, postdoc at UC Irvine, research in IoT/CPS/distributed systems. Matches tree entry (BUET, UIUC) but PhD year and advisor not stated there, and UMKC position differs from BUET on record. Page itself notes inconsistent title (Assistant vs Associate). Photo returned HTTP 200 but not visually inspected. No PhD students found."}
+  ]
+}

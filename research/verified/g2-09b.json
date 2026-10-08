@@ -1,0 +1,13 @@
+{"batch":"g2-09b","people":[
+{"id":270,"name":"Hong-Han Shuai",
+ "website":{"verdict":"confirmed","url":"https://basiclab.lab.nycu.edu.tw/","reason":"Loads; titled 'Shuai @ NYCU', shows name SHUAI (帥宏翰) and nycu.edu.tw email"},
+ "photo":{"verdict":"confirmed","image_url":"https://scholar.nycu.edu.tw/files-asset/20063198/T0530.jpg","page_url":"https://scholar.nycu.edu.tw/zh/persons/hong-han-shuai/","reason":"200 image/jpeg; single-person headshot viewed; embedded on NYCU Scholar profile page"},
+ "current_position":{"verdict":"confirmed","value":"Professor, National Yang Ming Chiao Tung University","reason":"NYCU Scholar profile lists title 教授 (Professor); department not explicitly confirmed so omitted"},
+ "bio":null,"students":[]},
+{"id":271,"name":"Kuan-Ting Lai","website":null,"photo":null,
+ "current_position":{"verdict":"rejected","value":null,"reason":"Only source is a 2019 NTHU seminar bio; no current official page confirms it"},
+ "bio":null,"students":[]},
+{"id":272,"name":"Wei-Liang Shen","website":null,"photo":null,"current_position":null,"bio":null,"students":[]},
+{"id":273,"name":"Yu-Fen Chen","website":null,"photo":null,"current_position":null,"bio":null,"students":[]},
+{"id":274,"name":"Su-Chen Lin","website":null,"photo":null,"current_position":null,"bio":null,"students":[]}
+]}

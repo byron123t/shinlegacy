@@ -1,0 +1,145 @@
+{
+ "batch": "g2-10c",
+ "people": [
+  {
+   "id": 295,
+   "name": "Ye Ge",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 296,
+   "name": "Wei-Peng Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 297,
+   "name": "Honghai Zhang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 298,
+   "name": "Ning Li",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 299,
+   "name": "Rong Zheng",
+   "website": {
+    "verdict": "confirmed",
+    "url": "http://www.cas.mcmaster.ca/~rzheng/",
+    "reason": "Loads; Rong Zheng's own homepage, UIUC PhD, McMaster professor"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "http://www.cas.mcmaster.ca/~rzheng/images/me2.jpg",
+    "page_url": "http://www.cas.mcmaster.ca/~rzheng/",
+    "reason": "200 image/jpeg; embedded as <IMG src=images/me2.jpg> on homepage; single-person portrait (profile view, sunglasses, informal but a real photo of one person)"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Professor, Dept. of Computing and Software, McMaster University; Canada Research Chair (Tier 1) in Mobile Computing",
+    "reason": "Stated on homepage"
+   },
+   "bio": null,
+   "students": [
+    {
+     "name": "Renjie Xu",
+     "verdict": "confirmed",
+     "phd_year": "2025",
+     "current_institution": null,
+     "website": null,
+     "source_url": "http://www.cas.mcmaster.ca/~rzheng/",
+     "reason": "Homepage news (Aug 2025): congrats on PhD thesis defense; WiSeR lists as PhD student of Zheng's group"
+    },
+    {
+     "name": "Wei Zhao",
+     "verdict": "confirmed",
+     "phd_year": "2024",
+     "current_institution": null,
+     "website": null,
+     "source_url": "http://www.cas.mcmaster.ca/~rzheng/",
+     "reason": "Homepage news (Apr 2024): defended PhD thesis on mmWave radar localization; WiSeR people page lists in group"
+    },
+    {
+     "name": "Keivan Nalaie",
+     "verdict": "confirmed",
+     "phd_year": "2023",
+     "current_institution": "Mayo Clinic (postdoctoral fellow)",
+     "website": null,
+     "source_url": "http://www.cas.mcmaster.ca/~rzheng/",
+     "reason": "Homepage news (Jul 2023) defense; WiSeR alumni lists PhD, Mayo Clinic"
+    },
+    {
+     "name": "Yujiao Hao",
+     "verdict": "confirmed",
+     "phd_year": "2022",
+     "current_institution": "Huawei Canada",
+     "website": null,
+     "source_url": "http://www.cas.mcmaster.ca/~rzheng/",
+     "reason": "Homepage news (Sept 2022) defense; WiSeR alumni lists PhD, Huawei Canada"
+    },
+    {
+     "name": "Yihao Fang",
+     "verdict": "confirmed",
+     "phd_year": "2020",
+     "current_institution": "Queen's University / Lexivalley Inc.",
+     "website": null,
+     "source_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+     "reason": "WiSeR alumni lists (PhD); homepage news Jul 2020 defense"
+    },
+    {
+     "name": "Mehdi Jafarizadeh",
+     "verdict": "confirmed",
+     "phd_year": "2021",
+     "current_institution": "Shabodi",
+     "website": null,
+     "source_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+     "reason": "WiSeR alumni lists (PhD); homepage news Jan 2021 defense"
+    },
+    {
+     "name": "Ala Shaabana",
+     "verdict": "confirmed",
+     "phd_year": null,
+     "current_institution": "University of Waterloo",
+     "website": null,
+     "source_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+     "reason": "WiSeR alumni lists (PhD); year not shown"
+    },
+    {
+     "name": "Yongyong Wei",
+     "verdict": "confirmed",
+     "phd_year": "2021",
+     "current_institution": "SAP",
+     "website": null,
+     "source_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+     "reason": "WiSeR alumni lists (PhD); homepage news Apr 2021 defense"
+    },
+    {
+     "name": "Qiang Xu",
+     "verdict": "confirmed",
+     "phd_year": null,
+     "current_institution": "Huawei Canada",
+     "website": null,
+     "source_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+     "reason": "WiSeR alumni lists (PhD); year not shown"
+    }
+   ]
+  }
+ ]
+}

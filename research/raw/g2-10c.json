@@ -1,0 +1,134 @@
+{
+ "batch": "g2-10c",
+ "people": [
+  {
+   "id": 295,
+   "name": "Ye Ge",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched once (name+Hou); nothing identifiable found. Common name; no verified lead."
+  },
+  {
+   "id": 296,
+   "name": "Wei-Peng Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched once; results only returned unrelated Fujitsu staff. No verified lead; no page tied to this person found."
+  },
+  {
+   "id": 297,
+   "name": "Honghai Zhang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched once; no relevant pages found (only different people). No verified lead."
+  },
+  {
+   "id": 298,
+   "name": "Ning Li",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched once; no relevant pages found. Very common name; no verified lead."
+  },
+  {
+   "id": 299,
+   "name": "Rong Zheng",
+   "website": {
+    "url": "http://www.cas.mcmaster.ca/~rzheng/",
+    "source_note": "Personal homepage, loads; confirms PhD from UIUC CS and McMaster professorship"
+   },
+   "photo": {
+    "image_url": "http://www.cas.mcmaster.ca/~rzheng/images/me2.jpg",
+    "page_url": "http://www.cas.mcmaster.ca/~rzheng/"
+   },
+   "current_position": "Professor, Dept. of Computing and Software, McMaster University; Canada Research Chair (Tier 1) in Mobile Computing",
+   "bio": null,
+   "students": [
+    {
+     "name": "Renjie Xu",
+     "phd_year": "2025",
+     "current_institution": null,
+     "website": null,
+     "source_url": "http://www.cas.mcmaster.ca/~rzheng/",
+     "evidence": "Personal page news: 'Congrats to Renjie Xu, who successfully defended his PhD thesis' (Aug 2025), in Zheng's group"
+    },
+    {
+     "name": "Wei Zhao",
+     "phd_year": "2024",
+     "current_institution": null,
+     "website": null,
+     "source_url": "http://www.cas.mcmaster.ca/~rzheng/",
+     "evidence": "Personal page news: Wei Zhao defended PhD thesis on mmWave radar localization (Apr 2024), listed in Zheng's group"
+    },
+    {
+     "name": "Keivan Nalaie",
+     "phd_year": "2023",
+     "current_institution": "Mayo Clinic (postdoctoral fellow)",
+     "website": null,
+     "source_url": "http://www.cas.mcmaster.ca/~rzheng/",
+     "evidence": "Personal page: defended PhD July 2023; WiSeR alumni page lists as PhD alumnus"
+    },
+    {
+     "name": "Yujiao Hao",
+     "phd_year": "2022",
+     "current_institution": "Huawei Canada",
+     "website": null,
+     "source_url": "http://www.cas.mcmaster.ca/~rzheng/",
+     "evidence": "Personal page: defended PhD thesis Sept 2022; WiSeR alumni page lists as PhD alumna"
+    },
+    {
+     "name": "Yihao Fang",
+     "phd_year": null,
+     "current_institution": "Queen's University / Lexivalley Inc.",
+     "website": null,
+     "source_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+     "evidence": "Listed under PhD alumni on WiSeR People page"
+    },
+    {
+     "name": "Mehdi Jafarizadeh",
+     "phd_year": null,
+     "current_institution": "Shabodi",
+     "website": null,
+     "source_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+     "evidence": "Listed under PhD alumni on WiSeR People page"
+    },
+    {
+     "name": "Ala Shaabana",
+     "phd_year": null,
+     "current_institution": "University of Waterloo",
+     "website": null,
+     "source_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+     "evidence": "Listed under PhD alumni on WiSeR People page"
+    },
+    {
+     "name": "Yongyong Wei",
+     "phd_year": null,
+     "current_institution": "SAP",
+     "website": null,
+     "source_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+     "evidence": "Listed under PhD alumni on WiSeR People page"
+    },
+    {
+     "name": "Qiang Xu",
+     "phd_year": null,
+     "current_institution": "Huawei Canada",
+     "website": null,
+     "source_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+     "evidence": "Listed under PhD alumni on WiSeR People page"
+    }
+   ],
+   "notes": "Homepage (curl) and WiSeR People page (wiser.cas.mcmaster.ca/?page_id=198) read. Students listed are McMaster-era PhDs only; the 4 already-in-tree Houston students were excluded. Houston-era alumni not found. Mathgenealogy/DBLP fetches failed or returned nothing useful. Photo URL returned HTTP 200 but image not viewed; verifier should check."
+  }
+ ]
+}

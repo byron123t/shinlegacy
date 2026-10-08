@@ -9,7 +9,7 @@
       "current_position": null,
       "bio": null,
       "students": [],
-      "notes": "Web search budget was exhausted before any search ran (200/200); two WebFetch attempts (DBLP, NTHU CS) failed or redirected. Nothing verified, so nothing returned."
+      "notes": "Searched 1 WebSearch (no personal page found). Advisor relationship not independently confirmed beyond listing on Ming-Syan Chen's Arbor lab alumni page (https://arbor.ee.ntu.edu.tw/alumni.html): [34] Chi-Jen Wu 2012 吳齊人, no affiliation listed. Web search budget used sparingly; no website, photo or position found. Follow-up: one Chinese-name search (with 教授/助理教授/university terms) returned no page identifying this person; results were unrelated people. NDLTD not queryable via fetch."
     },
     {
       "id": 266,
@@ -19,7 +19,7 @@
       "current_position": null,
       "bio": null,
       "students": [],
-      "notes": "Web search budget was exhausted before any search ran (200/200); two WebFetch attempts (DBLP, NTHU CS) failed or redirected. Nothing verified, so nothing returned."
+      "notes": "Searched 1 WebSearch (no personal page found). Advisor relationship not independently confirmed beyond listing on Ming-Syan Chen's Arbor lab alumni page (https://arbor.ee.ntu.edu.tw/alumni.html): [35] Hui-Ru Wu 2013 吳蕙如, no affiliation listed. Web search budget used sparingly; no website, photo or position found. Follow-up: one Chinese-name search (with 教授/助理教授/university terms) returned no page identifying this person; results were unrelated people. NDLTD not queryable via fetch."
     },
     {
       "id": 267,
@@ -29,7 +29,7 @@
       "current_position": null,
       "bio": null,
       "students": [],
-      "notes": "Web search budget was exhausted before any search ran (200/200); two WebFetch attempts (DBLP, NTHU CS) failed or redirected. Nothing verified, so nothing returned."
+      "notes": "Searched 1 WebSearch (no personal page found). Advisor relationship not independently confirmed beyond listing on Ming-Syan Chen's Arbor lab alumni page (https://arbor.ee.ntu.edu.tw/alumni.html): [36] Yu-Chieh Lin 2013 林與絜, no affiliation listed. Web search budget used sparingly; no website, photo or position found. Follow-up: one Chinese-name search (with 教授/助理教授/university terms) returned no page identifying this person; results were unrelated people. NDLTD not queryable via fetch."
     },
     {
       "id": 268,
@@ -39,17 +39,23 @@
       "current_position": null,
       "bio": null,
       "students": [],
-      "notes": "Web search budget was exhausted before any search ran (200/200); two WebFetch attempts (DBLP, NTHU CS) failed or redirected. Nothing verified, so nothing returned."
+      "notes": "Searched 1 WebSearch (no personal page found). Advisor relationship not independently confirmed beyond listing on Ming-Syan Chen's Arbor lab alumni page (https://arbor.ee.ntu.edu.tw/alumni.html): [37] Chiang-Chi Liao 2013, affiliation 高雄第一科技大學資管 (NKFUST Information Management). Web search budget used sparingly; no website, photo or position found. Institution later merged into NKUST (2018). Follow-up: one Chinese-name search (with 教授/助理教授/university terms) returned no page identifying this person; results were unrelated people. NDLTD not queryable via fetch."
     },
     {
       "id": 269,
       "name": "Chih-Ya Shen",
-      "website": null,
-      "photo": null,
-      "current_position": null,
+      "website": {
+        "url": "https://www.cs.nthu.edu.tw/~chihya/",
+        "source_note": "Personal homepage; lists Professor, Dept. of Computer Science, NTHU; Ph.D. EE, National Taiwan University, Jun. 2013"
+      },
+      "photo": {
+        "image_url": "https://www.cs.nthu.edu.tw/~chihya/images/me.png",
+        "page_url": "https://www.cs.nthu.edu.tw/~chihya/"
+      },
+      "current_position": "Professor, Department of Computer Science, National Tsing Hua University",
       "bio": null,
       "students": [],
-      "notes": "Web search budget was exhausted before any search ran (200/200); two WebFetch attempts (DBLP, NTHU CS) failed or redirected. Nothing verified, so nothing returned."
+      "notes": "Homepage fetched; image downloaded (200 image/png) and viewed: single-person portrait. Listed in Ming-Syan Chen's Arbor lab alumni page (https://arbor.ee.ntu.edu.tw/alumni.html): [38] Chih-Ya Shen 2013 清大資工. No students searched (basic batch, students list left empty; none verified). 5 of 10 WebSearch calls used. Follow-up: lab site https://kant963963.wixsite.com/lobster (LoBSTeR Lab, NTHU) is a single About page with no member/alumni list; /members is 404. NDLTD (JS search system) not queryable via fetch. 1 further search for lab members found nothing. No PhD students could be identified; students left empty. All 10 WebSearch calls used."
     }
   ]
 }

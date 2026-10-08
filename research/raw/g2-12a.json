@@ -1,0 +1,102 @@
+{
+ "batch": "g2-12a",
+ "people": [
+  {
+   "id": 325,
+   "name": "Derrick Yeo",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "One search. A Derrick Yeo is listed as Lecturer, Robotics at U-Michigan (https://robotics.umich.edu/people/faculty/derrick-yeo/, headshot /_astro/dyeo.BokCXjxS_1DdGyY.webp) but the page gives no education, so identity with the Maryland 2013 PhD was NOT confirmed; nothing reported. Not found in mathgenealogy Atkins/Durfee lists."
+  },
+  {
+   "id": 326,
+   "name": "Catharine McGhan",
+   "website": {
+    "url": "https://murray.cds.caltech.edu/Catharine_(Cat)_McGhan",
+    "source_note": "Caltech Murray wiki page for former postdoc; lists her as Assistant Professor, University of Cincinnati and co-advisor. UC research directory (researchdirectory.uc.edu/p/mcghancl) appeared in search but returned 404 on fetch."
+   },
+   "photo": null,
+   "current_position": "Assistant Professor of Aerospace Engineering and Engineering Mechanics, University of Cincinnati",
+   "bio": null,
+   "students": [],
+   "notes": "Search snippet (UC directory) said PhD Michigan 2014, postdoc Caltech 2014-2016, UC faculty since 2016; the directory page itself 404'd on direct fetch, so the position rests on the search snippet and Caltech wiki ('Assistant Professor, University of Cincinnati'). No students searched/found. Second search for lab/students found nothing; UC directory still 404; no headshot found."
+  },
+  {
+   "id": 327,
+   "name": "Heejun Choi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "One search; nothing found. Not listed under Atkins or Durfee on mathgenealogy.org (ids 108701, 88132). Second search also found nothing."
+  },
+  {
+   "id": 328,
+   "name": "Justin Rufa",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "One search; no source found for this name. Not on mathgenealogy Atkins/Durfee pages. Second search also found nothing."
+  },
+  {
+   "id": 329,
+   "name": "Justin Bradley",
+   "website": {
+    "url": "http://justinbradley.unl.edu/",
+    "source_note": "Personal homepage; Richard L. and Carol S. McNeel Associate Professor, University of Nebraska-Lincoln"
+   },
+   "photo": null,
+   "current_position": "Richard L. and Carol S. McNeel Associate Professor, University of Nebraska-Lincoln",
+   "bio": null,
+   "students": [
+    {
+     "name": "Grant Phillips",
+     "phd_year": "current",
+     "current_institution": "University of Nebraska-Lincoln",
+     "website": null,
+     "source_url": "http://justinbradley.unl.edu/teaching",
+     "evidence": "Current PhD Students (Aug 2021-present) on Bradley's Teaching and Mentoring page"
+    },
+    {
+     "name": "Balaji Balasubramaniam",
+     "phd_year": "current",
+     "current_institution": "University of Nebraska-Lincoln",
+     "website": null,
+     "source_url": "http://justinbradley.unl.edu/teaching",
+     "evidence": "Current PhD Students (Jan 2021-present) on Bradley's page; separately listed as MS 2016-2018 now faculty at Kansas State"
+    },
+    {
+     "name": "Chandima Fernando",
+     "phd_year": "2023",
+     "current_institution": "Brookhaven National Laboratory",
+     "website": null,
+     "source_url": "http://justinbradley.unl.edu/teaching",
+     "evidence": "Graduated PhD Students (Jan 2017-May 2023) on Bradley's page"
+    },
+    {
+     "name": "Adam Plowcha",
+     "phd_year": "current",
+     "current_institution": "Research Engineer, NIMBUS Lab, University of Nebraska-Lincoln",
+     "website": null,
+     "source_url": "http://justinbradley.unl.edu/teaching",
+     "evidence": "Graduated PhD Students section (Aug 2016-present), now Research Engineer in NIMBUS Lab; year unclear"
+    },
+    {
+     "name": "Xinkai Zhang",
+     "phd_year": "2021",
+     "current_institution": "Volvo",
+     "website": null,
+     "source_url": "http://justinbradley.unl.edu/teaching",
+     "evidence": "Graduated PhD Students (Jul 2017-May 2021) on Bradley's page"
+    }
+   ],
+   "notes": "Mathgenealogy lists Justin Bradley, U Michigan 2014, under Ella Atkins (https://mathgenealogy.org/id.php?id=108701); his About page (http://justinbradley.unl.edu/about) confirms MS/PhD in Aerospace Engineering at Michigan under Ella Atkins, now Associate Professor, School of Computing, UNL, co-director NIMBUS Lab. Students come from his Teaching page (may be dated, copyright 2023). No verified headshot: homepage only has /assets/images/authorimage.png (content not inspected) and a project image. UNL SoC profile URLs tried returned 404."
+  }
+ ]
+}

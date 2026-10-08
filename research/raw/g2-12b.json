@@ -1,0 +1,51 @@
+{
+  "batch": "g2-12b",
+  "people": [
+    {
+      "id": 330, "name": "John Broderick",
+      "website": null, "photo": null, "current_position": null, "bio": null, "students": [],
+      "notes": "2 searches (Atkins student lookup; Ford/Michigan dissertation lookup) found nothing about a John Broderick. a2sys.engin.umich.edu (Atkins lab) was unreachable (DNS failure) and mathgenealogy lists only 3 Atkins students (none Broderick). Nothing confirmed; likely never supervised PhDs (industry)."
+    },
+    {
+      "id": 331, "name": "Zhaojian Li",
+      "website": {"url": "https://www.egr.msu.edu/rival/", "source_note": "Personal/lab homepage (RIVAL), linked as 'Faculty Website' from the MSU faculty profile"},
+      "photo": {"image_url": "https://engineering.msu.edu/sites/default/files/styles/focal_profile_image/public/2026-01/zhaojian-headshot.png", "page_url": "https://engineering.msu.edu/faculty/zhaojian-li"},
+      "current_position": "Red Cedar Distinguished Professor of Mechanical Engineering (and Electrical and Computer Engineering), Michigan State University",
+      "bio": null,
+      "students": [
+        {"name": "Dong Chen", "phd_year": "2023", "current_institution": "Mississippi State University", "website": null, "source_url": "https://www.egr.msu.edu/rival/group.html", "evidence": "Alumni list: 'Dong Chen (Ph.D. student, 2019-2023) ... Now Assistant Professor (Tenure-Track) at Mississippi State University'"},
+        {"name": "Pengyu Chu", "phd_year": "2023", "current_institution": "Huawei", "website": null, "source_url": "https://www.egr.msu.edu/rival/group.html", "evidence": "Alumni list: 'Pengyu Chu (Ph.D. student, 2018-2023) ... Now at Huawei'"},
+        {"name": "Kaian Chen", "phd_year": "2022", "current_institution": "Ford Motor Company", "website": null, "source_url": "https://www.egr.msu.edu/rival/group.html", "evidence": "Alumni list: 'Kaian Chen (Ph.D. student, 2018-2022) ... Now at Ford Motor Company'"},
+        {"name": "Kyle Lammers", "phd_year": "current", "current_institution": "Michigan State University", "website": null, "source_url": "https://www.egr.msu.edu/rival/group.html", "evidence": "Current Ph.D. Students: 'Kyle Lammers (2018-present)'"},
+        {"name": "Mohammad Hajidavalloo", "phd_year": "current", "current_institution": "Michigan State University", "website": null, "source_url": "https://www.egr.msu.edu/rival/group.html", "evidence": "Current Ph.D. Students: 'Mohammad Hajidavalloo (2020-present)'"},
+        {"name": "Ramin Vahidimoghaddam", "phd_year": "current", "current_institution": "Michigan State University", "website": null, "source_url": "https://www.egr.msu.edu/rival/group.html", "evidence": "Current Ph.D. Students: 'Ramin Vahidimoghaddam (2021-present)'"},
+        {"name": "Huanqing Wang", "phd_year": "current", "current_institution": "Michigan State University", "website": null, "source_url": "https://www.egr.msu.edu/rival/group.html", "evidence": "Current Ph.D. Students: 'Huanqing Wang (2021-present)'"},
+        {"name": "Chuwei Ye", "phd_year": "current", "current_institution": "Michigan State University", "website": null, "source_url": "https://www.egr.msu.edu/rival/group.html", "evidence": "Current Ph.D. Students: 'Chuwei Ye (2022-present, co-advised with Prof. Shaoting Lin)'"},
+        {"name": "Jiajia Li", "phd_year": "current", "current_institution": "Michigan State University", "website": null, "source_url": "https://www.egr.msu.edu/rival/group.html", "evidence": "Current Ph.D. Students: 'Jiajia Li (2022-present)'"},
+        {"name": "Keyi Zhu", "phd_year": "current", "current_institution": "Michigan State University", "website": null, "source_url": "https://www.egr.msu.edu/rival/group.html", "evidence": "Current Ph.D. Students: 'Keyi Zhu (2023-present)'"},
+        {"name": "Chaaran Arunachalam", "phd_year": "current", "current_institution": "Michigan State University", "website": null, "source_url": "https://www.egr.msu.edu/rival/group.html", "evidence": "Current Ph.D. Students: 'Chaaran Arunachalam (2024-present)'"},
+        {"name": "Zheng Yang", "phd_year": "current", "current_institution": "Michigan State University", "website": null, "source_url": "https://www.egr.msu.edu/rival/group.html", "evidence": "Current Ph.D. Students: 'Zheng Yang (2024-present)'"}
+      ],
+      "notes": "Faculty page and RIVAL homepage opened; headshot downloaded (HTTP 200, PNG 390x490) and viewed: single-person portrait. Student years are end of the listed enrollment range from the group page, which appears to be a 2024-era snapshot; Ph.D. graduation years not independently confirmed. Excluded postdocs and MS students. Dissertation repositories not checked."
+    },
+    {
+      "id": 332, "name": "Sweewarman Balachandran",
+      "website": null, "photo": null, "current_position": null, "bio": null, "students": [],
+      "notes": "2 searches (NASA Langley/NIA; name plus aerospace) returned only unrelated people (Balakumar Balachandran, S. Balachandar etc.). Scholar blocked (403). Nothing confirmed. Likely no PhD students (NASA/NIA researcher)."
+    },
+    {
+      "id": 333, "name": "Pedro di Donato",
+      "website": null, "photo": null,
+      "current_position": "Regulation Specialist (airworthiness certification), National Civil Aviation Agency (ANAC), Brazil",
+      "bio": null, "students": [],
+      "notes": "Search result snippet for https://a2sys.engin.umich.edu/people/alumni/pedro-di-donato (Michigan A2Sys alumni page) describes him as ANAC Regulation Specialist and PhD candidate in emergency flight planning, consistent with record. I could NOT open that page (DNS failure from both WebFetch and curl), so the position is snippet-based and a source_url could not be confirmed; the page may also contain a photo/links. Verifier should fetch it. Industry/regulator; no PhD students expected."
+    },
+    {
+      "id": 334, "name": "Ying Lu",
+      "website": null, "photo": null,
+      "current_position": null, "bio": null,
+      "students": [],
+      "notes": "Wikipedia (https://en.wikipedia.org/wiki/Ying_Lu, opened) says an Ying Lu is associate professor of CSE at UNL with a UVA PhD in 2005, consistent with the record, but the article is stale. UNL directory search (directory.unl.edu) returned 0 results for 'Ying Lu', and guessed computing.unl.edu/cse.unl.edu profile URLs returned 404, so current employment at UNL is unconfirmed and she may have moved. DBLP (Anubis-blocked) may list this person as 'Ying Lu 0002' but I could not open it to confirm the pid. No faculty page or photo found. Students already in tree: Yijun Lu, Anwar Mamat, Guangdong Liu, Chen He; no additional students found (lab pages and mathgenealogy not located). Used all 10 searches."
+    }
+  ]
+}

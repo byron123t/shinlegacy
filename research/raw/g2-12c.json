@@ -1,0 +1,55 @@
+{
+ "batch": "g2-12c",
+ "people": [
+  {
+   "id": 335,
+   "name": "Ronghua Zhang",
+   "website": null,
+   "photo": null,
+   "current_position": "Deep Map, Inc. (per Abdelzaher lab alumni list; undated, may be stale)",
+   "bio": null,
+   "students": [],
+   "notes": "2 searches + Google Scholar fetch: no homepage or photo found. Scholar lists 'QoS support for legacy applications' (R Zhang, 2005, ProQuest) and Abdelzaher co-authored papers, but no affiliation/identity page confirming VMware. DBLP blocked by bot protection. Mathematics Genealogy lists no students for Abdelzaher; his lab page URL 404'd. Follow-up: fetched https://abdelzaher.cs.illinois.edu/people.html (loaded), Alumni section lists this person with affiliation 'Deep Map, Inc.' but no year, personal link or photo. Second round of 5 searches (field-context queries) found no personal page, photo or other identity-tied source; alumni page lists no students under them. Lab alumni list URL is evidence for current_position only."
+  },
+  {
+   "id": 336,
+   "name": "Shashi Prabh",
+   "website": null,
+   "photo": null,
+   "current_position": "Ahmedabad University (per Abdelzaher lab alumni list; undated, may be stale)",
+   "bio": null,
+   "students": [],
+   "notes": "1 search plus DBLP fetch (blocked): nothing found tying this person to ABB or a page. No students found. Mathematics Genealogy lists no students for Abdelzaher; his lab page URL 404'd. Follow-up: fetched https://abdelzaher.cs.illinois.edu/people.html (loaded), Alumni section lists this person with affiliation 'Ahmedabad University' but no year, personal link or photo. Second round of 5 searches (field-context queries) found no personal page, photo or other identity-tied source; alumni page lists no students under them. Lab alumni list URL is evidence for current_position only."
+  },
+  {
+   "id": 337,
+   "name": "Tibor Horvath",
+   "website": null,
+   "photo": null,
+   "current_position": "Google (per Abdelzaher lab alumni list; undated, may be stale)",
+   "bio": null,
+   "students": [],
+   "notes": "1 search plus DBLP fetch (blocked): nothing found. No students found. Mathematics Genealogy lists no students for Abdelzaher; his lab page URL 404'd. Follow-up: fetched https://abdelzaher.cs.illinois.edu/people.html (loaded), Alumni section lists this person with affiliation 'Google' but no year, personal link or photo. Second round of 5 searches (field-context queries) found no personal page, photo or other identity-tied source; alumni page lists no students under them. Lab alumni list URL is evidence for current_position only."
+  },
+  {
+   "id": 338,
+   "name": "Chengdu Huang",
+   "website": null,
+   "photo": null,
+   "current_position": "CTO, BorderX (per Abdelzaher lab alumni list; undated, may be stale)",
+   "bio": null,
+   "students": [],
+   "notes": "Search + rankdblp page: lists Chengdu Huang's 2007 thesis 'A Scalable Self-Diagnosing Content Distribution Service With Bounded Latency' (hdl.handle.net/2142/81779 -> ideals.illinois.edu/items/83060, 403 on fetch). No homepage, affiliation or photo found. No students found. Mathematics Genealogy lists no students for Abdelzaher; his lab page URL 404'd. Follow-up: fetched https://abdelzaher.cs.illinois.edu/people.html (loaded), Alumni section lists this person with affiliation 'CTO, BorderX' but no year, personal link or photo. Second round of 5 searches (field-context queries) found no personal page, photo or other identity-tied source; alumni page lists no students under them. Lab alumni list URL is evidence for current_position only."
+  },
+  {
+   "id": 339,
+   "name": "Liqian Luo",
+   "website": null,
+   "photo": null,
+   "current_position": "Google (per Abdelzaher lab alumni list; undated, may be stale)",
+   "bio": null,
+   "students": [],
+   "notes": "1 search plus DBLP fetch (blocked): nothing found. No students found. Mathematics Genealogy lists no students for Abdelzaher; his lab page URL 404'd. Follow-up: fetched https://abdelzaher.cs.illinois.edu/people.html (loaded), Alumni section lists this person with affiliation 'Google' but no year, personal link or photo. Second round of 5 searches (field-context queries) found no personal page, photo or other identity-tied source; alumni page lists no students under them. Lab alumni list URL is evidence for current_position only."
+  }
+ ]
+}

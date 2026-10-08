@@ -9,7 +9,7 @@
    "current_position": null,
    "bio": null,
    "students": [],
-   "notes": "Web search budget exhausted (WebSearch limit reached) and WebFetch failed (ECONNRESET); nothing could be verified, so nothing is returned."
+   "notes": "2 searches total shared with id 276 (1 each). No NTU/Taiwan thesis record or personal page found for Chun-Chieh Chen under Ming-Syan Chen; common name, not guessed. NTU scholars handle fetches returned nothing useful."
   },
   {
    "id": 276,
@@ -19,7 +19,7 @@
    "current_position": null,
    "bio": null,
    "students": [],
-   "notes": "Web search budget exhausted (WebSearch limit reached) and WebFetch failed (ECONNRESET); nothing could be verified, so nothing is returned."
+   "notes": "1 search; no record of Heng-Yu Chi under Ming-Syan Chen found; nothing returned rather than guess."
   },
   {
    "id": 277,
@@ -29,7 +29,7 @@
    "current_position": null,
    "bio": null,
    "students": [],
-   "notes": "Web search budget exhausted (WebSearch limit reached) and WebFetch failed (ECONNRESET); nothing could be verified, so nothing is returned."
+   "notes": "Searched; Math Genealogy (mathgenealogy.org/id.php?id=115145) lists Qi He, Georgia Tech PhD 2005, advisor Mostafa Ammar (not Dovrolis); Dovrolis was co-author on 2005 work. Ammar's students page (faculty.cc.gatech.edu/~Mostafa.Ammar/students.html) lists Qi He 2005 at Yahoo, Mountain View, not Apple. Advisor/employer on record not confirmed; no personal site or photo found. Not fully opened by me beyond search summaries."
   },
   {
    "id": 278,
@@ -39,7 +39,7 @@
    "current_position": null,
    "bio": null,
    "students": [],
-   "notes": "Web search budget exhausted (WebSearch limit reached) and WebFetch failed (ECONNRESET); nothing could be verified, so nothing is returned."
+   "notes": "Math Genealogy (https://mathgenealogy.org/id.php?id=115168, opened) lists Yong Zhu, Georgia Tech 2006, advisor Mostafa Ammar; thesis 'Routing, Resource Allocation and Network Design for Overlay Networks'. Search summary says Dovrolis was committee member/collaborator, so Dovrolis as sole advisor is not confirmed. No Google affiliation, website or photo confirmed."
   },
   {
    "id": 279,
@@ -49,7 +49,7 @@
    "current_position": null,
    "bio": null,
    "students": [],
-   "notes": "Web search budget exhausted (WebSearch limit reached) and WebFetch failed (ECONNRESET); nothing could be verified, so nothing is returned."
+   "notes": "Thesis PDF opened (https://repository.gatech.edu/server/api/core/bitstreams/f43b3b44-3f16-4a55-b370-414a76abf762/content): 'End-to-End Available Bandwidth Estimation and Its Applications', Georgia Tech, May 2007 (approved Nov 27 2006), Constantine Dovrolis listed as Advisor. Year on record is 2006; thesis states 2007. No Akamai confirmation, website or photo found."
   }
  ]
 }

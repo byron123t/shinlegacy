@@ -1,0 +1,55 @@
+{
+ "batch": "g2-13c",
+ "people": [
+  {
+   "id": 355,
+   "name": "Md Tanvir Al Amin",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "2 WebSearches (name+UIUC/Abdelzaher; dissertation) found nothing; mathgenealogy lists no students for Abdelzaher; DBLP blocked by Anubis; Semantic Scholar had only a bare author record with no affiliation. Google position not verified. No students found."
+  },
+  {
+   "id": 356,
+   "name": "Shiguang Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "2 WebSearches found no UIUC 2017 record tying a Shiguang Wang to Abdelzaher (a Tsinghua Shiguang Wang appeared but is unrelated). DBLP and IDEALS blocked (Anubis/403). Nothing confirmed."
+  },
+  {
+   "id": 357,
+   "name": "Shaohan Hu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "2 WebSearches found no page tying Shaohan Hu to IBM/UIUC. Semantic Scholar record 3225210 shows quantum-computing papers (possibly a different person or later role); identity unconfirmed so not used. DBLP blocked."
+  },
+  {
+   "id": 358,
+   "name": "Prasanna Giridhar",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "IDEALS dissertation 'Tracking physical events on social media' (UIUC CS, 2018, advisor Tarek Abdelzaher; handle hdl.handle.net/2142/100973; https://www.ideals.illinois.edu/items/107055) found via WebSearch snippet, confirming the 2018 PhD under Abdelzaher. Direct fetch of IDEALS returned 403, so not opened myself. No website/photo/position found; DBLP pid 150/7046 blocked."
+  },
+  {
+   "id": 359,
+   "name": "Yijun Lu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "2 WebSearches found no 2007 dissertation record or Alibaba page. Ying Lu is on UNL faculty (PhD Virginia 2005), so an advising relationship is plausible but unconfirmed. Nothing confirmed."
+  }
+ ]
+}

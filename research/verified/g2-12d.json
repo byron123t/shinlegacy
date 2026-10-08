@@ -1,0 +1,103 @@
+{
+ "batch": "g2-12d",
+ "people": [
+  {
+   "id": 340,
+   "name": "Qing (Charles) Cao",
+   "website": {
+    "verdict": "rejected",
+    "url": null,
+    "reason": "lanterns.eecs.utk.edu has an invalid TLS certificate (loads only with curl -k) and the page looks ~2014; poor link for visitors. Official UTK EECS profile is the better option (not substituted)"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://eecs.utk.edu/wp-content/uploads/sites/10/2020/01/qing-cao.jpg",
+    "page_url": "https://eecs.utk.edu/people/qing-charles-cao/",
+    "reason": "200 image/jpeg; single-person headshot viewed; embedded on UTK profile page naming Qing 'Charles' Cao"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Associate Professor, Min H. Kao Department of Electrical Engineering and Computer Science, University of Tennessee, Knoxville",
+    "reason": "UTK EECS profile lists Associate Professor; PhD UIUC 2008 matches (bio paragraph on page still says Assistant Professor, stale)"
+   },
+   "bio": null,
+   "students": [
+    {
+     "name": "Zheng Lu",
+     "verdict": "confirmed",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://lanterns.eecs.utk.edu/members.html",
+     "reason": "Listed as '(Ph.D. Student)' under 'Current Students' on Cao's Lanterns Lab members page; page appears dated ~2014 (mentions 2014 awards/May 2014 graduations), so 'current' is as of then and may be stale"
+    },
+    {
+     "name": "Yunhe Feng",
+     "verdict": "confirmed",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://lanterns.eecs.utk.edu/members.html",
+     "reason": "Listed as '(Ph.D. Student)' under 'Current Students' on Cao's Lanterns Lab members page; page appears dated ~2014 (mentions 2014 awards/May 2014 graduations), so 'current' is as of then and may be stale"
+    }
+   ]
+  },
+  {
+   "id": 341,
+   "name": "Raghu Ganti",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://research.ibm.com/people/raghu-kiran-ganti",
+    "reason": "Official IBM Research profile; name, IBM T. J. Watson, UIUC MS/PhD Aug 2010 with Abdelzaher"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://research-website-prod-ibmers-images.s3.us-east.cloud-object-storage.appdomain.cloud/375",
+    "page_url": "https://research.ibm.com/people/raghu-kiran-ganti",
+    "reason": "200 image/jpeg; single-person headshot viewed; page img (alt 'Raghu Kiran Ganti') is a next/image proxy of this URL, also Person.image in JSON-LD"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Distinguished Engineer / Principal Research Scientist, IBM T. J. Watson Research Center",
+    "reason": "IBM profile title Distinguished Engineer; bio says Principal Research Scientist at Watson Research Center; publications through 2026"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 342,
+   "name": "Praveen Jayachandran",
+   "website": {
+    "verdict": "rejected",
+    "url": null,
+    "reason": "accsindia.org is an undated (~2017) society speaker bio, not his own page or official profile"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "value": null,
+    "reason": "Only source is the undated ~2017 society bio (Scientist, IBM Research Bangalore); no current official page confirms it"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 343,
+   "name": "Jin Heo",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 344,
+   "name": "Nam Pham",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  }
+ ]
+}

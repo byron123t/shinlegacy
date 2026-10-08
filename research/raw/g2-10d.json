@@ -1,0 +1,230 @@
+{
+ "batch": "g2-10d",
+ "people": [
+  {
+   "id": 300,
+   "name": "Soji Omiwade",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searches (WebSearch) and DBLP (blocked by bot protection) returned nothing identifying this person. Confirmed only that Rong Zheng's page (https://www.cas.mcmaster.ca/~rzheng/) lists him among alumni; no years or positions there. Likely no PhD students (industry)."
+  },
+  {
+   "id": 301,
+   "name": "Khuong Vu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searches (WebSearch) and DBLP (blocked by bot protection) returned nothing identifying this person. Rong Zheng's alumni list names him; no year/position. Likely no PhD students (industry)."
+  },
+  {
+   "id": 302,
+   "name": "Huy A. Nguyen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searches (WebSearch) and DBLP (blocked by bot protection) returned nothing identifying this person. Rong Zheng's alumni list names Huy Nguyen; no year/position. Likely no PhD students (industry)."
+  },
+  {
+   "id": 303,
+   "name": "Guanbo Zheng",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searches (WebSearch) and DBLP (blocked by bot protection) returned nothing identifying this person. Rong Zheng's alumni list names him; no year/position. No UH page found."
+  },
+  {
+   "id": 304,
+   "name": "Hwangnam Kim",
+   "website": {
+    "url": "https://wine.korea.ac.kr/",
+    "source_note": "WiNE Lab (Korea University) homepage; record URL http://wine.korea.ac.kr/member/professor/ returns 404"
+   },
+   "photo": {
+    "image_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vfn5xkuFusCpommHieZ-dsiAH3wjNJhivSMCyD_RQxcw9hM5XCLfcohAV-QTwhODgm1vws6U07t4UXfYYoSNxaOCT9vPnH2L0lEMLRyHeh5kXNSWUbqGyB1OrrBuh607OYwPnCHfGTYQfHcOXz5iUr_pXcjLYt0BVzpqtSm147gUAZ4Gyyn8ej1ERJ1HxtFxh8as1EWnBeidnO8fNp18SpMhH2xeotodlMLBrD=w1280",
+    "page_url": "https://wine.korea.ac.kr/members"
+   },
+   "current_position": "Professor of Electrical Engineering, Korea University",
+   "bio": null,
+   "students": [
+    {
+     "name": "Namkyung Yoon",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed as current Ph.D. student on Hwangnam Kim's WiNE Lab members page"
+    },
+    {
+     "name": "Kiseok Kim",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed as current Ph.D. student on Hwangnam Kim's WiNE Lab members page"
+    },
+    {
+     "name": "Changmin Park",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed as current Ph.D. student on Hwangnam Kim's WiNE Lab members page"
+    },
+    {
+     "name": "Kyeonghyun Yoo",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed as current Ph.D. student on Hwangnam Kim's WiNE Lab members page"
+    },
+    {
+     "name": "Taejin Kwak",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed as current Ph.D. student on Hwangnam Kim's WiNE Lab members page"
+    },
+    {
+     "name": "Sanghong Kim",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed as current Ph.D. student on Hwangnam Kim's WiNE Lab members page"
+    },
+    {
+     "name": "Jeongmin Lee",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed as current Ph.D. student on Hwangnam Kim's WiNE Lab members page"
+    },
+    {
+     "name": "Wooyong Jung",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed as current Ph.D. student on Hwangnam Kim's WiNE Lab members page"
+    },
+    {
+     "name": "Dohun Lee",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed as current Ph.D. student on Hwangnam Kim's WiNE Lab members page"
+    },
+    {
+     "name": "Seokmin Kim",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed as current Ph.D. student on Hwangnam Kim's WiNE Lab members page"
+    },
+    {
+     "name": "Taewoo Park",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed as current Ph.D. student on Hwangnam Kim's WiNE Lab members page"
+    },
+    {
+     "name": "Minsu Cha",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed as current Ph.D. student on Hwangnam Kim's WiNE Lab members page"
+    },
+    {
+     "name": "Taehoon Yoo",
+     "phd_year": "2026",
+     "current_institution": "Samsung Electronics",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed as Ph.D. alumnus on Hwangnam Kim's WiNE Lab members page"
+    },
+    {
+     "name": "Sangmin Lee",
+     "phd_year": "2026",
+     "current_institution": "Samsung Electronics",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed as Ph.D. alumnus on Hwangnam Kim's WiNE Lab members page"
+    },
+    {
+     "name": "Hyeontae Joo",
+     "phd_year": "2026",
+     "current_institution": "Samsung Electronics",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed as Ph.D. alumnus on Hwangnam Kim's WiNE Lab members page"
+    },
+    {
+     "name": "DongKyu Lee",
+     "phd_year": "2025",
+     "current_institution": "Devguru (postdoctoral fellow)",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed as Ph.D. alumnus on Hwangnam Kim's WiNE Lab members page"
+    },
+    {
+     "name": "Seongjoon Park",
+     "phd_year": "2022",
+     "current_institution": "Samsung Electronics",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed as Ph.D. alumnus on Hwangnam Kim's WiNE Lab members page"
+    },
+    {
+     "name": "Joon Yeop Lee",
+     "phd_year": "2020",
+     "current_institution": "Samsung Electronics",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed as Ph.D. alumnus on Hwangnam Kim's WiNE Lab members page"
+    },
+    {
+     "name": "Kwang Jae Sung",
+     "phd_year": "2020",
+     "current_institution": "Sangmyung University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed as Ph.D. alumnus on Hwangnam Kim's WiNE Lab members page"
+    },
+    {
+     "name": "Woonghee Lee",
+     "phd_year": "2019",
+     "current_institution": "Dongguk University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed as Ph.D. alumnus on Hwangnam Kim's WiNE Lab members page"
+    },
+    {
+     "name": "Jongtack Jung",
+     "phd_year": "2019",
+     "current_institution": "SK hynix",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed as Ph.D. alumnus on Hwangnam Kim's WiNE Lab members page"
+    }
+   ],
+   "notes": "Members page fetched via WebFetch; photo URL was reported by the fetch tool (Google Sites CDN, may be unstable; not viewed, verifier should check it is a headshot of Kim). Not-in-tree students listed; Suk Kyu Lee, Hyunsoon Kim, Mungyu Bae, Seungho Yoo already in tree and omitted. Institution on record says 'Seoul University' but page says Korea University. Current students' institution assumed Korea University."
+  }
+ ]
+}

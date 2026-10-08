@@ -1,0 +1,14 @@
+{
+  "batch": "g2-14a",
+  "people": [
+    {"id":365,"name":"Lipeng Wan","website":null,"photo":null,"current_position":null,"bio":null,"students":[]},
+    {"id":366,"name":"Sisi Xiong","website":null,"photo":null,"current_position":null,"bio":null,"students":[]},
+    {"id":367,"name":"Yusuf Albayram","website":null,"photo":null,"current_position":null,"bio":null,"students":[]},
+    {"id":368,"name":"Michael Fagan",
+     "website":{"verdict":"confirmed","url":"https://www.nist.gov/people/michael-fagan","reason":"NIST staff profile loads; name, Cybersecurity and Privacy Applications Group, and Ph.D. CSE UConn Dec 2017 match record"},
+     "photo":{"verdict":"confirmed","image_url":"https://www.nist.gov/sites/default/files/styles/480_x_480_limit/public/images/2022/05/13/Fagan%2C%20Michael_Portrait.jpg.webp?itok=5MwKm34C","page_url":"https://www.nist.gov/people/michael-fagan","reason":"200 image/webp; single-person headshot viewed; embedded on NIST profile page"},
+     "current_position":{"verdict":"confirmed","value":"Researcher, Cybersecurity and Privacy Applications Group, NIST","reason":"NIST profile shows group affiliation; exact job title not stated, so the title was generalized"},
+     "bio":null,"students":[]},
+    {"id":369,"name":"Nhan Nguyen","website":null,"photo":null,"current_position":null,"bio":null,"students":[]}
+  ]
+}

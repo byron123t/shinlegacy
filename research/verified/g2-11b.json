@@ -1,0 +1,29 @@
+{
+ "batch": "g2-11b",
+ "people": [
+  {"id": 310, "name": "Aimee Coughlin",
+   "website": {"verdict": "confirmed", "url": "https://nsr.colorado.edu/coughlin", "reason": "Loads; her own page on CU Boulder NSR site, names advisor Eric Keller"},
+   "photo": {"verdict": "confirmed", "image_url": "https://nsr.colorado.edu/data/img/people/headshot-aimee.jpg", "page_url": "https://nsr.colorado.edu/people/", "reason": "200 image/jpeg; people page embeds it with alt 'Aimee Coughlin'; single-person casual headshot"},
+   "current_position": {"verdict": "confirmed", "value": "Security Engineer, Corporate Security, Facebook", "reason": "Her page lists Security Engineer, Facebook, June 2018 to present"},
+   "bio": null, "students": []},
+  {"id": 311, "name": "Rui Miao", "website": null, "photo": null, "current_position": null, "bio": null, "students": []},
+  {"id": 312, "name": "Masoud Moshref", "website": null, "photo": null, "current_position": null, "bio": null, "students": []},
+  {"id": 313, "name": "Dimitris Papadopoulos",
+   "website": {"verdict": "confirmed", "url": "https://www.cse.ust.hk/~dipapado/", "reason": "Loads; titled 'Dimitris Papadopoulos | HKUST', Associate Professor CSE"},
+   "photo": {"verdict": "confirmed", "image_url": "https://www.cse.ust.hk/~dipapado/profile.jpg", "page_url": "https://www.cse.ust.hk/~dipapado/", "reason": "200 image/jpeg; page source embeds profile.jpg with matching alt; single-person portrait"},
+   "current_position": {"verdict": "confirmed", "value": "Associate Professor, CSE Department, Hong Kong University of Science and Technology", "reason": "Stated on his HKUST page"},
+   "bio": null,
+   "students": [
+    {"name": "Christodoulos Pappas", "verdict": "confirmed", "phd_year": "current", "current_institution": "HKUST", "website": null, "source_url": "https://www.cse.ust.hk/~dipapado/", "reason": "Page: 'my PhD student Christodoulos Pappas' (current student, no graduation year)"},
+    {"name": "Jiajun Xin", "verdict": "confirmed", "phd_year": null, "current_institution": null, "website": null, "source_url": "https://www.cse.ust.hk/~dipapado/", "reason": "Page: 'my former PhD student Jiajun Xin'; year and institution not given"}
+   ]},
+  {"id": 314, "name": "Davide Proserpio",
+   "website": {"verdict": "confirmed", "url": "https://dadepro.github.io/", "reason": "Loads; personal homepage with USC Marshall title and student list"},
+   "photo": null,
+   "current_position": {"verdict": "confirmed", "value": "McAlister Associate Professor in Business Administration; Associate Professor of Marketing, USC Marshall School of Business", "reason": "Stated on his homepage"},
+   "bio": null,
+   "students": [
+    {"name": "Isamar Troncoso", "verdict": "confirmed", "phd_year": null, "current_institution": "Harvard Business School", "website": null, "source_url": "https://dadepro.github.io/", "reason": "Page lists her as dissertation committee co-chair (co-chair counts as advising); placement Assistant Professor, HBS"}
+   ]}
+ ]
+}

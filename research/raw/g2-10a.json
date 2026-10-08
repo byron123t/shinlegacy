@@ -9,20 +9,20 @@
    "current_position": null,
    "bio": null,
    "students": [],
-   "notes": "Web search budget exhausted (200/200) before any search ran; only the on-record site was fetched. Nothing else verified."
+   "notes": "2 searches: no Georgia Tech/Dovrolis/RentPath match; mathgenealogy lists only Amogh Dhamdhere and Partha Kanuparthy for Dovrolis (no Foundalis). Semantic Scholar API shows an author 'Ilias Foundalis' with 1 paper, no affiliation. Dovrolis student page 404. Likely industry (RentPath); no PhD students expected. Nothing verified."
   },
   {
    "id": 286,
    "name": "Ho-Won Kim",
    "website": {
     "url": "http://infosec.pusan.ac.kr/",
-    "source_note": "Website on record; fetched, resolves to 'Information Security and Physical AI Laboratory' (Pusan National University)"
+    "source_note": "Website on record; resolves (JS single-page app titled 'Information Security and Physical AI Laboratory'); contact howonkim@pusan.ac.kr per search snippet. Page content not readable by fetch."
    },
    "photo": null,
-   "current_position": null,
+   "current_position": "Pusan National University, Department of Electronics and Computer Engineering (rank not confirmed)",
    "bio": null,
    "students": [],
-   "notes": "Web search budget exhausted (200/200) before any search ran; only the on-record site was fetched. Nothing else verified. No student or photo info extracted from the page."
+   "notes": "DBLP (Howon Kim 0001, via search snippet; dblp pages blocked by Anubis in fetch) gives affiliation Pusan National University ECE, ETRI 1998-2008, PhD POSTECH 1999 (consistent with advisor Sunggu Lee). Lab site is a client-rendered SPA so people/alumni/photo not extractable; no additional PhD students found beyond those in tree. infosec.pusan.ac.kr/?p=144 and /sub21 also unreadable."
   },
   {
    "id": 287,
@@ -32,7 +32,7 @@
    "current_position": null,
    "bio": null,
    "students": [],
-   "notes": "Web search budget exhausted (200/200) before any search ran; only the on-record site was fetched. Nothing else verified."
+   "notes": "1 search, no match for this person; common name. Nothing verified."
   },
   {
    "id": 288,
@@ -42,7 +42,7 @@
    "current_position": null,
    "bio": null,
    "students": [],
-   "notes": "Web search budget exhausted (200/200) before any search ran; only the on-record site was fetched. Nothing else verified."
+   "notes": "2 searches. A search snippet from adscientificindex.com lists Hwajeong Seo at Hansung University (cryptographic engineering) but the page returned 403 on fetch so not used as a source; Semantic Scholar has many author records (id 1786159 with 234 papers likely him, unconfirmed). No homepage, photo or students confirmed. Likely has PhD students as Hansung professor, not found."
   },
   {
    "id": 289,
@@ -52,7 +52,7 @@
    "current_position": null,
    "bio": null,
    "students": [],
-   "notes": "Web search budget exhausted (200/200) before any search ran; only the on-record site was fetched. Nothing else verified."
+   "notes": "1 search, no match (Smilegate not found); common name. Industry; no students expected."
   }
  ]
 }

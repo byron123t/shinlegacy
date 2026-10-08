@@ -1,0 +1,67 @@
+{
+ "batch": "g2-13d",
+ "people": [
+  {
+   "id": 360,
+   "name": "Anwar Mamat",
+   "website": {
+    "url": "https://www.cs.umd.edu/~anwar",
+    "source_note": "Personal homepage at UMD CS; Senior Lecturer, loads and shows Fall 2026 teaching"
+   },
+   "photo": {
+    "image_url": "https://www.cs.umd.edu/~anwar/images/anwar.png",
+    "page_url": "https://www.cs.umd.edu/~anwar"
+   },
+   "current_position": "Senior Lecturer, Department of Computer Science, University of Maryland, College Park",
+   "bio": null,
+   "students": [],
+   "notes": "Homepage found via search; old Temple page (https://cis.temple.edu/~anwar) says he joined UMD in Jan 2015 and gives PhD in CS. Ying Lu's archived student page lists him as Ph.D. Summer 2011 (then Temple asst prof). The record's institution 'Maryland' matches. Photo image URL taken from the <img src> in the homepage HTML (images/anwar.png); not visually inspected. A UMD phonebook photo also exists (https://www.cs.umd.edu/sites/default/files/images/userpictures/anwar-passport-photo.jpg). Lecturer, so no PhD students expected."
+  },
+  {
+   "id": 361,
+   "name": "Guangdong Liu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Confirmed as a Ph.D. student of Ying Lu (UNL) on archived page https://web.archive.org/web/20160302104812/http://www.cse.unl.edu/~ylu/students.htm (listed as current in 2016). No website, photo or current position found; the record says LinkedIn. Name search turned up nothing relevant; DBLP blocked by bot protection. Ying Lu's archived students page (https://web.archive.org/web/20160302104812/http://www.cse.unl.edu/~ylu/students.htm) also lists Ph.D. students not in the tree: Leping Wang and Weiyue Xu (current as of 2016), and Yijun Lu (Summer 2007, co-supervised with Dr. Jiang, Amazon); report to the Ying Lu batch."
+  },
+  {
+   "id": 362,
+   "name": "Chen He",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Confirmed as Ph.D. student of Ying Lu (UNL), co-supervised with Dr. Swanson, on archived page https://web.archive.org/web/20160302104812/http://www.cse.unl.edu/~ylu/students.htm (current in 2016). Very common name; no personal page, photo or position could be tied to this person. No institution on record."
+  },
+  {
+   "id": 363,
+   "name": "Zhibo Wang",
+   "website": {
+    "url": "https://person.zju.edu.cn/en/zhibowang",
+    "source_note": "Zhejiang University personal page, Professor, College of Computer Science and Technology (IoT, AI security, privacy, mobile crowdsensing). IDENTITY LIKELY BUT NOT CONFIRMED by the page itself: it does not show the Tennessee PhD or Wuhan history. Fits the Tennessee lab's note that he became an Associate Professor at Wuhan University and field overlap; verifier should check."
+   },
+   "photo": {
+    "image_url": "https://person.zju.edu.cn/person//attachments/2021-01/0101050115-46229225.jpg",
+    "page_url": "https://person.zju.edu.cn/en/zhibowang"
+   },
+   "current_position": "Professor, College of Computer Science and Technology, Zhejiang University (per ZJU page; record says Wuhan University)",
+   "bio": null,
+   "students": [],
+   "notes": "Tennessee lanterns lab page (https://lanterns.eecs.utk.edu/members.html) lists 'Zhibo Wang (Ph.D. Student, co-advised with Dr. Hairong Qi, graduated May 2014) ... Employment after graduation: Associate Professor, Wuhan University', which confirms the advisor link. The ZJU page was found by guessing the URL after searches failed; the link between it and this person is inferred, not shown. ZJU photo returned 200 image/jpeg but was not viewed. Student list not searched (DBLP and Scholar blocked); he likely supervises PhD students at ZJU but none were verified."
+  },
+  {
+   "id": 364,
+   "name": "Yanjun Yao",
+   "website": null,
+   "photo": null,
+   "current_position": "MicroStrategy Inc. (employer after graduation, per UT lab page; may be outdated)",
+   "bio": null,
+   "students": [],
+   "notes": "Tennessee lanterns lab page (https://lanterns.eecs.utk.edu/members.html) lists 'Yanjun Yao (Ph.D. Student, graduated May 2014)... Chancellor Extraordinary Professional Promise Award 2014... Employment after graduation: MicroStrategy Inc.', confirming Cao as advisor (lab's faculty). No homepage, photo or current position found. Industry; no PhD students expected."
+  }
+ ]
+}

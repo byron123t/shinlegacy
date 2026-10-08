@@ -1,0 +1,36 @@
+{
+ "batch": "g2-11b",
+ "people": [
+  {"id": 310, "name": "Aimee Coughlin",
+   "website": {"url": "https://nsr.colorado.edu/coughlin", "source_note": "Personal page on CU Boulder Networking and Security Research group site"},
+   "photo": {"image_url": "https://nsr.colorado.edu/data/img/people/headshot-aimee.jpg", "page_url": "https://nsr.colorado.edu/people/"},
+   "current_position": "Security Engineer, Corporate Security, Facebook",
+   "bio": null, "students": [],
+   "notes": "NSR people page lists PhD EE 2018 and Facebook role; her page confirms advisor Eric Keller (RA Jan 2014-May 2018). Photo is a small casual headshot, single person. No PhD students (industry)."},
+  {"id": 311, "name": "Rui Miao",
+   "website": null, "photo": null, "current_position": null, "bio": null, "students": [],
+   "notes": "Website on record (nsl.usc.edu/people/rmiao/) returns 404. Two searches found no page tying him to Minlan Yu, USC or Alibaba; only co-authorship on telemetry papers. Nothing confirmed."},
+  {"id": 312, "name": "Masoud Moshref",
+   "website": null, "photo": null, "current_position": null, "bio": null, "students": [],
+   "notes": "Website on record masoudmoshref.com does not resolve (DNS failure). Math Genealogy (https://www.mathgenealogy.com/id.php?id=266298) lists Masoud Moshref Javadi, PhD USC 2016, 'Timely, Accurate and Scalable Network Management for Data Centers', advisor listed as Ramesh Govindan (not Minlan Yu; possible co-advisor, not confirmed). USC news 2015 reports his Google PhD Fellowship. DBLP fetch blocked by bot protection. Current employer not confirmed. No students found (industry)."},
+  {"id": 313, "name": "Dimitris Papadopoulos",
+   "website": {"url": "https://www.cse.ust.hk/~dipapado/", "source_note": "Personal homepage at HKUST CSE; still works"},
+   "photo": {"image_url": "https://www.cse.ust.hk/~dipapado/profile.jpg", "page_url": "https://www.cse.ust.hk/~dipapado/"},
+   "current_position": "Associate Professor, CSE Department, Hong Kong University of Science and Technology",
+   "bio": null,
+   "students": [
+    {"name": "Christodoulos Pappas", "phd_year": "current", "current_institution": "HKUST", "website": null, "source_url": "https://www.cse.ust.hk/~dipapado/", "evidence": "News item: 'Work led by my PhD student Christodoulos Pappas'"},
+    {"name": "Jiajun Xin", "phd_year": null, "current_institution": null, "website": null, "source_url": "https://www.cse.ust.hk/~dipapado/", "evidence": "News item: 'my former PhD student Jiajun Xin'; graduation year not given"}
+   ],
+   "notes": "Page also mentions students Xiangan Tian and Xian Wang without stating PhD status, so omitted. PhD from Boston University confirmed on page (advisor Sharon Goldberg per tree, not stated on page). No full alumni list located; no search spent on this."},
+  {"id": 314, "name": "Davide Proserpio",
+   "website": {"url": "https://dadepro.github.io/", "source_note": "Personal homepage; states PhD at Boston University supervised by Sharon Goldberg, John Byers, Georgios Zervas"},
+   "photo": null,
+   "current_position": "McAlister Associate Professor in Business Administration; Associate Professor of Marketing, USC Marshall School of Business",
+   "bio": null,
+   "students": [
+    {"name": "Isamar Troncoso", "phd_year": null, "current_institution": "Harvard Business School", "website": null, "source_url": "https://dadepro.github.io/", "evidence": "Students list: 'Isamar Troncoso (dissertation committee co-chair). Placement: Assistant Professor, Harvard Business School'"}
+   ],
+   "notes": "Other listed people (Tal Shoshani, Yanyan Li, Fanglin Chen) were only committee members, so excluded. Photos found (dadepro.github.io/images/dade-rio.jpg, a selfie with a dog; Marshall page png) were not clean single-person headshots; the Marshall png was not viewed, so no photo submitted. Marshall page https://www.marshall.usc.edu/personnel/davide-proserpio confirms title."}
+ ]
+}

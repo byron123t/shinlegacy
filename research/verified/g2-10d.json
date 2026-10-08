@@ -1,0 +1,257 @@
+{
+ "batch": "g2-10d",
+ "people": [
+  {
+   "id": 300,
+   "name": "Soji Omiwade",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searches (WebSearch) and DBLP (blocked by bot protection) returned nothing identifying this person. Confirmed only that Rong Zheng's page (https://www.cas.mcmaster.ca/~rzheng/) lists him among alumni; no years or positions there. Likely no PhD students (industry)."
+  },
+  {
+   "id": 301,
+   "name": "Khuong Vu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searches (WebSearch) and DBLP (blocked by bot protection) returned nothing identifying this person. Rong Zheng's alumni list names him; no year/position. Likely no PhD students (industry)."
+  },
+  {
+   "id": 302,
+   "name": "Huy A. Nguyen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searches (WebSearch) and DBLP (blocked by bot protection) returned nothing identifying this person. Rong Zheng's alumni list names Huy Nguyen; no year/position. Likely no PhD students (industry)."
+  },
+  {
+   "id": 303,
+   "name": "Guanbo Zheng",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searches (WebSearch) and DBLP (blocked by bot protection) returned nothing identifying this person. Rong Zheng's alumni list names him; no year/position. No UH page found."
+  },
+  {
+   "id": 304,
+   "name": "Hwangnam Kim",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://wine.korea.ac.kr/",
+    "reason": "WiNE Lab (Korea University) site loads; members page lists Hwangnam Kim as Professor, Dept. of Electrical Engineering"
+   },
+   "photo": {
+    "verdict": "rejected",
+    "image_url": null,
+    "page_url": null,
+    "reason": "Google Sites sitesv-images-rt CDN URL returns HTTP 403 text/html via curl (also with referer); session-tokened, expiring link; page's raw HTML embeds different tokens"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Professor of Electrical Engineering, Korea University",
+    "reason": "WiNE Lab members page"
+   },
+   "bio": null,
+   "students": [
+    {
+     "name": "Namkyung Yoon",
+     "phd_year": null,
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "verdict": "rejected",
+     "reason": "Members page labels as 'Course: M.S. & Ph.D.' combined student, not shown to be past MS phase; not explicitly a Ph.D. student"
+    },
+    {
+     "name": "Kiseok Kim",
+     "phd_year": null,
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "verdict": "rejected",
+     "reason": "Members page labels as 'Course: M.S. & Ph.D.' combined student, not shown to be past MS phase; not explicitly a Ph.D. student"
+    },
+    {
+     "name": "Changmin Park",
+     "phd_year": null,
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "verdict": "rejected",
+     "reason": "Members page labels as 'Course: M.S. & Ph.D.' combined student, not shown to be past MS phase; not explicitly a Ph.D. student"
+    },
+    {
+     "name": "Kyeonghyun Yoo",
+     "phd_year": null,
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "verdict": "rejected",
+     "reason": "Members page labels as 'Course: M.S. & Ph.D.' combined student, not shown to be past MS phase; not explicitly a Ph.D. student"
+    },
+    {
+     "name": "Taejin Kwak",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "verdict": "confirmed",
+     "reason": "Members page lists under 'Course: Ph.D. Student' (Ph.D. only)"
+    },
+    {
+     "name": "Sanghong Kim",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "verdict": "confirmed",
+     "reason": "Members page lists under 'Course: Ph.D. Student' (Ph.D. only)"
+    },
+    {
+     "name": "Jeongmin Lee",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "verdict": "confirmed",
+     "reason": "Members page lists under 'Course: Ph.D. Student' (Ph.D. only)"
+    },
+    {
+     "name": "Wooyong Jung",
+     "phd_year": null,
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "verdict": "rejected",
+     "reason": "Members page labels as 'Course: M.S. & Ph.D.' combined student, not shown to be past MS phase; not explicitly a Ph.D. student"
+    },
+    {
+     "name": "Dohun Lee",
+     "phd_year": null,
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "verdict": "rejected",
+     "reason": "Members page labels as 'Course: M.S. & Ph.D.' combined student, not shown to be past MS phase; not explicitly a Ph.D. student"
+    },
+    {
+     "name": "Seokmin Kim",
+     "phd_year": null,
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "verdict": "rejected",
+     "reason": "Members page labels as 'Course: M.S. & Ph.D.' combined student, not shown to be past MS phase; not explicitly a Ph.D. student"
+    },
+    {
+     "name": "Taewoo Park",
+     "phd_year": null,
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "verdict": "rejected",
+     "reason": "Members page labels as 'Course: M.S. & Ph.D.' combined student, not shown to be past MS phase; not explicitly a Ph.D. student"
+    },
+    {
+     "name": "Minsu Cha",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "verdict": "confirmed",
+     "reason": "Members page lists under 'Course: Ph.D. Student' (Ph.D. only)"
+    },
+    {
+     "name": "Taehoon Yoo",
+     "phd_year": "2026",
+     "current_institution": "Samsung Electronics",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "verdict": "confirmed",
+     "reason": "Listed under 'Ph.D. Alumni' on WiNE Lab members page with graduation year 2026"
+    },
+    {
+     "name": "Sangmin Lee",
+     "phd_year": "2026",
+     "current_institution": "Samsung Electronics",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "verdict": "confirmed",
+     "reason": "Listed under 'Ph.D. Alumni' on WiNE Lab members page with graduation year 2026"
+    },
+    {
+     "name": "Hyeontae Joo",
+     "phd_year": "2026",
+     "current_institution": "Samsung Electronics",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "verdict": "confirmed",
+     "reason": "Listed under 'Ph.D. Alumni' on WiNE Lab members page with graduation year 2026"
+    },
+    {
+     "name": "DongKyu Lee",
+     "phd_year": "2025",
+     "current_institution": "Devguru (postdoctoral fellow)",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "verdict": "confirmed",
+     "reason": "Listed under 'Ph.D. Alumni' on WiNE Lab members page with graduation year 2025"
+    },
+    {
+     "name": "Seongjoon Park",
+     "phd_year": "2022",
+     "current_institution": "Samsung Electronics",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "verdict": "confirmed",
+     "reason": "Listed under 'Ph.D. Alumni' on WiNE Lab members page with graduation year 2022"
+    },
+    {
+     "name": "Joon Yeop Lee",
+     "phd_year": "2020",
+     "current_institution": "Samsung Electronics",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "verdict": "confirmed",
+     "reason": "Listed under 'Ph.D. Alumni' on WiNE Lab members page with graduation year 2020"
+    },
+    {
+     "name": "Kwang Jae Sung",
+     "phd_year": "2020",
+     "current_institution": "Sangmyung University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "verdict": "confirmed",
+     "reason": "Listed under 'Ph.D. Alumni' on WiNE Lab members page with graduation year 2020"
+    },
+    {
+     "name": "Woonghee Lee",
+     "phd_year": "2019",
+     "current_institution": "Dongguk University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "verdict": "confirmed",
+     "reason": "Listed under 'Ph.D. Alumni' on WiNE Lab members page with graduation year 2019"
+    },
+    {
+     "name": "Jongtack Jung",
+     "phd_year": "2019",
+     "current_institution": "SK hynix",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "verdict": "confirmed",
+     "reason": "Listed under 'Ph.D. Alumni' on WiNE Lab members page with graduation year 2019"
+    }
+   ]
+  }
+ ]
+}

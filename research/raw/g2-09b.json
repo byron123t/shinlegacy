@@ -4,22 +4,28 @@
   {
    "id": 270,
    "name": "Hong-Han Shuai",
-   "website": null,
-   "photo": null,
-   "current_position": null,
-   "bio": null,
+   "website": {
+    "url": "https://basiclab.lab.nycu.edu.tw/",
+    "source_note": "BASIC Lab personal/lab page, states PhD 2010-2015; linked from IEEE CASS profile"
+   },
+   "photo": {
+    "image_url": "https://scholar.nycu.edu.tw/files-asset/20063198/T0530.jpg",
+    "page_url": "https://scholar.nycu.edu.tw/zh/persons/hong-han-shuai/"
+   },
+   "current_position": "Professor, Department of Electrical and Computer Engineering, National Yang Ming Chiao Tung University",
    "students": [],
-   "notes": "Not researched: WebSearch budget exhausted (200/200) and WebFetch/curl network failed (ECONNRESET/timeout), so nothing could be verified."
+   "notes": "Searched within 10-search cap. Sources: scholar.nycu.edu.tw profile, ieee-cas.org/contact/hong-han-shuai, basiclab.lab.nycu.edu.tw. Image URL returned 200 image/jpeg via curl headers; not visually inspected. Lab site images/img1.jpg also 200 but unclear if headshot. No PhD student list found on these pages; PhD advisor not explicitly stated on fetched pages (PhD at NTU Communication Engineering 2015).",
+   "bio": null
   },
   {
    "id": 271,
    "name": "Kuan-Ting Lai",
    "website": null,
    "photo": null,
-   "current_position": null,
-   "bio": null,
+   "current_position": "Assistant Professor, Department of Electronic Engineering, National Taipei University of Technology (per 2019 NTHU seminar bio; since 2018, may be outdated)",
    "students": [],
-   "notes": "Not researched: WebSearch budget exhausted (200/200) and WebFetch/curl network failed (ECONNRESET/timeout), so nothing could be verified."
+   "notes": "Searched within 10-search cap. Identity confirmed via https://isa.site.nthu.edu.tw/p/16-1182-168229.php?Lang=en: BS EE 2003/MS CS 2005 NTU, PhD started 2009 under Prof. Ming-Syan Chen, PhD Feb 2015, then Arkados VP tech, AnyCharge co-founder, NTUT since 2018. No personal homepage or official NTUT page found (NTUT fetch failed with ENOTFOUND; dblp fetch ECONNRESET, dblp pid/48/4678 unconfirmed to be this person). Student search not done.",
+   "bio": null
   },
   {
    "id": 272,
@@ -27,9 +33,9 @@
    "website": null,
    "photo": null,
    "current_position": null,
-   "bio": null,
    "students": [],
-   "notes": "Not researched: WebSearch budget exhausted (200/200) and WebFetch/curl network failed (ECONNRESET/timeout), so nothing could be verified."
+   "notes": "Searched within 10-search cap. Two searches found nothing identifying this person; Ming-Syan Chen's Academia Sinica supervised list (supervised_en.html) is masked and covers only to 2008.",
+   "bio": null
   },
   {
    "id": 273,
@@ -37,9 +43,9 @@
    "website": null,
    "photo": null,
    "current_position": null,
-   "bio": null,
    "students": [],
-   "notes": "Not researched: WebSearch budget exhausted (200/200) and WebFetch/curl network failed (ECONNRESET/timeout), so nothing could be verified."
+   "notes": "Searched within 10-search cap. Searches found nothing identifying this person.",
+   "bio": null
   },
   {
    "id": 274,
@@ -47,9 +53,9 @@
    "website": null,
    "photo": null,
    "current_position": null,
-   "bio": null,
    "students": [],
-   "notes": "Not researched: WebSearch budget exhausted (200/200) and WebFetch/curl network failed (ECONNRESET/timeout), so nothing could be verified."
+   "notes": "Searched within 10-search cap. Searches found nothing identifying this person.",
+   "bio": null
   }
  ]
 }

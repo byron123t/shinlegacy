@@ -1,0 +1,49 @@
+{
+  "batch": "g2-13b",
+  "people": [
+    {
+      "id": 350, "name": "Dong Wang",
+      "website": {"url": "https://ischool.illinois.edu/people/dong-wang", "source_note": "UIUC School of Information Sciences faculty profile; states PhD in CS from UIUC and former Notre Dame CSE associate professor"},
+      "photo": {"image_url": "https://ischool.illinois.edu/sites/default/files/images/Dong-Wang-23.jpg", "page_url": "https://ischool.illinois.edu/people/dong-wang"},
+      "current_position": "Professor and Associate Dean for Research, School of Information Sciences, University of Illinois Urbana-Champaign",
+      "bio": null,
+      "students": [],
+      "notes": "Identity tied via Abdelzaher CyPhy alumni page (Dong Wang, University of Notre Dame, 'On Quantifying the Quality of Information in Social Sensing') and a Notre Dame bio saying PhD with Abdelzaher. Record institution Notre Dame is outdated; moved to UIUC Aug 2021. Old ND page www3.nd.edu/~dwang5 now 403 (academicweb.nd.edu also 403). dyzhang.net (possible former student, Daniel Zhang) returned 403; no student list with evidence found, so students empty. Search budget exhausted before finding an alumni page."
+    },
+    {
+      "id": 351, "name": "Eun Soo Seo",
+      "website": null, "photo": null,
+      "current_position": "Google (per Abdelzaher alumni page; no title given)",
+      "bio": null,
+      "students": [],
+      "notes": "Listed as 'Eunsoo Seo, Google, Failure Diagnosis in Distributed Systems' on https://abdelzaher.cs.illinois.edu/people.html (alumni, with Abdelzaher). No personal page or headshot found (alumni page uses placeholder image); web searches found nothing. Not researched further for students; likely none."
+    },
+    {
+      "id": 352, "name": "Lu Su",
+      "website": {"url": "https://engineering.purdue.edu/~lusu/", "source_note": "Personal homepage at Purdue; bio states PhD CS UIUC 2013 advised by Tarek Abdelzaher"},
+      "photo": {"image_url": "https://engineering.purdue.edu/~lusu/images/lusu.jpg", "page_url": "https://engineering.purdue.edu/~lusu/"},
+      "current_position": "Associate Professor of Electrical and Computer Engineering, Purdue University (joined January 2021; previously SUNY Buffalo)",
+      "bio": null,
+      "students": [],
+      "notes": "Homepage loads (curl 200, image/jpeg for lusu.jpg; embedded as 'Lu Su's photo'); I did not visually inspect the photo. Homepage has no student/alumni list. Old Buffalo page redirects people to the Purdue page. Third-party recruiting posts mention graduates but no names verified, so students empty."
+    },
+    {
+      "id": 353, "name": "Fatemeh Saremi",
+      "website": null,
+      "photo": {"image_url": "https://abdelzaher.cs.illinois.edu/images/22-saremi.jpg", "page_url": "https://abdelzaher.cs.illinois.edu/people.html"},
+      "current_position": "Software Developer (per Abdelzaher alumni page; employer not stated)",
+      "bio": null,
+      "students": [],
+      "notes": "Alumni page lists 'Fatemeh Saremi, Software Developer, A Participatory Sensing Fuel-Efficient Navigation System: GreenGPS' under Abdelzaher. Photo is a single-person headshot on the advisor's lab page (200 image/jpeg, viewed). No personal website found; HAMPTON University hint in my search was unsupported. No students expected."
+    },
+    {
+      "id": 354, "name": "Shen Li",
+      "website": null,
+      "photo": {"image_url": "https://abdelzaher.cs.illinois.edu/images/21-shen.jpg", "page_url": "https://abdelzaher.cs.illinois.edu/people.html"},
+      "current_position": "Research scientist at Meta (formerly Facebook); tech lead of PyTorch Distributed per an alphaxiv profile (unverified on an official page)",
+      "bio": null,
+      "students": [],
+      "notes": "Alumni page lists 'Shen Li, Facebook AI, Dynamic Resource Provisioning for Data Center Workloads with Data Constraints' under Abdelzaher. Photo is a single-person headshot on the lab page (200 image/jpeg, viewed). Linking this person to the PyTorch Distributed author rests on a secondary profile only. No homepage found. Industry; no PhD students."
+    }
+  ]
+}

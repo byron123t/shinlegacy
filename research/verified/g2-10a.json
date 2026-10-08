@@ -1,0 +1,7 @@
+{"batch":"g2-10a","people":[
+{"id":285,"name":"Ilias Foundalis","website":null,"photo":null,"current_position":null,"bio":null,"students":[]},
+{"id":286,"name":"Ho-Won Kim","website":{"verdict":"rejected","url":null,"reason":"Page loads (lab SPA 'Information Security and Physical AI Laboratory') but does not name Howon/Ho-Won Kim or Pusan National University; cannot tie to this person"},"photo":null,"current_position":{"verdict":"rejected","value":null,"reason":"Only support was a DBLP search snippet; no current official page could be loaded/confirmed"},"bio":null,"students":[]},
+{"id":287,"name":"Donggeon Lee","website":null,"photo":null,"current_position":null,"bio":null,"students":[]},
+{"id":288,"name":"Hwajeong Seo","website":null,"photo":null,"current_position":null,"bio":null,"students":[]},
+{"id":289,"name":"Jongseok Choi","website":null,"photo":null,"current_position":null,"bio":null,"students":[]}
+]}

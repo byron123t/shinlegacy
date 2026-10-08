@@ -1,0 +1,55 @@
+{
+ "batch": "g2-10b",
+ "people": [
+  {
+   "id": 290,
+   "name": "Jihyun Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Two WebSearches run (context search with advisor/institution, then a targeted follow-up using coordinator hints). No result tied to this person's identity. DBLP/mathgenealogy blocked by Anubis bot check; OhioLINK ETD search URL errored; Google Scholar returned no usable content. All fields null; students not checked. Searched Korean/PNU context (Ho-Won Kim, Pusan National University); nothing found."
+  },
+  {
+   "id": 291,
+   "name": "Bin Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Two WebSearches run (context search with advisor/institution, then a targeted follow-up using coordinator hints). No result tied to this person's identity. DBLP/mathgenealogy blocked by Anubis bot check; OhioLINK ETD search URL errored; Google Scholar returned no usable content. All fields null; students not checked. Weak lead only: a DBLP-derived listing shows 'Bin Wang, Jennifer C. Hou, Ching-Chih Han' papers (IEEE Trans. Computers 2001, J. High Speed Networks 2002), but identity as the 2000 PhD is unconfirmed (common name), so nothing recorded."
+  },
+  {
+   "id": 292,
+   "name": "Hung-Ying Tyan",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Two WebSearches run (context search with advisor/institution, then a targeted follow-up using coordinator hints). No result tied to this person's identity. DBLP/mathgenealogy blocked by Anubis bot check; OhioLINK ETD search URL errored; Google Scholar returned no usable content. All fields null; students not checked."
+  },
+  {
+   "id": 293,
+   "name": "Yuan Gao",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Two WebSearches run (context search with advisor/institution, then a targeted follow-up using coordinator hints). No result tied to this person's identity. DBLP/mathgenealogy blocked by Anubis bot check; OhioLINK ETD search URL errored; Google Scholar returned no usable content. All fields null; students not checked."
+  },
+  {
+   "id": 294,
+   "name": "Guanghui He",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Two WebSearches run (context search with advisor/institution, then a targeted follow-up using coordinator hints). No result tied to this person's identity. DBLP/mathgenealogy blocked by Anubis bot check; OhioLINK ETD search URL errored; Google Scholar returned no usable content. All fields null; students not checked."
+  }
+ ]
+}

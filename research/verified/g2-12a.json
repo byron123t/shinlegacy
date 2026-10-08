@@ -1,0 +1,112 @@
+{
+ "batch": "g2-12a",
+ "people": [
+  {
+   "id": 325,
+   "name": "Derrick Yeo",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 326,
+   "name": "Catharine McGhan",
+   "website": {
+    "verdict": "rejected",
+    "url": "https://murray.cds.caltech.edu/Catharine_(Cat)_McGhan",
+    "reason": "Manual review: Caltech wiki alumni page is not her own page or a current official profile. Caltech Murray wiki page about her (alumni postdoc); names her and lists subsequent position as Assistant Professor, University of Cincinnati. Not a personal/official current page, but the only loadable one."
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "value": null,
+    "reason": "Caltech wiki shows Assistant Professor, University of Cincinnati only as a 'subsequent position'; UC directory 404'd, so no current official page confirms it."
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 327,
+   "name": "Heejun Choi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 328,
+   "name": "Justin Rufa",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 329,
+   "name": "Justin Bradley",
+   "website": {
+    "verdict": "confirmed",
+    "url": "http://justinbradley.unl.edu/",
+    "reason": "Personal homepage titled 'Home | Justin Bradley', McNeel Associate Professor, University of Nebraska-Lincoln"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Richard L. and Carol S. McNeel Associate Professor, University of Nebraska-Lincoln",
+    "reason": "Shown in header of his homepage"
+   },
+   "bio": null,
+   "students": [
+    {
+     "name": "Grant Phillips",
+     "verdict": "confirmed",
+     "phd_year": "current",
+     "current_institution": "University of Nebraska-Lincoln",
+     "website": null,
+     "source_url": "http://justinbradley.unl.edu/teaching",
+     "reason": "Listed under Current PhD students (Aug 2021-present)"
+    },
+    {
+     "name": "Balaji Balasubramaniam",
+     "verdict": "confirmed",
+     "phd_year": "current",
+     "current_institution": "University of Nebraska-Lincoln",
+     "website": null,
+     "source_url": "http://justinbradley.unl.edu/teaching",
+     "reason": "Listed under Current PhD students (Jan 2021-present); also earlier MS student (2016-2018)"
+    },
+    {
+     "name": "Chandima Fernando",
+     "verdict": "confirmed",
+     "phd_year": "2023",
+     "current_institution": "Brookhaven National Laboratory",
+     "website": null,
+     "source_url": "http://justinbradley.unl.edu/teaching",
+     "reason": "Graduated PhD students, Jan 2017-May 2023, now at Brookhaven"
+    },
+    {
+     "name": "Adam Plowcha",
+     "verdict": "confirmed",
+     "phd_year": null,
+     "current_institution": "University of Nebraska-Lincoln",
+     "website": null,
+     "source_url": "http://justinbradley.unl.edu/teaching",
+     "reason": "Listed under Graduated PhD students (Aug 2016-present), now Research Engineer in NIMBUS Lab; graduation year not stated, so null"
+    },
+    {
+     "name": "Xinkai Zhang",
+     "verdict": "confirmed",
+     "phd_year": "2021",
+     "current_institution": "Volvo",
+     "website": null,
+     "source_url": "http://justinbradley.unl.edu/teaching",
+     "reason": "Graduated PhD students, Jul 2017-May 2021, now at Volvo"
+    }
+   ]
+  }
+ ]
+}
