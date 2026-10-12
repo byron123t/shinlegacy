@@ -1,0 +1,49 @@
+{
+ "batch": "sweep-07",
+ "kind": "students",
+ "people": [
+  {
+   "id": 105,
+   "name": "Varun Chandrasekaran",
+   "institution": "University of Illinois Urbana-Champaign",
+   "year": "2023",
+   "advisor": "Kassem Fawaz",
+   "website_on_record": "https://ece.illinois.edu/about/directory/faculty/varunc",
+   "students_in_tree": [],
+   "position_on_record": "Assistant Professor, ECE, University of Illinois Urbana-Champaign"
+  },
+  {
+   "id": 112,
+   "name": "Mary Hogan",
+   "institution": "Oberlin College",
+   "year": "2024",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "https://cs.oberlin.edu/~mhogan/",
+   "students_in_tree": [],
+   "position_on_record": "Assistant Professor of Computer Science, Oberlin College"
+  },
+  {
+   "id": 113,
+   "name": "Xiaoqi Chen",
+   "institution": "VMware Research",
+   "year": "2023",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "https://engineering.purdue.edu/~xiaoqic/",
+   "students_in_tree": [
+    "Tianyuan (Frank) Qiu",
+    "Xinyu Chen"
+   ],
+   "position_on_record": "Assistant Professor, ECE, Purdue University"
+  },
+  {
+   "id": 116,
+   "name": "Robert Harrison",
+   "institution": "West Point",
+   "year": "2019",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "https://www.westpoint.edu/rob-harrison",
+   "students_in_tree": [],
+   "position_on_record": "Associate Professor and CS Program Director, EECS, U.S. Military Academy (West Point)"
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "batch": "sweep-03",
+ "people": [
+  {
+   "id": 36,
+   "name": "Jennifer Rexford",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 45,
+   "name": "Wu-chang Feng",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 48,
+   "name": "Tarek Abdelzaher",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 49,
+   "name": "Sunghyun Choi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Kangjin Yoon",
+     "verdict": "confirmed",
+     "phd_year": "2019",
+     "current_institution": "Siemens Healthineers, USA",
+     "website": null,
+     "source_url": "https://ainl.kaist.ac.kr/alumni/",
+     "reason": "Listed under 'Ph.D. Alumni' heading on advisor's AINL lab alumni page ('Ph.D. Feb. 2019, Siemens Healthineers, USA'); not in students_in_tree"
+    }
+   ]
+  }
+ ]
+}

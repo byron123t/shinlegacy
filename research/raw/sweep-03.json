@@ -1,0 +1,54 @@
+{
+ "batch": "sweep-03",
+ "people": [
+  {
+   "id": 36,
+   "name": "Jennifer Rexford",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Homepage https://www.cs.princeton.edu/~jrex/ 'PhD student alumni' list (27 PhD students) matches students_in_tree exactly; no current-students section found. Masters alumni excluded."
+  },
+  {
+   "id": 45,
+   "name": "Wu-chang Feng",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Homepage https://thefengs.com/wuchang/ and CV page have no student/lab/alumni list or links to a lab site; one WebSearch found no PhD student list or genealogy record. No new students found."
+  },
+  {
+   "id": 48,
+   "name": "Tarek Abdelzaher",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "CyPhy Group people page https://abdelzaher.cs.illinois.edu/people.html lists current PhD students and alumni, all already in tree (name variants: Yusuf Sarwar = Md Yusuf Uddin; Maifi Khan = Mohammad M. Khan; Eunsoo Seo; Tanvir Al Amin). No new students."
+  },
+  {
+   "id": 49,
+   "name": "Sunghyun Choi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Kangjin Yoon",
+     "phd_year": "2019",
+     "current_institution": "Siemens Healthineers, USA",
+     "website": null,
+     "source_url": "https://ainl.kaist.ac.kr/alumni/",
+     "evidence": "Ph.D. Alumni list (doctoral graduates advised by Prof. Choi at SNU, 2008-2019): 'Kangjin Yoon Ph.D. Feb. 2019, Siemens Healthineers, USA'"
+    }
+   ],
+   "notes": "Found via homepage link to KAIST AINL lab site (https://ainl.kaist.ac.kr) alumni page; its Ph.D. Alumni list has 21 names, other 20 already in tree. AINL people page lists only M.S. students, undergrads, visitors/interns (no PhD students yet; lab opened April 2026). Edwin Monroy was co-advised with Prof. Junseok Hwang."
+  }
+ ]
+}

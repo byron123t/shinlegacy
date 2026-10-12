@@ -1,0 +1,96 @@
+{
+ "batch": "sweep-05",
+ "people": [
+  {
+   "id": 60,
+   "name": "Chun-Ting Chou",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 74,
+   "name": "Jisoo Yang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 75,
+   "name": "Hyoil Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Sung-Tae Hong",
+     "phd_year": "2020",
+     "current_institution": "ETRI",
+     "website": null,
+     "source_url": "https://wmnl.unist.ac.kr/alumni/",
+     "verdict": "confirmed",
+     "reason": "Listed under Ph.D. Degree on WMNL (Hyoil Kim's lab) alumni page"
+    },
+    {
+     "name": "Kyubo Shin",
+     "phd_year": "2021",
+     "current_institution": "THYROSCOPE Inc.",
+     "website": null,
+     "source_url": "https://wmnl.unist.ac.kr/alumni/",
+     "verdict": "confirmed",
+     "reason": "Listed under Ph.D. Degree on WMNL (Hyoil Kim's lab) alumni page"
+    },
+    {
+     "name": "JeongTak Kim",
+     "phd_year": "2024",
+     "current_institution": "UNIST (postdoc)",
+     "website": null,
+     "source_url": "https://wmnl.unist.ac.kr/alumni/",
+     "verdict": "confirmed",
+     "reason": "Listed under Ph.D. Degree on WMNL (Hyoil Kim's lab) alumni page"
+    },
+    {
+     "name": "Seokwoo Choi",
+     "phd_year": "2025",
+     "current_institution": "UNIST (postdoc)",
+     "website": null,
+     "source_url": "https://wmnl.unist.ac.kr/alumni/",
+     "verdict": "confirmed",
+     "reason": "Listed under Ph.D. Degree on WMNL (Hyoil Kim's lab) alumni page"
+    },
+    {
+     "name": "SuHwan Jung",
+     "phd_year": "2025",
+     "current_institution": "ETRI",
+     "website": null,
+     "source_url": "https://wmnl.unist.ac.kr/alumni/",
+     "verdict": "confirmed",
+     "reason": "Listed under Ph.D. Degree on WMNL (Hyoil Kim's lab) alumni page"
+    },
+    {
+     "name": "Byeongjin Kim",
+     "phd_year": "current",
+     "current_institution": "UNIST",
+     "website": null,
+     "source_url": "https://wmnl.unist.ac.kr/graduate-students/",
+     "verdict": "confirmed",
+     "reason": "WMNL (Hyoil Kim's lab) graduate students page labels 'Ph.D. program'"
+    }
+   ]
+  },
+  {
+   "id": 81,
+   "name": "Xinyu Zhang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  }
+ ]
+}

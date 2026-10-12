@@ -60,7 +60,7 @@ For **each person** in the batch:
 - **photo**: a *direct* image URL of a headshot of this person alone, from their personal site or an official institutional page, plus `page_url`, the page that embeds it. Never use search-engine thumbnails, LinkedIn/Facebook/X CDN links (they expire), group photos, logos or placeholders.
 - **current_position**: one line, e.g. "Professor of EECS, Texas A&M University".
 - **bio** (`root` and `profile` batches only): 2–4 neutral sentences, plus `research_areas`, `phd_institution`, `phd_year`, `thesis_title`, `notable` (awards, fellowships, major roles), and `sources`. Write with no gendered pronouns; use the person's name or role.
-- **students**: PhD students this person advised or co-advised, graduated or current, who are **not** already in `students_in_tree` (watch for name variants such as "Jen-Wei Huang" / "Jen Wei Huang" / "Huang, Jen-Wei"). Exclude MS students, undergraduates, postdocs and visitors. Each student needs `name`, `phd_year` (or `"current"`), `current_institution`, `website` (if obvious), `source_url`, and `evidence`: a short quote or description showing the advising relationship. Be exhaustive for faculty: check their lab's people/alumni page, their CV, dissertation repositories and the Mathematics Genealogy Project. For industry people who never supervised PhDs, return an empty list and say so in `notes`.
+- **students**: PhD students this person advised or co-advised, graduated or current, who are **not** already in `students_in_tree` (watch for name variants such as "Jen-Wei Huang" / "Jen Wei Huang" / "Huang, Jen-Wei"). Exclude MS students, undergraduates, postdocs and visitors. Each student needs `name`, `phd_year` (or `"current"`), `current_institution`, `website` (if obvious), `source_url`, and `evidence`: a short quote or description showing the advising relationship. Be exhaustive for faculty: open their homepage and **follow every link to a lab or group site** (often on another domain, e.g. a `*.github.io` lab site), then that site's People/Members/Team/Alumni pages. Also check their CV, dissertation repositories and the Mathematics Genealogy Project. For industry people who never supervised PhDs, return an empty list and say so in `notes`.
 
 For the `root` batch, find Kang G. Shin's complete student list in **two independent passes** and merge them. First pass: RTCL pages, alumni lists and his CV. Second pass: dissertation records, i.e. Deep Blue (`deepblue.lib.umich.edu`) theses with Shin as chair or co-chair, ProQuest, and the Mathematics Genealogy Project.
 
@@ -106,6 +106,12 @@ python scripts/find_gaps.py     # writes research/batches/gap-*.json for people 
 ```
 
 The research agent writes `research/raw/gap-NN.json`. It can return *only* the fields it newly found, with `null` for the rest; the apply step merges all files per person.
+
+### Student sweep
+
+A pass that only looks for missing PhD students of faculty already in the tree. Use it when earlier runs missed students (for example, because the researcher never followed the link from a homepage to a lab site). Batches are `research/batches/sweep-NN.json` (kind `students`, 4 people each), made from everyone whose position says Professor or Lecturer.
+
+The research agent follows the `students` rules above, starting from `website_on_record` and every lab/group/people/alumni link reachable from it, and writes `research/raw/sweep-NN.json` with `website`, `photo`, `current_position` and `bio` set to `null`. Mostly page fetches, so it uses few searches. Verify and apply as usual.
 
 ## 3. Verify
 

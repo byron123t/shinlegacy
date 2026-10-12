@@ -1,0 +1,79 @@
+{
+ "batch": "sweep-15",
+ "kind": "students",
+ "people": [
+  {
+   "id": 329,
+   "name": "Justin Bradley",
+   "institution": "University of Nebraska, Lincoln",
+   "year": "2014",
+   "advisor": "Ella Atkins (co-advised with Ed Durfee)",
+   "website_on_record": "http://justinbradley.unl.edu/",
+   "students_in_tree": [
+    "Grant Phillips",
+    "Balaji Balasubramaniam",
+    "Chandima Fernando (2023)",
+    "Adam Plowcha",
+    "Xinkai Zhang (2021)"
+   ],
+   "position_on_record": "Richard L. and Carol S. McNeel Associate Professor, University of Nebraska-Lincoln"
+  },
+  {
+   "id": 331,
+   "name": "Zhaojian Li",
+   "institution": "Michigan State University",
+   "year": "2016",
+   "advisor": "Ella Atkins (co-advised with Ed Durfee)",
+   "website_on_record": "https://www.egr.msu.edu/rival/",
+   "students_in_tree": [
+    "Dong Chen",
+    "Pengyu Chu",
+    "Kaian Chen",
+    "Kyle Lammers",
+    "Mohammad Hajidavalloo",
+    "Ramin Vahidimoghaddam",
+    "Huanqing Wang",
+    "Chuwei Ye",
+    "Jiajia Li",
+    "Keyi Zhu",
+    "Chaaran Arunachalam",
+    "Zheng Yang"
+   ],
+   "position_on_record": "Red Cedar Distinguished Professor of Mechanical Engineering (and Electrical and Computer Engineering), Michigan State University"
+  },
+  {
+   "id": 340,
+   "name": "Qing (Charles) Cao",
+   "institution": "University of Tennessee",
+   "year": "2008",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": [
+    "Zhibo Wang (2013)",
+    "Yanjun Yao (2014)",
+    "Lipeng Wan (2016)",
+    "Sisi Xiong (2017)",
+    "Zheng Lu",
+    "Yunhe Feng"
+   ],
+   "position_on_record": "Associate Professor, Min H. Kao Department of Electrical Engineering and Computer Science, University of Tennessee, Knoxville"
+  },
+  {
+   "id": 347,
+   "name": "Mohammad M. Khan",
+   "institution": "University of Connecticut",
+   "year": "2011",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "https://maifikhan.cse.uconn.edu/",
+   "students_in_tree": [
+    "Yusuf Albayram (2016)",
+    "Michael Fagan (2017)",
+    "Nhan Nguyen (2018)",
+    "Md Abdullah Al Fahim (2022)",
+    "Theodore Jensen (2021)",
+    "Kewen Wang (2020)"
+   ],
+   "position_on_record": "Associate Professor, School of Computing (Computer Science and Engineering), University of Connecticut"
+  }
+ ]
+}

@@ -1,0 +1,205 @@
+{
+ "batch": "sweep-01",
+ "people": [
+  {
+   "id": 3,
+   "name": "C. Mani Krishna",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 4,
+   "name": "Yann-Hang Lee",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 14,
+   "name": "Ming-Syan (Frank) Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Yi-Ling Chen",
+     "phd_year": "2017",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/alumni.html",
+     "verdict": "confirmed",
+     "reason": "Manual review: listed as entries [46]-[51] on the lab's Alumni Tree under 'Professor Ming-Syan Chen'. That tree is PhD-only: entries [1]-[45] are exactly the 45 Chen PhD students already in the tree, and master's alumni are listed separately (Alumni (Master) on member.html). Alumni Tree page lists name and year under Professor Ming-Syan Chen but has no Ph.D./Master label, so PhD status is not shown; not in the Member page's Ph.D. or Alumni (Master) lists"
+    },
+    {
+     "name": "Chung-Kuang Chou",
+     "phd_year": "2017",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/alumni.html",
+     "verdict": "confirmed",
+     "reason": "Manual review: listed as entries [46]-[51] on the lab's Alumni Tree under 'Professor Ming-Syan Chen'. That tree is PhD-only: entries [1]-[45] are exactly the 45 Chen PhD students already in the tree, and master's alumni are listed separately (Alumni (Master) on member.html). Alumni Tree page lists name and year under Professor Ming-Syan Chen but has no Ph.D./Master label, so PhD status is not shown; not in the Member page's Ph.D. or Alumni (Master) lists"
+    },
+    {
+     "name": "Cheng-Ying Liu",
+     "phd_year": "2017",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/alumni.html",
+     "verdict": "confirmed",
+     "reason": "Manual review: listed as entries [46]-[51] on the lab's Alumni Tree under 'Professor Ming-Syan Chen'. That tree is PhD-only: entries [1]-[45] are exactly the 45 Chen PhD students already in the tree, and master's alumni are listed separately (Alumni (Master) on member.html). Alumni Tree page lists name and year under Professor Ming-Syan Chen but has no Ph.D./Master label, so PhD status is not shown; not in the Member page's Ph.D. or Alumni (Master) lists"
+    },
+    {
+     "name": "Jiann-Min Ho",
+     "phd_year": "2018",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/alumni.html",
+     "verdict": "confirmed",
+     "reason": "Manual review: listed as entries [46]-[51] on the lab's Alumni Tree under 'Professor Ming-Syan Chen'. That tree is PhD-only: entries [1]-[45] are exactly the 45 Chen PhD students already in the tree, and master's alumni are listed separately (Alumni (Master) on member.html). Alumni Tree page lists name and year under Professor Ming-Syan Chen but has no Ph.D./Master label, so PhD status is not shown; not in the Member page's Ph.D. or Alumni (Master) lists"
+    },
+    {
+     "name": "Ya-Wen Teng",
+     "phd_year": "2018",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/alumni.html",
+     "verdict": "confirmed",
+     "reason": "Manual review: listed as entries [46]-[51] on the lab's Alumni Tree under 'Professor Ming-Syan Chen'. That tree is PhD-only: entries [1]-[45] are exactly the 45 Chen PhD students already in the tree, and master's alumni are listed separately (Alumni (Master) on member.html). Alumni Tree page lists name and year under Professor Ming-Syan Chen but has no Ph.D./Master label, so PhD status is not shown; not in the Member page's Ph.D. or Alumni (Master) lists"
+    },
+    {
+     "name": "Chi-Hsuan Wu",
+     "phd_year": "2019",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/alumni.html",
+     "verdict": "confirmed",
+     "reason": "Manual review: listed as entries [46]-[51] on the lab's Alumni Tree under 'Professor Ming-Syan Chen'. That tree is PhD-only: entries [1]-[45] are exactly the 45 Chen PhD students already in the tree, and master's alumni are listed separately (Alumni (Master) on member.html). Alumni Tree page lists name and year under Professor Ming-Syan Chen but has no Ph.D./Master label, so PhD status is not shown; not in the Member page's Ph.D. or Alumni (Master) lists"
+    },
+    {
+     "name": "Hsi-Wen Chen",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "verdict": "confirmed",
+     "reason": "Listed under the 'Ph.D.' heading on the NetDBLab Member page (Chen's lab; Alumni Tree headed Professor Ming-Syan Chen); not in students_in_tree"
+    },
+    {
+     "name": "Chin-Yuan Yeh",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "verdict": "confirmed",
+     "reason": "Listed under the 'Ph.D.' heading on the NetDBLab Member page (Chen's lab; Alumni Tree headed Professor Ming-Syan Chen); not in students_in_tree"
+    },
+    {
+     "name": "Hung-Te Lee",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "verdict": "confirmed",
+     "reason": "Listed under the 'Ph.D.' heading on the NetDBLab Member page (Chen's lab; Alumni Tree headed Professor Ming-Syan Chen); not in students_in_tree"
+    },
+    {
+     "name": "Rui Fang",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "verdict": "confirmed",
+     "reason": "Listed under the 'Ph.D.' heading on the NetDBLab Member page (Chen's lab; Alumni Tree headed Professor Ming-Syan Chen); not in students_in_tree"
+    },
+    {
+     "name": "Shih-Hsuan Chiu",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "verdict": "confirmed",
+     "reason": "Listed under the 'Ph.D.' heading on the NetDBLab Member page (Chen's lab; Alumni Tree headed Professor Ming-Syan Chen); not in students_in_tree"
+    },
+    {
+     "name": "Yen-Hsin Hsu",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "verdict": "confirmed",
+     "reason": "Listed under the 'Ph.D.' heading on the NetDBLab Member page (Chen's lab; Alumni Tree headed Professor Ming-Syan Chen); not in students_in_tree"
+    },
+    {
+     "name": "Dustin Wu",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "verdict": "confirmed",
+     "reason": "Listed under the 'Ph.D.' heading on the NetDBLab Member page (Chen's lab; Alumni Tree headed Professor Ming-Syan Chen); not in students_in_tree"
+    },
+    {
+     "name": "Ying-Hua Huang",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "verdict": "confirmed",
+     "reason": "Listed under the 'Ph.D.' heading on the NetDBLab Member page (Chen's lab; Alumni Tree headed Professor Ming-Syan Chen); not in students_in_tree"
+    },
+    {
+     "name": "Yi-Ting Lee",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "verdict": "confirmed",
+     "reason": "Listed under the 'Ph.D.' heading on the NetDBLab Member page (Chen's lab; Alumni Tree headed Professor Ming-Syan Chen); not in students_in_tree"
+    },
+    {
+     "name": "Hsiang-Hui Liu",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "verdict": "confirmed",
+     "reason": "Listed under the 'Ph.D.' heading on the NetDBLab Member page (Chen's lab; Alumni Tree headed Professor Ming-Syan Chen); not in students_in_tree; also appears in Alumni (Master) but is currently listed under Ph.D."
+    },
+    {
+     "name": "Yun-Jing Wang",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "verdict": "confirmed",
+     "reason": "Listed under the 'Ph.D.' heading on the NetDBLab Member page (Chen's lab; Alumni Tree headed Professor Ming-Syan Chen); not in students_in_tree; also appears in Alumni (Master) but is currently listed under Ph.D."
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "name": "Jyh-Charn (Steve) Liu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Haidong Wang",
+     "phd_year": "current",
+     "current_institution": "Texas A&M University",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/",
+     "verdict": "confirmed",
+     "reason": "rtds.cse.tamu.edu/people names Dr. Jyh-Charn (Steve) Liu as PI/Lab Director and lists Haidong Wang as 'PhD Student, Computer Engineering' under Current Students"
+    }
+   ]
+  }
+ ]
+}

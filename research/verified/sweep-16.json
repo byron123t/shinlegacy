@@ -1,0 +1,162 @@
+{
+ "batch": "sweep-16",
+ "people": [
+  {
+   "id": 350,
+   "name": "Dong Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Ruohan Zong",
+     "phd_year": "current",
+     "current_institution": "University of Illinois Urbana-Champaign",
+     "website": null,
+     "source_url": "https://www.wangdong.org/sslab/team.html",
+     "verdict": "confirmed",
+     "reason": "Listed under 'Ph.D. Students' heading on SSI Lab members page; page says advised by Prof. Dong Wang"
+    },
+    {
+     "name": "YeonJung (Jessica) Choi",
+     "phd_year": "current",
+     "current_institution": "University of Illinois Urbana-Champaign",
+     "website": null,
+     "source_url": "https://www.wangdong.org/sslab/team.html",
+     "verdict": "confirmed",
+     "reason": "Listed under 'Ph.D. Students' heading on SSI Lab members page; page says advised by Prof. Dong Wang"
+    },
+    {
+     "name": "YeaEun Gong",
+     "phd_year": "current",
+     "current_institution": "University of Illinois Urbana-Champaign",
+     "website": null,
+     "source_url": "https://www.wangdong.org/sslab/team.html",
+     "verdict": "confirmed",
+     "reason": "Listed under 'Ph.D. Students' heading on SSI Lab members page; page says advised by Prof. Dong Wang"
+    },
+    {
+     "name": "Yifan Liu",
+     "phd_year": "current",
+     "current_institution": "University of Illinois Urbana-Champaign",
+     "website": null,
+     "source_url": "https://www.wangdong.org/sslab/team.html",
+     "verdict": "confirmed",
+     "reason": "Listed under 'Ph.D. Students' heading on SSI Lab members page; page says advised by Prof. Dong Wang"
+    },
+    {
+     "name": "Yaokun Liu",
+     "phd_year": "current",
+     "current_institution": "University of Illinois Urbana-Champaign",
+     "website": null,
+     "source_url": "https://www.wangdong.org/sslab/team.html",
+     "verdict": "confirmed",
+     "reason": "Listed under 'Ph.D. Students' heading on SSI Lab members page; page says advised by Prof. Dong Wang"
+    },
+    {
+     "name": "Zelin Li",
+     "phd_year": "current",
+     "current_institution": "University of Illinois Urbana-Champaign",
+     "website": null,
+     "source_url": "https://www.wangdong.org/sslab/team.html",
+     "verdict": "confirmed",
+     "reason": "Listed under 'Ph.D. Students' heading on SSI Lab members page; page says advised by Prof. Dong Wang"
+    },
+    {
+     "name": "Ruichen Yao",
+     "phd_year": "current",
+     "current_institution": "University of Illinois Urbana-Champaign",
+     "website": null,
+     "source_url": "https://www.wangdong.org/sslab/team.html",
+     "verdict": "confirmed",
+     "reason": "Listed under 'Ph.D. Students' heading on SSI Lab members page; page says advised by Prof. Dong Wang"
+    },
+    {
+     "name": "Mung Yao Jia",
+     "phd_year": "current",
+     "current_institution": "University of Illinois Urbana-Champaign",
+     "website": null,
+     "source_url": "https://www.wangdong.org/sslab/team.html",
+     "verdict": "confirmed",
+     "reason": "Listed under 'Ph.D. Students' heading on SSI Lab members page; page says advised by Prof. Dong Wang"
+    },
+    {
+     "name": "Jieyong Kim",
+     "phd_year": "current",
+     "current_institution": "University of Illinois Urbana-Champaign",
+     "website": null,
+     "source_url": "https://www.wangdong.org/sslab/team.html",
+     "verdict": "confirmed",
+     "reason": "Listed under 'Ph.D. Students' heading on SSI Lab members page; page says advised by Prof. Dong Wang"
+    },
+    {
+     "name": "Zhenrui Yue",
+     "phd_year": null,
+     "current_institution": "Google DeepMind",
+     "website": null,
+     "source_url": "https://www.wangdong.org/sslab/team.html",
+     "verdict": "confirmed",
+     "reason": "Listed under Alumni; page states Ph.D. advised by Prof. Dong Wang"
+    },
+    {
+     "name": "Lanyu Shang",
+     "phd_year": null,
+     "current_institution": "Loyola Marymount University",
+     "website": null,
+     "source_url": "https://www.wangdong.org/sslab/team.html",
+     "verdict": "confirmed",
+     "reason": "Listed under Alumni; page states Ph.D. advised by Prof. Dong Wang"
+    },
+    {
+     "name": "Md Tahmid Rashid",
+     "phd_year": null,
+     "current_institution": "Illinois State University",
+     "website": null,
+     "source_url": "https://www.wangdong.org/sslab/team.html",
+     "verdict": "confirmed",
+     "reason": "Listed under Alumni; page states Ph.D. advised by Prof. Dong Wang"
+    },
+    {
+     "name": "Yang Zhang",
+     "phd_year": null,
+     "current_institution": "Miami University",
+     "website": null,
+     "source_url": "https://www.wangdong.org/sslab/team.html",
+     "verdict": "confirmed",
+     "reason": "Listed under Alumni; page states Ph.D. advised by Prof. Dong Wang (Ph.D. at Notre Dame; postdoc at UIUC was separate)"
+    },
+    {
+     "name": "Daniel (Yue) Zhang",
+     "phd_year": null,
+     "current_institution": "Scale AI",
+     "website": null,
+     "source_url": "https://www.wangdong.org/sslab/team.html",
+     "verdict": "confirmed",
+     "reason": "Listed under Alumni; page states Ph.D. advised by Prof. Dong Wang"
+    }
+   ],
+   "notes": "Followed iSchool profile -> wangdong.org -> SSI Lab (wangdong.org/sslab/team.html). Alumni PhD years not listed on page (null). Master/undergrad researchers excluded. Yang Zhang is listed as a senior researcher in a commented-out block and as alumni; his PhD under Wang at Notre Dame is stated."
+  },
+  {
+   "id": 352,
+   "name": "Lu Su",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Homepage engineering.purdue.edu/~lusu/ has no student/group/lab links (only recruiting note for prospective PhD students); no lab site found."
+  },
+  {
+   "id": 360,
+   "name": "Anwar Mamat",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Senior Lecturer; homepage cs.umd.edu/~anwar lists only course pages; no PhD students."
+  }
+ ]
+}

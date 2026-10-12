@@ -1,0 +1,81 @@
+{
+ "batch": "sweep-08",
+ "kind": "students",
+ "people": [
+  {
+   "id": 119,
+   "name": "Xin Jin",
+   "institution": "UC Berkeley",
+   "year": "2016",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "https://xinjin.github.io/",
+   "students_in_tree": [],
+   "position_on_record": "Associate Professor, School of Computer Science, Peking University"
+  },
+  {
+   "id": 120,
+   "name": "Srinivas Narayana",
+   "institution": "MIT",
+   "year": "2016",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "https://people.cs.rutgers.edu/~sn624/",
+   "students_in_tree": [
+    "Bhavana Vannarth Shobhana",
+    "Harishankar Vishwanathan"
+   ],
+   "position_on_record": "Associate Professor, Department of Computer Science, Rutgers University"
+  },
+  {
+   "id": 124,
+   "name": "Eric Keller",
+   "institution": "University of Colorado",
+   "year": "2011",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "https://eric-keller.github.io/",
+   "students_in_tree": [
+    "Murad Kablan (2017)",
+    "Aimee Coughlin (2018)",
+    "Bashayer Alharbi",
+    "Shirin Ebadi",
+    "Sara Daneshvar",
+    "Richard Thompson",
+    "Victor Jimenez",
+    "Erika Hunhoff (2025)",
+    "Maziyar Nazari (2025)",
+    "Karl Olson (2024)",
+    "Greg Cusack (2022)",
+    "Marcelo Abranches (2022)",
+    "Sepideh Goodarzy (2022)",
+    "Mohammad Hashemi (2021)",
+    "Azzam Alsudais (2020)"
+   ],
+   "position_on_record": "Professor of ECEE, University of Colorado Boulder; co-founder/CTO of Navera"
+  },
+  {
+   "id": 126,
+   "name": "Minlan Yu",
+   "institution": "UC Berkeley",
+   "year": "2011",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "https://minlanyu.seas.harvard.edu/",
+   "students_in_tree": [
+    "Rui Miao",
+    "Masoud Moshref (2016)",
+    "Yang Zhou",
+    "Zhiying Xu",
+    "Junzhi Gong",
+    "Jiaqi Gao",
+    "Sivaram Ramanathan",
+    "Yuliang Li",
+    "Omid Alipourfard",
+    "Weifan Jiang",
+    "Chonlam Lao",
+    "Minghao Li",
+    "Xingyu Xiang",
+    "Yiyu Liu",
+    "Xuanlin Jiang"
+   ],
+   "position_on_record": "Gordon McKay Professor of Computer Science, Harvard SEAS"
+  }
+ ]
+}

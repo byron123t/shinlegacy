@@ -1,0 +1,45 @@
+{
+ "batch": "sweep-07",
+ "people": [
+  {
+   "id": 105,
+   "name": "Varun Chandrasekaran",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Fetched ECE profile, Siebel CS profile, CSL and ITI profiles (no lab/personal site linked, no student list) and old UW-Madison homepage (unmaintained, says he is joining UIUC in 2023). 2 WebSearches found no lab/students page. No students found; likely incomplete."
+  },
+  {
+   "id": 112,
+   "name": "Mary Hogan",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Fetched cs.oberlin.edu/~mhogan/: undergraduate-focused faculty page, no lab site and no PhD students listed. None found."
+  },
+  {
+   "id": 113,
+   "name": "Xiaoqi Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Fetched Purdue homepage and group.html: PhD Students listed are Tianyuan (Frank) Qiu and Xinyu Chen, both already in tree. MS: Yuan Chang; undergrad: Mridulla Ganesh (excluded). No new students."
+  },
+  {
+   "id": 116,
+   "name": "Robert Harrison",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Fetched westpoint.edu/rob-harrison: no lab/student links; West Point has no PhD program. None found."
+  }
+ ]
+}

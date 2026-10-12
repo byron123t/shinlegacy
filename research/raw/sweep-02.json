@@ -1,0 +1,150 @@
+{
+ "batch": "sweep-02",
+ "people": [
+  {
+   "id": 17,
+   "name": "Parameswaran Ramanathan",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Fetched homepage and https://ramanathan.ece.wisc.edu/students/ (current and former Ph.D. lists). All names already in students_in_tree; no lab site linked. No new students."
+  },
+  {
+   "id": 19,
+   "name": "Sunggu Lee",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Kyong-Wan Nam",
+     "phd_year": "2000",
+     "current_institution": "Atheros Communications",
+     "website": null,
+     "source_url": "https://esa.postech.ac.kr/esa/mem/alumni.do",
+     "evidence": "Listed under 'Ph.D.' on ESA Lab (Sunggu Lee) Alumni page: Kyong-Wan Nam (2000, Atheros Communications)"
+    },
+    {
+     "name": "Sang-Cheol Kim",
+     "phd_year": "2006",
+     "current_institution": "Electronics and Telecommunications Research Institute",
+     "website": null,
+     "source_url": "https://esa.postech.ac.kr/esa/mem/alumni.do",
+     "evidence": "Listed under 'Ph.D.' on ESA Lab (Sunggu Lee) Alumni page: Sang-Cheol Kim (2006, Electronics and Telecommunications Research Institute)"
+    },
+    {
+     "name": "Min-Gu Lee",
+     "phd_year": "2007",
+     "current_institution": "KT Coporation",
+     "website": null,
+     "source_url": "https://esa.postech.ac.kr/esa/mem/alumni.do",
+     "evidence": "Listed under 'Ph.D.' on ESA Lab (Sunggu Lee) Alumni page: Min-Gu Lee (2007, KT Coporation)"
+    },
+    {
+     "name": "Dong-Hak Pyo",
+     "phd_year": "2008",
+     "current_institution": "Samsung Electronics",
+     "website": null,
+     "source_url": "https://esa.postech.ac.kr/esa/mem/alumni.do",
+     "evidence": "Listed under 'Ph.D.' on ESA Lab (Sunggu Lee) Alumni page: Dong-Hak Pyo (2008, Samsung Electronics)"
+    },
+    {
+     "name": "Ungjin Jang",
+     "phd_year": "2011",
+     "current_institution": "Samsung Electronics",
+     "website": null,
+     "source_url": "https://esa.postech.ac.kr/esa/mem/alumni.do",
+     "evidence": "Listed under 'Ph.D.' on ESA Lab (Sunggu Lee) Alumni page: Ungjin Jang (2011, Samsung Electronics)"
+    },
+    {
+     "name": "Junyoung Park",
+     "phd_year": "2015",
+     "current_institution": "Samsung Electronics",
+     "website": null,
+     "source_url": "https://esa.postech.ac.kr/esa/mem/alumni.do",
+     "evidence": "Listed under 'Ph.D.' on ESA Lab (Sunggu Lee) Alumni page: Junyoung Park (2015, Samsung Electronics)"
+    },
+    {
+     "name": "Joosung Yun",
+     "phd_year": "2015",
+     "current_institution": "Samsung Electronics",
+     "website": null,
+     "source_url": "https://esa.postech.ac.kr/esa/mem/alumni.do",
+     "evidence": "Listed under 'Ph.D.' on ESA Lab (Sunggu Lee) Alumni page: Joosung Yun (2015, Samsung Electronics)"
+    },
+    {
+     "name": "Byeonguk Bae",
+     "phd_year": "2016",
+     "current_institution": "Samsung Electronics",
+     "website": null,
+     "source_url": "https://esa.postech.ac.kr/esa/mem/alumni.do",
+     "evidence": "Listed under 'Ph.D.' on ESA Lab (Sunggu Lee) Alumni page: Byeonguk Bae (2016, Samsung Electronics)"
+    },
+    {
+     "name": "Kibeom Kim",
+     "phd_year": "2020",
+     "current_institution": "Yonam Institute of Technology",
+     "website": null,
+     "source_url": "https://esa.postech.ac.kr/esa/mem/alumni.do",
+     "evidence": "Listed under 'Ph.D.' on ESA Lab (Sunggu Lee) Alumni page: Kibeom Kim (2020, Yonam Institute of Technology)"
+    },
+    {
+     "name": "Minho Ha",
+     "phd_year": "2020",
+     "current_institution": "SK Hynix",
+     "website": null,
+     "source_url": "https://esa.postech.ac.kr/esa/mem/alumni.do",
+     "evidence": "Listed under 'Ph.D.' on ESA Lab (Sunggu Lee) Alumni page: Minho Ha (2020, SK Hynix)"
+    },
+    {
+     "name": "Duhwan Kim",
+     "phd_year": "2022",
+     "current_institution": "Hyundai Movex",
+     "website": null,
+     "source_url": "https://esa.postech.ac.kr/esa/mem/alumni.do",
+     "evidence": "Listed under 'Ph.D.' on ESA Lab (Sunggu Lee) Alumni page: Duhwan Kim (2022, Hyundai Movex)"
+    },
+    {
+     "name": "Jeonghun Kim",
+     "phd_year": "2025",
+     "current_institution": "Samsung Electronics",
+     "website": null,
+     "source_url": "https://esa.postech.ac.kr/esa/mem/alumni.do",
+     "evidence": "Listed under 'Ph.D.' on ESA Lab (Sunggu Lee) Alumni page: Jeonghun Kim (2025, Samsung Electronics)"
+    },
+    {
+     "name": "Sanghyeon Ju",
+     "phd_year": "current",
+     "current_institution": "POSTECH",
+     "website": null,
+     "source_url": "https://esa.postech.ac.kr/esa/mem/member.do",
+     "evidence": "Listed under Graduate-Students on ESA Lab member page: [2022/02~Present] Ph.D. Candidate in Electrical Engineering, POSTECH"
+    }
+   ],
+   "notes": "Fetched ESA Lab member and alumni pages (Ph.D. and M.S. sections separate; M.S. alumni and M.S. candidates Seungwon Kim, Hanseo Ryu, Seungheon Choe excluded). Ho-Won Kim (1999) already in tree. Alumni page does not state advisor per entry but is the PI's lab page."
+  },
+  {
+   "id": 26,
+   "name": "Chao-Ju (Jennifer) Hou",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No website on record; she died in 2007. 1 WebSearch and Wikipedia found no lab or student list. No new students found."
+  },
+  {
+   "id": 33,
+   "name": "Hagbae Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No website on record; 2 WebSearches (English and Korean name) found no faculty or lab page. No new students found."
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "batch": "sweep-06",
+ "people": [
+  {
+   "id": 88,
+   "name": "Kassem Fawaz",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Leo Cao",
+     "phd_year": "current",
+     "current_institution": "U. Wisconsin-Madison",
+     "website": null,
+     "source_url": "https://wiscprivacy.com/students",
+     "verdict": "confirmed",
+     "reason": "Listed as 'PhD Student' under Graduate Students on Fawaz's WI-PI lab page"
+    },
+    {
+     "name": "Jingjie Li",
+     "phd_year": "2023",
+     "current_institution": "University of Edinburgh",
+     "website": null,
+     "source_url": "https://wiscprivacy.com/students",
+     "verdict": "confirmed",
+     "reason": "Listed as 'PhD 2023, Assistant Professor, University of Edinburgh' under WI-PI Alumni"
+    },
+    {
+     "name": "Amrita Roy Chowdhury",
+     "phd_year": null,
+     "current_institution": "University of Michigan",
+     "website": null,
+     "source_url": "https://wiscprivacy.com/students",
+     "verdict": "rejected",
+     "reason": "Alumni entry only says 'PhD'; no year and no advising relationship with Fawaz shown; she is already a tree node as a professor and was not shown to be Fawaz's PhD student"
+    }
+   ],
+   "notes": "Homepage kassemfawaz.com -> wiscprivacy.com (WI-PI) -> /students page (Members). Students page is JS-rendered; read via WebFetch. Excluded MS/BS/visitors (Salem Radey, Basieem S., Samarth Mathur, Paul Chung, Lea Thiemt, Anna Bierley, Brittany Huff, Yao Yao, Matthew Wallace, Thomas Linden, Brian Tang). Name variants matched to tree: Jack West=Jackson West, Ben Jacobson=Ben Jacobsen, Guruprasad V Ramesh. Amrita Roy Chowdhury entry is lower confidence."
+  },
+  {
+   "id": 92,
+   "name": "Youngmoon Lee",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Saeed Ullah",
+     "phd_year": null,
+     "current_institution": "University of Derby (Lecturer)",
+     "website": null,
+     "source_url": "https://sites.google.com/umich.edu/youngmoonlee",
+     "verdict": "rejected",
+     "reason": "Listed under Alumni as 'Ph.D. (Lecturer @ Derby)'; site news says he joined as a Post Doc 2020-10 (PhD already held), so postdoc, not PhD student. Distinct from Saif Ullah (current grad student joined 2023), but rejected as postdoc"
+    }
+   ],
+   "notes": "Homepage (Google Sites) contains RAISE Lab members/alumni; aia.hanyang.ac.kr and the RAISE Notion page did not load usable content. 'Graduate Students' without degree stated (not included): Jiil Kim, Youngeun Choi, Minseong Bae, Muhammedov Ugli. Alumni 'Hojun Choi (Ph.D. @ University of Nebraska)' - PhD status/advising by Lee unclear, not included. Saeed Ullah is lower confidence (could be same person as Saif Ullah in tree)."
+  },
+  {
+   "id": 94,
+   "name": "Dongyao Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Homepage -> fluxlab.info Team section: PhD students Jike Wang, Zhenyu Chen, Siyuan Wang, Wangwei Shen, Yifeng Zhang all already in tree. Others are MS/undergrad/alumni (Xiaomeng Chen is MS, incoming PhD at UW; excluded)."
+  },
+  {
+   "id": 100,
+   "name": "Mert Dieter Pese",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Yu Wei (Sam) Liu",
+     "phd_year": "current",
+     "current_institution": "Clemson University",
+     "website": null,
+     "source_url": "https://mpese.com/lab",
+     "verdict": "confirmed",
+     "reason": "Listed under 'PhD Students' on mpese.com/lab (TigerSec Lab)"
+    },
+    {
+     "name": "Marcos Sanson",
+     "phd_year": "current",
+     "current_institution": "Clemson University",
+     "website": null,
+     "source_url": "https://mpese.com/lab",
+     "verdict": "confirmed",
+     "reason": "Listed under 'PhD Students' on mpese.com/lab (TigerSec Lab)"
+    },
+    {
+     "name": "Run Wang",
+     "phd_year": "current",
+     "current_institution": "Clemson University",
+     "website": null,
+     "source_url": "https://mpese.com/lab",
+     "verdict": "confirmed",
+     "reason": "Listed under 'PhD Students' on mpese.com/lab (TigerSec Lab)"
+    },
+    {
+     "name": "Correy Washburn",
+     "phd_year": "current",
+     "current_institution": "Clemson University",
+     "website": null,
+     "source_url": "https://mpese.com/lab",
+     "verdict": "confirmed",
+     "reason": "Listed under 'PhD Students' on mpese.com/lab (TigerSec Lab)"
+    }
+   ],
+   "notes": "mpese.com/lab (and /news). Note news [01/23] 'Mehmet Ali Acikbas (PhD) joined TigerSec Lab' - not on current lab page, not in tree; status unknown, not included (possible former PhD student). Levent Celik is listed as Master's on lab page but in tree already."
+  }
+ ]
+}

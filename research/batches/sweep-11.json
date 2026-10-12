@@ -1,0 +1,46 @@
+{
+ "batch": "sweep-11",
+ "kind": "students",
+ "people": [
+  {
+   "id": 167,
+   "name": "Ke Sun",
+   "institution": "University of Michigan",
+   "year": "2024",
+   "advisor": "Xinyu Zhang",
+   "website_on_record": "https://samsonsjarkal.github.io/KeSun/",
+   "students_in_tree": [],
+   "position_on_record": "Assistant Professor of CSE, University of Michigan"
+  },
+  {
+   "id": 198,
+   "name": "Khaled Hadi",
+   "institution": "Kuwait University",
+   "year": "2009",
+   "advisor": "C. Mani Krishna",
+   "website_on_record": "https://engineering.ku.edu.kw/ar/cpe/people/khald-mhmd-hady",
+   "students_in_tree": [],
+   "position_on_record": "Assistant Professor of Computer Engineering, Kuwait University"
+  },
+  {
+   "id": 207,
+   "name": "Yang Peng",
+   "institution": "University of Washington, Bothell",
+   "year": "2014",
+   "advisor": "Daji Qiao",
+   "website_on_record": "http://faculty.washington.edu/yangpeng/",
+   "students_in_tree": [],
+   "position_on_record": "Associate Professor, Computing and Software Systems, University of Washington Bothell"
+  },
+  {
+   "id": 210,
+   "name": "Taewoon Kim",
+   "institution": "Hallym University, Korea",
+   "year": "2018",
+   "advisor": "Daji Qiao",
+   "website_on_record": "https://sites.google.com/site/twoonkim/",
+   "students_in_tree": [],
+   "position_on_record": "Associate Professor, School of Computer Science and Engineering, Pusan National University"
+  }
+ ]
+}

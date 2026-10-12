@@ -1,0 +1,45 @@
+{
+ "batch": "sweep-15",
+ "people": [
+  {
+   "id": 329,
+   "name": "Justin Bradley",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Fetched homepage and its Teaching and Mentoring page (justinbradley.unl.edu/teaching), which lists PhD students Grant Phillips, Balaji Balasubramaniam, Chandima Fernando, Adam Plowcha, Xinkai Zhang; all already in tree. No separate NIMBUS lab site link found on the homepage (only a twitter link). No new PhD students."
+  },
+  {
+   "id": 331,
+   "name": "Zhaojian Li",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Fetched RIVAL homepage and group.html (the people list there is old and inside an HTML comment, but names Current PhD students and alumni Dong Chen, Pengyu Chu, Kaian Chen); all PhD students listed are already in tree. Master/postdoc/undergrad alumni excluded. No new PhD students."
+  },
+  {
+   "id": 340,
+   "name": "Qing (Charles) Cao",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No website on record. Used one WebSearch to find lanterns.eecs.utk.edu/members.html (Lanterns lab) and web.eecs.utk.edu/~qcao1/. Members page lists PhD students Lipeng Wan, Sisi Xiong, Zheng Lu, Yunhe Feng and past PhD Yanjun Yao, Zhibo Wang; all already in tree. Page appears dated (about 2014). No new PhD students."
+  },
+  {
+   "id": 347,
+   "name": "Mohammad M. Khan",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Homepage maifikhan.cse.uconn.edu has no lab or students page (Our Team page is a placeholder; no lab link). Publications list co-authors Albayram, Jensen, Fahim, all already in tree. One WebSearch found no lab site. No new PhD students found."
+  }
+ ]
+}

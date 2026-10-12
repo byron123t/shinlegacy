@@ -1,0 +1,94 @@
+{
+ "batch": "sweep-05",
+ "people": [
+  {
+   "id": 60,
+   "name": "Chun-Ting Chou",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No website on record; 2 WebSearches found no NTU page for this person (name variants unmatched). Not researched further."
+  },
+  {
+   "id": 74,
+   "name": "Jisoo Yang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Homepage https://web.cs.unlv.edu/jisooy/ has no lab link; only 'Current students' lists one CS undergraduate (Julian Seymour). Page appears dated (Spring 2017). No PhD students listed."
+  },
+  {
+   "id": 75,
+   "name": "Hyoil Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Sung-Tae Hong",
+     "phd_year": "2020",
+     "current_institution": "ETRI",
+     "website": null,
+     "source_url": "https://wmnl.unist.ac.kr/alumni/",
+     "evidence": "WMNL alumni page, Ph.D. Degree: Graduation Year 2020, current ETRI"
+    },
+    {
+     "name": "Kyubo Shin",
+     "phd_year": "2021",
+     "current_institution": "THYROSCOPE Inc.",
+     "website": null,
+     "source_url": "https://wmnl.unist.ac.kr/alumni/",
+     "evidence": "WMNL alumni page, Ph.D. Degree: Graduation Year 2021"
+    },
+    {
+     "name": "JeongTak Kim",
+     "phd_year": "2024",
+     "current_institution": "UNIST (postdoc)",
+     "website": null,
+     "source_url": "https://wmnl.unist.ac.kr/alumni/",
+     "evidence": "WMNL alumni page, Ph.D. Degree: Graduation Year 2024; grad-students page lists Ph.D. UNIST 2024"
+    },
+    {
+     "name": "Seokwoo Choi",
+     "phd_year": "2025",
+     "current_institution": "UNIST (postdoc)",
+     "website": null,
+     "source_url": "https://wmnl.unist.ac.kr/alumni/",
+     "evidence": "WMNL alumni page, Ph.D. Degree: Graduation Year 2025"
+    },
+    {
+     "name": "SuHwan Jung",
+     "phd_year": "2025",
+     "current_institution": "ETRI",
+     "website": null,
+     "source_url": "https://wmnl.unist.ac.kr/alumni/",
+     "evidence": "WMNL alumni page, Ph.D. Degree: Graduation Year 2025"
+    },
+    {
+     "name": "Byeongjin Kim",
+     "phd_year": "current",
+     "current_institution": "UNIST",
+     "website": null,
+     "source_url": "https://wmnl.unist.ac.kr/graduate-students/",
+     "evidence": "WMNL graduate students page: 'Kim, Byeongjin - Ph.D. program'"
+    }
+   ],
+   "notes": "WMNL site (linked from website_on_record) alumni and graduate-students pages used. Not added because not clearly PhD-only: Minkwon Lee and Min Seok Kim are listed as 'M.S./Ph.D. combined program' (current). Thesis page is a dynamic table not loaded. M.S. only (excluded): Gyou Min Hwang, Daulet Kurmantayev, Younghoon Jung, Hyunchan Kim, Woon Yong Park."
+  },
+  {
+   "id": 81,
+   "name": "Xinyu Zhang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Homepage https://xyzhang.ucsd.edu/ news lists graduates by year without degree. Follow-up check, none added: Kun Qian (kunqian.info): PhD in Software Engineering, advisors Yunhao Liu and Zheng Yang; was a UCSD postdoc with Zhang, so not his PhD student. Zihao Feng (zihaofeng.com): MS from UCSD advised by Zhang; PhD is at USC, so MS only. Wenqian Zhang (wenqianzhang001.github.io): B.S. at UCSD, research assistant in Zhang's lab; PhD is at Yale, so not his PhD student. Lisa Takai, Yunxiang Chi, Dongwoo Kim, Xuyang Cao, Cheng Huang, Dongyin Hu, Wenyuan Zhao: no personal page, scholar profile or dissertation record found (4 follow-up WebSearches plus fetches), degree and advisor unconfirmed. Zhang's CV link (CV_XinyuZhang_092024.pdf) returned HTML, not a PDF."
+  }
+ ]
+}

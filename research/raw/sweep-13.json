@@ -1,0 +1,45 @@
+{
+ "batch": "sweep-13",
+ "people": [
+  {
+   "id": 263,
+   "name": "Chih-Hua Tai",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Homepage (indexE, Research, Experiences, Teaching pages) has no lab link or student list."
+  },
+  {
+   "id": 264,
+   "name": "Keng-Pei Lin",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "NSYSU profile page lists no students or lab link."
+  },
+  {
+   "id": 269,
+   "name": "Chih-Ya Shen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Homepage links only to LoBSTeR Lab Wix site (JS-rendered; fetched, no member list; only a recruiting note). 1 search found nothing."
+  },
+  {
+   "id": 270,
+   "name": "Hong-Han Shuai",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "BasicLab homepage has no members/students list; /Yummy/index.html 404. 1 search found nothing."
+  }
+ ]
+}

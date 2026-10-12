@@ -1,0 +1,85 @@
+{
+ "batch": "sweep-06",
+ "kind": "students",
+ "people": [
+  {
+   "id": 88,
+   "name": "Kassem Fawaz",
+   "institution": "U. Wisconsin-Madison",
+   "year": "2017",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://kassemfawaz.com",
+   "students_in_tree": [
+    "Yue Gao (2025)",
+    "Yucheng Yang (2025)",
+    "Varun Chandrasekaran (2023)",
+    "Ashish Hooda (2024)",
+    "Asmit Nayak",
+    "Ben Jacobsen",
+    "Guruprasad Ramesh",
+    "Jackson West",
+    "Rishabh Khandelwal (2023)",
+    "Shirley Zhang",
+    "Yash Wani",
+    "Harrison Rosenberg (2023)",
+    "Shimaa Ahmed (2023)"
+   ],
+   "position_on_record": "Associate Professor and Associate Chair for Research, Electrical and Computer Engineering, University of Wisconsin-Madison"
+  },
+  {
+   "id": 92,
+   "name": "Youngmoon Lee",
+   "institution": "Hanyang University, Korea",
+   "year": "2019",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://sites.google.com/umich.edu/youngmoonlee",
+   "students_in_tree": [
+    "Niaz Ahmad",
+    "Chanyeok Choi",
+    "Jawad Khan",
+    "Donghyun Kwon",
+    "Seunghwan Lee",
+    "Jeremy Yuhyun Kim",
+    "Saif Ullah",
+    "Gyurin Kim",
+    "Zahra Batool Jaffrey",
+    "Jaehwan Cho"
+   ],
+   "position_on_record": "Associate Professor, Department of Robotics, Hanyang University ERICA; Founding Director, RAISE Lab"
+  },
+  {
+   "id": 94,
+   "name": "Dongyao Chen",
+   "institution": "Shanghai Jiaotong University",
+   "year": "2020",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://chendy.tech/",
+   "students_in_tree": [
+    "Siyuan Wang",
+    "Jike Wang",
+    "Zhenyu Chen",
+    "Wangwei Shen",
+    "Yifeng Zhang"
+   ],
+   "position_on_record": "Assistant Professor, School of Computing and Information Systems, Singapore Management University"
+  },
+  {
+   "id": 100,
+   "name": "Mert Dieter Pese",
+   "institution": "Clemson University",
+   "year": "2022",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://mpese.com/",
+   "students_in_tree": [
+    "Levent Celik",
+    "Jan de Voor",
+    "Alkim Domeke",
+    "David Fernandez",
+    "Pedram MohajerAnsari",
+    "Derik Pack",
+    "Robert Taylor"
+   ],
+   "position_on_record": "Assistant Professor of Computer Science, Clemson University; Founding Director, TigerSec Laboratory"
+  }
+ ]
+}

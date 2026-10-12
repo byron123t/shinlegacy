@@ -1,0 +1,66 @@
+{
+ "batch": "sweep-05",
+ "kind": "students",
+ "people": [
+  {
+   "id": 60,
+   "name": "Chun-Ting Chou",
+   "institution": "National Taiwan University and CEO@OmniEyes",
+   "year": "2004",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": [],
+   "position_on_record": "Professor, National Taiwan University; CEO and co-founder, OmniEyes"
+  },
+  {
+   "id": 74,
+   "name": "Jisoo Yang",
+   "institution": "University of Nevada, Las Vegas",
+   "year": "2010",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://web.cs.unlv.edu/jisooy/",
+   "students_in_tree": [],
+   "position_on_record": "Assistant Professor, Department of Computer Science, University of Nevada, Las Vegas"
+  },
+  {
+   "id": 75,
+   "name": "Hyoil Kim",
+   "institution": "Ulsan Institute of Science and Technology, Korea",
+   "year": "2010",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://wmnl.unist.ac.kr/?p=2378",
+   "students_in_tree": [],
+   "position_on_record": "Professor, Department of Electrical Engineering, UNIST; Director, Wireless and Mobile Networking Laboratory (WMNL)"
+  },
+  {
+   "id": 81,
+   "name": "Xinyu Zhang",
+   "institution": "University of California, San Diego",
+   "year": "2012",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://xyzhang.ucsd.edu/index.html",
+   "students_in_tree": [
+    "Xiufeng Xie (2017)",
+    "Chuhan Gao",
+    "Chi Zhang (2017)",
+    "Sanjib Sur (2018)",
+    "Teng Wei (2018)",
+    "Shilin Zhu",
+    "Song Wang",
+    "Timothy Woodford (2023)",
+    "Renjie Zhao (2023)",
+    "John Nolan (2024)",
+    "Ke Sun (2024)",
+    "Songlin Xu (2026)",
+    "Kai Zheng (2025)",
+    "Hongsik Yoon",
+    "Wuqiong Zhao",
+    "Qinpei Luo",
+    "Xingyu Chen",
+    "Baicheng Chen",
+    "Dae Cheol Kwon"
+   ],
+   "position_on_record": "Professor of Electrical and Computer Engineering, UC San Diego; Ericsson Endowed Chair in Wireless Access Networks; Director, Center for Wireless Communications"
+  }
+ ]
+}

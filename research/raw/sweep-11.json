@@ -1,0 +1,94 @@
+{
+ "batch": "sweep-11",
+ "people": [
+  {
+   "id": 167,
+   "name": "Ke Sun",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Hyunmin Park",
+     "phd_year": "current",
+     "current_institution": "University of Michigan",
+     "website": null,
+     "source_url": "https://samsonsjarkal.github.io/KeSun/students.html",
+     "evidence": "Ph.D. Students: Hyunmin Park (2025-present; co-advised with Alanson Sample)"
+    },
+    {
+     "name": "Kailai Cui",
+     "phd_year": "current",
+     "current_institution": "University of Michigan",
+     "website": null,
+     "source_url": "https://samsonsjarkal.github.io/KeSun/students.html",
+     "evidence": "Ph.D. Students: Kailai Cui (2025-present; co-advised with Kang G. Shin)"
+    },
+    {
+     "name": "Leonard Zhang",
+     "phd_year": "current",
+     "current_institution": "University of Michigan",
+     "website": null,
+     "source_url": "https://samsonsjarkal.github.io/KeSun/students.html",
+     "evidence": "Ph.D. Students: Leonard Zhang (2025-present)"
+    },
+    {
+     "name": "Linzhen Zhu",
+     "phd_year": "current",
+     "current_institution": "University of Michigan",
+     "website": null,
+     "source_url": "https://samsonsjarkal.github.io/KeSun/students.html",
+     "evidence": "Ph.D. Students: Linzhen Zhu (2025-present)"
+    },
+    {
+     "name": "Jeffrey Shulkin",
+     "phd_year": "current",
+     "current_institution": "University of Michigan",
+     "website": null,
+     "source_url": "https://samsonsjarkal.github.io/KeSun/students.html",
+     "evidence": "Ph.D. Students: Jeffrey Shulkin (2026-present)"
+    },
+    {
+     "name": "Mingzhuo Ma",
+     "phd_year": "current",
+     "current_institution": "University of Michigan",
+     "website": null,
+     "source_url": "https://samsonsjarkal.github.io/KeSun/students.html",
+     "evidence": "Ph.D. Students: Mingzhuo Ma (2026-present; co-advised with Junyi Zhu); also AmI Lab team page"
+    }
+   ],
+   "notes": "Source: students.html on homepage, linked from homepage; AmI Lab team page (ambient-intelligence-lab-umich-eecs.github.io/ami_lab_website/team/) consistent. Master's/undergrad excluded. Kailai Cui co-advised with Kang G. Shin (may already be in tree under Shin)."
+  },
+  {
+   "id": 198,
+   "name": "Khaled Hadi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Kuwait University profile page has no student list; no lab site linked; no PhD students found."
+  },
+  {
+   "id": 207,
+   "name": "Yang Peng",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Homepage Students section lists only MS and undergraduate students; no PhD students."
+  },
+  {
+   "id": 210,
+   "name": "Taewoon Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Google Sites homepage has no student list; no PhD students found."
+  }
+ ]
+}

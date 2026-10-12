@@ -1,0 +1,57 @@
+{
+ "batch": "sweep-04",
+ "kind": "students",
+ "people": [
+  {
+   "id": 51,
+   "name": "Xi Zhang",
+   "institution": "Texas A&M University",
+   "year": "2002",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://people.engr.tamu.edu/xizhang/index.html",
+   "students_in_tree": [
+    "Jia Tang (2006)"
+   ],
+   "position_on_record": "Professor and Founding Director of the Networking and Information Systems Laboratory, ECE, Texas A&M University"
+  },
+  {
+   "id": 54,
+   "name": "Haining Wang",
+   "institution": "Virginia Tech, Arlington, VA",
+   "year": "2003",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://ece.vt.edu/people/profile/wangh.html",
+   "students_in_tree": [],
+   "position_on_record": "Professor, Electrical and Computer Engineering, Virginia Tech (Arlington, VA)"
+  },
+  {
+   "id": 55,
+   "name": "Padmanabhan (Babu) Pillai",
+   "institution": "Carnegie Mellon University",
+   "year": "2004",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://www.andrew.cmu.edu/user/pspillai/",
+   "students_in_tree": [],
+   "position_on_record": "Associate Teaching Professor, Computer Science Department, Carnegie Mellon University"
+  },
+  {
+   "id": 56,
+   "name": "Daji Qiao",
+   "institution": "Iowa State University",
+   "year": "2004",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://www.engineering.iastate.edu/people/profile/daji/",
+   "students_in_tree": [
+    "Wei Zhou (2009)",
+    "Guanqun Yang (2010)",
+    "Xi Chen (2011)",
+    "Zi Li (2013)",
+    "Yang Peng (2014)",
+    "Ka Yang (2014)",
+    "Xiaoyun Zhang (2017)",
+    "Taewoon Kim (2018)"
+   ],
+   "position_on_record": "Professor, Electrical and Computer Engineering, Iowa State University"
+  }
+ ]
+}

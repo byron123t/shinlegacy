@@ -1,0 +1,86 @@
+{
+ "batch": "sweep-04",
+ "people": [
+  {
+   "id": 51,
+   "name": "Xi Zhang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Fetched homepage people.engr.tamu.edu/xizhang/ (index, bio.html); no student list. Its 'Academic Family Tree' link points to Daji Qiao's RTCL page (his own advisor lineage, not students). qshine.org is a conference site. No lab people page found; no new students."
+  },
+  {
+   "id": 54,
+   "name": "Haining Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "VT ECE profile ece.vt.edu/people/profile/wangh.html has no student list or lab link. One WebSearch and guessed personal-site URLs (cs.wm.edu/~hnw etc.) found nothing; Google Sites page requires login. Not found, not necessarily none."
+  },
+  {
+   "id": 55,
+   "name": "Padmanabhan (Babu) Pillai",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Homepage andrew.cmu.edu/user/pspillai/ links only to Elijah, Claytronics, ISTC-CC, Intel, Shin; no student list. Teaching-track professor; no PhD students found."
+  },
+  {
+   "id": 56,
+   "name": "Daji Qiao",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Mat Wymore",
+     "phd_year": "2019",
+     "current_institution": "Iowa State University",
+     "website": null,
+     "source_url": "https://www.ece.iastate.edu/~daji/students.htm",
+     "evidence": "Listed under 'Former PhD Students' (PhD, 05/2019) on Daji Qiao's students page"
+    },
+    {
+     "name": "Shen Fu",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://www.ece.iastate.edu/~daji/students.htm",
+     "evidence": "Listed as 'Shen Fu (PhD student)' under Current Students on Qiao's students page"
+    },
+    {
+     "name": "Dong Qin",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://www.ece.iastate.edu/~daji/students.htm",
+     "evidence": "Listed as 'Dong Qin (PhD student)' under Current Students"
+    },
+    {
+     "name": "Kerui Tan",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://www.ece.iastate.edu/~daji/students.htm",
+     "evidence": "Listed as 'Kerui Tan (PhD student)' under Current Students"
+    },
+    {
+     "name": "Brian Peck",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://www.ece.iastate.edu/~daji/students.htm",
+     "evidence": "Listed as 'Brian Peck (PhD student)' under Current Students"
+    }
+   ],
+   "notes": "ISU profile engineering.iastate.edu/people/profile/daji/ has no lab link; found personal site ece.iastate.edu/~daji/ and its students.htm (page appears last updated ~2019-2020, so current-student list may be stale). Already in tree and excluded: Wei Zhou, Guanqun Yang, Xi Chen, Zi Li, Yang Peng, Ka Yang, Xiaoyun Zhang, Taewoon Kim. MS students and visitors excluded. home.engineering.iastate.edu/~daji/RTCL/ rejected curl requests."
+  }
+ ]
+}

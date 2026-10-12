@@ -1,0 +1,83 @@
+{
+ "batch": "sweep-14",
+ "kind": "students",
+ "people": [
+  {
+   "id": 299,
+   "name": "Rong Zheng",
+   "institution": "McMaster University, Canada",
+   "year": "2004",
+   "advisor": "Chao-Ju (Jennifer) Hou",
+   "website_on_record": "http://www.cas.mcmaster.ca/~rzheng/",
+   "students_in_tree": [
+    "Soji Omiwade (2011)",
+    "Khuong Vu (2012)",
+    "Huy A. Nguyen (2013)",
+    "Guanbo Zheng (2013)",
+    "Renjie Xu (2025)",
+    "Wei Zhao (2024)",
+    "Keivan Nalaie (2023)",
+    "Yujiao Hao (2022)",
+    "Yihao Fang (2020)",
+    "Mehdi Jafarizadeh (2021)",
+    "Ala Shaabana",
+    "Yongyong Wei (2021)",
+    "Qiang Xu"
+   ],
+   "position_on_record": "Professor, Dept. of Computing and Software, McMaster University; Canada Research Chair (Tier 1) in Mobile Computing"
+  },
+  {
+   "id": 304,
+   "name": "Hwangnam Kim",
+   "institution": "Seoul University",
+   "year": "2004",
+   "advisor": "Chao-Ju (Jennifer) Hou",
+   "website_on_record": "https://wine.korea.ac.kr/",
+   "students_in_tree": [
+    "Suk Kyu Lee (2015)",
+    "Hyunsoon Kim (2016)",
+    "Mungyu Bae (2018)",
+    "Seungho Yoo (2018)",
+    "Taejin Kwak",
+    "Sanghong Kim",
+    "Jeongmin Lee",
+    "Minsu Cha",
+    "Taehoon Yoo (2026)",
+    "Sangmin Lee (2026)",
+    "Hyeontae Joo (2026)",
+    "DongKyu Lee (2025)",
+    "Seongjoon Park (2022)",
+    "Joon Yeop Lee (2020)",
+    "Kwang Jae Sung (2020)",
+    "Woonghee Lee (2019)",
+    "Jongtack Jung (2019)"
+   ],
+   "position_on_record": "Professor of Electrical Engineering, Korea University"
+  },
+  {
+   "id": 313,
+   "name": "Dimitris Papadopoulos",
+   "institution": "Hong Kong University of Science and Technology",
+   "year": "2016",
+   "advisor": "Sharon Goldberg",
+   "website_on_record": "https://www.cse.ust.hk/~dipapado/",
+   "students_in_tree": [
+    "Christodoulos Pappas",
+    "Jiajun Xin"
+   ],
+   "position_on_record": "Associate Professor, CSE Department, Hong Kong University of Science and Technology"
+  },
+  {
+   "id": 314,
+   "name": "Davide Proserpio",
+   "institution": "USC",
+   "year": "2016",
+   "advisor": "Sharon Goldberg",
+   "website_on_record": "https://dadepro.github.io/",
+   "students_in_tree": [
+    "Isamar Troncoso"
+   ],
+   "position_on_record": "McAlister Associate Professor in Business Administration; Associate Professor of Marketing, USC Marshall School of Business"
+  }
+ ]
+}

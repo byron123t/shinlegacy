@@ -1,0 +1,191 @@
+{
+ "batch": "sweep-01",
+ "people": [
+  {
+   "id": 3,
+   "name": "C. Mani Krishna",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "UMass directory page has no lab link or student list; no personal/lab site found; 2 searches (UMass, general) returned no student lists. Not checked: ScholarWorks/ProQuest."
+  },
+  {
+   "id": 4,
+   "name": "Yann-Hang Lee",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "ASU profile links to rts.lab.asu.edu, which no longer resolves (DNS failure). CV PDF and SCAI emeritus page list no students. No new students found."
+  },
+  {
+   "id": 14,
+   "name": "Ming-Syan (Frank) Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Yi-Ling Chen",
+     "phd_year": "2017",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/alumni.html",
+     "evidence": "Listed in NetDBLab 'Alumni Tree' under Professor Ming-Syan Chen: [46] Yi-Ling Chen 2017"
+    },
+    {
+     "name": "Chung-Kuang Chou",
+     "phd_year": "2017",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/alumni.html",
+     "evidence": "Listed in NetDBLab 'Alumni Tree' under Professor Ming-Syan Chen: [47] Chung-Kuang Chou 2017"
+    },
+    {
+     "name": "Cheng-Ying Liu",
+     "phd_year": "2017",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/alumni.html",
+     "evidence": "Listed in NetDBLab 'Alumni Tree' under Professor Ming-Syan Chen: [48] Cheng-Ying Liu 2017"
+    },
+    {
+     "name": "Jiann-Min Ho",
+     "phd_year": "2018",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/alumni.html",
+     "evidence": "Listed in NetDBLab 'Alumni Tree' under Professor Ming-Syan Chen: [49] Jiann-Min Ho 2018"
+    },
+    {
+     "name": "Ya-Wen Teng",
+     "phd_year": "2018",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/alumni.html",
+     "evidence": "Listed in NetDBLab 'Alumni Tree' under Professor Ming-Syan Chen: [50] Ya-Wen Teng 2018"
+    },
+    {
+     "name": "Chi-Hsuan Wu",
+     "phd_year": "2019",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/alumni.html",
+     "evidence": "Listed in NetDBLab 'Alumni Tree' under Professor Ming-Syan Chen: [51] Chi-Hsuan Wu 2019"
+    },
+    {
+     "name": "Hsi-Wen Chen",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "evidence": "Listed under 'Ph.D.' heading on NetDBLab Member page (lab of Ming-Syan Chen)"
+    },
+    {
+     "name": "Chin-Yuan Yeh",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "evidence": "Listed under 'Ph.D.' heading on NetDBLab Member page (lab of Ming-Syan Chen)"
+    },
+    {
+     "name": "Hung-Te Lee",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "evidence": "Listed under 'Ph.D.' heading on NetDBLab Member page (lab of Ming-Syan Chen)"
+    },
+    {
+     "name": "Rui Fang",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "evidence": "Listed under 'Ph.D.' heading on NetDBLab Member page (lab of Ming-Syan Chen)"
+    },
+    {
+     "name": "Shih-Hsuan Chiu",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "evidence": "Listed under 'Ph.D.' heading on NetDBLab Member page (lab of Ming-Syan Chen)"
+    },
+    {
+     "name": "Yen-Hsin Hsu",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "evidence": "Listed under 'Ph.D.' heading on NetDBLab Member page (lab of Ming-Syan Chen)"
+    },
+    {
+     "name": "Dustin Wu",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "evidence": "Listed under 'Ph.D.' heading on NetDBLab Member page (lab of Ming-Syan Chen)"
+    },
+    {
+     "name": "Ying-Hua Huang",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "evidence": "Listed under 'Ph.D.' heading on NetDBLab Member page (lab of Ming-Syan Chen)"
+    },
+    {
+     "name": "Yi-Ting Lee",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "evidence": "Listed under 'Ph.D.' heading on NetDBLab Member page (lab of Ming-Syan Chen)"
+    },
+    {
+     "name": "Hsiang-Hui Liu",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "evidence": "Listed under 'Ph.D.' heading on NetDBLab Member page (lab of Ming-Syan Chen)"
+    },
+    {
+     "name": "Yun-Jing Wang",
+     "phd_year": "current",
+     "current_institution": "National Taiwan University",
+     "website": null,
+     "source_url": "https://arbor.ee.ntu.edu.tw/member.html",
+     "evidence": "Listed under 'Ph.D.' heading on NetDBLab Member page (lab of Ming-Syan Chen)"
+    }
+   ],
+   "notes": "Homepage links to NetDBLab (arbor.ee.ntu.edu.tw); Alumni Tree lists 51 PhD alumni, tree has 45 through 2016, so 6 new (2017-2019). Member page lists 11 current PhD students; Hsiang-Hui Liu and Yun-Jing Wang also appear under Alumni (Master), so they may have continued from MS to PhD. Alumni current institutions not given in English; set null. Master students excluded."
+  },
+  {
+   "id": 16,
+   "name": "Jyh-Charn (Steve) Liu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Haidong Wang",
+     "phd_year": "current",
+     "current_institution": "Texas A&M University",
+     "website": null,
+     "source_url": "https://rtds.cse.tamu.edu/people/",
+     "evidence": "Listed under 'Current Students' as 'PhD Student, Computer Engineering' on Liu's RTDS lab People page"
+    }
+   ],
+   "notes": "Profile page links no lab site; lab found by search: rtds.cse.tamu.edu. Former Students section is empty. Yuncheng Yu is a Masters student (excluded)."
+  }
+ ]
+}

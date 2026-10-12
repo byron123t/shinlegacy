@@ -1,0 +1,204 @@
+{
+ "batch": "sweep-14",
+ "people": [
+  {
+   "id": 299,
+   "name": "Rong Zheng",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Mason Kadem",
+     "phd_year": "current",
+     "current_institution": "McMaster University",
+     "website": null,
+     "source_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+     "evidence": "Listed as PhD Student under 'Students' on WiSeR Our Team page (lab led by Rong Zheng)",
+     "verdict": "confirmed",
+     "reason": "Listed with PhD title under Students on WiSeR Our Team page"
+    },
+    {
+     "name": "Longyun Liao",
+     "phd_year": "current",
+     "current_institution": "McMaster University",
+     "website": null,
+     "source_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+     "evidence": "Listed as PhD Student under 'Students' on WiSeR Our Team page (lab led by Rong Zheng)",
+     "verdict": "confirmed",
+     "reason": "Listed with PhD title under Students on WiSeR Our Team page"
+    },
+    {
+     "name": "Andrew Mitchell",
+     "phd_year": "current",
+     "current_institution": "McMaster University",
+     "website": null,
+     "source_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+     "evidence": "Listed as PhD Student under 'Students' on WiSeR Our Team page (lab led by Rong Zheng)",
+     "verdict": "confirmed",
+     "reason": "Listed with PhD title under Students on WiSeR Our Team page"
+    },
+    {
+     "name": "Bodee Quansah",
+     "phd_year": "current",
+     "current_institution": "McMaster University",
+     "website": null,
+     "source_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+     "evidence": "Listed as PhD Student under 'Students' on WiSeR Our Team page (lab led by Rong Zheng)",
+     "verdict": "confirmed",
+     "reason": "Listed with PhD title under Students on WiSeR Our Team page"
+    },
+    {
+     "name": "Margaret Xie",
+     "phd_year": "current",
+     "current_institution": "McMaster University",
+     "website": null,
+     "source_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+     "evidence": "Listed as PhD Student under 'Students' on WiSeR Our Team page (lab led by Rong Zheng)",
+     "verdict": "confirmed",
+     "reason": "Listed with PhD title under Students on WiSeR Our Team page"
+    },
+    {
+     "name": "Yunkai Yu",
+     "phd_year": "current",
+     "current_institution": "McMaster University",
+     "website": null,
+     "source_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+     "evidence": "Listed as PhD Student under 'Students' on WiSeR Our Team page (lab led by Rong Zheng)",
+     "verdict": "confirmed",
+     "reason": "Listed with PhD title under Students on WiSeR Our Team page"
+    },
+    {
+     "name": "Navid Zandi",
+     "phd_year": null,
+     "current_institution": "McMaster University",
+     "website": null,
+     "source_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+     "evidence": "Listed as 'Navid Zandi | PhD Student' on WiSeR Our Team page (alumni section); co-author with Zheng on 2025 papers",
+     "verdict": "confirmed",
+     "reason": "Listed as \"PhD Student\" in Alumni section of WiSeR page (same labeling as Renjie Xu, already in tree); year unknown"
+    }
+   ]
+  },
+  {
+   "id": 304,
+   "name": "Hwangnam Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Namkyung Yoon",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed under 'Ph.D. Students' on WINE Lab members page, Course: M.S. & Ph.D. Student",
+     "verdict": "confirmed",
+     "reason": "Under \"Ph.D. Students\" heading on WINE Lab members page (course M.S. & Ph.D.; included per user decision)"
+    },
+    {
+     "name": "Kiseok Kim",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed under 'Ph.D. Students' on WINE Lab members page, Course: M.S. & Ph.D. Student",
+     "verdict": "confirmed",
+     "reason": "Under \"Ph.D. Students\" heading on WINE Lab members page (course M.S. & Ph.D.; included per user decision)"
+    },
+    {
+     "name": "Changmin Park",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed under 'Ph.D. Students' on WINE Lab members page, Course: M.S. & Ph.D. Student",
+     "verdict": "confirmed",
+     "reason": "Under \"Ph.D. Students\" heading on WINE Lab members page (course M.S. & Ph.D.; included per user decision)"
+    },
+    {
+     "name": "Kyeonghyun Yoo",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed under 'Ph.D. Students' on WINE Lab members page, Course: M.S. & Ph.D. Student",
+     "verdict": "confirmed",
+     "reason": "Under \"Ph.D. Students\" heading on WINE Lab members page (course M.S. & Ph.D.; included per user decision)"
+    },
+    {
+     "name": "Wooyong Jung",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed under 'Ph.D. Students' on WINE Lab members page, Course: M.S. & Ph.D. Student",
+     "verdict": "confirmed",
+     "reason": "Under \"Ph.D. Students\" heading on WINE Lab members page (course M.S. & Ph.D.; included per user decision)"
+    },
+    {
+     "name": "Dohun Lee",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed under 'Ph.D. Students' on WINE Lab members page, Course: M.S. & Ph.D. Student",
+     "verdict": "confirmed",
+     "reason": "Under \"Ph.D. Students\" heading on WINE Lab members page (course M.S. & Ph.D.; included per user decision)"
+    },
+    {
+     "name": "Seokmin Kim",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed under 'Ph.D. Students' on WINE Lab members page, Course: M.S. & Ph.D. Student",
+     "verdict": "confirmed",
+     "reason": "Under \"Ph.D. Students\" heading on WINE Lab members page (course M.S. & Ph.D.; included per user decision)"
+    },
+    {
+     "name": "Taewoo Park",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed under 'Ph.D. Students' on WINE Lab members page, Course: M.S. & Ph.D. Student",
+     "verdict": "confirmed",
+     "reason": "Under \"Ph.D. Students\" heading on WINE Lab members page (course M.S. & Ph.D.; included per user decision)"
+    }
+   ]
+  },
+  {
+   "id": 313,
+   "name": "Dimitris Papadopoulos",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 314,
+   "name": "Davide Proserpio",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Poet Larsen",
+     "phd_year": null,
+     "current_institution": "Harvard Business School (postdoc)",
+     "website": null,
+     "source_url": "https://dadepro.github.io/",
+     "evidence": "Students list: 'Poet Larsen (dissertation committee chair). Placement: Postdoc, Harvard Business School'",
+     "verdict": "confirmed",
+     "reason": "Homepage Students list: \"Poet Larsen (dissertation committee chair)\"; chair counts; year unknown"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "batch": "sweep-13",
+ "kind": "students",
+ "people": [
+  {
+   "id": 263,
+   "name": "Chih-Hua Tai",
+   "institution": "National Taipei University",
+   "year": "2011",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "https://web.ntpu.edu.tw/~hanatai/indexE.htm",
+   "students_in_tree": [],
+   "position_on_record": "Associate Professor, Department of Computer Science and Information Engineering, National Taipei University"
+  },
+  {
+   "id": 264,
+   "name": "Keng-Pei Lin",
+   "institution": "National Sun Yat-sen University",
+   "year": "2011",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "https://db.cm.nsysu.edu.tw/pages/林耕霈_1402_EN.html",
+   "students_in_tree": [],
+   "position_on_record": "Associate Professor, Department of Information Management, National Sun Yat-sen University"
+  },
+  {
+   "id": 269,
+   "name": "Chih-Ya Shen",
+   "institution": "National Tsing Hua University",
+   "year": "2013",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "https://www.cs.nthu.edu.tw/~chihya/",
+   "students_in_tree": [],
+   "position_on_record": "Professor, Department of Computer Science, National Tsing Hua University"
+  },
+  {
+   "id": 270,
+   "name": "Hong-Han Shuai",
+   "institution": "National Chiao Tung University",
+   "year": "2015",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "https://basiclab.lab.nycu.edu.tw/",
+   "students_in_tree": [],
+   "position_on_record": "Professor, National Yang Ming Chiao Tung University"
+  }
+ ]
+}

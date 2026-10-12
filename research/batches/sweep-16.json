@@ -1,0 +1,36 @@
+{
+ "batch": "sweep-16",
+ "kind": "students",
+ "people": [
+  {
+   "id": 350,
+   "name": "Dong Wang",
+   "institution": "Notre Dame",
+   "year": "2012",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "https://ischool.illinois.edu/people/dong-wang",
+   "students_in_tree": [],
+   "position_on_record": "Professor and Associate Dean for Research, School of Information Sciences, University of Illinois Urbana-Champaign"
+  },
+  {
+   "id": 352,
+   "name": "Lu Su",
+   "institution": "SUNY Buffalo",
+   "year": "2013",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "https://engineering.purdue.edu/~lusu/",
+   "students_in_tree": [],
+   "position_on_record": "Associate Professor, School of Electrical and Computer Engineering, Purdue University"
+  },
+  {
+   "id": 360,
+   "name": "Anwar Mamat",
+   "institution": "University of Maryland, College Park",
+   "year": "2011",
+   "advisor": "Ying Lu",
+   "website_on_record": "https://www.cs.umd.edu/~anwar",
+   "students_in_tree": [],
+   "position_on_record": "Senior Lecturer, Department of Computer Science, University of Maryland, College Park"
+  }
+ ]
+}

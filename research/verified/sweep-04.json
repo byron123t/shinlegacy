@@ -1,0 +1,87 @@
+{
+ "batch": "sweep-04",
+ "people": [
+  {
+   "id": 51,
+   "name": "Xi Zhang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 54,
+   "name": "Haining Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 55,
+   "name": "Padmanabhan (Babu) Pillai",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 56,
+   "name": "Daji Qiao",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Mat Wymore",
+     "verdict": "confirmed",
+     "phd_year": "2019",
+     "current_institution": "Iowa State University",
+     "website": null,
+     "source_url": "https://www.ece.iastate.edu/~daji/students.htm",
+     "reason": "Listed under 'Former PhD Students' (PhD, 05/2019), now with Iowa State University"
+    },
+    {
+     "name": "Shen Fu",
+     "verdict": "confirmed",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://www.ece.iastate.edu/~daji/students.htm",
+     "reason": "Labeled '(PhD student)' under Current Students on Qiao's page; page is stale (c. 2019-2020) so graduation year unknown, set to null"
+    },
+    {
+     "name": "Dong Qin",
+     "verdict": "confirmed",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://www.ece.iastate.edu/~daji/students.htm",
+     "reason": "Labeled '(PhD student)' under Current Students on Qiao's page; page is stale (c. 2019-2020) so graduation year unknown, set to null"
+    },
+    {
+     "name": "Kerui Tan",
+     "verdict": "confirmed",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://www.ece.iastate.edu/~daji/students.htm",
+     "reason": "Labeled '(PhD student)' under Current Students on Qiao's page; page is stale (c. 2019-2020) so graduation year unknown, set to null"
+    },
+    {
+     "name": "Brian Peck",
+     "verdict": "confirmed",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://www.ece.iastate.edu/~daji/students.htm",
+     "reason": "Labeled '(PhD student)' under Current Students on Qiao's page; page is stale (c. 2019-2020) so graduation year unknown, set to null"
+    }
+   ]
+  }
+ ]
+}

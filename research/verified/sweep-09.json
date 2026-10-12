@@ -1,0 +1,186 @@
+{
+ "batch": "sweep-09",
+ "people": [
+  {
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "id": 128,
+   "name": "Sharon Goldberg",
+   "students": []
+  },
+  {
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "id": 135,
+   "name": "Tai-lin Chin",
+   "students": []
+  },
+  {
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "id": 136,
+   "name": "Constantine Dovrolis",
+   "students": []
+  },
+  {
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "id": 138,
+   "name": "Bechir Hamdaoui",
+   "students": [
+    {
+     "name": "Abdurrahman Elmaghbub",
+     "phd_year": "2024",
+     "current_institution": "Apple, USA",
+     "website": null,
+     "source_url": "https://research.engr.oregonstate.edu/hamdaoui/alumni",
+     "verdict": "confirmed",
+     "reason": "Page shows explicit PhD label: Listed on Hamdaoui's NetSTAR Lab Alumni page: 'PhD in ECE, Spring 2024'"
+    },
+    {
+     "name": "Sultan Alanazi",
+     "phd_year": "2023",
+     "current_institution": "Prince Sattam Bin Abdulaziz University, KSA",
+     "website": null,
+     "source_url": "https://research.engr.oregonstate.edu/hamdaoui/alumni",
+     "verdict": "confirmed",
+     "reason": "Page shows explicit PhD label: Listed on Hamdaoui's NetSTAR Lab Alumni page: 'PhD in CS, Winter 2023'"
+    },
+    {
+     "name": "Jarallah Alqahtani",
+     "phd_year": "2021",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://research.engr.oregonstate.edu/hamdaoui/alumni",
+     "verdict": "confirmed",
+     "reason": "Page shows explicit PhD label: Listed on Hamdaoui's NetSTAR Lab Alumni page: 'PhD in CS, Fall 2021'"
+    },
+    {
+     "name": "Mohamed Grissa",
+     "phd_year": "2018",
+     "current_institution": "Circle (blockchain), USA",
+     "website": null,
+     "source_url": "https://research.engr.oregonstate.edu/hamdaoui/alumni",
+     "verdict": "confirmed",
+     "reason": "Page shows explicit PhD label: Listed on Hamdaoui's NetSTAR Lab Alumni page: 'PhD in ECE, Summer 2018'"
+    },
+    {
+     "name": "Bassem Khalfi",
+     "phd_year": "2018",
+     "current_institution": "Qualcomm, USA",
+     "website": null,
+     "source_url": "https://research.engr.oregonstate.edu/hamdaoui/alumni",
+     "verdict": "confirmed",
+     "reason": "Page shows explicit PhD label: Listed on Hamdaoui's NetSTAR Lab Alumni page: 'PhD in ECE, Spring 2018'"
+    },
+    {
+     "name": "Sherif Abdelwahab",
+     "phd_year": "2017",
+     "current_institution": "Amazon, USA",
+     "website": null,
+     "source_url": "https://research.engr.oregonstate.edu/hamdaoui/alumni",
+     "verdict": "confirmed",
+     "reason": "Page shows explicit PhD label: Listed on Hamdaoui's NetSTAR Lab Alumni page: 'PhD in ECE, Summer 2017'"
+    },
+    {
+     "name": "Hassan Sinky",
+     "phd_year": "2017",
+     "current_institution": "Umm Al-Qura University, KSA",
+     "website": null,
+     "source_url": "https://research.engr.oregonstate.edu/hamdaoui/alumni",
+     "verdict": "confirmed",
+     "reason": "Page shows explicit PhD label: Listed on Hamdaoui's NetSTAR Lab Alumni page: 'PhD in CS, Spring 2017'"
+    },
+    {
+     "name": "Nadia Adem",
+     "phd_year": "2016",
+     "current_institution": "University of Tripoli, Libya",
+     "website": null,
+     "source_url": "https://research.engr.oregonstate.edu/hamdaoui/alumni",
+     "verdict": "confirmed",
+     "reason": "Page shows explicit PhD label: Listed on Hamdaoui's NetSTAR Lab Alumni page: 'PhD in ECE, Summer 2016'"
+    },
+    {
+     "name": "Mehiar Dabbagh",
+     "phd_year": "2016",
+     "current_institution": "LinkedIn, USA",
+     "website": null,
+     "source_url": "https://research.engr.oregonstate.edu/hamdaoui/alumni",
+     "verdict": "confirmed",
+     "reason": "Page shows explicit PhD label: Listed on Hamdaoui's NetSTAR Lab Alumni page: 'PhD in ECE, Summer 2016'"
+    },
+    {
+     "name": "MohammadJavad NoroozOliaee",
+     "phd_year": "2015",
+     "current_institution": "Google, USA",
+     "website": null,
+     "source_url": "https://research.engr.oregonstate.edu/hamdaoui/alumni",
+     "verdict": "confirmed",
+     "reason": "Page shows explicit PhD label: Listed on Hamdaoui's NetSTAR Lab Alumni page: 'PhD in CS, Summer 2015'"
+    },
+    {
+     "name": "Omar Alsaleh",
+     "phd_year": "2013",
+     "current_institution": "King Saud University, KSA",
+     "website": null,
+     "source_url": "https://research.engr.oregonstate.edu/hamdaoui/alumni",
+     "verdict": "confirmed",
+     "reason": "Page shows explicit PhD label: Listed on Hamdaoui's NetSTAR Lab Alumni page: 'PhD in CS, Fall 2013'"
+    },
+    {
+     "name": "Nessrine Chakchouk",
+     "phd_year": "2012",
+     "current_institution": "ENSI, Tunisia",
+     "website": null,
+     "source_url": "https://research.engr.oregonstate.edu/hamdaoui/alumni",
+     "verdict": "confirmed",
+     "reason": "Page shows explicit PhD label: Listed on Hamdaoui's NetSTAR Lab Alumni page: 'PhD in ECE, Summer 2012'"
+    },
+    {
+     "name": "Samina Ehsan",
+     "phd_year": "2012",
+     "current_institution": "Oregon State University, USA",
+     "website": null,
+     "source_url": "https://research.engr.oregonstate.edu/hamdaoui/alumni",
+     "verdict": "confirmed",
+     "reason": "Page shows explicit PhD label: Listed on Hamdaoui's NetSTAR Lab Alumni page: 'PhD in CS, Spring 2012'"
+    },
+    {
+     "name": "Jun Chen",
+     "phd_year": "current",
+     "current_institution": "Oregon State University",
+     "website": null,
+     "source_url": "https://research.engr.oregonstate.edu/hamdaoui/current-members",
+     "verdict": "confirmed",
+     "reason": "Page shows explicit PhD label: NetSTAR Lab Current Members: 'PhD Student in CS/AI (co-advised with Prof. Wong)'"
+    },
+    {
+     "name": "Nora Basha",
+     "phd_year": "current",
+     "current_institution": "Oregon State University",
+     "website": null,
+     "source_url": "https://research.engr.oregonstate.edu/hamdaoui/current-members",
+     "verdict": "confirmed",
+     "reason": "Page shows explicit PhD label: NetSTAR Lab Current Members: 'PhD Student in ECE'"
+    },
+    {
+     "name": "Haytham Albousayri",
+     "phd_year": "current",
+     "current_institution": "Oregon State University",
+     "website": null,
+     "source_url": "https://research.engr.oregonstate.edu/hamdaoui/current-members",
+     "verdict": "confirmed",
+     "reason": "Page shows explicit PhD label: NetSTAR Lab Current Members: 'PhD Student in ECE'"
+    }
+   ]
+  }
+ ]
+}

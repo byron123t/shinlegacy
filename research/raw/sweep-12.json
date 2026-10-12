@@ -1,0 +1,45 @@
+{
+ "batch": "sweep-12",
+ "people": [
+  {
+   "id": 232,
+   "name": "Wen-Chih Peng",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Homepage's 'Ph.D supervised' page lists 14 students, all already in the tree; no lab site linked (only Digital Medicine Center). No new students."
+  },
+  {
+   "id": 237,
+   "name": "Hung-Yu Kao",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Faculty profile at NTHU ISA lists no students or lab link; searches found no roster. No new students found."
+  },
+  {
+   "id": 239,
+   "name": "Jin-Long Huang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Homepage lists no students; the old lab link mpc.cs.nctu.edu.tw is dead. Search found no roster. No new students found."
+  },
+  {
+   "id": 251,
+   "name": "Chien-Chin Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Homepage lists no students or lab link (only Scholar, DBLP, NTU COOL). No new students found."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "batch": "sweep-10",
+ "people": [
+  {
+   "id": 149,
+   "name": "Kuang-Ching Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Homepage people.clemson.edu/~kwang/ now serves only generic Clemson template content with no student list or lab links; no PhD students found. Not searched further (search budget used on Sur)."
+  },
+  {
+   "id": 151,
+   "name": "Amrita Roy Chowdhury",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Google Sites homepage 'Students > Ph.D.' lists Mushtari Sadia (co-advised with Ang Chen), Yiyi Sun, Samanway Sadhu, Siddarth Sitaraman, Huseyin Sahin; all already in tree. No new students."
+  },
+  {
+   "id": 160,
+   "name": "Sanjib Sur",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Homepage links to SyReX lab (https://syrex.cse.sc.edu/team/). Its Ph.D. list (8 current, Aakriti Adhikari and Hem Regmi alumni 2025) all already in tree. Ian McDowell listed under Grad Students on the team page but earlier homepage text calls him an undergraduate research student; not included. A search snippet from an older SyReX faculty page mentioned Austin Hetherington (Fall 2020-Spring 2021, Bridge to Doctorate) as PhD heading; not confirmed on current page, not included."
+  },
+  {
+   "id": 165,
+   "name": "Renjie Zhao",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Zhe Ou",
+     "phd_year": "current",
+     "current_institution": "Johns Hopkins University",
+     "website": null,
+     "source_url": "https://renjiezhao.github.io/team/",
+     "evidence": "Listed under 'Ph.D. students' on Renjie Zhao's Team page: Zhe Ou (CS, 24 Fall)"
+    },
+    {
+     "name": "Lihao Wang",
+     "phd_year": "current",
+     "current_institution": "Johns Hopkins University",
+     "website": null,
+     "source_url": "https://renjiezhao.github.io/team/",
+     "evidence": "Listed under 'Ph.D. students' on Renjie Zhao's Team page: Lihao Wang (CS, 24 Fall)"
+    },
+    {
+     "name": "Ding Zhao",
+     "phd_year": "current",
+     "current_institution": "Johns Hopkins University",
+     "website": null,
+     "source_url": "https://renjiezhao.github.io/team/",
+     "evidence": "Listed under 'Ph.D. students' on Renjie Zhao's Team page: Ding Zhao (CS, 24 Fall)"
+    },
+    {
+     "name": "Ruirong Huang",
+     "phd_year": "current",
+     "current_institution": "Johns Hopkins University",
+     "website": null,
+     "source_url": "https://renjiezhao.github.io/team/",
+     "evidence": "Listed under 'Ph.D. students' on Renjie Zhao's Team page: Ruirong Huang (CS, 24 Spring)"
+    }
+   ],
+   "notes": "Homepage links to Team page; Ph.D. students listed. Excluded M.S., undergrads, K-12 and visitors."
+  }
+ ]
+}

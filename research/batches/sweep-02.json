@@ -1,0 +1,82 @@
+{
+ "batch": "sweep-02",
+ "kind": "students",
+ "people": [
+  {
+   "id": 17,
+   "name": "Parameswaran Ramanathan",
+   "institution": "University Wisconsin, Madison",
+   "year": "1989",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://ramanathan.ece.wisc.edu/",
+   "students_in_tree": [
+    "Rehan Ahmed (2015)",
+    "Raed Alqadi (1995)",
+    "Devesh Bhimsaria (2016)",
+    "Tai-lin Chin (2006)",
+    "Constantine Dovrolis (2000)",
+    "Moncef Elaoud (2000)",
+    "Bechir Hamdaoui (2005)",
+    "Chin-ya Huang (2012)",
+    "Felix Loh (2018)",
+    "Jayakrishnan Mundarath (2006)",
+    "Arezou Pourmir",
+    "Ugur Sezer",
+    "Kamalavasan Srinivasan",
+    "Niveditha Sundaram",
+    "Lun Tong",
+    "Chao Wang",
+    "Kuang-Ching Wang (2003)",
+    "Nairan Zhang",
+    "Amrita Roy Chowdhury (2021)",
+    "Ashwin Varadarajan",
+    "Zongshen Wu",
+    "Moncef Hamdaoui (1994)"
+   ],
+   "position_on_record": "Professor of Electrical and Computer Engineering and Associate Dean for Graduate Education, University of Wisconsin-Madison"
+  },
+  {
+   "id": 19,
+   "name": "Sunggu Lee",
+   "institution": "Pohang Institute of Science and Technology, Korea",
+   "year": "1990",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://esa.postech.ac.kr/esa/mem/member.do",
+   "students_in_tree": [
+    "Ho-Won Kim (1999)"
+   ],
+   "position_on_record": "Professor, POSTECH (Embedded System Architecture Laboratory)"
+  },
+  {
+   "id": 26,
+   "name": "Chao-Ju (Jennifer) Hou",
+   "institution": "UIUC (passed away)",
+   "year": "1993",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": [
+    "Bin Wang (2000)",
+    "Hung-Ying Tyan (2001)",
+    "Yuan Gao (2002)",
+    "Guanghui He (2004)",
+    "Ye Ge (2004)",
+    "Wei-Peng Chen (2004)",
+    "Honghai Zhang (2005)",
+    "Ning Li (2005)",
+    "Rong Zheng (2004)",
+    "Hwangnam Kim (2004)"
+   ],
+   "position_on_record": "Deceased (died December 2, 2007); was Professor of Computer Science, University of Illinois Urbana-Champaign"
+  },
+  {
+   "id": 33,
+   "name": "Hagbae Kim",
+   "institution": "Yonsei University, Korea",
+   "year": "1994",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "students_in_tree": [],
+   "position_on_record": "Professor, School of Electrical and Electronic Engineering, Yonsei University"
+  }
+ ]
+}

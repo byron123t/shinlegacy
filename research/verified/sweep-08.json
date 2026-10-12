@@ -1,0 +1,194 @@
+{
+ "batch": "sweep-08",
+ "people": [
+  {
+   "id": 119,
+   "name": "Xin Jin",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Diandian Gu",
+     "phd_year": null,
+     "current_institution": "ML system researcher (affiliation not stated)",
+     "website": null,
+     "source_url": "https://gudiandian.github.io/",
+     "evidence": "Homepage: 'I received my Ph.D. degree from Computer Systems Research Group, Peking University, advised by Prof. Xuanzhe Liu and Prof. Xin Jin'; year not stated",
+     "verdict": "confirmed",
+     "reason": "Student's own homepage names Xin Jin as (co-)advisor of PhD"
+    },
+    {
+     "name": "Chao Jin",
+     "phd_year": "current",
+     "current_institution": "Peking University",
+     "website": null,
+     "source_url": "https://chaojin0310.github.io/",
+     "evidence": "Homepage: 'fourth-year Ph.D. candidate ... at Peking University, advised by Prof. Xin Jin'",
+     "verdict": "confirmed",
+     "reason": "Student's own homepage names Xin Jin as (co-)advisor of PhD"
+    },
+    {
+     "name": "Sheng Qi",
+     "phd_year": "current",
+     "current_institution": "Peking University",
+     "website": null,
+     "source_url": "https://tomquartz.github.io/",
+     "evidence": "Homepage: 'Ph.D. student ... co-advised by Prof. Xuanzhe Liu and Prof. Xin Jin'",
+     "verdict": "confirmed",
+     "reason": "Student's own homepage names Xin Jin as (co-)advisor of PhD"
+    },
+    {
+     "name": "Junyi Shu",
+     "phd_year": null,
+     "current_institution": "UCLA (postdoc)",
+     "website": null,
+     "source_url": "https://kyleshu.github.io/",
+     "evidence": "Homepage: 'earned my Ph.D. from Peking University advised by Prof. Xin Jin and Prof. Xuanzhe Liu'; year not stated",
+     "verdict": "confirmed",
+     "reason": "Student's own homepage names Xin Jin as (co-)advisor of PhD"
+    },
+    {
+     "name": "Bingyang Wu",
+     "phd_year": "current",
+     "current_institution": "Peking University",
+     "website": null,
+     "source_url": "https://bingyangwu.github.io/",
+     "evidence": "Homepage: 'Ph.D. candidate ... at Peking University, advised by Xin Jin' (2022 - 2027 expected)",
+     "verdict": "confirmed",
+     "reason": "Student's own homepage names Xin Jin as (co-)advisor of PhD"
+    },
+    {
+     "name": "Yihao Zhao",
+     "phd_year": "current",
+     "current_institution": "Peking University",
+     "website": null,
+     "source_url": "https://rivendile.github.io/",
+     "evidence": "Homepage: 'final-year Ph.D. candidate ... co-advised by Prof. Xuanzhe Liu and Prof. Xin Jin'",
+     "verdict": "confirmed",
+     "reason": "Student's own homepage names Xin Jin as (co-)advisor of PhD"
+    },
+    {
+     "name": "Yinmin Zhong",
+     "phd_year": "current",
+     "current_institution": "Peking University",
+     "website": null,
+     "source_url": "https://yinminzhong.com/",
+     "evidence": "Homepage: 'final-year Ph.D. candidate ... co-advised by Prof. Xin Jin and Prof. Xuanzhe Liu'",
+     "verdict": "confirmed",
+     "reason": "Student's own homepage names Xin Jin as (co-)advisor of PhD"
+    },
+    {
+     "name": "Zili Zhang",
+     "phd_year": "current",
+     "current_institution": "Peking University",
+     "website": null,
+     "source_url": "https://zilizhang.site/",
+     "evidence": "Homepage: 'fourth-year Ph.D. candidate ... Peking University, advised by Prof. Xin Jin'",
+     "verdict": "confirmed",
+     "reason": "Student's own homepage names Xin Jin as (co-)advisor of PhD"
+    },
+    {
+     "name": "Zhuolong Yu",
+     "phd_year": "2023",
+     "current_institution": "University of Science and Technology of China (Professor)",
+     "website": null,
+     "source_url": "https://zyuuuid.github.io/",
+     "evidence": "Homepage: 'received his Ph.D. from Johns Hopkins University, where he was advised by Prof. Xin Jin and Prof. Vladimir Braverman'; Ph.D. JHU 2023",
+     "verdict": "confirmed",
+     "reason": "Student's own homepage names Xin Jin as (co-)advisor of PhD"
+    },
+    {
+     "name": "Hang Zhu",
+     "phd_year": "2022",
+     "current_institution": "ByteDance Seed (Research Scientist)",
+     "website": null,
+     "source_url": "https://hzhu1.github.io/",
+     "evidence": "Homepage: 'obtained my PhD degree from Johns Hopkins University in 2022, advised by Prof. Xin Jin'",
+     "verdict": "confirmed",
+     "reason": "Student's own homepage names Xin Jin as (co-)advisor of PhD"
+    },
+    {
+     "name": "Zhihao Bai",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "http://www.cs.jhu.edu/~bzh1994",
+     "evidence": "Homepage: 'fifth-year PhD student at Department of Computer Science, Johns Hopkins University, advised by Prof. Xin Jin'; graduation year/current position not stated",
+     "verdict": "confirmed",
+     "reason": "Student's own homepage names Xin Jin as (co-)advisor of PhD"
+    }
+   ]
+  },
+  {
+   "id": 120,
+   "name": "Srinivas Narayana",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Xiangyu Gao",
+     "phd_year": "2024",
+     "current_institution": "New York University (with Anirudh Sivaraman); first position postdoc at University of Washington",
+     "website": null,
+     "source_url": "https://people.cs.rutgers.edu/~sn624/",
+     "evidence": "Alumni list on Narayana's homepage: 'Xiangyu Gao (Ph.D. '19--'24, at NYU, with Anirudh Sivaraman)'",
+     "verdict": "confirmed",
+     "reason": "Listed as Ph.D. in Alumni section of Narayana's homepage"
+    },
+    {
+     "name": "Qiongwen Xu",
+     "phd_year": "2025",
+     "current_institution": "unknown",
+     "website": null,
+     "source_url": "https://people.cs.rutgers.edu/~sn624/",
+     "evidence": "Alumni list on Narayana's homepage: 'Qiongwen Xu (Ph.D. '19--'25)'",
+     "verdict": "confirmed",
+     "reason": "Listed as Ph.D. in Alumni section of Narayana's homepage"
+    }
+   ]
+  },
+  {
+   "id": 124,
+   "name": "Eric Keller",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Oliver Michel",
+     "phd_year": "2019",
+     "current_institution": "Univ. of Vienna (postdoc after Cloud Architect at TourRadar)",
+     "website": null,
+     "source_url": "https://eric-keller.github.io/",
+     "evidence": "Alumni list: 'Oliver Michel, 2019 Ph.D. in CS - Packet-Level Network Telemetry and Analytics'",
+     "verdict": "confirmed",
+     "reason": "Listed under Ph.D. in CS in Alumni on Keller's homepage with dissertation title (2019)"
+    },
+    {
+     "name": "Dustin Hooks",
+     "phd_year": "current",
+     "current_institution": "University of Colorado Boulder",
+     "website": null,
+     "source_url": "https://eric-keller.github.io/",
+     "evidence": "Current students list: 'Dustin Hooks PhD CS (expected 2027)'",
+     "verdict": "rejected",
+     "reason": "Entry is inside an HTML comment on Keller's page (not displayed); not currently listed"
+    }
+   ]
+  },
+  {
+   "id": 126,
+   "name": "Minlan Yu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  }
+ ]
+}

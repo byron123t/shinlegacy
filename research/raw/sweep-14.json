@@ -1,0 +1,176 @@
+{
+ "batch": "sweep-14",
+ "people": [
+  {
+   "id": 299,
+   "name": "Rong Zheng",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Mason Kadem",
+     "phd_year": "current",
+     "current_institution": "McMaster University",
+     "website": null,
+     "source_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+     "evidence": "Listed as PhD Student under 'Students' on WiSeR Our Team page (lab led by Rong Zheng)"
+    },
+    {
+     "name": "Longyun Liao",
+     "phd_year": "current",
+     "current_institution": "McMaster University",
+     "website": null,
+     "source_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+     "evidence": "Listed as PhD Student under 'Students' on WiSeR Our Team page (lab led by Rong Zheng)"
+    },
+    {
+     "name": "Andrew Mitchell",
+     "phd_year": "current",
+     "current_institution": "McMaster University",
+     "website": null,
+     "source_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+     "evidence": "Listed as PhD Student under 'Students' on WiSeR Our Team page (lab led by Rong Zheng)"
+    },
+    {
+     "name": "Bodee Quansah",
+     "phd_year": "current",
+     "current_institution": "McMaster University",
+     "website": null,
+     "source_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+     "evidence": "Listed as PhD Student under 'Students' on WiSeR Our Team page (lab led by Rong Zheng)"
+    },
+    {
+     "name": "Margaret Xie",
+     "phd_year": "current",
+     "current_institution": "McMaster University",
+     "website": null,
+     "source_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+     "evidence": "Listed as PhD Student under 'Students' on WiSeR Our Team page (lab led by Rong Zheng)"
+    },
+    {
+     "name": "Yunkai Yu",
+     "phd_year": "current",
+     "current_institution": "McMaster University",
+     "website": null,
+     "source_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+     "evidence": "Listed as PhD Student under 'Students' on WiSeR Our Team page (lab led by Rong Zheng)"
+    },
+    {
+     "name": "Navid Zandi",
+     "phd_year": "current",
+     "current_institution": "McMaster University",
+     "website": null,
+     "source_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+     "evidence": "Listed as 'Navid Zandi | PhD Student' on WiSeR Our Team page (alumni section); co-author with Zheng on 2025 papers"
+    }
+   ],
+   "notes": "Homepage links to WiSeR lab site (wiser.cas.mcmaster.ca); used its People page. Changhao Wu is listed under Students with no title (not included). Excluded MSc/MEng/MASc, postdoc, visitors (Can Xue, visiting PhD from Zhejiang). Renjie Xu, Wei Zhao, Keivan Nalaie etc. already in tree. Navid Zandi appears in alumni section without year."
+  },
+  {
+   "id": 304,
+   "name": "Hwangnam Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Namkyung Yoon",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed under 'Ph.D. Students' on WINE Lab members page, Course: M.S. & Ph.D. Student"
+    },
+    {
+     "name": "Kiseok Kim",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed under 'Ph.D. Students' on WINE Lab members page, Course: M.S. & Ph.D. Student"
+    },
+    {
+     "name": "Changmin Park",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed under 'Ph.D. Students' on WINE Lab members page, Course: M.S. & Ph.D. Student"
+    },
+    {
+     "name": "Kyeonghyun Yoo",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed under 'Ph.D. Students' on WINE Lab members page, Course: M.S. & Ph.D. Student"
+    },
+    {
+     "name": "Wooyong Jung",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed under 'Ph.D. Students' on WINE Lab members page, Course: M.S. & Ph.D. Student"
+    },
+    {
+     "name": "Dohun Lee",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed under 'Ph.D. Students' on WINE Lab members page, Course: M.S. & Ph.D. Student"
+    },
+    {
+     "name": "Seokmin Kim",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed under 'Ph.D. Students' on WINE Lab members page, Course: M.S. & Ph.D. Student"
+    },
+    {
+     "name": "Taewoo Park",
+     "phd_year": "current",
+     "current_institution": "Korea University",
+     "website": null,
+     "source_url": "https://wine.korea.ac.kr/members",
+     "evidence": "Listed under 'Ph.D. Students' on WINE Lab members page, Course: M.S. & Ph.D. Student"
+    }
+   ],
+   "notes": "Used WINE Lab members page (linked from homepage). Current students are 'M.S. & Ph.D.' integrated course under 'Ph.D. Students' heading; spelling on page 'Woo y ong Jung'. Excluded M.S. students/alumni and undergrad intern. All Ph.D. alumni already in tree."
+  },
+  {
+   "id": 313,
+   "name": "Dimitris Papadopoulos",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Homepage has no people page or lab site. News mentions 'my student Xiangan Tian' and 'my student Xian Wang' without saying PhD, so not included. Christodoulos Pappas and Jiajun Xin already in tree."
+  },
+  {
+   "id": 314,
+   "name": "Davide Proserpio",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Poet Larsen",
+     "phd_year": "unknown",
+     "current_institution": "Harvard Business School (postdoc)",
+     "website": null,
+     "source_url": "https://dadepro.github.io/",
+     "evidence": "Students list: 'Poet Larsen (dissertation committee chair). Placement: Postdoc, Harvard Business School'"
+    }
+   ],
+   "notes": "Students section of homepage. Isamar Troncoso already in tree. Others listed only as dissertation committee members (Tal Shoshani, Ignacio Riveros, Yanyan Li, Fanglin Chen, Yongseok Kim, Gizem Celyan, Siddhartha Sharma), not advised, so excluded; Shomik Jain was an undergrad."
+  }
+ ]
+}

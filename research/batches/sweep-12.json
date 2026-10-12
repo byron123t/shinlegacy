@@ -1,0 +1,61 @@
+{
+ "batch": "sweep-12",
+ "kind": "students",
+ "people": [
+  {
+   "id": 232,
+   "name": "Wen-Chih Peng",
+   "institution": "National Chiao Tung University",
+   "year": "2001",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "https://sites.google.com/site/wcpeng/",
+   "students_in_tree": [
+    "Chih-Yu Lin (2007)",
+    "Chih-Chieh Hung (2011)",
+    "Po-Ruey Lei (2012)",
+    "Ling-Yin Wei (2012)",
+    "Yi-Cheng Chen (2012)",
+    "Meng-Fen Chiang (2012)",
+    "Zhung-Xun Liao (2013)",
+    "Wen-Yuan Zhu (2016)",
+    "Chien-Cheng Chen (2017)",
+    "Gunarto Sindoro Njoo (2019)",
+    "Yu-Ting Wen (2019)",
+    "Wei-Yao Wang (2024)",
+    "Hui-Kuo Yang (2024)",
+    "Chiao-Ting Chen (2024)"
+   ],
+   "position_on_record": "Professor, Department of Computer Science, National Yang Ming Chiao Tung University"
+  },
+  {
+   "id": 237,
+   "name": "Hung-Yu Kao",
+   "institution": "National Cheng Kung University",
+   "year": "2003",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "https://isa.site.nthu.edu.tw/p/406-1182-272217,r4919.php?Lang=en",
+   "students_in_tree": [],
+   "position_on_record": "Professor, Institute of Information Systems and Applications, National Tsing Hua University"
+  },
+  {
+   "id": 239,
+   "name": "Jin-Long Huang",
+   "institution": "National Chiao Tung University",
+   "year": "2003",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "https://people.cs.nycu.edu.tw/~jlhuang/",
+   "students_in_tree": [],
+   "position_on_record": "Professor, Department of Computer Science, National Yang Ming Chiao Tung University"
+  },
+  {
+   "id": 251,
+   "name": "Chien-Chin Chen",
+   "institution": "National Taiwan University",
+   "year": "2007",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "https://homepage.ntu.edu.tw/~patonchen/",
+   "students_in_tree": [],
+   "position_on_record": "Professor, Department of Information Management, National Taiwan University"
+  }
+ ]
+}

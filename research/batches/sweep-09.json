@@ -1,0 +1,69 @@
+{
+ "batch": "sweep-09",
+ "kind": "students",
+ "people": [
+  {
+   "id": 128,
+   "name": "Sharon Goldberg",
+   "institution": "Microsoft Research",
+   "year": "2009",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "https://www.cs.bu.edu/fac/goldbe/",
+   "students_in_tree": [
+    "Dimitris Papadopoulos (2016)",
+    "Davide Proserpio (2016)",
+    "Ethan Heilman",
+    "Aanchal Malhotra",
+    "Sarah Scheffler"
+   ],
+   "position_on_record": "Associate Professor of Computer Science, Boston University"
+  },
+  {
+   "id": 135,
+   "name": "Tai-lin Chin",
+   "institution": "National Taiwan University of Science and Technology",
+   "year": "2006",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "http://faculty.csie.ntust.edu.tw/~tchin/",
+   "students_in_tree": [],
+   "position_on_record": "Professor, Dept. of CSIE, National Taiwan University of Science and Technology"
+  },
+  {
+   "id": 136,
+   "name": "Constantine Dovrolis",
+   "institution": "Georgia Tech",
+   "year": "2000",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "http://www.cc.gatech.edu/fac/Constantinos.Dovrolis/",
+   "students_in_tree": [
+    "Qi He (2005)",
+    "Yong Zhu (2006)",
+    "Manish Jain (2006)",
+    "Ruomei Gao (2007)",
+    "Ravi Prasad (2007)",
+    "Amogh Dhamdhere (2009)",
+    "Partha Kanuparthy (2012)",
+    "Aemen Lodhi (2014)",
+    "Ilias Foundalis (2016)",
+    "Qihang Yao (2025)",
+    "Mustafa Burak Gürbüz (2025)",
+    "Cameron Taylor (2025)",
+    "Shreyas Malakarjun Patil (2024)",
+    "Kamal Shadi (2019)",
+    "Kaeser Md. Sabrin (2018)",
+    "Payam Siyari (2018)"
+   ],
+   "position_on_record": "Professor (moved from Georgia Tech to Cyprus in 2023); machine learning, network science and neuroscience"
+  },
+  {
+   "id": 138,
+   "name": "Bechir Hamdaoui",
+   "institution": "Oregon State",
+   "year": "2005",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "http://web.engr.oregonstate.edu/~hamdaoui/",
+   "students_in_tree": [],
+   "position_on_record": "Professor, Electrical Engineering and Computer Science, Oregon State University"
+  }
+ ]
+}

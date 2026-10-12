@@ -1,0 +1,63 @@
+{
+ "batch": "sweep-10",
+ "kind": "students",
+ "people": [
+  {
+   "id": 149,
+   "name": "Kuang-Ching Wang",
+   "institution": "Clemson University",
+   "year": "2003",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "http://people.clemson.edu/~kwang/",
+   "students_in_tree": [],
+   "position_on_record": "Empire Innovation Professor of Trustworthy AI and Director of the School of Computing, Binghamton University (SUNY); formerly Provost Distinguished Professor, Clemson University"
+  },
+  {
+   "id": 151,
+   "name": "Amrita Roy Chowdhury",
+   "institution": "University of Michigan",
+   "year": "2021",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "https://sites.google.com/wisc.edu/amrita-roy-chowdhury/",
+   "students_in_tree": [
+    "Mushtari Sadia",
+    "Yiyi Sun",
+    "Samanway Sadhu",
+    "Siddarth Sitaraman",
+    "Huseyin Sahin"
+   ],
+   "position_on_record": "Assistant Professor of Computer Science and Engineering, University of Michigan"
+  },
+  {
+   "id": 160,
+   "name": "Sanjib Sur",
+   "institution": "University of South Carolina",
+   "year": "2018",
+   "advisor": "Xinyu Zhang",
+   "website_on_record": "https://cse.sc.edu/~sur/index.html",
+   "students_in_tree": [
+    "Emmanuel Addo Addae",
+    "Pingping Cai",
+    "Zhuangzhuang Gu",
+    "Sabbir Saadat",
+    "Zarin Shejuti",
+    "Aayush Shrestha",
+    "Abdulahi Taiwo",
+    "Reza Tavasoli",
+    "Aakriti Adhikari (2025)",
+    "Hem Regmi (2025)"
+   ],
+   "position_on_record": "Associate Professor of Computer Science and Engineering, University of South Carolina"
+  },
+  {
+   "id": 165,
+   "name": "Renjie Zhao",
+   "institution": "JHU",
+   "year": "2023",
+   "advisor": "Xinyu Zhang",
+   "website_on_record": "https://renjiezhao.github.io/",
+   "students_in_tree": [],
+   "position_on_record": "Assistant Professor of Computer Science, Johns Hopkins University"
+  }
+ ]
+}
