@@ -1,0 +1,40 @@
+{
+ "batch": "fix-02",
+ "people": [
+  {
+   "id": 352,
+   "name": "Lu Su",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Wenjun Jiang",
+     "phd_year": null,
+     "current_institution": "Samsung Research America",
+     "website": "https://wenjunjiang.github.io/",
+     "source_url": "https://wenjunjiang.github.io/",
+     "evidence": "Homepage: \"I received my Ph.D. degree from the Department of Computer Science and Engineering of SUNY Buffalo, supervised by Dr. Lu Su.\" Year not stated."
+    },
+    {
+     "name": "Chenglin Miao",
+     "phd_year": null,
+     "current_institution": "Iowa State University",
+     "website": "https://clmiao.github.io/",
+     "source_url": "https://clmiao.github.io/",
+     "evidence": "Homepage: \"I obtained my Ph.D. in Computer Science and Engineering from the State University of New York at Buffalo ... where I was supervised by Prof. Lu Su.\" Year not stated."
+    },
+    {
+     "name": "Hongfei Xue",
+     "phd_year": null,
+     "current_institution": "University of North Carolina at Charlotte",
+     "website": "http://havocfixer.github.io/",
+     "source_url": "http://havocfixer.github.io/",
+     "evidence": "Homepage: earned Ph.D. from SUNY Buffalo, \"jointly supervised by Dr. Lu Su and Dr. Aidong Zhang\" (co-advised). Year not stated."
+    }
+   ],
+   "notes": "Lu Su has no student/alumni list on engineering.purdue.edu/~lusu/ or cse.buffalo.edu/~lusu/. Grant pages (career.html, quicroad.html, crii.html) list people only as 'PhD student' without naming an advisor. Included only students whose own homepage names Su as supervisor. Jing Gao's group page (engineering.purdue.edu/~jinggao/group.htm) lists Yaqing Wang (PhD 2022), Hengtong Zhang (2020), Fenglong Ma (2019; his homepage says 'My advisor was Prof. Jing Gao'), Houping Xiao (2018) as her PhD alumni, and Chuishi Meng (2018) as co-supervised with the co-supervisor unnamed; none show Su as advisor, so excluded. No explicit Su-advisor evidence found (homepages not located or not reachable) for: Yi Zhu, Shiyang Wang, Xingchen Wang, Qiming Cao (likely current Purdue students; co-authors with Su on a 2024 TOSN paper, which is not proof), Weida Zhong, Enshu Wang, Abhishek Gupta, Sayan De Sarkar, Hoang Xuan Dao. Guessed github.io URLs for Yi Zhu, Hongfei Xue (hongfeixue), Chuishi Meng, Shiyang Wang were wrong people or 404."
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "batch": "fix-01",
+ "kind": "students",
+ "people": [
+  {
+   "id": 54,
+   "name": "Haining Wang",
+   "institution": "Virginia Tech, Arlington, VA",
+   "year": "2003",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://ece.vt.edu/people/profile/wangh.html",
+   "students_in_tree": []
+  },
+  {
+   "id": 105,
+   "name": "Varun Chandrasekaran",
+   "institution": "University of Illinois Urbana-Champaign",
+   "year": "2023",
+   "advisor": "Kassem Fawaz",
+   "website_on_record": "https://ece.illinois.edu/about/directory/faculty/varunc",
+   "students_in_tree": []
+  }
+ ]
+}

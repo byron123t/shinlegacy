@@ -1,0 +1,245 @@
+{
+ "batch": "sweep2-07",
+ "people": [
+  {
+   "id": 269,
+   "name": "Chih-Ya Shen",
+   "students": [],
+   "notes": "Homepage and LoBSTeR Wix site (kant963963.wixsite.com/lobster) list no members; 1 search found nothing. Not checked: NDLTD.",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null
+  },
+  {
+   "id": 270,
+   "name": "Hong-Han Shuai",
+   "students": [
+    {
+     "name": "Yun-Zhu Song",
+     "phd_year": "2023",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'Veterans (PHD)' on BASIC Lab (Hong-Han Shuai's lab) Members page, with PhD enrollment/end dates; page does not explicitly name advisor for alumni, and some current PhD students are marked co-advised"
+    },
+    {
+     "name": "Yi-Syuan Chen",
+     "phd_year": "2023",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'Veterans (PHD)' on BASIC Lab (Hong-Han Shuai's lab) Members page, with PhD enrollment/end dates; page does not explicitly name advisor for alumni, and some current PhD students are marked co-advised"
+    },
+    {
+     "name": "Hung-Jen Chen",
+     "phd_year": "2024",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'Veterans (PHD)' on BASIC Lab (Hong-Han Shuai's lab) Members page, with PhD enrollment/end dates; page does not explicitly name advisor for alumni, and some current PhD students are marked co-advised"
+    },
+    {
+     "name": "Thanh-Hai Phung",
+     "phd_year": "2024",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'Veterans (PHD)' on BASIC Lab (Hong-Han Shuai's lab) Members page, with PhD enrollment/end dates; page does not explicitly name advisor for alumni, and some current PhD students are marked co-advised"
+    },
+    {
+     "name": "Wei-Lun Tseng",
+     "phd_year": "2025",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'Veterans (PHD)' on BASIC Lab (Hong-Han Shuai's lab) Members page, with PhD enrollment/end dates; page does not explicitly name advisor for alumni, and some current PhD students are marked co-advised"
+    },
+    {
+     "name": "Yi-Lun Wu",
+     "phd_year": "2026",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'Veterans (PHD)' on BASIC Lab (Hong-Han Shuai's lab) Members page, with PhD enrollment/end dates; page does not explicitly name advisor for alumni, and some current PhD students are marked co-advised"
+    },
+    {
+     "name": "Li-Wu Tsao",
+     "phd_year": "2026",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'Veterans (PHD)' on BASIC Lab (Hong-Han Shuai's lab) Members page, with PhD enrollment/end dates; page does not explicitly name advisor for alumni, and some current PhD students are marked co-advised"
+    },
+    {
+     "name": "Wei-Chih Chen",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'PhD Students' on BASIC Lab (Hong-Han Shuai's lab) Members page, PhD since 2023/09~"
+    },
+    {
+     "name": "Sung-Lin Tsai",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'PhD Students' on BASIC Lab (Hong-Han Shuai's lab) Members page, PhD since 2023/09~"
+    },
+    {
+     "name": "Bo-Kai Ruan",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'PhD Students' on BASIC Lab (Hong-Han Shuai's lab) Members page, PhD since 2023/09~"
+    },
+    {
+     "name": "Jia-Jiun Gung",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'PhD Students' on BASIC Lab (Hong-Han Shuai's lab) Members page, PhD since 2023/02~; co-advised with Prof. Chia-Yu Lin"
+    },
+    {
+     "name": "Kai-Lin Yang",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'PhD Students' on BASIC Lab (Hong-Han Shuai's lab) Members page, PhD since 2022/09~; co-advised with Prof. Yung-Hui Li"
+    },
+    {
+     "name": "Chiang Tseng",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'PhD Students' on BASIC Lab (Hong-Han Shuai's lab) Members page, PhD since 2024/09~"
+    },
+    {
+     "name": "Feng-Kai Huang",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'PhD Students' on BASIC Lab (Hong-Han Shuai's lab) Members page, PhD since 2024/09~; co-advised with Prof. Wen-Huang Cheng"
+    },
+    {
+     "name": "Yu-Ting Shen",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'PhD Students' on BASIC Lab (Hong-Han Shuai's lab) Members page, PhD since 2024/09~; co-advised with Prof. Woan-Shiuan Chien"
+    },
+    {
+     "name": "Hong-Wei Xu",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'PhD Students' on BASIC Lab (Hong-Han Shuai's lab) Members page, PhD since 2024/09~"
+    },
+    {
+     "name": "Tzu-Ling Lin",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'PhD Students' on BASIC Lab (Hong-Han Shuai's lab) Members page, PhD since 2024/09~"
+    },
+    {
+     "name": "Yan-Yu Lin",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'PhD Students' on BASIC Lab (Hong-Han Shuai's lab) Members page, PhD since 2024/09~"
+    },
+    {
+     "name": "Yan-Ting Lin",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'PhD Students' on BASIC Lab (Hong-Han Shuai's lab) Members page, PhD since 2024/09~"
+    },
+    {
+     "name": "Teng-Fang Hsiao",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'PhD Students' on BASIC Lab (Hong-Han Shuai's lab) Members page, PhD since 2026/02~"
+    },
+    {
+     "name": "Cheng-Tsung Lee",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'PhD Students' on BASIC Lab (Hong-Han Shuai's lab) Members page, PhD since 2025/09~"
+    },
+    {
+     "name": "Hui-Hsuan Wen",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'PhD Students' on BASIC Lab (Hong-Han Shuai's lab) Members page, PhD since 2026/09~"
+    },
+    {
+     "name": "Yu-Hsuan Chen",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'PhD Students' on BASIC Lab (Hong-Han Shuai's lab) Members page, PhD since 2026/09~"
+    },
+    {
+     "name": "Yu-Kai Chan",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'PhD Students' on BASIC Lab (Hong-Han Shuai's lab) Members page, PhD since 2026/09~; co-advised with Dr. Yung-Hui Li"
+    },
+    {
+     "name": "Wen-Sheng Lien",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "evidence": "Listed under 'PhD Students' on BASIC Lab (Hong-Han Shuai's lab) Members page, PhD since 2026/09~; co-advised with Prof. Meng-Fen Chiang"
+    }
+   ],
+   "notes": "Found via BASIC Lab Members page (basiclab.lab.nycu.edu.tw/new/Members.html, linked from homepage). Lab is Shuai's (contact iamshuai@gmail.com); phd_year taken from end date; alumni advisor not stated explicitly, co-advising possible. Current PhD students added with phd_year 'current' per coordinator.",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null
+  },
+  {
+   "id": 313,
+   "name": "Dimitris Papadopoulos",
+   "students": [
+    {
+     "name": "Javad Gharehchamani",
+     "phd_year": "2022",
+     "current_institution": "Huawei Hong Kong Research Center",
+     "website": null,
+     "source_url": "https://www.cse.ust.hk/~dipapado/docs/CV.pdf",
+     "evidence": "CV Advising section: 'Javad GHAREH CHAMANI, Degree: PhD (August 2022). Thesis: Secure and Practical Search over Dynamic Encrypted Datasets. Placement: Huawei HKRC, Researcher'"
+    }
+   ],
+   "notes": "CV (docs/CV.pdf on homepage) also lists MPhil students Xian Wang, Xiangan Tian (excluded). Jiajun Xin already in tree.",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null
+  }
+ ]
+}

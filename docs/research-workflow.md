@@ -113,6 +113,8 @@ A pass that only looks for missing PhD students of faculty already in the tree. 
 
 The research agent follows the `students` rules above, starting from `website_on_record` and every lab/group/people/alumni link reachable from it, and writes `research/raw/sweep-NN.json` with `website`, `photo`, `current_position` and `bio` set to `null`. Mostly page fetches, so it uses few searches. Verify and apply as usual.
 
+Don't trust a "0 new students" result from the homepage alone. Lab sites, NSF project pages and CVs are often not linked from the homepage (Haining Wang's lab at `nss.ece.vt.edu`, Lu Su's `~lusu/career.html`). Run a second, search-enabled pass (`sweep2-NN`) over everyone who came back empty. Project pages list students funded by a grant, not necessarily advised by the PI: confirm each one from the student's own homepage ("supervised by …"), their dissertation record, or the advisor's group page.
+
 ## 3. Verify
 
 Run a **different** agent per raw file. It must not trust the researcher; it re-opens every source itself. Prompt:

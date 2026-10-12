@@ -1,0 +1,268 @@
+{
+ "batch": "sweep2-07",
+ "people": [
+  {
+   "id": 269,
+   "name": "Chih-Ya Shen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 270,
+   "name": "Hong-Han Shuai",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Yun-Zhu Song",
+     "phd_year": "2023",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'Veterans (PHD)' section (co-advised noted); lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    },
+    {
+     "name": "Yi-Syuan Chen",
+     "phd_year": "2023",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'Veterans (PHD)' section (co-advised noted); lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    },
+    {
+     "name": "Hung-Jen Chen",
+     "phd_year": "2024",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'Veterans (PHD)' section (co-advised noted); lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    },
+    {
+     "name": "Thanh-Hai Phung",
+     "phd_year": "2024",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'Veterans (PHD)' section (co-advised noted); lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    },
+    {
+     "name": "Wei-Lun Tseng",
+     "phd_year": "2025",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'Veterans (PHD)' section (co-advised noted); lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    },
+    {
+     "name": "Yi-Lun Wu",
+     "phd_year": "2026",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'Veterans (PHD)' section (co-advised noted); lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    },
+    {
+     "name": "Li-Wu Tsao",
+     "phd_year": "2026",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'Veterans (PHD)' section (co-advised noted); lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    },
+    {
+     "name": "Wei-Chih Chen",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'PhD Students' section; lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    },
+    {
+     "name": "Sung-Lin Tsai",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'PhD Students' section; lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    },
+    {
+     "name": "Bo-Kai Ruan",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'PhD Students' section; lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    },
+    {
+     "name": "Jia-Jiun Gung",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'PhD Students' section (co-advised noted); lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    },
+    {
+     "name": "Kai-Lin Yang",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'PhD Students' section (co-advised noted); lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    },
+    {
+     "name": "Chiang Tseng",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'PhD Students' section; lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    },
+    {
+     "name": "Feng-Kai Huang",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'PhD Students' section (co-advised noted); lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    },
+    {
+     "name": "Yu-Ting Shen",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'PhD Students' section (co-advised noted); lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    },
+    {
+     "name": "Hong-Wei Xu",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'PhD Students' section; lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    },
+    {
+     "name": "Tzu-Ling Lin",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'PhD Students' section; lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    },
+    {
+     "name": "Yan-Yu Lin",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'PhD Students' section; lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    },
+    {
+     "name": "Yan-Ting Lin",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'PhD Students' section; lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    },
+    {
+     "name": "Teng-Fang Hsiao",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'PhD Students' section; lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    },
+    {
+     "name": "Cheng-Tsung Lee",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'PhD Students' section; lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    },
+    {
+     "name": "Hui-Hsuan Wen",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'PhD Students' section; lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    },
+    {
+     "name": "Yu-Hsuan Chen",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'PhD Students' section; lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    },
+    {
+     "name": "Yu-Kai Chan",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'PhD Students' section (co-advised noted); lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    },
+    {
+     "name": "Wen-Sheng Lien",
+     "phd_year": "current",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+     "verdict": "confirmed",
+     "reason": "Listed in BASIC Lab Members page 'PhD Students' section (co-advised noted); lab is Hong-Han Shuai's; per task instruction counts as his PhD student"
+    }
+   ]
+  },
+  {
+   "id": 313,
+   "name": "Dimitris Papadopoulos",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Javad Gharehchamani",
+     "phd_year": "2022",
+     "current_institution": "Huawei Hong Kong Research Center",
+     "website": null,
+     "source_url": "https://www.cse.ust.hk/~dipapado/docs/CV.pdf",
+     "verdict": "confirmed",
+     "reason": "CV section E Advising, Graduated RPg Students: 'Javad GHAREH CHAMANI, Degree: PhD (August 2022)... Placement: Huawei HKRC, Researcher'"
+    }
+   ]
+  }
+ ]
+}

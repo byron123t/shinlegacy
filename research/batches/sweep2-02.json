@@ -1,0 +1,44 @@
+{
+ "batch": "sweep2-02",
+ "kind": "students",
+ "people": [
+  {
+   "id": 45,
+   "name": "Wu-chang Feng",
+   "institution": "Portland State University",
+   "year": "1999",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://thefengs.com/wuchang/",
+   "position_on_record": "Professor of Computer Science, Portland State University",
+   "students_in_tree": [
+    "Chris Chambers (2006)",
+    "Ed Kaiser (2010)"
+   ],
+   "previous_sweep_notes": "Homepage https://thefengs.com/wuchang/ and CV page have no student/lab/alumni list or links to a lab site; one WebSearch found no PhD student list or genealogy record. No new students found."
+  },
+  {
+   "id": 51,
+   "name": "Xi Zhang",
+   "institution": "Texas A&M University",
+   "year": "2002",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://people.engr.tamu.edu/xizhang/index.html",
+   "position_on_record": "Professor and Founding Director of the Networking and Information Systems Laboratory, ECE, Texas A&M University",
+   "students_in_tree": [
+    "Jia Tang (2006)"
+   ],
+   "previous_sweep_notes": "Fetched homepage people.engr.tamu.edu/xizhang/ (index, bio.html); no student list. Its 'Academic Family Tree' link points to Daji Qiao's RTCL page (his own advisor lineage, not students). qshine.org is a conference site. No lab people page found; no new students."
+  },
+  {
+   "id": 60,
+   "name": "Chun-Ting Chou",
+   "institution": "National Taiwan University and CEO@OmniEyes",
+   "year": "2004",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "position_on_record": "Professor, National Taiwan University; CEO and co-founder, OmniEyes",
+   "students_in_tree": [],
+   "previous_sweep_notes": "No website on record; 2 WebSearches found no NTU page for this person (name variants unmatched). Not researched further."
+  }
+ ]
+}

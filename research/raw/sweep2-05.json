@@ -1,0 +1,35 @@
+{
+ "batch": "sweep2-05",
+ "people": [
+  {
+   "id": 210,
+   "name": "Taewoon Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Hallym lab page (sites.google.com/g-mail.hallym.ac.kr/taewoon) lists only undergraduate project participants; PNU CI Lab Notion site not readable; no PhD students found."
+  },
+  {
+   "id": 237,
+   "name": "Hung-Yu Kao",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Lab sites unreachable (ikm.csie.ncku.edu.tw connection refused); searches in English and Chinese found no roster or dissertation records. No PhD students with explicit evidence."
+  },
+  {
+   "id": 239,
+   "name": "Jin-Long Huang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Homepage has no lab link; old lab mpc.cs.nctu.edu.tw 404, web.archive.org not fetchable; English and Chinese searches and mathgenealogy found nothing. No PhD students with explicit evidence."
+  }
+ ]
+}

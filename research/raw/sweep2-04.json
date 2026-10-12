@@ -1,0 +1,35 @@
+{
+ "batch": "sweep2-04",
+ "people": [
+  {
+   "id": 149,
+   "name": "Kuang-Ching Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched TigerPrints/web for Wang as Clemson dissertation chair/advisor; only found MS thesis (Junaid Zulfiqar, tigerprints.clemson.edu/all_theses/2896, Wang as Committee Chair) - MS, excluded. Binghamton profile lists no students. mathgenealogy returned nothing. No PhD students with explicit evidence found."
+  },
+  {
+   "id": 198,
+   "name": "Khaled Hadi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Web search and Kuwait University profile found no supervised PhD students. Arabic-language and KU thesis repository not checked. None found."
+  },
+  {
+   "id": 207,
+   "name": "Yang Peng",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "faculty.washington.edu/yangpeng lists only MS and undergraduate students; web searches found no PhD advisees. None found."
+  }
+ ]
+}

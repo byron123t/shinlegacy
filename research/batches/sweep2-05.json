@@ -1,0 +1,39 @@
+{
+ "batch": "sweep2-05",
+ "kind": "students",
+ "people": [
+  {
+   "id": 210,
+   "name": "Taewoon Kim",
+   "institution": "Hallym University, Korea",
+   "year": "2018",
+   "advisor": "Daji Qiao",
+   "website_on_record": "https://sites.google.com/site/twoonkim/",
+   "position_on_record": "Associate Professor, School of Computer Science and Engineering, Pusan National University",
+   "students_in_tree": [],
+   "previous_sweep_notes": "Google Sites homepage has no student list; no PhD students found."
+  },
+  {
+   "id": 237,
+   "name": "Hung-Yu Kao",
+   "institution": "National Cheng Kung University",
+   "year": "2003",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "https://isa.site.nthu.edu.tw/p/406-1182-272217,r4919.php?Lang=en",
+   "position_on_record": "Professor, Institute of Information Systems and Applications, National Tsing Hua University",
+   "students_in_tree": [],
+   "previous_sweep_notes": "Faculty profile at NTHU ISA lists no students or lab link; searches found no roster. No new students found."
+  },
+  {
+   "id": 239,
+   "name": "Jin-Long Huang",
+   "institution": "National Chiao Tung University",
+   "year": "2003",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "https://people.cs.nycu.edu.tw/~jlhuang/",
+   "position_on_record": "Professor, Department of Computer Science, National Yang Ming Chiao Tung University",
+   "students_in_tree": [],
+   "previous_sweep_notes": "Homepage lists no students; the old lab link mpc.cs.nctu.edu.tw is dead. Search found no roster. No new students found."
+  }
+ ]
+}

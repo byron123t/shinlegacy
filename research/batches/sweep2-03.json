@@ -1,0 +1,59 @@
+{
+ "batch": "sweep2-03",
+ "kind": "students",
+ "people": [
+  {
+   "id": 74,
+   "name": "Jisoo Yang",
+   "institution": "University of Nevada, Las Vegas",
+   "year": "2010",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://web.cs.unlv.edu/jisooy/",
+   "position_on_record": "Assistant Professor, Department of Computer Science, University of Nevada, Las Vegas",
+   "students_in_tree": [],
+   "previous_sweep_notes": "Homepage https://web.cs.unlv.edu/jisooy/ has no lab link; only 'Current students' lists one CS undergraduate (Julian Seymour). Page appears dated (Spring 2017). No PhD students listed."
+  },
+  {
+   "id": 81,
+   "name": "Xinyu Zhang",
+   "institution": "University of California, San Diego",
+   "year": "2012",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://xyzhang.ucsd.edu/index.html",
+   "position_on_record": "Professor of Electrical and Computer Engineering, UC San Diego; Ericsson Endowed Chair in Wireless Access Networks; Director, Center for Wireless Communications",
+   "students_in_tree": [
+    "Xiufeng Xie (2017)",
+    "Chuhan Gao",
+    "Chi Zhang (2017)",
+    "Sanjib Sur (2018)",
+    "Teng Wei (2018)",
+    "Shilin Zhu",
+    "Song Wang",
+    "Timothy Woodford (2023)",
+    "Renjie Zhao (2023)",
+    "John Nolan (2024)",
+    "Ke Sun (2024)",
+    "Songlin Xu (2026)",
+    "Kai Zheng (2025)",
+    "Hongsik Yoon",
+    "Wuqiong Zhao",
+    "Qinpei Luo",
+    "Xingyu Chen",
+    "Baicheng Chen",
+    "Dae Cheol Kwon"
+   ],
+   "previous_sweep_notes": "Homepage https://xyzhang.ucsd.edu/ news lists graduates by year without degree. Follow-up check, none added: Kun Qian (kunqian.info): PhD in Software Engineering, advisors Yunhao Liu and Zheng Yang; was a UCSD postdoc with Zhang, so not his PhD student. Zihao Feng (zihaofeng.com): MS from UCSD advised by Zhang; PhD is at USC, so MS only. Wenqian Zhang (wenqianzhang001.github.io): B.S. at UCSD, research assistant in Zhang's lab; PhD is at Yale, so not his PhD student. Lisa Takai, Yunxiang Chi, Dongwoo Kim, Xuyang Cao, Cheng Huang, Dongyin Hu, Wenyuan Zhao: no personal page, scholar profile or dissertation record found (4 follow-up WebSearches plus fetches), degree and advisor unconfirmed. Zhang's CV link (CV_XinyuZhang_092024.pdf) returned HTML, not a PDF."
+  },
+  {
+   "id": 135,
+   "name": "Tai-lin Chin",
+   "institution": "National Taiwan University of Science and Technology",
+   "year": "2006",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "http://faculty.csie.ntust.edu.tw/~tchin/",
+   "position_on_record": "Professor, Dept. of CSIE, National Taiwan University of Science and Technology",
+   "students_in_tree": [],
+   "previous_sweep_notes": "Homepage links to lab page http://faculty.csie.ntust.edu.tw/~tchin/lab/ (Mobile Computing and Networking Lab): lists only master's students and master's graduates (2021); no PhD students found."
+  }
+ ]
+}

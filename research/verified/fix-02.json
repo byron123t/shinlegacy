@@ -1,0 +1,42 @@
+{
+ "batch": "fix-02",
+ "people": [
+  {
+   "id": 352,
+   "name": "Lu Su",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Wenjun Jiang",
+     "phd_year": null,
+     "current_institution": "Samsung Research America",
+     "website": "https://wenjunjiang.github.io/",
+     "source_url": "https://wenjunjiang.github.io/",
+     "verdict": "confirmed",
+     "reason": "Own homepage explicitly states PhD at SUNY Buffalo supervised by Lu Su"
+    },
+    {
+     "name": "Chenglin Miao",
+     "phd_year": null,
+     "current_institution": "Iowa State University",
+     "website": "https://clmiao.github.io/",
+     "source_url": "https://clmiao.github.io/",
+     "verdict": "confirmed",
+     "reason": "Own homepage explicitly states PhD at SUNY Buffalo supervised by Lu Su"
+    },
+    {
+     "name": "Hongfei Xue",
+     "phd_year": null,
+     "current_institution": "University of North Carolina at Charlotte",
+     "website": "http://havocfixer.github.io/",
+     "source_url": "http://havocfixer.github.io/",
+     "verdict": "confirmed",
+     "reason": "Own homepage explicitly states PhD at SUNY Buffalo supervised by Lu Su (jointly with Aidong Zhang)"
+    }
+   ]
+  }
+ ]
+}

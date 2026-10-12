@@ -1,0 +1,16 @@
+{
+ "batch": "sweep2-02",
+ "people": [
+  {"id": 45, "name": "Wu-chang Feng", "website": null, "photo": null, "current_position": null, "bio": null, "students": [],
+   "notes": "Own mentorship page (https://thefengs.com/wuchang/cv/mentorship.html) states he graduated two Ph.D. students, Chris Chambers (2006) and Ed Kaiser (2010), both already in tree; no others. Ashvin Goel was only 'mentored in last year' (advisor not Feng). MS: Daniel Connelly, Deepa Srinivasan excluded."},
+  {"id": 51, "name": "Xi Zhang", "website": null, "photo": null, "current_position": null, "bio": null,
+   "students": [
+    {"name": "Jingqing Wang", "phd_year": "current", "current_institution": "Texas A&M University", "website": null,
+     "source_url": "https://engineering.tamu.edu/news/2014/12/zhang-receives-best-paper-awards-at-ieee-globecom-2014.html",
+     "evidence": "Texas A&M Engineering news (Dec 2014) names Jingqing Wang as Xi Zhang's Ph.D. student co-author of the GLOBECOM 2014 best paper. Graduation year and dissertation not found."}
+   ],
+   "notes": "No lab roster found (NISL page and homepage list no students; OAKTrust not reached)."},
+  {"id": 60, "name": "Chun-Ting Chou", "website": null, "photo": null, "current_position": null, "bio": null, "students": [],
+   "notes": "NTU EE bio page (ee.ntu.edu.tw/bio1.php?id=756) lists him as associate professor; searches in Chinese and English found no advised Ph.D. dissertations (NDLTD and NTU repository not directly searchable)."}
+ ]
+}

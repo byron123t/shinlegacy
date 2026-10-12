@@ -1,0 +1,35 @@
+{
+ "batch": "sweep2-03",
+ "people": [
+  {
+   "id": 74,
+   "name": "Jisoo Yang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Re-checked homepage (only undergrad Julian Seymour), UNLV CS directory/IIS lab pages, searches for dissertations: no PhD student with explicit advisor evidence found."
+  },
+  {
+   "id": 81,
+   "name": "Xinyu Zhang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "wcsng.ucsd.edu/team is Dinesh Bharadia's lab, not Zhang's; not used. Homepage xyzhang.ucsd.edu has no people page. Xingyu Chen (GitHub) already in tree. No new students found."
+  },
+  {
+   "id": 135,
+   "name": "Tai-lin Chin",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Lab page lists only MS students/graduates; NDLTD blocked by captcha; no PhD students found."
+  }
+ ]
+}

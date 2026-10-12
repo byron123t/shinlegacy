@@ -1,0 +1,42 @@
+{
+ "batch": "sweep2-01",
+ "people": [
+  {
+   "id": 3,
+   "name": "C. Mani Krishna",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Praveen Goli",
+     "phd_year": "1994",
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://www.mathgenealogy.org/id.php?id=73535",
+     "verdict": "confirmed",
+     "reason": "MGP id 73543 (Goli, UMass Amherst PhD 1994) lists Advisor 1: Mani Krishna and Advisor 2: Donald F. Towsley (UMass); Krishna's own MGP record (73535) lists no school, but the UMass 1994 student, UMass co-advisor and C. Mani Krishna's UMass tenure tie them together"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "name": "Yann-Hang Lee",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 33,
+   "name": "Hagbae Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  }
+ ]
+}

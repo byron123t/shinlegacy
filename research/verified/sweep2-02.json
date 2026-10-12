@@ -1,0 +1,42 @@
+{
+ "batch": "sweep2-02",
+ "people": [
+  {
+   "id": 45,
+   "name": "Wu-chang Feng",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 51,
+   "name": "Xi Zhang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [
+    {
+     "name": "Jingqing Wang",
+     "phd_year": null,
+     "current_institution": null,
+     "website": null,
+     "source_url": "https://engineering.tamu.edu/news/2014/12/zhang-receives-best-paper-awards-at-ieee-globecom-2014.html",
+     "verdict": "confirmed",
+     "reason": "TAMU Engineering news Dec 2014: 'Zhang and his Ph.D. student co-author, Jingqing Wang'; graduation year not shown"
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "name": "Chun-Ting Chou",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  }
+ ]
+}

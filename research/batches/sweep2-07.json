@@ -1,0 +1,42 @@
+{
+ "batch": "sweep2-07",
+ "kind": "students",
+ "people": [
+  {
+   "id": 269,
+   "name": "Chih-Ya Shen",
+   "institution": "National Tsing Hua University",
+   "year": "2013",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "https://www.cs.nthu.edu.tw/~chihya/",
+   "position_on_record": "Professor, Department of Computer Science, National Tsing Hua University",
+   "students_in_tree": [],
+   "previous_sweep_notes": "Homepage links only to LoBSTeR Lab Wix site (JS-rendered; fetched, no member list; only a recruiting note). 1 search found nothing."
+  },
+  {
+   "id": 270,
+   "name": "Hong-Han Shuai",
+   "institution": "National Chiao Tung University",
+   "year": "2015",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "https://basiclab.lab.nycu.edu.tw/",
+   "position_on_record": "Professor, National Yang Ming Chiao Tung University",
+   "students_in_tree": [],
+   "previous_sweep_notes": "BasicLab homepage has no members/students list; /Yummy/index.html 404. 1 search found nothing."
+  },
+  {
+   "id": 313,
+   "name": "Dimitris Papadopoulos",
+   "institution": "Hong Kong University of Science and Technology",
+   "year": "2016",
+   "advisor": "Sharon Goldberg",
+   "website_on_record": "https://www.cse.ust.hk/~dipapado/",
+   "position_on_record": "Associate Professor, CSE Department, Hong Kong University of Science and Technology",
+   "students_in_tree": [
+    "Christodoulos Pappas",
+    "Jiajun Xin"
+   ],
+   "previous_sweep_notes": "Homepage has no people page or lab site. News mentions 'my student Xiangan Tian' and 'my student Xian Wang' without saying PhD, so not included. Christodoulos Pappas and Jiajun Xin already in tree."
+  }
+ ]
+}

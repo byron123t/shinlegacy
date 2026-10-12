@@ -1,0 +1,14 @@
+{
+ "batch": "sweep2-01",
+ "people": [
+  {"id":3,"name":"C. Mani Krishna","website":null,"photo":null,"current_position":null,"bio":null,
+   "students":[{"name":"Praveen Goli","phd_year":"1994","current_institution":null,"website":null,
+    "source_url":"https://www.mathgenealogy.org/id.php?id=73535",
+    "evidence":"Mathematics Genealogy record for Mani Krishna lists student Goli, Praveen (University of Massachusetts Amherst, 1994)"}],
+   "notes":"Math Genealogy entry for Mani Krishna has no school/advisor shown for his own degree; match to UMass professor inferred from the UMass 1994 student record. Verifier should confirm against ScholarWorks/ProQuest."},
+  {"id":4,"name":"Yann-Hang Lee","website":null,"photo":null,"current_position":null,"bio":null,"students":[],
+   "notes":"Math Genealogy (id 1302) lists no students. ASU repository (keep.lib.asu.edu) returned 403; web.archive.org not fetchable. One search for advisee pages found nothing."},
+  {"id":33,"name":"Hagbae Kim","website":null,"photo":null,"current_position":null,"bio":null,"students":[],
+   "notes":"One Korean-language search found nothing relevant; RISS/dCollection not checked."}
+ ]
+}

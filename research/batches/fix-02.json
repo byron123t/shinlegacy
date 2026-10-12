@@ -1,0 +1,15 @@
+{
+ "batch": "fix-02",
+ "kind": "students",
+ "people": [
+  {
+   "id": 352,
+   "name": "Lu Su",
+   "institution": "SUNY Buffalo",
+   "year": "2013",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "https://engineering.purdue.edu/~lusu/",
+   "students_in_tree": []
+  }
+ ]
+}

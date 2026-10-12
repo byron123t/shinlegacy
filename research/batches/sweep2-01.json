@@ -1,0 +1,45 @@
+{
+ "batch": "sweep2-01",
+ "kind": "students",
+ "people": [
+  {
+   "id": 3,
+   "name": "C. Mani Krishna",
+   "institution": "University of Massachusetts Amherst",
+   "year": "1984",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://www.umass.edu/engineering/about/directory/mani-krishna",
+   "position_on_record": "Professor, Electrical and Computer Engineering, University of Massachusetts Amherst",
+   "students_in_tree": [
+    "Khaled Hadi (2009)"
+   ],
+   "previous_sweep_notes": "UMass directory page has no lab link or student list; no personal/lab site found; 2 searches (UMass, general) returned no student lists. Not checked: ScholarWorks/ProQuest."
+  },
+  {
+   "id": 4,
+   "name": "Yann-Hang Lee",
+   "institution": "Arizona State University",
+   "year": "1985",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "https://search.asu.edu/profile/284224",
+   "position_on_record": "Emeritus Professor, School of Computing and Augmented Intelligence, Arizona State University",
+   "students_in_tree": [
+    "Deming Liu (2004)",
+    "Jin Wook Lee (2005)",
+    "Okehee Goh (2006)"
+   ],
+   "previous_sweep_notes": "ASU profile links to rts.lab.asu.edu, which no longer resolves (DNS failure). CV PDF and SCAI emeritus page list no students. No new students found."
+  },
+  {
+   "id": 33,
+   "name": "Hagbae Kim",
+   "institution": "Yonsei University, Korea",
+   "year": "1994",
+   "advisor": "Kang G. Shin",
+   "website_on_record": "",
+   "position_on_record": "Professor, School of Electrical and Electronic Engineering, Yonsei University",
+   "students_in_tree": [],
+   "previous_sweep_notes": "No website on record; 2 WebSearches (English and Korean name) found no faculty or lab page. No new students found."
+  }
+ ]
+}

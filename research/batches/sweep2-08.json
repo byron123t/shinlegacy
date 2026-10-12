@@ -1,0 +1,24 @@
+{
+ "batch": "sweep2-08",
+ "kind": "students",
+ "people": [
+  {
+   "id": 347,
+   "name": "Mohammad M. Khan",
+   "institution": "University of Connecticut",
+   "year": "2011",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "https://maifikhan.cse.uconn.edu/",
+   "position_on_record": "Associate Professor, School of Computing (Computer Science and Engineering), University of Connecticut",
+   "students_in_tree": [
+    "Yusuf Albayram (2016)",
+    "Michael Fagan (2017)",
+    "Nhan Nguyen (2018)",
+    "Md Abdullah Al Fahim (2022)",
+    "Theodore Jensen (2021)",
+    "Kewen Wang (2020)"
+   ],
+   "previous_sweep_notes": "Homepage maifikhan.cse.uconn.edu has no lab or students page (Our Team page is a placeholder; no lab link). Publications list co-authors Albayram, Jensen, Fahim, all already in tree. One WebSearch found no lab site. No new PhD students found."
+  }
+ ]
+}
