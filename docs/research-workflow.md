@@ -189,6 +189,15 @@ python scripts/build_site.py && python -m http.server -d _site 8000   # check it
 git add instance/genealogy.db research/ && git commit -m "Research run <date>" && git push   # site redeploys
 ```
 
+Pushing redeploys the GitHub Pages copy. shinlegacy.com is served by nginx on the EC2 host from `/var/www/shinlegacy`; update it with:
+
+```bash
+python scripts/build_site.py --site-url https://shinlegacy.com/ --out /tmp/shinlegacy-site
+rsync -az --delete -e "ssh -i ~/.ssh/shin.pem" /tmp/shinlegacy-site/ \
+  ubuntu@ec2-3-144-165-173.us-east-2.compute.amazonaws.com:/var/www/shinlegacy/
+ssh -i ~/.ssh/shin.pem ubuntu@ec2-3-144-165-173.us-east-2.compute.amazonaws.com 'chmod -R a+rX /var/www/shinlegacy'
+```
+
 ## Going deeper (later runs)
 
 New students added in step 4 have no research yet. Run again for just them:

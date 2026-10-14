@@ -13,6 +13,7 @@ Output (default _site/):
 Usage:
   python scripts/build_site.py
   python scripts/build_site.py --no-cards  # skip the preview images (faster)
+  python scripts/build_site.py --site-url https://shinlegacy.com/ --out /tmp/site   # for the EC2 host
   python -m http.server -d _site 8000      # preview at http://localhost:8000
 """
 from __future__ import annotations
@@ -237,7 +238,7 @@ def draw_card(p: dict, chain: list[dict], photo: Path | None, dest: Path) -> Non
     img.save(dest, quality=86, optimize=True)
 
 
-def build_share_pages(env, out: Path, people: list[dict], cards: bool) -> int:
+def build_share_pages(env, out: Path, people: list[dict], site_url: str, cards: bool) -> int:
     by_id = {p["id"]: p for p in people}
     (out / "p").mkdir()
     photos = {}
@@ -258,7 +259,7 @@ def build_share_pages(env, out: Path, people: list[dict], cards: bool) -> int:
         if p["position"]:
             desc = f"{p['position']}. {desc}"
         (out / "p" / f"{p['id']}.html").write_text(tpl.render(
-            person=p, description=desc, site_url=SITE_URL, image=cards and f"{SITE_URL}p/{p['id']}.jpg"))
+            person=p, description=desc, site_url=site_url, image=cards and f"{site_url}p/{p['id']}.jpg"))
     return len(photos)
 
 
@@ -315,7 +316,9 @@ def main() -> None:
     ap.add_argument("--out", default=str(ROOT / "_site"))
     ap.add_argument("--verified", default=str(ROOT / "research" / "verified"))
     ap.add_argument("--no-cards", action="store_true", help="skip the per-person preview images")
+    ap.add_argument("--site-url", default=SITE_URL, help="public base URL, used in share-link previews")
     args = ap.parse_args()
+    site_url = args.site_url.rstrip("/") + "/"
 
     people = load_people(Path(args.db))
     sources = load_sources(people, Path(args.verified))
@@ -331,11 +334,11 @@ def main() -> None:
     (out / ".nojekyll").write_text("")
 
     env = Environment(loader=FileSystemLoader(ROOT / "templates"), autoescape=select_autoescape(["html"]))
-    env.globals.update(site_url=SITE_URL, repo_url=REPO_URL)
+    env.globals.update(site_url=site_url, repo_url=REPO_URL)
     (out / "index.html").write_text(env.get_template("index.html").render(page="index"))
     (out / "directory.html").write_text(
         env.get_template("directory.html").render(page="directory", people=directory_rows(people)))
-    photos = build_share_pages(env, out, people, cards=not args.no_cards)
+    photos = build_share_pages(env, out, people, site_url, cards=not args.no_cards)
 
     print(f"Built {out} — {len(people)} people, {sum(1 for p in people if p['sources'])} with sources"
           f"{'' if args.no_cards else f', {photos} card photos'}")
