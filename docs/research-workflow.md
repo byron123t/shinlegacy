@@ -26,7 +26,8 @@ Run it whenever the tree needs updating. Each run adds newly found students to t
 |---|---|---|
 | `root` | Kang G. Shin | Bio, photo, website, and the **complete** list of his PhD students (two independent searches: his own pages, then dissertation records) |
 | `profile` (`g1-*`) | Generation 1: Shin's direct students | Bio (summary, research areas, PhD thesis, notable roles), current position, website, photo, their PhD students |
-| `basic` (`g2-*`) | Generation 2 and later | Current position, website, photo, their PhD students |
+| `basic` (`g2-*`, `n3-*`) | Generation 2 and later | Current position, website, photo, PhD year (if missing), their PhD students |
+| `year` (`yr-*`) | Anyone already researched whose PhD year is missing | PhD year only |
 
 ## 1. Export
 
@@ -44,6 +45,8 @@ Run one research agent per batch file. Sonnet is fine and cheaper, and since bat
 
 > **Web search is capped per Claude Code session (200 searches, shared by every agent in it).** One full pass over ~370 people needs more than that. Split the work across sessions: for example, run generation 1 in one session, generation 2 in the next, and the gap-filling pass in a third. Page fetches and image downloads aren't capped, so verification (step 3) can run in any session.
 >
+> **Fetch before you search.** Page fetches are free, so try these before spending a WebSearch: the advisor's lab people/alumni page, the website on record, DBLP (`https://dblp.org/search/author/api?q=<name>&format=json`, then the person's DBLP page, which often links their homepage), OpenAlex (`https://api.openalex.org/authors?search=<name>`, for current affiliation), mathgenealogy.org, and university repository search APIs (e.g. Georgia Tech's `https://repository.gatech.edu/server/api/discover/search/objects?query=<name>`, which lists `dc.contributor.advisor`). If WebSearch reports that the session limit is reached, carry on with fetches only.
+>
 > **Keep batches small.** Each agent has a limited web-search budget. A 20-person batch runs out partway through and leaves the rest blank, so use the export defaults: 3 deep profiles or 5 basic people per batch. Tell the agent to spread its searches evenly across people.
 
 Prompt:
@@ -59,6 +62,7 @@ For **each person** in the batch:
 - **website**: the best single link, in order of preference: personal homepage > current official faculty/lab/company profile > Google Scholar > DBLP. Avoid LinkedIn unless nothing else exists. If the website on record still works and is still the best link, return it.
 - **photo**: a *direct* image URL of a headshot of this person alone, from their personal site or an official institutional page, plus `page_url`, the page that embeds it. Never use search-engine thumbnails, LinkedIn/Facebook/X CDN links (they expire), group photos, logos or placeholders.
 - **current_position**: one line, e.g. "Professor of EECS, Texas A&M University".
+- **phd** (`basic` and `year` batches, only when the person's `year` is empty): `{"year": "2009", "institution": "…", "source_url": "…"}`. The year the PhD was awarded, from a dissertation record (university repository, ProQuest), mathgenealogy.org, the advisor's alumni list, or the person's CV/homepage. `year` batches return only this field (everything else `null`, `students: []`).
 - **bio** (`root` and `profile` batches only): 2–4 neutral sentences, plus `research_areas`, `phd_institution`, `phd_year`, `thesis_title`, `notable` (awards, fellowships, major roles), and `sources`. Write with no gendered pronouns; use the person's name or role.
 - **students**: PhD students this person advised or co-advised, graduated or current, who are **not** already in `students_in_tree` (watch for name variants such as "Jen-Wei Huang" / "Jen Wei Huang" / "Huang, Jen-Wei"). Exclude MS students, undergraduates, postdocs and visitors. Each student needs `name`, `phd_year` (or `"current"`), `current_institution`, `website` (if obvious), `source_url`, and `evidence`: a short quote or description showing the advising relationship. Be exhaustive for faculty: open their homepage and **follow every link to a lab or group site** (often on another domain, e.g. a `*.github.io` lab site), then that site's People/Members/Team/Alumni pages. Also check their CV, dissertation repositories and the Mathematics Genealogy Project. For industry people who never supervised PhDs, return an empty list and say so in `notes`.
 
@@ -95,7 +99,7 @@ Rules:
 }
 ```
 
-Use `null` for anything not found. For `basic` batches `bio` is always `null`.
+Use `null` for anything not found. For `basic` batches `bio` is always `null`. `basic` and `year` batches add `"phd": {"year", "institution", "source_url"}` (or `null`); the verified file adds `verdict` and `reason` to it as for other claims.
 
 ### Gap-filling pass
 
@@ -132,6 +136,7 @@ Be skeptical. Mark a claim `"rejected"` when the evidence is missing, ambiguous,
   3. Open the downloaded file with the Read tool and look at it. It must be a real photograph of a single person (headshot or portrait), not a logo, placeholder, group photo, poster or diagram.
 - **current_position**: confirm it from a current official page.
 - **bio**: check every sentence and field against the sources. Rewrite the summary to keep **only** confirmed facts (no gendered pronouns), and drop unconfirmed fields. Mark it `confirmed` only if a meaningful summary remains.
+- **phd**: open `source_url`; it must show this person's PhD (year, ideally institution or advisor). Correct the year if the source differs.
 - **students**: open each `source_url`. It must explicitly show the advising relationship with *this* advisor: a student or alumni list on the advisor's or lab's page, "Advisor"/"Chair" on the dissertation, or a mathgenealogy.org record. Correct `phd_year` or `current_institution` if the sources say otherwise; otherwise set unconfirmed fields to `null`.
 
 ### Verified output format: `research/verified/<batch>.json`
@@ -171,6 +176,7 @@ python scripts/apply_research.py --apply --replace-websites   # also overwrite e
 
 Only `"confirmed"` claims are applied:
 - **website**: filled in when the person has none. Existing ones are only replaced with `--replace-websites`; otherwise a different confirmed URL is reported for manual review.
+- **phd year**: filled in only when the person has no year on record.
 - **photo, current position, bio**: stored on the person and shown in the site's details panel and slideshow.
 - **students**: added under their advisor, skipping anyone whose normalized name is already in the tree. The dry run lists students claimed under two different advisors, so you can decide.
 

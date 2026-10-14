@@ -1,0 +1,160 @@
+{
+ "batch": "n3-10",
+ "people": [
+  {
+   "id": 460,
+   "name": "Aayush Shrestha",
+   "website": {
+    "verdict": "confirmed",
+    "reason": "SyReX team profile: Aayush Shrestha, Ph.D. student, Fall 2025",
+    "url": "https://syrex.cse.sc.edu/team/aayush-shrestha/"
+   },
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 461,
+   "name": "Abdulahi Taiwo",
+   "website": {
+    "verdict": "confirmed",
+    "reason": "SyReX team profile: Abdulahi Taiwo, Ph.D. student, Fall 2025",
+    "url": "https://syrex.cse.sc.edu/team/abdulahi-taiwo/"
+   },
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 462,
+   "name": "Reza Tavasoli",
+   "website": {
+    "verdict": "confirmed",
+    "reason": "SyReX team profile: Reza Tavasoli, Ph.D. student, Fall 2021",
+    "url": "https://syrex.cse.sc.edu/team/reza-tavasoli/"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "reason": "page embeds avatar jpg; 200 image/jpeg; single-person portrait",
+    "image_url": "https://syrex.cse.sc.edu/team/reza-tavasoli/avatar_hu10389686630573197094.jpg",
+    "page_url": "https://syrex.cse.sc.edu/team/reza-tavasoli/"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "reason": "Profile lists Ph.D. Student, University of South Carolina (site is Sanjib Sur's USC lab)",
+    "value": "Ph.D. Student, University of South Carolina"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 463,
+   "name": "Aakriti Adhikari",
+   "website": {
+    "verdict": "confirmed",
+    "reason": "Personal homepage; Aakriti Adhikari, PhD advisor Sanjib Sur",
+    "url": "https://cse.sc.edu/~aakriti/"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "reason": "page embeds aakriti_files/Aakriti_pic.jpg; 200 image/jpeg; single-person portrait",
+    "image_url": "https://cse.sc.edu/~aakriti/aakriti_files/Aakriti_pic.jpg",
+    "page_url": "https://cse.sc.edu/~aakriti/"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "reason": "Homepage: Postdoctoral Associate, Biomedical Informatics and Data Science, Yale",
+    "value": "Postdoctoral Associate in Biomedical Informatics and Data Science, Yale University"
+   },
+   "bio": null,
+   "students": [],
+   "phd": {
+    "verdict": "confirmed",
+    "reason": "Homepage: PhD CSE USC, Aug 2025; SyReX profile Fall 2020-Summer 2025",
+    "year": "2025",
+    "institution": "University of South Carolina",
+    "source_url": "https://syrex.cse.sc.edu/team/adhikari/"
+   }
+  },
+  {
+   "id": 464,
+   "name": "Hem Regmi",
+   "website": {
+    "verdict": "confirmed",
+    "reason": "Personal homepage at USC CSE; Hem Regmi under Sanjib Sur (page still says PhD candidate)",
+    "url": "https://cse.sc.edu/~hregmi/"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "reason": "page embeds hregmi_profile.jpg; 200 image/jpeg; casual but clear single-person portrait",
+    "image_url": "https://cse.sc.edu/~hregmi/hregmi_files/hregmi_profile.jpg",
+    "page_url": "https://cse.sc.edu/~hregmi/"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": {
+    "verdict": "confirmed",
+    "reason": "SyReX profile: Ph.D. alumnus 2025 (Fall 2020-Spring 2025), USC",
+    "year": "2025",
+    "institution": "University of South Carolina",
+    "source_url": "https://syrex.cse.sc.edu/team/hem-regmi/"
+   }
+  },
+  {
+   "id": 465,
+   "name": "Chih-Yu Lin",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 466,
+   "name": "Chih-Chieh Hung",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 467,
+   "name": "Po-Ruey Lei",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 468,
+   "name": "Ling-Yin Wei",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 469,
+   "name": "Yi-Cheng Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  }
+ ]
+}

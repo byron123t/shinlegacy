@@ -1,0 +1,96 @@
+{
+ "batch": "n3-12",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 480,
+   "name": "Wei Zhao",
+   "institution": "",
+   "year": "2024",
+   "advisor": "Rong Zheng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 481,
+   "name": "Keivan Nalaie",
+   "institution": "Mayo Clinic (postdoctoral fellow)",
+   "year": "2023",
+   "advisor": "Rong Zheng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 482,
+   "name": "Yujiao Hao",
+   "institution": "Huawei Canada",
+   "year": "2022",
+   "advisor": "Rong Zheng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 483,
+   "name": "Yihao Fang",
+   "institution": "Queen's University / Lexivalley Inc.",
+   "year": "2020",
+   "advisor": "Rong Zheng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 484,
+   "name": "Mehdi Jafarizadeh",
+   "institution": "Shabodi",
+   "year": "2021",
+   "advisor": "Rong Zheng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 485,
+   "name": "Ala Shaabana",
+   "institution": "University of Waterloo",
+   "year": "",
+   "advisor": "Rong Zheng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 486,
+   "name": "Yongyong Wei",
+   "institution": "SAP",
+   "year": "2021",
+   "advisor": "Rong Zheng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 487,
+   "name": "Qiang Xu",
+   "institution": "Huawei Canada",
+   "year": "",
+   "advisor": "Rong Zheng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 488,
+   "name": "Taejin Kwak",
+   "institution": "Korea University",
+   "year": "",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 489,
+   "name": "Sanghong Kim",
+   "institution": "Korea University",
+   "year": "",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

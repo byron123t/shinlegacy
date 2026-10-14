@@ -1,0 +1,175 @@
+{
+ "batch": "n3-27",
+ "people": [
+  {
+   "id": 630,
+   "name": "Ruohan Zong",
+   "website": {
+    "url": "https://ischool.illinois.edu/people/ruohan-zong",
+    "source_note": "ischool profile"
+   },
+   "photo": {
+    "image_url": "https://ischool.illinois.edu/sites/default/files/styles/normal_square/public/images/Ruohan-Zong.png",
+    "page_url": "https://ischool.illinois.edu/people/ruohan-zong"
+   },
+   "current_position": "PhD student in Information Sciences, University of Illinois Urbana-Champaign",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Found via Dong Wang lab members page https://wangdong.org/sslab/team.html. Page lists no years. Photo URL built from relative path on the page; returned HTTP 200 image. Current PhD student per page; no PhD year yet."
+  },
+  {
+   "id": 631,
+   "name": "YeonJung (Jessica) Choi",
+   "website": {
+    "url": "https://ischool.illinois.edu/people/jessica-choi",
+    "source_note": "ischool profile"
+   },
+   "photo": {
+    "image_url": "https://ischool.illinois.edu/sites/default/files/styles/normal_square/public/images/Jessica-Choi.jpg",
+    "page_url": "https://ischool.illinois.edu/people/jessica-choi"
+   },
+   "current_position": "PhD student in Information Sciences, University of Illinois Urbana-Champaign",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Found via Dong Wang lab members page https://wangdong.org/sslab/team.html. Page lists no years. Photo URL built from relative path on the page; returned HTTP 200 image. Current PhD student per page; no PhD year yet."
+  },
+  {
+   "id": 632,
+   "name": "YeaEun Gong",
+   "website": {
+    "url": "https://ischool.illinois.edu/people/yeaeun-gong",
+    "source_note": "ischool profile"
+   },
+   "photo": {
+    "image_url": "https://ischool.illinois.edu/sites/default/files/styles/normal_square/public/images/Yeaeun%20Gong.jpg",
+    "page_url": "https://ischool.illinois.edu/people/yeaeun-gong"
+   },
+   "current_position": "PhD student in Information Sciences, University of Illinois Urbana-Champaign",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Found via Dong Wang lab members page https://wangdong.org/sslab/team.html. Page lists no years. Photo URL built from relative path on the page; returned HTTP 200 image. Current PhD student per page; no PhD year yet."
+  },
+  {
+   "id": 633,
+   "name": "Yifan Liu",
+   "website": {
+    "url": "https://yliuaa.github.io/",
+    "source_note": "personal homepage"
+   },
+   "photo": {
+    "image_url": "https://yliuaa.github.io/assets/images/photos/myself2026-web.webp",
+    "page_url": "https://yliuaa.github.io/"
+   },
+   "current_position": "PhD student in Information Sciences, University of Illinois Urbana-Champaign (advised by Dong Wang)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Found via Dong Wang lab members page https://wangdong.org/sslab/team.html. Page lists no years. Photo URL built from relative path on the page; returned HTTP 200 image. Current PhD student per page; no PhD year yet."
+  },
+  {
+   "id": 634,
+   "name": "Yaokun Liu",
+   "website": {
+    "url": "https://yaokunliu.github.io/",
+    "source_note": "personal homepage"
+   },
+   "photo": {
+    "image_url": "https://yaokunliu.github.io/images/profile/yaokun-liu.jpg",
+    "page_url": "https://yaokunliu.github.io/"
+   },
+   "current_position": "PhD student in Information Sciences, University of Illinois Urbana-Champaign (advised by Dong Wang)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Found via Dong Wang lab members page https://wangdong.org/sslab/team.html. Page lists no years. Photo URL built from relative path on the page; returned HTTP 200 image. Current PhD student per page; no PhD year yet."
+  },
+  {
+   "id": 635,
+   "name": "Zelin Li",
+   "website": {
+    "url": "https://seeyn.github.io/",
+    "source_note": "personal homepage"
+   },
+   "photo": {
+    "image_url": "https://seeyn.github.io/assets/img/me.jpg",
+    "page_url": "https://seeyn.github.io/"
+   },
+   "current_position": "PhD student, University of Illinois Urbana-Champaign",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Found via Dong Wang lab members page https://wangdong.org/sslab/team.html. Page lists no years. Photo URL built from relative path on the page; returned HTTP 200 image. Current PhD student per page; no PhD year yet."
+  },
+  {
+   "id": 636,
+   "name": "Ruichen Yao",
+   "website": {
+    "url": "https://yrc10.github.io/",
+    "source_note": "personal homepage linked from ischool profile"
+   },
+   "photo": {
+    "image_url": "https://ischool.illinois.edu/sites/default/files/styles/normal_square/public/images/Ruichen_Yao.JPG",
+    "page_url": "https://ischool.illinois.edu/people/ruichen-yao"
+   },
+   "current_position": "PhD student in Information Sciences, University of Illinois Urbana-Champaign",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Found via Dong Wang lab members page https://wangdong.org/sslab/team.html. Page lists no years. Photo URL built from relative path on the page; returned HTTP 200 image. Current PhD student per page; no PhD year yet."
+  },
+  {
+   "id": 637,
+   "name": "Mung Yao Jia",
+   "website": {
+    "url": "https://mungyao-jia.github.io/",
+    "source_note": "personal homepage"
+   },
+   "photo": {
+    "image_url": "https://mungyao-jia.github.io/assets/images/photos/portrait.jpg",
+    "page_url": "https://mungyao-jia.github.io/"
+   },
+   "current_position": "Computer Science PhD student, University of Illinois Urbana-Champaign",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Found via Dong Wang lab members page https://wangdong.org/sslab/team.html. Page lists no years. Photo URL built from relative path on the page; returned HTTP 200 image. Current PhD student per page; no PhD year yet."
+  },
+  {
+   "id": 638,
+   "name": "Jieyong Kim",
+   "website": {
+    "url": "https://jieyong99.github.io/",
+    "source_note": "personal homepage"
+   },
+   "photo": {
+    "image_url": "https://jieyong99.github.io/assets/images/photos/Selfie_google_scholar.JPG",
+    "page_url": "https://jieyong99.github.io/"
+   },
+   "current_position": "PhD student in Information Sciences, University of Illinois Urbana-Champaign (advised by Dong Wang)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Found via Dong Wang lab members page https://wangdong.org/sslab/team.html. Page lists no years. Photo URL built from relative path on the page; returned HTTP 200 image. Current PhD student per page; no PhD year yet."
+  },
+  {
+   "id": 639,
+   "name": "Zhenrui Yue",
+   "website": {
+    "url": "https://yueeeeeeee.github.io/",
+    "source_note": "personal homepage"
+   },
+   "photo": {
+    "image_url": "https://yueeeeeeee.github.io/assets/img/profile.jpg",
+    "page_url": "https://yueeeeeeee.github.io/"
+   },
+   "current_position": "Research Scientist, Google DeepMind",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Found via Dong Wang lab members page https://wangdong.org/sslab/team.html. Page lists no years. Photo URL built from relative path on the page; returned HTTP 200 image. Listed under Alumni; homepage says PhD recently earned at UIUC under Dong Wang, year not stated; not found by search."
+  }
+ ]
+}

@@ -1,0 +1,179 @@
+{
+ "batch": "n3-07",
+ "people": [
+  {
+   "id": 430,
+   "name": "Yang Zhou",
+   "website": {
+    "url": "https://yangzhou1997.github.io/",
+    "source_note": "Linked from Minlan Yu's student page"
+   },
+   "photo": {
+    "image_url": "https://yangzhou1997.github.io/pic/zy6.jpg",
+    "page_url": "https://yangzhou1997.github.io/"
+   },
+   "current_position": "Assistant Professor of CS, UC Davis",
+   "bio": null,
+   "students": [],
+   "phd": {
+    "year": "2024",
+    "institution": "Harvard University",
+    "source_url": "https://yangzhou1997.github.io/"
+   },
+   "notes": "Listed as alumnus on https://minlanyu.seas.harvard.edu/student.html. OpenAlex rate-limited, DBLP blocked; 2 WebSearches used (no result for Gong/Alipourfard dissertation years)."
+  },
+  {
+   "id": 431,
+   "name": "Zhiying Xu",
+   "website": {
+    "url": "https://xuzhiying9510.github.io/",
+    "source_note": "Linked from Minlan Yu's student page"
+   },
+   "photo": {
+    "image_url": "https://xuzhiying9510.github.io/files/zhiying_acadia_crop.jpg",
+    "page_url": "https://xuzhiying9510.github.io/"
+   },
+   "current_position": "Applied Scientist, Amazon Web Services",
+   "bio": null,
+   "students": [],
+   "phd": {
+    "year": "2024",
+    "institution": "Harvard University",
+    "source_url": "https://xuzhiying9510.github.io/"
+   },
+   "notes": "Listed as alumnus on https://minlanyu.seas.harvard.edu/student.html. OpenAlex rate-limited, DBLP blocked; 2 WebSearches used (no result for Gong/Alipourfard dissertation years)."
+  },
+  {
+   "id": 432,
+   "name": "Junzhi Gong",
+   "website": null,
+   "photo": null,
+   "current_position": "Google (per Minlan Yu's student page)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as alumnus on https://minlanyu.seas.harvard.edu/student.html. OpenAlex rate-limited, DBLP blocked; 2 WebSearches used (no result for Gong/Alipourfard dissertation years). No homepage link on Yu's page; no verifiable page found."
+  },
+  {
+   "id": 433,
+   "name": "Jiaqi Gao",
+   "website": {
+    "url": "http://jqgao.me/",
+    "source_note": "Linked from Minlan Yu's student page"
+   },
+   "photo": {
+    "image_url": "http://jqgao.me/assets/imgs/jiaqi.png",
+    "page_url": "http://jqgao.me/"
+   },
+   "current_position": "Senior Engineer/Researcher, Alibaba Group (Seattle)",
+   "bio": null,
+   "students": [],
+   "phd": {
+    "year": "2022",
+    "institution": "Harvard University",
+    "source_url": "http://jqgao.me/"
+   },
+   "notes": "Listed as alumnus on https://minlanyu.seas.harvard.edu/student.html. OpenAlex rate-limited, DBLP blocked; 2 WebSearches used (no result for Gong/Alipourfard dissertation years)."
+  },
+  {
+   "id": 434,
+   "name": "Sivaram Ramanathan",
+   "website": {
+    "url": "https://steel.isi.edu/members/sivaram/index.html",
+    "source_note": "Linked from Minlan Yu's student page"
+   },
+   "photo": {
+    "image_url": "https://steel.isi.edu/members/sivaram/profile_picture.jpg",
+    "page_url": "https://steel.isi.edu/members/sivaram/index.html"
+   },
+   "current_position": "Crusoe (per Minlan Yu's student page)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as alumnus on https://minlanyu.seas.harvard.edu/student.html. OpenAlex rate-limited, DBLP blocked; 2 WebSearches used (no result for Gong/Alipourfard dissertation years). Homepage is an old USC/ISI student page (co-advised by Mirkovic and Yu); year not found. Yu's page says now at Crusoe."
+  },
+  {
+   "id": 435,
+   "name": "Yuliang Li",
+   "website": {
+    "url": "https://liyuliang001.github.io/",
+    "source_note": "Linked from Minlan Yu's student page"
+   },
+   "photo": {
+    "image_url": "https://liyuliang001.github.io/images/ph.jpeg",
+    "page_url": "https://liyuliang001.github.io/"
+   },
+   "current_position": "Google NetInfra",
+   "bio": null,
+   "students": [],
+   "phd": {
+    "year": "2020",
+    "institution": "Harvard University",
+    "source_url": "https://liyuliang001.github.io/"
+   },
+   "notes": "Listed as alumnus on https://minlanyu.seas.harvard.edu/student.html. OpenAlex rate-limited, DBLP blocked; 2 WebSearches used (no result for Gong/Alipourfard dissertation years)."
+  },
+  {
+   "id": 436,
+   "name": "Omid Alipourfard",
+   "website": {
+    "url": "http://www.omid.io/",
+    "source_note": "Personal homepage linked from Minlan Yu's student page"
+   },
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as alumnus on https://minlanyu.seas.harvard.edu/student.html. OpenAlex rate-limited, DBLP blocked; 2 WebSearches used (no result for Gong/Alipourfard dissertation years). Homepage is a terminal-style page with no CV; Meta fellows page shows Yale PhD student advised by Yu in 2018; defense year not found."
+  },
+  {
+   "id": 437,
+   "name": "Weifan Jiang",
+   "website": {
+    "url": "https://weifanjiang.github.io/",
+    "source_note": "Linked from Minlan Yu's student page"
+   },
+   "photo": {
+    "image_url": "https://weifanjiang.github.io/assets/img/prof_pic.jpg",
+    "page_url": "https://weifanjiang.github.io/"
+   },
+   "current_position": "Final-year PhD candidate, Harvard University",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as current student on https://minlanyu.seas.harvard.edu/student.html. OpenAlex rate-limited, DBLP blocked; 2 WebSearches used (no result for Gong/Alipourfard dissertation years). Final-year PhD candidate, so no PhD year yet."
+  },
+  {
+   "id": 438,
+   "name": "Chonlam Lao",
+   "website": {
+    "url": "https://laochanlam.com/",
+    "source_note": "Linked from Minlan Yu's student page"
+   },
+   "photo": {
+    "image_url": "https://laochanlam.com/images/MWI_72342.jpg",
+    "page_url": "https://laochanlam.com/"
+   },
+   "current_position": "PhD graduate (Harvard); Alibaba Research, joining Tsinghua as assistant professor in fall 2027 (per Minlan Yu's page)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as alumnus on https://minlanyu.seas.harvard.edu/student.html. OpenAlex rate-limited, DBLP blocked; 2 WebSearches used (no result for Gong/Alipourfard dissertation years). Yu's page: now at Alibaba Research, joining Tsinghua as assistant professor fall 2027; PhD year not confirmed."
+  },
+  {
+   "id": 439,
+   "name": "Minghao Li",
+   "website": {
+    "url": "https://sophiali06.github.io/personal_site/",
+    "source_note": "Linked from Minlan Yu's student page"
+   },
+   "photo": null,
+   "current_position": "Meta (per Minlan Yu's student page); homepage says 5th-year Harvard PhD student",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as alumnus on https://minlanyu.seas.harvard.edu/student.html. OpenAlex rate-limited, DBLP blocked; 2 WebSearches used (no result for Gong/Alipourfard dissertation years). Homepage says 5th-year PhD student; Yu's page lists as alumnus now at Meta; PhD year not confirmed."
+  }
+ ]
+}

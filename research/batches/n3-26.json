@@ -1,0 +1,96 @@
+{
+ "batch": "n3-26",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 620,
+   "name": "Navid Zandi",
+   "institution": "McMaster University",
+   "year": "",
+   "advisor": "Rong Zheng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 621,
+   "name": "Namkyung Yoon",
+   "institution": "Korea University",
+   "year": "",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 622,
+   "name": "Kiseok Kim",
+   "institution": "Korea University",
+   "year": "",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 623,
+   "name": "Changmin Park",
+   "institution": "Korea University",
+   "year": "",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 624,
+   "name": "Kyeonghyun Yoo",
+   "institution": "Korea University",
+   "year": "",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 625,
+   "name": "Wooyong Jung",
+   "institution": "Korea University",
+   "year": "",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 626,
+   "name": "Dohun Lee",
+   "institution": "Korea University",
+   "year": "",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 627,
+   "name": "Seokmin Kim",
+   "institution": "Korea University",
+   "year": "",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 628,
+   "name": "Taewoo Park",
+   "institution": "Korea University",
+   "year": "",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 629,
+   "name": "Poet Larsen",
+   "institution": "Harvard Business School (postdoc)",
+   "year": "",
+   "advisor": "Davide Proserpio",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

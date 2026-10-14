@@ -1,0 +1,117 @@
+{
+ "batch": "n3-12",
+ "people": [
+  {
+   "id": 480,
+   "name": "Wei Zhao",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 481,
+   "name": "Keivan Nalaie",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Mayo Clinic not found on any official page opened; only an OpenAlex affiliation",
+    "value": "Postdoctoral fellow, Mayo Clinic (Arizona)"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 482,
+   "name": "Yujiao Hao",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Huawei Canada not found on any official page opened; only an OpenAlex affiliation",
+    "value": "Huawei Technologies (Canada)"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 483,
+   "name": "Yihao Fang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 484,
+   "name": "Mehdi Jafarizadeh",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 485,
+   "name": "Ala Shaabana",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 486,
+   "name": "Yongyong Wei",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 487,
+   "name": "Qiang Xu",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "reason": "WiSeR alumni page lists Qiang Xu (PhD), Huawei HMI Lab, Canada; title not confirmed so omitted",
+    "value": "Huawei HMI Lab, Canada"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 488,
+   "name": "Taejin Kwak",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 489,
+   "name": "Sanghong Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  }
+ ]
+}

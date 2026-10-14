@@ -1,0 +1,147 @@
+{
+ "batch": "n3-10",
+ "people": [
+  {
+   "id": 460,
+   "name": "Aayush Shrestha",
+   "website": {
+    "url": "https://syrex.cse.sc.edu/team/aayush-shrestha/",
+    "source_note": "SyReX lab team profile (Ph.D. student, joined Fall 2025)"
+   },
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Joined Fall 2025, current student; no PhD yet. Profile has no photo. OpenAlex rate-limited, DBLP unreachable."
+  },
+  {
+   "id": 461,
+   "name": "Abdulahi Taiwo",
+   "website": {
+    "url": "https://syrex.cse.sc.edu/team/abdulahi-taiwo/",
+    "source_note": "SyReX lab team profile (Ph.D. student, joined Fall 2025)"
+   },
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Joined Fall 2025, current student; no PhD yet. Profile has no photo."
+  },
+  {
+   "id": 462,
+   "name": "Reza Tavasoli",
+   "website": {
+    "url": "https://syrex.cse.sc.edu/team/reza-tavasoli/",
+    "source_note": "SyReX lab team profile (Ph.D. student, joined Fall 2021; BS Amirkabir Univ. of Technology 2021)"
+   },
+   "photo": {
+    "image_url": "https://syrex.cse.sc.edu/team/reza-tavasoli/avatar_hu10389686630573197094.jpg",
+    "page_url": "https://syrex.cse.sc.edu/team/reza-tavasoli/"
+   },
+   "current_position": "Ph.D. Student, University of South Carolina",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Current student; no PhD yet. Profile lists LinkedIn only."
+  },
+  {
+   "id": 463,
+   "name": "Aakriti Adhikari",
+   "website": {
+    "url": "https://cse.sc.edu/~aakriti/",
+    "source_note": "Personal homepage; lists Sanjib Sur as PhD advisor"
+   },
+   "photo": {
+    "image_url": "https://cse.sc.edu/~aakriti/aakriti_files/Aakriti_pic.jpg",
+    "page_url": "https://cse.sc.edu/~aakriti/"
+   },
+   "current_position": "Postdoctoral Associate in Biomedical Informatics and Data Science, Yale University",
+   "bio": null,
+   "students": [],
+   "phd": {
+    "year": "2025",
+    "institution": "University of South Carolina",
+    "source_url": "https://syrex.cse.sc.edu/team/adhikari/"
+   },
+   "notes": "SyReX profile: Ph.D. Fall 2020 - Summer 2025; homepage gives current role."
+  },
+  {
+   "id": 464,
+   "name": "Hem Regmi",
+   "website": {
+    "url": "https://cse.sc.edu/~hregmi/",
+    "source_note": "Personal homepage at USC CSE (page still says PhD Candidate)"
+   },
+   "photo": {
+    "image_url": "https://cse.sc.edu/~hregmi/hregmi_files/hregmi_profile.jpg",
+    "page_url": "https://cse.sc.edu/~hregmi/"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": {
+    "year": "2025",
+    "institution": "University of South Carolina",
+    "source_url": "https://syrex.cse.sc.edu/team/hem-regmi/"
+   },
+   "notes": "SyReX profile: Ph.D. Fall 2020 - Spring 2025. Current position not found; homepage outdated."
+  },
+  {
+   "id": 465,
+   "name": "Chih-Yu Lin",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Advisor Wen-Chih Peng; year already on record. Tried OpenAlex (daily rate limit hit), DBLP (unreachable from curl/WebFetch), Peng's Google Site (no alumni list found), 2 WebSearches (nothing about this person). Nothing confirmed."
+  },
+  {
+   "id": 466,
+   "name": "Chih-Chieh Hung",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Advisor Wen-Chih Peng; year already on record. Tried OpenAlex (daily rate limit hit), DBLP (unreachable from curl/WebFetch), Peng's Google Site (no alumni list found), 2 WebSearches (nothing about this person). Nothing confirmed."
+  },
+  {
+   "id": 467,
+   "name": "Po-Ruey Lei",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Advisor Wen-Chih Peng; year already on record. Tried OpenAlex (daily rate limit hit), DBLP (unreachable from curl/WebFetch), Peng's Google Site (no alumni list found), 2 WebSearches (nothing about this person). Nothing confirmed."
+  },
+  {
+   "id": 468,
+   "name": "Ling-Yin Wei",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Advisor Wen-Chih Peng; year already on record. Tried OpenAlex (daily rate limit hit), DBLP (unreachable from curl/WebFetch), Peng's Google Site (no alumni list found), 2 WebSearches (nothing about this person). Nothing confirmed."
+  },
+  {
+   "id": 469,
+   "name": "Yi-Cheng Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Advisor Wen-Chih Peng; year already on record. Tried OpenAlex (daily rate limit hit), DBLP (unreachable from curl/WebFetch), Peng's Google Site (no alumni list found), 2 WebSearches (nothing about this person). Nothing confirmed."
+  }
+ ]
+}

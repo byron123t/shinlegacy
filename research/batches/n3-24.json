@@ -1,0 +1,96 @@
+{
+ "batch": "n3-24",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 600,
+   "name": "Nessrine Chakchouk",
+   "institution": "ENSI, Tunisia",
+   "year": "2012",
+   "advisor": "Bechir Hamdaoui",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 601,
+   "name": "Samina Ehsan",
+   "institution": "Oregon State University, USA",
+   "year": "2012",
+   "advisor": "Bechir Hamdaoui",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 602,
+   "name": "Jun Chen",
+   "institution": "Oregon State University",
+   "year": "",
+   "advisor": "Bechir Hamdaoui",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 603,
+   "name": "Nora Basha",
+   "institution": "Oregon State University",
+   "year": "",
+   "advisor": "Bechir Hamdaoui",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 604,
+   "name": "Haytham Albousayri",
+   "institution": "Oregon State University",
+   "year": "",
+   "advisor": "Bechir Hamdaoui",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 605,
+   "name": "Zhe Ou",
+   "institution": "Johns Hopkins University",
+   "year": "",
+   "advisor": "Renjie Zhao",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 606,
+   "name": "Lihao Wang",
+   "institution": "Johns Hopkins University",
+   "year": "",
+   "advisor": "Renjie Zhao",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 607,
+   "name": "Ding Zhao",
+   "institution": "Johns Hopkins University",
+   "year": "",
+   "advisor": "Renjie Zhao",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 608,
+   "name": "Ruirong Huang",
+   "institution": "Johns Hopkins University",
+   "year": "",
+   "advisor": "Renjie Zhao",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 609,
+   "name": "Hyunmin Park",
+   "institution": "University of Michigan",
+   "year": "",
+   "advisor": "Ke Sun",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

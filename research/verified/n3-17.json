@@ -1,0 +1,137 @@
+{
+ "batch": "n3-17",
+ "people": [
+  {
+   "id": 530,
+   "name": "Ya-Wen Teng",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 531,
+   "name": "Chi-Hsuan Wu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 532,
+   "name": "Hsi-Wen Chen",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Ph.D. student, National Taiwan University (Arbor lab)",
+    "reason": "Listed under Ph.D. heading on arbor.ee.ntu.edu.tw/member.html (undated page)"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 533,
+   "name": "Chin-Yuan Yeh",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Ph.D. student, National Taiwan University (Arbor lab)",
+    "reason": "Listed under Ph.D. heading on arbor.ee.ntu.edu.tw/member.html (undated page)"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 534,
+   "name": "Hung-Te Lee",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Ph.D. student, National Taiwan University (Arbor lab)",
+    "reason": "Listed under Ph.D. heading on arbor.ee.ntu.edu.tw/member.html (undated page)"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 535,
+   "name": "Rui Fang",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Ph.D. student, National Taiwan University (Arbor lab)",
+    "reason": "Listed under Ph.D. heading on arbor.ee.ntu.edu.tw/member.html (undated page)"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 536,
+   "name": "Shih-Hsuan Chiu",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Ph.D. student, National Taiwan University (Arbor lab)",
+    "reason": "Listed under Ph.D. heading on arbor.ee.ntu.edu.tw/member.html (undated page)"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 537,
+   "name": "Yen-Hsin Hsu",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Ph.D. student, National Taiwan University (Arbor lab)",
+    "reason": "Listed under Ph.D. heading on arbor.ee.ntu.edu.tw/member.html (undated page)"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 538,
+   "name": "Dustin Wu",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Ph.D. student, National Taiwan University (Arbor lab)",
+    "reason": "Listed under Ph.D. heading on arbor.ee.ntu.edu.tw/member.html (undated page)"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 539,
+   "name": "Ying-Hua Huang",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Ph.D. student, National Taiwan University (Arbor lab)",
+    "reason": "Listed under Ph.D. heading on arbor.ee.ntu.edu.tw/member.html (undated page)"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  }
+ ]
+}

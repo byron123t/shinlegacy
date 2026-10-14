@@ -1,0 +1,115 @@
+{
+ "batch": "n3-17",
+ "people": [
+  {
+   "id": 530,
+   "name": "Ya-Wen Teng",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Listed in Ming-Syan Chen's Arbor lab alumni page (https://arbor.ee.ntu.edu.tw/alumni.html) with year 2018 but no position or website. Tried: DBLP API (timed out), OpenAlex API (daily rate limit), 4 WebSearches (shared across batch, nothing relevant found). No personal page found; no student list expected."
+  },
+  {
+   "id": 531,
+   "name": "Chi-Hsuan Wu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Listed in Ming-Syan Chen's Arbor lab alumni page (https://arbor.ee.ntu.edu.tw/alumni.html) with year 2019 but no position or website. Tried: DBLP API (timed out), OpenAlex API (daily rate limit), 4 WebSearches (shared across batch, nothing relevant found). No personal page found; no student list expected."
+  },
+  {
+   "id": 532,
+   "name": "Hsi-Wen Chen",
+   "website": null,
+   "photo": null,
+   "current_position": "Ph.D. student, National Taiwan University (Arbor lab)",
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Listed as a current Ph.D. student on the NTU Arbor lab member page (https://arbor.ee.ntu.edu.tw/member.html), no year of PhD yet so phd=null. Tried: DBLP API (timed out), OpenAlex API (daily rate limit), 4 WebSearches (shared across batch, nothing relevant found). No personal page found; no student list expected."
+  },
+  {
+   "id": 533,
+   "name": "Chin-Yuan Yeh",
+   "website": null,
+   "photo": null,
+   "current_position": "Ph.D. student, National Taiwan University (Arbor lab)",
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Listed as a current Ph.D. student on the NTU Arbor lab member page (https://arbor.ee.ntu.edu.tw/member.html), no year of PhD yet so phd=null. Tried: DBLP API (timed out), OpenAlex API (daily rate limit), 4 WebSearches (shared across batch, nothing relevant found). No personal page found; no student list expected."
+  },
+  {
+   "id": 534,
+   "name": "Hung-Te Lee",
+   "website": null,
+   "photo": null,
+   "current_position": "Ph.D. student, National Taiwan University (Arbor lab)",
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Listed as a current Ph.D. student on the NTU Arbor lab member page (https://arbor.ee.ntu.edu.tw/member.html), no year of PhD yet so phd=null. Tried: DBLP API (timed out), OpenAlex API (daily rate limit), 4 WebSearches (shared across batch, nothing relevant found). No personal page found; no student list expected."
+  },
+  {
+   "id": 535,
+   "name": "Rui Fang",
+   "website": null,
+   "photo": null,
+   "current_position": "Ph.D. student, National Taiwan University (Arbor lab)",
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Listed as a current Ph.D. student on the NTU Arbor lab member page (https://arbor.ee.ntu.edu.tw/member.html), no year of PhD yet so phd=null. Tried: DBLP API (timed out), OpenAlex API (daily rate limit), 4 WebSearches (shared across batch, nothing relevant found). No personal page found; no student list expected."
+  },
+  {
+   "id": 536,
+   "name": "Shih-Hsuan Chiu",
+   "website": null,
+   "photo": null,
+   "current_position": "Ph.D. student, National Taiwan University (Arbor lab)",
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Listed as a current Ph.D. student on the NTU Arbor lab member page (https://arbor.ee.ntu.edu.tw/member.html), no year of PhD yet so phd=null. Tried: DBLP API (timed out), OpenAlex API (daily rate limit), 4 WebSearches (shared across batch, nothing relevant found). No personal page found; no student list expected."
+  },
+  {
+   "id": 537,
+   "name": "Yen-Hsin Hsu",
+   "website": null,
+   "photo": null,
+   "current_position": "Ph.D. student, National Taiwan University (Arbor lab)",
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Listed as a current Ph.D. student on the NTU Arbor lab member page (https://arbor.ee.ntu.edu.tw/member.html), no year of PhD yet so phd=null. Tried: DBLP API (timed out), OpenAlex API (daily rate limit), 4 WebSearches (shared across batch, nothing relevant found). No personal page found; no student list expected."
+  },
+  {
+   "id": 538,
+   "name": "Dustin Wu",
+   "website": null,
+   "photo": null,
+   "current_position": "Ph.D. student, National Taiwan University (Arbor lab)",
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Listed as a current Ph.D. student on the NTU Arbor lab member page (https://arbor.ee.ntu.edu.tw/member.html), no year of PhD yet so phd=null. Tried: DBLP API (timed out), OpenAlex API (daily rate limit), 4 WebSearches (shared across batch, nothing relevant found). No personal page found; no student list expected."
+  },
+  {
+   "id": 539,
+   "name": "Ying-Hua Huang",
+   "website": null,
+   "photo": null,
+   "current_position": "Ph.D. student, National Taiwan University (Arbor lab)",
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Listed as a current Ph.D. student on the NTU Arbor lab member page (https://arbor.ee.ntu.edu.tw/member.html), no year of PhD yet so phd=null. Tried: DBLP API (timed out), OpenAlex API (daily rate limit), 4 WebSearches (shared across batch, nothing relevant found). No personal page found; no student list expected."
+  }
+ ]
+}

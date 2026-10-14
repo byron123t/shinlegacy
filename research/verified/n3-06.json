@@ -1,0 +1,185 @@
+{
+ "batch": "n3-06",
+ "people": [
+  {
+   "id": 420,
+   "name": "Richard Thompson",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD student (CS), University of Colorado Boulder",
+    "reason": "Listed on Eric Keller's current students list, PhD CS expected 2030"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 421,
+   "name": "Victor Jimenez",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD student (CS), University of Colorado Boulder",
+    "reason": "Listed on Eric Keller's current students list, PhD CS expected 2030 (Keller page)"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 422,
+   "name": "Erika Hunhoff",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://hunhoffe.github.io/",
+    "reason": "Homepage titled Erika Hunhoff, names Eric Keller as advisor"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://hunhoffe.github.io/assets/img/portrait.jpg",
+    "page_url": "https://hunhoffe.github.io/",
+    "reason": "200 image/jpeg; single-person portrait; embedded as <img src=/assets/img/portrait.jpg>"
+   },
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Homepage says PhD candidate with AMD co-op; Keller lists AMD only as first job; no current page confirms researcher at AMD",
+    "value": "Researcher at AMD (per Keller alumni list: first job AMD)"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 423,
+   "name": "Maziyar Nazari",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://maziyar-na.github.io/",
+    "reason": "Personal page, Maziyar Nazari, Research Scientist at Meta"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Research Scientist, Meta (Ads Ranking & Foundational AI)",
+    "reason": "Own homepage lists Research Scientist at Meta, Menlo Park; Keller lists Meta as first job"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 424,
+   "name": "Karl Olson",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Keller's page lists only 'first job', not a current position; no current official page confirms it",
+    "value": "Instructor, US Military Academy / Army Cyber Institute"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 425,
+   "name": "Greg Cusack",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://gregcusack.github.io/",
+    "reason": "Homepage 'Greg Cusack', states his Ph.D. at CU Boulder"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://gregcusack.github.io/images/headshot-img-2.jpg",
+    "page_url": "https://gregcusack.github.io/",
+    "reason": "200 image/jpeg; casual single-person selfie (cap, waterfall), only one person; embedded on page as author avatar"
+   },
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Keller lists Solana as first job only; homepage does not mention Solana or a current role",
+    "value": "Solana (per Keller alumni list)"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 426,
+   "name": "Marcelo Abranches",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://mcabranches.github.io",
+    "reason": "Homepage 'Marcelo Abranches', Ph.D. CU Boulder 2018-2022"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://mcabranches.github.io/images/bio-photo-3.jpg",
+    "page_url": "https://mcabranches.github.io",
+    "reason": "200 image/jpeg; casual single-person selfie with sunglasses; embedded as author avatar"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Solutions engineer, CGU (Brazilian government)",
+    "reason": "Own homepage says solutions engineer at CGU focused on networks and IT infrastructure"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 427,
+   "name": "Sepideh Goodarzy",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Keller's page lists only 'first job', not a current position; no current official page confirms it",
+    "value": "Google (per Keller alumni list)"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 428,
+   "name": "Mohammad Hashemi",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Keller's page lists only 'first job', not a current position; no current official page confirms it",
+    "value": "Data Scientist, Illumina (per Keller CV)"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 429,
+   "name": "Azzam Alsudais",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://aalsudais.github.io/",
+    "reason": "Homepage Azzam Alsudais, CU Boulder PhD student advised by Eric Keller (older page)"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://aalsudais.github.io/files/pic-col.jpg",
+    "page_url": "https://aalsudais.github.io/",
+    "reason": "200 image/jpeg; single-person portrait; embedded as <img src=files/pic-col.jpg>"
+   },
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Keller lists King Saud University assistant professor as first job; homepage is dated (PhD student) and does not confirm",
+    "value": "Professor, King Saud University (per Keller CV)"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  }
+ ]
+}

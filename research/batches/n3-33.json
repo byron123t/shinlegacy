@@ -1,0 +1,51 @@
+{
+ "batch": "n3-33",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 690,
+   "name": "Hui-Hsuan Wen",
+   "institution": "",
+   "year": "",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 691,
+   "name": "Yu-Hsuan Chen",
+   "institution": "",
+   "year": "",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 692,
+   "name": "Yu-Kai Chan",
+   "institution": "",
+   "year": "",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 693,
+   "name": "Wen-Sheng Lien",
+   "institution": "",
+   "year": "",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 694,
+   "name": "Javad Gharehchamani",
+   "institution": "Huawei Hong Kong Research Center",
+   "year": "2022",
+   "advisor": "Dimitris Papadopoulos",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "batch": "yr-01",
+ "kind": "year",
+ "people": [
+  {
+   "id": 143,
+   "name": "Arezou Pourmir",
+   "institution": "",
+   "year": "",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 144,
+   "name": "Ugur Sezer",
+   "institution": "",
+   "year": "",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 145,
+   "name": "Kamalavasan Srinivasan",
+   "institution": "Microsoft",
+   "year": "",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 146,
+   "name": "Niveditha Sundaram",
+   "institution": "",
+   "year": "",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 147,
+   "name": "Lun Tong",
+   "institution": "",
+   "year": "",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 148,
+   "name": "Chao Wang",
+   "institution": "",
+   "year": "",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 150,
+   "name": "Nairan Zhang",
+   "institution": "",
+   "year": "",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 152,
+   "name": "Ashwin Varadarajan",
+   "institution": "",
+   "year": "",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 153,
+   "name": "Zongshen Wu",
+   "institution": "",
+   "year": "",
+   "advisor": "Parameswaran Ramanathan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 154,
+   "name": "Mushtari Sadia",
+   "institution": "University of Michigan",
+   "year": "",
+   "advisor": "Amrita Roy Chowdhury",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 155,
+   "name": "Yiyi Sun",
+   "institution": "University of Michigan",
+   "year": "",
+   "advisor": "Amrita Roy Chowdhury",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 156,
+   "name": "Samanway Sadhu",
+   "institution": "University of Michigan",
+   "year": "",
+   "advisor": "Amrita Roy Chowdhury",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 158,
+   "name": "Chuhan Gao",
+   "institution": "",
+   "year": "",
+   "advisor": "Xinyu Zhang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 162,
+   "name": "Shilin Zhu",
+   "institution": "Pixar",
+   "year": "",
+   "advisor": "Xinyu Zhang",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

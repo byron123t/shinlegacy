@@ -1,0 +1,166 @@
+{
+ "batch": "n3-29",
+ "people": [
+  {
+   "id": 650,
+   "name": "Amirreza Ghafoori",
+   "website": {
+    "verdict": "rejected",
+    "url": "https://nss.ece.vt.edu/people.html",
+    "reason": "Generic lab team page, not a personal website"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://nss.ece.vt.edu/team/amirreza.jpg",
+    "page_url": "https://nss.ece.vt.edu/people.html",
+    "reason": "Page names person and embeds image; 200 image/jpeg; single-person portrait"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Ph.D. student, Virginia Tech (NSSL)",
+    "reason": "NSSL people page lists as current Ph.D. student/candidate"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 651,
+   "name": "Tanvi Garg",
+   "website": {
+    "verdict": "rejected",
+    "url": "https://nss.ece.vt.edu/people.html",
+    "reason": "Generic lab team page, not a personal website"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://nss.ece.vt.edu/team/tanvi.jpg",
+    "page_url": "https://nss.ece.vt.edu/people.html",
+    "reason": "Page names person and embeds image; 200 image/jpeg; single-person portrait"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Ph.D. candidate, Virginia Tech (NSSL)",
+    "reason": "NSSL people page lists as current Ph.D. student/candidate"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 652,
+   "name": "Yousef Akbar",
+   "website": {
+    "verdict": "rejected",
+    "url": "https://nss.ece.vt.edu/people.html",
+    "reason": "Generic lab team page, not a personal website"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Ph.D. student, Virginia Tech (NSSL)",
+    "reason": "NSSL people page lists as current Ph.D. student/candidate"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 653,
+   "name": "Dilek Gün Kaya",
+   "website": {
+    "verdict": "rejected",
+    "url": "https://nss.ece.vt.edu/people.html",
+    "reason": "Generic lab team page, not a personal website"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://nss.ece.vt.edu/team/dilek.JPG",
+    "page_url": "https://nss.ece.vt.edu/people.html",
+    "reason": "Page names person and embeds image; 200 image/jpeg; single-person portrait"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Ph.D. student, Virginia Tech (NSSL)",
+    "reason": "NSSL people page lists as current Ph.D. student/candidate"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 654,
+   "name": "Mahsa Foruhandeh",
+   "website": {
+    "verdict": "rejected",
+    "url": "https://nss.ece.vt.edu/people.html",
+    "reason": "Generic lab team page, not a personal website"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Systems engineer, Google Pixel TechEng",
+    "reason": "NSSL people page lists under Ph.D. Alumni, bio says systems engineer at Google Pixel TechEng"
+   },
+   "bio": null,
+   "students": [],
+   "phd": {
+    "verdict": "confirmed",
+    "year": null,
+    "institution": "Virginia Tech",
+    "source_url": "https://nss.ece.vt.edu/people.html",
+    "reason": "Lab page bio: holds Ph.D. in ECE from Virginia Tech; year not stated"
+   }
+  },
+  {
+   "id": 655,
+   "name": "Tianyang Zhou",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 656,
+   "name": "Qilong Wu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 657,
+   "name": "Yian Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 658,
+   "name": "Pragati Meshram",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 659,
+   "name": "Yiwei Fu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  }
+ ]
+}

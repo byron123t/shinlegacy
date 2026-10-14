@@ -38,6 +38,7 @@ function initGenealogy({ dataUrl }) {
   const NOW_YEAR = new Date().getFullYear();
   const GEN_NAMES = ["Advisor", "Students", "Grand-students", "Great-grand-students", "Later generations"];
   const LAYOUTS = ["radial", "tree", "story"];
+  const REPO_URL = "https://github.com/byron123t/shinlegacy";
   const PLAY_MS = 4500;       // one slide at 1×
   const SPEEDS = [1, 2, 5, 10];
   const REDUCED_MOTION = matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -101,10 +102,16 @@ function initGenealogy({ dataUrl }) {
         byId.set(d.data.id, d);
       });
 
-      // Chronological: by graduation year, then generation, then name.
-      // People with no year come last.
+      // Chronological: by graduation year, then generation, then name. People
+      // with no year on record are placed about seven years after their advisor,
+      // so they appear among their own generation instead of all at the end.
+      root.eachBefore((d) => {
+        const y = d.data.year_num;
+        d.when = y !== 9999 ? y : d.parent ? Math.min(d.parent.when + 7, NOW_YEAR + 5) : NOW_YEAR;
+      });
       storyOrder = allNodes.slice().sort((a, b) =>
-        a.data.year_num - b.data.year_num || a.depth - b.depth || a.data.name.localeCompare(b.data.name));
+        a.when - b.when || a.depth - b.depth || a.data.name.localeCompare(b.data.name));
+      buildPalettes();
 
       collapseTo(root, 1); // start with direct students; branches open on click
       root.px0 = root.py0 = 0;
@@ -119,6 +126,7 @@ function initGenealogy({ dataUrl }) {
       const q = params.get("q");
       const target = byId.get(id) || (q && searchPeople(q)[0]);
       if (target || layout === "story") select(target || root, { center: true });
+      if (params.has("about") || (!target && !readPref("introSeen"))) showIntro();
     })
     .catch(() => {
       canvas.querySelector(".loading").textContent = "Could not load the tree.";
@@ -322,10 +330,10 @@ function initGenealogy({ dataUrl }) {
     node.select("circle.pulse").attr("r", nodeRadius);
     node.select("circle.dot")
       .attr("r", nodeRadius)
-      .style("fill", genColor);
+      .style("fill", nodeColor);
     node.select("circle.collapsed-ring")
       .attr("r", (d) => nodeRadius(d) + 3.5)
-      .style("color", genColor)
+      .style("color", nodeColor)
       .attr("display", (d) => (isCollapsed(d) ? null : "none"));
 
     node.each(function (d) { placeLabel(d3.select(this), d, t); });
@@ -526,6 +534,8 @@ function initGenealogy({ dataUrl }) {
     const path = new Set(selected ? selected.ancestors() : []);
     const related = new Set(selected ? selected.descendants() : []);
     gZoom.classed("dimmed", !!selected);
+    gZoom.classed("filtering", legendFocus !== null);
+    gNodes.selectAll("g.node").classed("in-focus", (d) => legendFocus !== null && category(d) === legendFocus);
     gNodes.selectAll("g.node")
       .classed("selected", (d) => d === selected)
       .classed("on-path", (d) => path.has(d))
@@ -571,7 +581,7 @@ function initGenealogy({ dataUrl }) {
     ));
 
     items.push(el("div", { class: "person-head" },
-      photoEl(p, "avatar"),
+      photoEl(d, "avatar"),
       el("div", {}, el("h2", {}, p.name), p.position ? el("div", { class: "position" }, p.position) : null)));
     items.push(el("p", { class: "story-text" }, storyText(d)));
 
@@ -588,9 +598,10 @@ function initGenealogy({ dataUrl }) {
       actions.append(el("a", { class: "btn primary", href: p.url, target: "_blank", rel: "noopener noreferrer" },
         svgIcon("M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"), "Website"));
     }
-    const copyBtn = el("button", { class: "btn", type: "button" }, svgIcon("M9 15l6-6M11 6l1-1a4 4 0 0 1 6 6l-1 1M13 18l-1 1a4 4 0 0 1-6-6l1-1"), "Copy link");
+    const copyBtn = el("button", { class: "btn", type: "button", title: "Copy a link that previews this person when shared" },
+      svgIcon("M9 15l6-6M11 6l1-1a4 4 0 0 1 6 6l-1 1M13 18l-1 1a4 4 0 0 1-6-6l1-1"), "Copy link");
     copyBtn.addEventListener("click", () => {
-      navigator.clipboard?.writeText(location.href).then(() => {
+      navigator.clipboard?.writeText(shareUrl(d)).then(() => {
         copyBtn.lastChild.textContent = "Copied!";
         setTimeout(() => { copyBtn.lastChild.textContent = "Copy link"; }, 1500);
       });
@@ -628,6 +639,15 @@ function initGenealogy({ dataUrl }) {
       items.push(el("p", { class: "empty-note" }, "No students recorded yet."));
     }
 
+    const sources = (p.sources || []).filter((s) => /^https?:\/\//i.test(s.url));
+    items.push(el("h3", { class: "sources-head" }, "Sources"));
+    items.push(sources.length
+      ? el("ul", { class: "source-list" }, ...sources.map((s) => el("li", {},
+        el("span", {}, s.label), el("a", { href: s.url, target: "_blank", rel: "noopener noreferrer" }, hostOf(s.url)))))
+      : el("p", { class: "empty-note" }, "No sources recorded yet."));
+    items.push(el("a", { class: "btn correction", href: correctionUrl(d), target: "_blank", rel: "noopener noreferrer" },
+      svgIcon("M12 20h9M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4z"), "Suggest a correction"));
+
     detailsEl.replaceChildren(...items);
     detailsEl.hidden = false;
     detailsEl.scrollTop = 0;
@@ -643,10 +663,11 @@ function initGenealogy({ dataUrl }) {
         el("i", { style: `background:${genColor(d)}` }),
         [year || "Undated", d.depth === 0 ? "Where it begins" : `Generation ${d.depth}`].join(" · ")),
       el("div", { class: "slide-head" },
-        photoEl(d.data, "slide-photo"),
+        photoEl(d, "slide-photo"),
         el("div", {},
           el("h2", {}, d.data.name),
           el("div", { class: "slide-inst" }, d.data.position || d.data.institution || ""))),
+      d.depth > 0 ? el("div", { class: "slide-lineage" }, lineageText(d)) : null,
       el("p", {}, storyText(d)),
       el("div", { class: "slide-progress" }, el("i"))));
     if (slideYear.textContent !== year) slideYear.replaceChildren(el("span", {}, year));
@@ -665,6 +686,12 @@ function initGenealogy({ dataUrl }) {
     slideHost.replaceChildren();
     slideYear.replaceChildren();
     if (selected) { renderDetails(selected); if (selected.depth > 0) storyCamera(selected); }
+  }
+
+  // "Kang G. Shin → … → Advisor → Person", shortened in the middle for deep lines.
+  function lineageText(d) {
+    const names = d.ancestors().reverse().map((a) => a.data.name);
+    return (names.length > 4 ? [names[0], "…", ...names.slice(-2)] : names).join(" → ");
   }
 
   // A short, pronoun-free summary of where this person sits in the family.
@@ -686,13 +713,22 @@ function initGenealogy({ dataUrl }) {
     return parts.join(" ");
   }
 
-  // Photos are hot-linked from the person's own/official page; hide them if they fail to load.
-  function photoEl(p, cls) {
-    if (!/^https?:\/\//i.test(p.photo_url || "")) return null;
+  // Photos are hot-linked from the person's own/official page. Without one (or if
+  // it fails to load) show their initials on the generation colour instead.
+  function photoEl(d, cls) {
+    const p = d.data;
+    const initials = el("div", { class: `${cls} initials`, style: `background:${genColor(d)}`, "aria-hidden": "true" }, initialsOf(p.name));
+    if (!/^https?:\/\//i.test(p.photo_url || "")) return initials;
     const img = el("img", { class: cls, src: p.photo_url, alt: `Photo of ${p.name}`, loading: "lazy", referrerpolicy: "no-referrer" });
-    img.addEventListener("error", () => img.remove());
+    img.addEventListener("error", () => img.replaceWith(initials));
     if (p.photo_source) img.title = `Photo: ${p.photo_source}`;
     return img;
+  }
+
+  function initialsOf(name) {
+    const words = name.replace(/\([^)]*\)/g, " ").replace(/-/g, " ").split(/\s+/).filter((w) => /^\p{L}/u.test(w));
+    if (!words.length) return "?";
+    return (words[0][0] + (words.length > 1 ? words[words.length - 1][0] : "")).toUpperCase();
   }
 
   function bioSection(bio) {
@@ -713,6 +749,25 @@ function initGenealogy({ dataUrl }) {
     return out;
   }
 
+  // p/<id>.html carries the preview card for that person and forwards into the tree.
+  function shareUrl(d) { return new URL(`p/${d.data.id}.html`, location.href).href; }
+
+  function correctionUrl(d) {
+    const p = d.data;
+    const body = [
+      `Person: ${p.name} (id ${p.id})`,
+      `Link: ${shareUrl(d)}`,
+      `Advisor on record: ${d.parent ? d.parent.data.name : "none"}`,
+      "",
+      "What is wrong or missing (advisor, students, PhD year, position, website, photo, …):",
+      "",
+      "",
+      "A link that shows it, if you have one:",
+      "",
+    ].join("\n");
+    return `${REPO_URL}/issues/new?${new URLSearchParams({ title: `Correction: ${p.name}`, body, labels: "correction" })}`;
+  }
+
   function hostOf(u) { try { return new URL(u).hostname.replace(/^www\./, ""); } catch (e) { return "link"; } }
 
   function personButton(d) {
@@ -720,21 +775,168 @@ function initGenealogy({ dataUrl }) {
   }
 
   // ---------------------------------------------------------------------------
+  // Intro card: shown on a first visit (and from "About")
+  // ---------------------------------------------------------------------------
+  const introEl = document.getElementById("intro");
+  function showIntro() {
+    const people = allNodes.filter((d) => d.data.id !== 0);
+    const insts = new Set(people.map((d) => instName(d.data).toLowerCase()).filter(Boolean));
+    const firstYear = d3.min(people, (d) => (d.data.year_num !== 9999 ? d.data.year_num : undefined));
+    const close = () => {
+      introEl.hidden = true;
+      writePref("introSeen", "1");
+      const url = new URL(location.href);
+      url.searchParams.delete("about");
+      history.replaceState(null, "", url);
+    };
+    const play = el("button", { class: "btn primary", type: "button" }, "▶ Play the story");
+    play.addEventListener("click", () => {
+      close();
+      if (layout !== "story") document.querySelector('[data-layout="story"]').click();
+      select(root);
+      if (!playTimer) togglePlay();
+    });
+    const explore = el("button", { class: "btn", type: "button" }, "Explore the tree");
+    explore.addEventListener("click", close);
+    introEl.replaceChildren(el("div", { class: "intro-card", role: "dialog", "aria-modal": "true", "aria-labelledby": "introTitle" },
+      photoEl(root, "intro-photo"),
+      el("h2", { id: "introTitle" }, `The academic family of ${root.data.name}`),
+      el("p", {}, `Every PhD student ${root.data.name} advised${root.data.institution ? ` at ${root.data.institution}` : ""}, `
+        + "their students, and their students' students, gathered from lab pages, dissertation records and CVs."),
+      el("div", { class: "intro-nums" },
+        el("div", {}, el("b", {}, String(people.length)), "people"),
+        el("div", {}, el("b", {}, String(root.height + 1)), "generations"),
+        el("div", {}, el("b", {}, String(insts.size)), "institutions"),
+        firstYear ? el("div", {}, el("b", {}, String(firstYear)), "first PhD") : null),
+      el("p", { class: "intro-hint" }, "Play walks through everyone in the order they finished. Search to find someone, or open the Directory for a sortable list."),
+      el("div", { class: "intro-actions" }, play, explore)));
+    introEl.onclick = (e) => { if (e.target === introEl) close(); };
+    introEl.onkeydown = (e) => { if (e.key === "Escape") { e.stopPropagation(); close(); } };
+    introEl.hidden = false;
+    play.focus();
+  }
+
+  // ---------------------------------------------------------------------------
   // Stats & legend
   // ---------------------------------------------------------------------------
   function renderStats() {
     const people = allNodes.filter((d) => d.data.id !== 0);
-    const insts = new Set(people.map((d) => (d.data.institution || "").trim().toLowerCase()).filter(Boolean));
+    const insts = new Set(people.map((d) => instName(d.data).toLowerCase()).filter(Boolean));
     const years = people.map((d) => d.data.year_num).filter((y) => y && y !== 9999 && y <= NOW_YEAR);
     document.getElementById("statPeople").textContent = people.length;
     document.getElementById("statGens").textContent = root.height + 1;
     document.getElementById("statInst").textContent = insts.size;
     document.getElementById("statSpan").textContent = years.length ? `${d3.min(years)}–${NOW_YEAR}` : "–";
-    const legend = document.getElementById("legend");
-    for (let g = 0; g <= Math.min(root.height, 4); g++) {
-      legend.append(el("span", {}, el("i", { style: `background:var(--gen-${g})` }), g === 0 ? root.data.name : GEN_NAMES[g]));
-    }
+    const select = document.getElementById("colorBy");
+    select.value = colorMode;
+    select.addEventListener("change", () => {
+      colorMode = select.value;
+      writePref("colorBy", colorMode);
+      legendFocus = null;
+      renderLegend();
+      gNodes.selectAll("g.node").select("circle.dot").style("fill", nodeColor);
+      gNodes.selectAll("g.node").select("circle.collapsed-ring").style("color", nodeColor);
+      applyHighlight();
+    });
+    renderLegend();
     document.getElementById("stats").hidden = false;
+  }
+
+  // ---------------------------------------------------------------------------
+  // Colour by generation, decade, sector or institution. Clicking a legend entry
+  // fades everyone outside that group.
+  // ---------------------------------------------------------------------------
+  const COLOR_MODES = ["gen", "decade", "sector", "inst"];
+  let colorMode = COLOR_MODES.includes(readPref("colorBy")) ? readPref("colorBy") : "gen";
+  let legendFocus = null;
+  const palettes = {};
+  const NONE = "var(--faint)";
+  const INST_ALIASES = [
+    [/^uiuc$|university of illinois/i, "University of Illinois Urbana-Champaign"],
+    [/^samsung/i, "Samsung"],
+    [/^(facebook|meta)\b/i, "Meta"],
+    [/^apple\b/i, "Apple"],
+    [/^google\b/i, "Google"],
+    [/^microsoft\b/i, "Microsoft"],
+    [/^yonsei/i, "Yonsei University"],
+    [/^university of nebraska/i, "University of Nebraska-Lincoln"],
+    [/^(umich|university of michigan)/i, "University of Michigan"],
+    [/^(ucsd|uc san diego|university of california,? san diego)/i, "UC San Diego"],
+    [/^(uc berkeley|university of california,? berkeley)/i, "UC Berkeley"],
+  ];
+
+  function instName(p) {
+    const raw = (p.institution || "").trim();
+    if (!raw) return "";
+    const hit = INST_ALIASES.find(([re]) => re.test(raw));
+    return hit ? hit[1] : raw;
+  }
+
+  function sectorOf(p) {
+    const text = `${p.institution || ""} ${p.position || ""}`;
+    if (!text.trim()) return "Unknown";
+    if (/professor|lecturer|faculty|postdoc|ph\.?\s?d\.? (student|candidate)|doctoral/i.test(text)) return "Academia";
+    if (/national lab|laborator|\bNASA\b|\bNIST\b|naval|army|air force|government|\bETRI\b|\bITRI\b|sandia|argonne|national institute of/i.test(text)) return "Government & labs";
+    if (/universit|college|institute of technology|\bKAIST\b|\bPOSTECH\b|\bUIUC\b|\bMIT\b|\bETH\b|\bEPFL\b|\bUC [A-Z]|\bUCLA\b|academ|school of/i.test(text)) return "Academia";
+    return "Industry";
+  }
+
+  function category(d) {
+    const p = d.data;
+    if (colorMode === "gen") return Math.min(d.depth, 4);
+    if (colorMode === "decade") {
+      const y = p.year_num;
+      return y !== 9999 && y <= NOW_YEAR + 6 ? `${Math.floor(Math.min(y, NOW_YEAR) / 10) * 10}s` : "Undated";
+    }
+    if (colorMode === "sector") return sectorOf(p);
+    const name = instName(p);
+    return !name ? "Unknown" : palettes.inst.has(name) ? name : "Other";
+  }
+
+  function nodeColor(d) {
+    if (colorMode === "gen") return genColor(d);
+    const c = category(d);
+    return palettes[colorMode].get(c) || NONE;
+  }
+
+  function buildPalettes() {
+    const decades = [...new Set(allNodes.map((d) => d.data.year_num).filter((y) => y !== 9999 && y <= NOW_YEAR + 6)
+      .map((y) => Math.floor(Math.min(y, NOW_YEAR) / 10) * 10))].sort();
+    const ramp = d3.interpolateRgbBasis(["#1f4e8c", "#2a8a7a", "#d99a00", "#c2413b"]);
+    palettes.decade = new Map(decades.map((dec, i) => [`${dec}s`, ramp(decades.length > 1 ? i / (decades.length - 1) : 0)]));
+    palettes.sector = new Map([["Academia", "#1f4e8c"], ["Industry", "#c26a1d"], ["Government & labs", "#2a8a7a"]]);
+    const counts = d3.rollup(allNodes.filter((d) => instName(d.data)), (v) => v.length, (d) => instName(d.data));
+    const top = [...counts].sort((a, b) => b[1] - a[1]).slice(0, 10).map((e) => e[0]);
+    palettes.inst = new Map(top.map((n, i) => [n, d3.schemeTableau10[i]]));
+    palettes.inst.set("Other", "#b5ad9e");
+  }
+
+  function renderLegend() {
+    const legend = document.getElementById("legend");
+    let entries;
+    if (colorMode === "gen") {
+      entries = d3.range(0, Math.min(root.height, 4) + 1).map((g) => [g, `var(--gen-${g})`, g === 0 ? root.data.name : GEN_NAMES[g]]);
+    } else {
+      const counts = d3.rollup(allNodes, (v) => v.length, category);
+      entries = [...palettes[colorMode]].filter(([k]) => counts.has(k)).map(([k, c]) => [k, c, `${k} (${counts.get(k)})`]);
+      for (const k of ["Undated", "Unknown"]) if (counts.has(k)) entries.push([k, NONE, `${k} (${counts.get(k)})`]);
+    }
+    legend.replaceChildren(...entries.map(([key, color, label]) => {
+      const b = el("button", { type: "button", "aria-pressed": String(legendFocus === key), title: "Show only this group" },
+        el("i", { style: `background:${color}` }), label);
+      b.addEventListener("click", () => {
+        legendFocus = legendFocus === key ? null : key;
+        if (legendFocus !== null && layout !== "story") {
+          // Open every branch that leads to someone in the group, so they're all visible.
+          allNodes.forEach((d) => { if (category(d) === legendFocus) reveal(d); });
+          render(root, { anchor: false });
+          fit();
+        }
+        renderLegend();
+        applyHighlight();
+      });
+      return b;
+    }));
   }
 
   // ---------------------------------------------------------------------------
@@ -743,20 +945,33 @@ function initGenealogy({ dataUrl }) {
   let results = [];
   let active = 0;
 
+  // Names first, then where people are (institution, position), then what they
+  // work on (research areas, thesis). Each match remembers which field it hit.
   function searchPeople(q) {
     q = q.trim().toLowerCase();
     if (!q) return [];
     const scored = [];
     for (const d of allNodes) {
-      const name = d.data.name.toLowerCase();
-      const inst = (d.data.institution || "").toLowerCase();
-      let score = -1;
+      const p = d.data;
+      const name = p.name.toLowerCase();
+      let score = -1, hit = null;
       if (name === q) score = 0;
       else if (name.startsWith(q)) score = 1;
       else if (name.split(/[\s().-]+/).some((w) => w.startsWith(q))) score = 2;
       else if (name.includes(q)) score = 3;
-      else if (inst.includes(q)) score = 4;
-      if (score >= 0) scored.push([score, d]);
+      else {
+        const fields = [
+          [4, p.institution],
+          [4, p.position],
+          [5, ...(p.bio?.research_areas || [])],
+          [6, p.bio?.thesis_title],
+        ];
+        for (const [sc, ...texts] of fields) {
+          const t = texts.find((x) => x && x.toLowerCase().includes(q));
+          if (t) { score = sc; hit = t; break; }
+        }
+      }
+      if (score >= 0) { d.hit = hit; scored.push([score, d]); }
     }
     scored.sort((a, b) => a[0] - b[0] || a[1].data.name.localeCompare(b[1].data.name));
     return scored.map((s) => s[1]);
@@ -771,24 +986,27 @@ function initGenealogy({ dataUrl }) {
   function renderResults() {
     const q = searchInput.value;
     const matches = searchPeople(q);
-    results = matches.slice(0, 8);
+    results = matches.slice(0, 50);
     active = 0;
     gNodes.selectAll("g.node").classed("match", (d) => q.trim() && matches.includes(d));
     if (!q.trim()) { closeResults(); return; }
     if (!results.length) {
       resultsEl.replaceChildren(el("li", { class: "empty" }, "No one matches that search."));
     } else {
-      resultsEl.replaceChildren(...results.map((d, i) => {
+      resultsEl.replaceChildren(el("li", { class: "count" }, `${matches.length} ${matches.length === 1 ? "person" : "people"}`), ...results.map((d, i) => {
         const li = el("li", { role: "option", id: `res-${i}`, "aria-selected": String(i === 0) },
           el("i", { class: "gen-dot", style: `background:${genColor(d)}` }),
           el("span", { class: "r-name" }, ...highlightText(d.data.name, q)),
-          el("span", { class: "r-meta" }, [d.data.institution, d.data.year].filter(Boolean).join(" · ") || GEN_NAMES[Math.min(d.depth, 4)]));
+          el("span", { class: "r-meta" }, ...(d.hit
+            ? highlightText(d.hit, q)
+            : [[d.data.institution, d.data.year].filter(Boolean).join(" · ") || GEN_NAMES[Math.min(d.depth, 4)]])));
         li.addEventListener("mousedown", (e) => { e.preventDefault(); pick(d); });
         li.addEventListener("mousemove", () => setActive(i));
         return li;
       }));
       if (matches.length > results.length) {
-        resultsEl.append(el("li", { class: "empty" }, `+${matches.length - results.length} more — keep typing`));
+        resultsEl.append(el("li", { class: "empty" }, `+${matches.length - results.length} more: keep typing, or see the `,
+          el("a", { href: `directory.html?q=${encodeURIComponent(q.trim())}` }, "directory")));
       }
     }
     resultsEl.hidden = false;
@@ -866,6 +1084,15 @@ function initGenealogy({ dataUrl }) {
   document.getElementById("zoomIn").addEventListener("click", () => svg.transition().duration(250).call(zoom.scaleBy, 1.4));
   document.getElementById("zoomOut").addEventListener("click", () => svg.transition().duration(250).call(zoom.scaleBy, 1 / 1.4));
   document.getElementById("fitBtn").addEventListener("click", () => fit());
+
+  // ----- narrow screens: the layout and story controls fold behind one button
+  const toolbar = document.querySelector(".toolbar");
+  const toolsToggle = document.getElementById("toolsToggle");
+  toolsToggle.addEventListener("click", () => {
+    const open = !toolbar.classList.contains("tools-open");
+    toolbar.classList.toggle("tools-open", open);
+    toolsToggle.setAttribute("aria-expanded", String(open));
+  });
 
   // ----- story navigation (keyboard, buttons, autoplay)
   function go(d) { if (d && d !== selected) select(d, { center: true, focus: true }); }
@@ -953,7 +1180,7 @@ function initGenealogy({ dataUrl }) {
   document.addEventListener("keydown", (e) => {
     const active = document.activeElement;
     const typing = /^(INPUT|TEXTAREA|SELECT)$/.test(active?.tagName);
-    if (typing || e.metaKey || e.ctrlKey || e.altKey) return;
+    if (typing || e.metaKey || e.ctrlKey || e.altKey || !introEl.hidden) return;
     // Tab drives the story unless focus is in the header or the details panel.
     const inChrome = active && (active.closest(".site-header") || active.closest("#details"));
     const nav = {

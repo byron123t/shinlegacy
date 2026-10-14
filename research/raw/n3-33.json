@@ -1,0 +1,60 @@
+{
+ "batch": "n3-33",
+ "people": [
+  {
+   "id": 690,
+   "name": "Hui-Hsuan Wen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Not found on Shuai's BASIC Lab homepage (basiclab.lab.nycu.edu.tw); members page 404; cvlab host dead; 1 WebSearch found nothing."
+  },
+  {
+   "id": 691,
+   "name": "Yu-Hsuan Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Not found exactly on BASIC Lab homepage (only Yu-Hsiu Chen, unconfirmed); members page 404; nothing verified."
+  },
+  {
+   "id": 692,
+   "name": "Yu-Kai Chan",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Appears as co-author (HyperPatch KDD 2026, HyperRAG WWW 2026) on basiclab.lab.nycu.edu.tw, likely a current student; no PhD year/homepage found."
+  },
+  {
+   "id": 693,
+   "name": "Wen-Sheng Lien",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Appears as co-author on several 2025-26 papers on basiclab.lab.nycu.edu.tw, likely a current student; no PhD year/homepage found."
+  },
+  {
+   "id": 694,
+   "name": "Javad Gharehchamani",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Papadopoulos's HKUST homepage (cse.ust.hk/~dipapado) does not mention him; no PhD year or homepage verified."
+  }
+ ]
+}

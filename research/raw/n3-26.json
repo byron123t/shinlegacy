@@ -1,0 +1,142 @@
+{
+ "batch": "n3-26",
+ "people": [
+  {
+   "id": 620,
+   "name": "Navid Zandi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Rong Zheng personal page 404; WebSearch, Google Scholar, MacSphere (blocked) found nothing on Navid Zandi."
+  },
+  {
+   "id": 621,
+   "name": "Namkyung Yoon",
+   "website": {
+    "url": "https://wine.korea.ac.kr/members/namkyung-yoon",
+    "source_note": "WINE Lab (Hwangnam Kim) member profile"
+   },
+   "photo": null,
+   "current_position": "M.S. & Ph.D. student, WINE Lab, School of Electrical Engineering, Korea University",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as current M.S.&Ph.D. student on https://wine.korea.ac.kr/members (no graduation year listed, so no phd year). Photo CDN URLs (Google Sites) not verified per-person so omitted."
+  },
+  {
+   "id": 622,
+   "name": "Kiseok Kim",
+   "website": {
+    "url": "https://wine.korea.ac.kr/members/kiseok-kim",
+    "source_note": "WINE Lab (Hwangnam Kim) member profile"
+   },
+   "photo": null,
+   "current_position": "M.S. & Ph.D. student, WINE Lab, School of Electrical Engineering, Korea University",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as current M.S.&Ph.D. student on https://wine.korea.ac.kr/members (no graduation year listed, so no phd year). Photo CDN URLs (Google Sites) not verified per-person so omitted."
+  },
+  {
+   "id": 623,
+   "name": "Changmin Park",
+   "website": {
+    "url": "https://wine.korea.ac.kr/members/changmin-park",
+    "source_note": "WINE Lab (Hwangnam Kim) member profile"
+   },
+   "photo": null,
+   "current_position": "M.S. & Ph.D. student, WINE Lab, School of Electrical Engineering, Korea University",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as current M.S.&Ph.D. student on https://wine.korea.ac.kr/members (no graduation year listed, so no phd year). Photo CDN URLs (Google Sites) not verified per-person so omitted."
+  },
+  {
+   "id": 624,
+   "name": "Kyeonghyun Yoo",
+   "website": {
+    "url": "https://wine.korea.ac.kr/members/kyeonghyun-yoo",
+    "source_note": "WINE Lab (Hwangnam Kim) member profile"
+   },
+   "photo": null,
+   "current_position": "M.S. & Ph.D. student, WINE Lab, School of Electrical Engineering, Korea University",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as current M.S.&Ph.D. student on https://wine.korea.ac.kr/members (no graduation year listed, so no phd year). Photo CDN URLs (Google Sites) not verified per-person so omitted."
+  },
+  {
+   "id": 625,
+   "name": "Wooyong Jung",
+   "website": {
+    "url": "https://wine.korea.ac.kr/members/wooyong-jung",
+    "source_note": "WINE Lab (Hwangnam Kim) member profile"
+   },
+   "photo": null,
+   "current_position": "M.S. & Ph.D. student, WINE Lab, School of Electrical Engineering, Korea University",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as current M.S.&Ph.D. student on https://wine.korea.ac.kr/members (no graduation year listed, so no phd year). Photo CDN URLs (Google Sites) not verified per-person so omitted."
+  },
+  {
+   "id": 626,
+   "name": "Dohun Lee",
+   "website": {
+    "url": "https://wine.korea.ac.kr/members/dohun-lee",
+    "source_note": "WINE Lab (Hwangnam Kim) member profile"
+   },
+   "photo": null,
+   "current_position": "M.S. & Ph.D. student, WINE Lab, School of Electrical Engineering, Korea University",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as current M.S.&Ph.D. student on https://wine.korea.ac.kr/members (no graduation year listed, so no phd year). Photo CDN URLs (Google Sites) not verified per-person so omitted."
+  },
+  {
+   "id": 627,
+   "name": "Seokmin Kim",
+   "website": {
+    "url": "https://wine.korea.ac.kr/members/seokmin-kim",
+    "source_note": "WINE Lab (Hwangnam Kim) member profile"
+   },
+   "photo": null,
+   "current_position": "M.S. & Ph.D. student, WINE Lab, School of Electrical Engineering, Korea University",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as current M.S.&Ph.D. student on https://wine.korea.ac.kr/members (no graduation year listed, so no phd year). Photo CDN URLs (Google Sites) not verified per-person so omitted."
+  },
+  {
+   "id": 628,
+   "name": "Taewoo Park",
+   "website": {
+    "url": "https://wine.korea.ac.kr/members/tae-woo-park",
+    "source_note": "WINE Lab (Hwangnam Kim) member profile"
+   },
+   "photo": null,
+   "current_position": "M.S. & Ph.D. student, WINE Lab, School of Electrical Engineering, Korea University",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as current M.S.&Ph.D. student on https://wine.korea.ac.kr/members (no graduation year listed, so no phd year). Photo CDN URLs (Google Sites) not verified per-person so omitted."
+  },
+  {
+   "id": 629,
+   "name": "Poet Larsen",
+   "website": {
+    "url": "https://aiinstitute.hbs.edu/our-team/poet-larsen/",
+    "source_note": "HBS AI Institute team page"
+   },
+   "photo": null,
+   "current_position": "Postdoctoral Fellow, Customer Intelligence Lab, Harvard Business School AI Institute",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Page has only placeholder icon, no PhD info; Proserpio link not confirmed."
+  }
+ ]
+}

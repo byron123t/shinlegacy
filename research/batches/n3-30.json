@@ -1,0 +1,96 @@
+{
+ "batch": "n3-30",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 660,
+   "name": "Yi (Evie) Zhang",
+   "institution": "UIUC",
+   "year": "",
+   "advisor": "Varun Chandrasekaran",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 661,
+   "name": "Vira Kasprova",
+   "institution": "UIUC",
+   "year": "",
+   "advisor": "Varun Chandrasekaran",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 662,
+   "name": "Ali Ebrahimpour Boroojeny",
+   "institution": "Google",
+   "year": "2026",
+   "advisor": "Varun Chandrasekaran",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 663,
+   "name": "Fan Wu",
+   "institution": "Five Rings LLC",
+   "year": "2025",
+   "advisor": "Varun Chandrasekaran",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 664,
+   "name": "Wenjun Jiang",
+   "institution": "Samsung Research America",
+   "year": "",
+   "advisor": "Lu Su",
+   "website_on_record": "https://wenjunjiang.github.io/",
+   "students_in_tree": []
+  },
+  {
+   "id": 665,
+   "name": "Chenglin Miao",
+   "institution": "Iowa State University",
+   "year": "",
+   "advisor": "Lu Su",
+   "website_on_record": "https://clmiao.github.io/",
+   "students_in_tree": []
+  },
+  {
+   "id": 666,
+   "name": "Hongfei Xue",
+   "institution": "University of North Carolina at Charlotte",
+   "year": "",
+   "advisor": "Lu Su",
+   "website_on_record": "http://havocfixer.github.io/",
+   "students_in_tree": []
+  },
+  {
+   "id": 667,
+   "name": "Praveen Goli",
+   "institution": "",
+   "year": "1994",
+   "advisor": "C. Mani Krishna",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 668,
+   "name": "Jingqing Wang",
+   "institution": "",
+   "year": "",
+   "advisor": "Xi Zhang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 669,
+   "name": "Yun-Zhu Song",
+   "institution": "",
+   "year": "2023",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

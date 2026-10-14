@@ -1,0 +1,123 @@
+{
+ "batch": "n3-15",
+ "people": [
+  {
+   "id": 510,
+   "name": "Pengyu Chu",
+   "website": null,
+   "photo": null,
+   "current_position": "Employee at Huawei (per RIVAL alumni list)",
+   "bio": null,
+   "students": [],
+   "phd": {
+    "year": "2023",
+    "institution": "Michigan State University",
+    "source_url": "https://www.egr.msu.edu/rival/group.html"
+   },
+   "notes": "Zhaojian Li RIVAL group page (https://www.egr.msu.edu/rival/group.html) fetched; OpenAlex author search attempted (rate-limited for several names). No personal homepage or headshot found/verified. Alumni list says 'Ph.D. student, 2018-2023', now at Huawei; year is the end of the lab stint, not a confirmed dissertation date."
+  },
+  {
+   "id": 511,
+   "name": "Kaian Chen",
+   "website": null,
+   "photo": null,
+   "current_position": "Employee at Ford Motor Company (per RIVAL alumni list)",
+   "bio": null,
+   "students": [],
+   "phd": {
+    "year": "2022",
+    "institution": "Michigan State University",
+    "source_url": "https://www.egr.msu.edu/rival/group.html"
+   },
+   "notes": "Zhaojian Li RIVAL group page (https://www.egr.msu.edu/rival/group.html) fetched; OpenAlex author search attempted (rate-limited for several names). No personal homepage or headshot found/verified. Alumni list says 'Ph.D. student, 2018-2022', now at Ford; year is end of lab stint, not a confirmed dissertation date."
+  },
+  {
+   "id": 512,
+   "name": "Kyle Lammers",
+   "website": null,
+   "photo": null,
+   "current_position": "PhD student, Michigan State University (RIVAL lab, Zhaojian Li)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Zhaojian Li RIVAL group page (https://www.egr.msu.edu/rival/group.html) fetched; OpenAlex author search attempted (rate-limited for several names). No personal homepage or headshot found/verified. Listed as current PhD student, so no PhD year yet."
+  },
+  {
+   "id": 513,
+   "name": "Mohammad Hajidavalloo",
+   "website": null,
+   "photo": null,
+   "current_position": "PhD student, Michigan State University (RIVAL lab, Zhaojian Li)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Zhaojian Li RIVAL group page (https://www.egr.msu.edu/rival/group.html) fetched; OpenAlex author search attempted (rate-limited for several names). No personal homepage or headshot found/verified. Listed as current PhD student, so no PhD year yet."
+  },
+  {
+   "id": 514,
+   "name": "Ramin Vahidimoghaddam",
+   "website": null,
+   "photo": null,
+   "current_position": "PhD student, Michigan State University (RIVAL lab, Zhaojian Li)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Zhaojian Li RIVAL group page (https://www.egr.msu.edu/rival/group.html) fetched; OpenAlex author search attempted (rate-limited for several names). No personal homepage or headshot found/verified. Listed as current PhD student, so no PhD year yet."
+  },
+  {
+   "id": 515,
+   "name": "Huanqing Wang",
+   "website": null,
+   "photo": null,
+   "current_position": "PhD student, Michigan State University (RIVAL lab, Zhaojian Li)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Zhaojian Li RIVAL group page (https://www.egr.msu.edu/rival/group.html) fetched; OpenAlex author search attempted (rate-limited for several names). No personal homepage or headshot found/verified. Listed as current PhD student, so no PhD year yet."
+  },
+  {
+   "id": 516,
+   "name": "Chuwei Ye",
+   "website": null,
+   "photo": null,
+   "current_position": "PhD student, Michigan State University (RIVAL lab, Zhaojian Li)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Zhaojian Li RIVAL group page (https://www.egr.msu.edu/rival/group.html) fetched; OpenAlex author search attempted (rate-limited for several names). No personal homepage or headshot found/verified. Listed as current PhD student, so no PhD year yet."
+  },
+  {
+   "id": 517,
+   "name": "Jiajia Li",
+   "website": null,
+   "photo": null,
+   "current_position": "PhD student, Michigan State University (RIVAL lab, Zhaojian Li)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Zhaojian Li RIVAL group page (https://www.egr.msu.edu/rival/group.html) fetched; OpenAlex author search attempted (rate-limited for several names). No personal homepage or headshot found/verified. Listed as current PhD student, so no PhD year yet."
+  },
+  {
+   "id": 518,
+   "name": "Keyi Zhu",
+   "website": null,
+   "photo": null,
+   "current_position": "PhD student, Michigan State University (RIVAL lab, Zhaojian Li)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Zhaojian Li RIVAL group page (https://www.egr.msu.edu/rival/group.html) fetched; OpenAlex author search attempted (rate-limited for several names). No personal homepage or headshot found/verified. Listed as current PhD student, so no PhD year yet."
+  },
+  {
+   "id": 519,
+   "name": "Chaaran Arunachalam",
+   "website": null,
+   "photo": null,
+   "current_position": "PhD student, Michigan State University (RIVAL lab, Zhaojian Li)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Zhaojian Li RIVAL group page (https://www.egr.msu.edu/rival/group.html) fetched; OpenAlex author search attempted (rate-limited for several names). No personal homepage or headshot found/verified. Listed as current PhD student, so no PhD year yet."
+  }
+ ]
+}

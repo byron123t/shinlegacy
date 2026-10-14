@@ -1,0 +1,96 @@
+{
+ "batch": "n3-08",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 440,
+   "name": "Xingyu Xiang",
+   "institution": "Harvard University",
+   "year": "",
+   "advisor": "Minlan Yu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 441,
+   "name": "Yiyu Liu",
+   "institution": "Harvard University",
+   "year": "",
+   "advisor": "Minlan Yu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 442,
+   "name": "Xuanlin Jiang",
+   "institution": "Harvard University",
+   "year": "",
+   "advisor": "Minlan Yu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 443,
+   "name": "Ethan Heilman",
+   "institution": "",
+   "year": "",
+   "advisor": "Sharon Goldberg",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 444,
+   "name": "Aanchal Malhotra",
+   "institution": "",
+   "year": "",
+   "advisor": "Sharon Goldberg",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 445,
+   "name": "Sarah Scheffler",
+   "institution": "",
+   "year": "",
+   "advisor": "Sharon Goldberg",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 446,
+   "name": "Qihang Yao",
+   "institution": "Meta",
+   "year": "2025",
+   "advisor": "Constantine Dovrolis",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 447,
+   "name": "Mustafa Burak Gürbüz",
+   "institution": "Meta",
+   "year": "2025",
+   "advisor": "Constantine Dovrolis",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 448,
+   "name": "Cameron Taylor",
+   "institution": "Talon.io",
+   "year": "2025",
+   "advisor": "Constantine Dovrolis",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 449,
+   "name": "Shreyas Malakarjun Patil",
+   "institution": "Amazon",
+   "year": "2024",
+   "advisor": "Constantine Dovrolis",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

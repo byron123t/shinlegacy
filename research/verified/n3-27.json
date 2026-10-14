@@ -1,0 +1,235 @@
+{
+  "batch": "n3-27",
+  "people": [
+    {
+      "id": 630,
+      "name": "Ruohan Zong",
+      "website": {
+        "verdict": "confirmed",
+        "url": "https://ischool.illinois.edu/people/ruohan-zong",
+        "reason": "Own/official page loads, name and UIUC affiliation match; advisor Dong Wang shown or listed on wangdong.org/sslab/team.html"
+      },
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://ischool.illinois.edu/sites/default/files/styles/normal_square/public/images/Ruohan-Zong.png",
+        "page_url": "https://ischool.illinois.edu/people/ruohan-zong",
+        "reason": "200 image; embedded on page naming person; single-person portrait/casual photo"
+      },
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "PhD student in Information Sciences, University of Illinois Urbana-Champaign",
+        "reason": "Stated on own or ischool profile page"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 631,
+      "name": "YeonJung (Jessica) Choi",
+      "website": {
+        "verdict": "confirmed",
+        "url": "https://ischool.illinois.edu/people/jessica-choi",
+        "reason": "Own/official page loads, name and UIUC affiliation match; advisor Dong Wang shown or listed on wangdong.org/sslab/team.html"
+      },
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://ischool.illinois.edu/sites/default/files/styles/normal_square/public/images/Jessica-Choi.jpg",
+        "page_url": "https://ischool.illinois.edu/people/jessica-choi",
+        "reason": "200 image; embedded on page naming person; single-person portrait/casual photo"
+      },
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "PhD student in Information Sciences, University of Illinois Urbana-Champaign",
+        "reason": "Stated on own or ischool profile page"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 632,
+      "name": "YeaEun Gong",
+      "website": {
+        "verdict": "confirmed",
+        "url": "https://ischool.illinois.edu/people/yeaeun-gong",
+        "reason": "Own/official page loads, name and UIUC affiliation match; advisor Dong Wang shown or listed on wangdong.org/sslab/team.html"
+      },
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://ischool.illinois.edu/sites/default/files/styles/normal_square/public/images/Yeaeun%20Gong.jpg",
+        "page_url": "https://ischool.illinois.edu/people/yeaeun-gong",
+        "reason": "200 image; embedded on page naming person; single-person portrait/casual photo"
+      },
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "PhD student in Information Sciences, University of Illinois Urbana-Champaign",
+        "reason": "Stated on own or ischool profile page"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 633,
+      "name": "Yifan Liu",
+      "website": {
+        "verdict": "confirmed",
+        "url": "https://yliuaa.github.io/",
+        "reason": "Own/official page loads, name and UIUC affiliation match; advisor Dong Wang shown or listed on wangdong.org/sslab/team.html"
+      },
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://yliuaa.github.io/assets/images/photos/myself2026-web.webp",
+        "page_url": "https://yliuaa.github.io/",
+        "reason": "200 image; embedded on page naming person; single-person portrait/casual photo"
+      },
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "PhD student in Information Sciences, University of Illinois Urbana-Champaign (advised by Dong Wang)",
+        "reason": "Stated on own or ischool profile page"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 634,
+      "name": "Yaokun Liu",
+      "website": {
+        "verdict": "confirmed",
+        "url": "https://yaokunliu.github.io/",
+        "reason": "Own/official page loads, name and UIUC affiliation match; advisor Dong Wang shown or listed on wangdong.org/sslab/team.html"
+      },
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://yaokunliu.github.io/images/profile/yaokun-liu.jpg",
+        "page_url": "https://yaokunliu.github.io/",
+        "reason": "200 image; embedded on page naming person; single-person portrait/casual photo"
+      },
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "PhD student in Information Sciences, University of Illinois Urbana-Champaign (advised by Dong Wang)",
+        "reason": "Stated on own or ischool profile page"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 635,
+      "name": "Zelin Li",
+      "website": {
+        "verdict": "confirmed",
+        "url": "https://seeyn.github.io/",
+        "reason": "Own/official page loads, name and UIUC affiliation match; advisor Dong Wang shown or listed on wangdong.org/sslab/team.html"
+      },
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://seeyn.github.io/assets/img/me.jpg",
+        "page_url": "https://seeyn.github.io/",
+        "reason": "200 image; embedded on page naming person; single-person portrait/casual photo"
+      },
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "PhD student, University of Illinois Urbana-Champaign",
+        "reason": "Own homepage states UIUC PhD student; lab team page lists under Dong Wang"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 636,
+      "name": "Ruichen Yao",
+      "website": {
+        "verdict": "confirmed",
+        "url": "https://yrc10.github.io/",
+        "reason": "Own/official page loads, name and UIUC affiliation match; advisor Dong Wang shown or listed on wangdong.org/sslab/team.html"
+      },
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://ischool.illinois.edu/sites/default/files/styles/normal_square/public/images/Ruichen_Yao.JPG",
+        "page_url": "https://ischool.illinois.edu/people/ruichen-yao",
+        "reason": "200 image; embedded on page naming person; single-person portrait/casual photo"
+      },
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "PhD student in Information Sciences, University of Illinois Urbana-Champaign",
+        "reason": "Stated on own or ischool profile page"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 637,
+      "name": "Mung Yao Jia",
+      "website": {
+        "verdict": "confirmed",
+        "url": "https://mungyao-jia.github.io/",
+        "reason": "Own/official page loads, name and UIUC affiliation match; advisor Dong Wang shown or listed on wangdong.org/sslab/team.html"
+      },
+      "photo": {
+        "verdict": "rejected",
+        "image_url": "https://mungyao-jia.github.io/assets/images/photos/portrait.jpg",
+        "page_url": "https://mungyao-jia.github.io/",
+        "reason": "200 image/jpeg but a tiny distant figure in a forest, not a portrait of the person"
+      },
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "Computer Science PhD student, University of Illinois Urbana-Champaign",
+        "reason": "Own homepage states UIUC PhD student; lab team page lists under Dong Wang"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 638,
+      "name": "Jieyong Kim",
+      "website": {
+        "verdict": "confirmed",
+        "url": "https://jieyong99.github.io/",
+        "reason": "Own/official page loads, name and UIUC affiliation match; advisor Dong Wang shown or listed on wangdong.org/sslab/team.html"
+      },
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://jieyong99.github.io/assets/images/photos/Selfie_google_scholar.JPG",
+        "page_url": "https://jieyong99.github.io/",
+        "reason": "200 image; embedded on page naming person; single-person portrait/casual photo"
+      },
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "PhD student in Information Sciences, University of Illinois Urbana-Champaign (advised by Dong Wang)",
+        "reason": "Stated on own or ischool profile page"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 639,
+      "name": "Zhenrui Yue",
+      "website": {
+        "verdict": "confirmed",
+        "url": "https://yueeeeeeee.github.io/",
+        "reason": "Own/official page loads, name and UIUC affiliation match; advisor Dong Wang shown or listed on wangdong.org/sslab/team.html"
+      },
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://yueeeeeeee.github.io/assets/img/profile.jpg",
+        "page_url": "https://yueeeeeeee.github.io/",
+        "reason": "200 image; embedded on page naming person; single-person portrait/casual photo"
+      },
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "Research Scientist, Google DeepMind",
+        "reason": "Stated on own or ischool profile page"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    }
+  ]
+}

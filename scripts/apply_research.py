@@ -75,14 +75,14 @@ def main() -> None:
                 con.execute(f"ALTER TABLE people ADD COLUMN {col} {ddl}")
         have |= set(ADDED_COLUMNS)
 
-    cols = ["id", "name", "url"] + [c for c in ADDED_COLUMNS if c in have]
+    cols = ["id", "name", "url", "year"] + [c for c in ADDED_COLUMNS if c in have]
     people = {r[0]: dict(zip(cols, r)) for r in con.execute(f"SELECT {', '.join(cols)} FROM people")}
     known = {norm_name(p["name"]): pid for pid, p in people.items()}
 
     updates: list[tuple[int, str, str | None, str]] = []   # (id, column, value, description)
     review: list[str] = []
     new_students: dict[str, dict] = {}
-    rejected = {"website": 0, "photo": 0, "bio": 0, "position": 0, "student": 0}
+    rejected = {"website": 0, "photo": 0, "bio": 0, "position": 0, "phd": 0, "student": 0}
 
     files = sorted(Path(args.verified).glob("*.json"))
     if not files:
@@ -122,6 +122,16 @@ def main() -> None:
                 updates.append((pid, "position", value, f"{name}: position → {value}"))
             elif pos:
                 rejected["position"] += 1
+
+            phd = v.get("phd")
+            year = str((phd or {}).get("year") or "").strip()
+            if ok(phd) and re.fullmatch(r"(19|20)\d\d", year):
+                if not p["year"]:
+                    updates.append((pid, "year", year, f"{name}: PhD year → {year}"))
+                elif p["year"] != year:
+                    review.append(f"- {name}: confirmed PhD year {year} differs from {p['year']} on record (kept)")
+            elif phd:
+                rejected["phd"] += 1
 
             bio = v.get("bio")
             if ok(bio) and bio.get("summary"):

@@ -1,0 +1,96 @@
+{
+ "batch": "n3-04",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 400,
+   "name": "Tianshi Wang",
+   "institution": "University of Illinois Urbana-Champaign",
+   "year": "",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 401,
+   "name": "Dachun Sun",
+   "institution": "University of Illinois Urbana-Champaign",
+   "year": "",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 402,
+   "name": "Jinning Li",
+   "institution": "University of Illinois Urbana-Champaign",
+   "year": "",
+   "advisor": "Tarek Abdelzaher",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 403,
+   "name": "Songlin Xu",
+   "institution": "Assistant Professor, Hong Kong Polytechnic University",
+   "year": "2026",
+   "advisor": "Xinyu Zhang",
+   "website_on_record": "https://songlinxu.com",
+   "students_in_tree": []
+  },
+  {
+   "id": 404,
+   "name": "Kai Zheng",
+   "institution": "Senior Research Engineer, Samsung Research America",
+   "year": "2025",
+   "advisor": "Xinyu Zhang",
+   "website_on_record": "https://kaizheng.me",
+   "students_in_tree": []
+  },
+  {
+   "id": 405,
+   "name": "Hongsik Yoon",
+   "institution": "UC San Diego",
+   "year": "",
+   "advisor": "Xinyu Zhang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 406,
+   "name": "Wuqiong Zhao",
+   "institution": "UC San Diego",
+   "year": "",
+   "advisor": "Xinyu Zhang",
+   "website_on_record": "https://wqzhao.org/",
+   "students_in_tree": []
+  },
+  {
+   "id": 407,
+   "name": "Qinpei Luo",
+   "institution": "UC San Diego",
+   "year": "",
+   "advisor": "Xinyu Zhang",
+   "website_on_record": "https://scholar.google.com/citations?user=NezngRAAAAAJ&hl=en",
+   "students_in_tree": []
+  },
+  {
+   "id": 408,
+   "name": "Xingyu Chen",
+   "institution": "UC San Diego",
+   "year": "",
+   "advisor": "Xinyu Zhang",
+   "website_on_record": "https://xingyuchen.me/",
+   "students_in_tree": []
+  },
+  {
+   "id": 409,
+   "name": "Baicheng Chen",
+   "institution": "UC San Diego",
+   "year": "",
+   "advisor": "Xinyu Zhang",
+   "website_on_record": "https://www.baichengchen.com/",
+   "students_in_tree": []
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "batch": "n3-09",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 450,
+   "name": "Kamal Shadi",
+   "institution": "Decooda",
+   "year": "2019",
+   "advisor": "Constantine Dovrolis",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 451,
+   "name": "Kaeser Md. Sabrin",
+   "institution": "LinkedIn",
+   "year": "2018",
+   "advisor": "Constantine Dovrolis",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 452,
+   "name": "Payam Siyari",
+   "institution": "Uber",
+   "year": "2018",
+   "advisor": "Constantine Dovrolis",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 453,
+   "name": "Siddarth Sitaraman",
+   "institution": "University of Michigan",
+   "year": "",
+   "advisor": "Amrita Roy Chowdhury",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 454,
+   "name": "Huseyin Sahin",
+   "institution": "University of Michigan",
+   "year": "",
+   "advisor": "Amrita Roy Chowdhury",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 455,
+   "name": "Emmanuel Addo Addae",
+   "institution": "University of South Carolina",
+   "year": "",
+   "advisor": "Sanjib Sur",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 456,
+   "name": "Pingping Cai",
+   "institution": "University of South Carolina",
+   "year": "",
+   "advisor": "Sanjib Sur",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 457,
+   "name": "Zhuangzhuang Gu",
+   "institution": "University of South Carolina",
+   "year": "",
+   "advisor": "Sanjib Sur",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 458,
+   "name": "Sabbir Saadat",
+   "institution": "University of South Carolina",
+   "year": "",
+   "advisor": "Sanjib Sur",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 459,
+   "name": "Zarin Shejuti",
+   "institution": "University of South Carolina",
+   "year": "",
+   "advisor": "Sanjib Sur",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

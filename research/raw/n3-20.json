@@ -1,0 +1,133 @@
+{
+ "batch": "n3-20",
+ "people": [
+  {
+   "id": 560,
+   "name": "Dong Qin",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Qiao students page (https://www.ece.iastate.edu/~daji/students.htm, c.2019) lists as current PhD student under Daji Qiao; no homepage, dissertation or year found. DBLP blocked, OpenAlex rate-limited, 1 WebSearch found nothing."
+  },
+  {
+   "id": 561,
+   "name": "Kerui Tan",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Qiao students page (https://www.ece.iastate.edu/~daji/students.htm, c.2019) lists as current PhD student under Daji Qiao; no homepage, dissertation or year found. DBLP blocked, OpenAlex rate-limited, 1 WebSearch found nothing."
+  },
+  {
+   "id": 562,
+   "name": "Brian Peck",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Qiao students page (https://www.ece.iastate.edu/~daji/students.htm, c.2019) lists as current PhD student under Daji Qiao; no homepage, dissertation or year found. DBLP blocked, OpenAlex rate-limited, 1 WebSearch found nothing."
+  },
+  {
+   "id": 563,
+   "name": "Sung-Tae Hong",
+   "website": {
+    "url": "https://wmnl.unist.ac.kr/alumni/",
+    "source_note": "WMNL (Hyoil Kim lab, UNIST) alumni page"
+   },
+   "photo": null,
+   "current_position": "Researcher, ETRI (formerly Samsung Electronics)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Position and PhD year per WMNL alumni page (Ph.D. Degree list, graduation year 2020); no personal homepage/photo found. Year already on record."
+  },
+  {
+   "id": 564,
+   "name": "Kyubo Shin",
+   "website": {
+    "url": "https://wmnl.unist.ac.kr/alumni/",
+    "source_note": "WMNL (Hyoil Kim lab, UNIST) alumni page"
+   },
+   "photo": null,
+   "current_position": "THYROSCOPE Inc. (UNIST start-up)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Position and PhD year per WMNL alumni page (Ph.D. Degree list, graduation year 2021); no personal homepage/photo found. Year already on record."
+  },
+  {
+   "id": 565,
+   "name": "JeongTak Kim",
+   "website": {
+    "url": "https://wmnl.unist.ac.kr/alumni/",
+    "source_note": "WMNL (Hyoil Kim lab, UNIST) alumni page"
+   },
+   "photo": null,
+   "current_position": "Postdoctoral researcher, UNIST",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Position and PhD year per WMNL alumni page (Ph.D. Degree list, graduation year 2024); no personal homepage/photo found. Year already on record."
+  },
+  {
+   "id": 566,
+   "name": "Seokwoo Choi",
+   "website": {
+    "url": "https://wmnl.unist.ac.kr/alumni/",
+    "source_note": "WMNL (Hyoil Kim lab, UNIST) alumni page"
+   },
+   "photo": null,
+   "current_position": "Postdoctoral researcher, UNIST",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Position and PhD year per WMNL alumni page (Ph.D. Degree list, graduation year 2025); no personal homepage/photo found. Year already on record."
+  },
+  {
+   "id": 567,
+   "name": "SuHwan Jung",
+   "website": {
+    "url": "https://wmnl.unist.ac.kr/alumni/",
+    "source_note": "WMNL (Hyoil Kim lab, UNIST) alumni page"
+   },
+   "photo": null,
+   "current_position": "Researcher, ETRI",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Position and PhD year per WMNL alumni page (Ph.D. Degree list, graduation year 2025); no personal homepage/photo found. Year already on record."
+  },
+  {
+   "id": 568,
+   "name": "Byeongjin Kim",
+   "website": {
+    "url": "https://wmnl.unist.ac.kr/alumni/",
+    "source_note": "WMNL (Hyoil Kim lab, UNIST) alumni page"
+   },
+   "photo": null,
+   "current_position": "PhD student, UNIST (WMNL)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "WMNL alumni page lists MS 2024 and current PhD program at UNIST under Hyoil Kim; PhD year not available (still current)."
+  },
+  {
+   "id": 569,
+   "name": "Leo Cao",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Searched once (WebSearch) for Leo Cao + Kassem Fawaz/UW-Madison; nothing tied to this person. Common name; not guessed."
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "batch": "n3-02",
+ "people": [
+  {
+   "id": 380,
+   "name": "Pu Duan",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Fetch-only attempts: DBLP API (rate-limited/failed), OpenAlex (free budget exhausted). 2 WebSearches (Liu alumni; Sophia Yoo) found nothing on this person. Nothing verified; left null.",
+   "phd": null
+  },
+  {
+   "id": 381,
+   "name": "Hong Lu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Fetch-only attempts: DBLP API (rate-limited/failed), OpenAlex (free budget exhausted). 2 WebSearches (Liu alumni; Sophia Yoo) found nothing on this person. Nothing verified; left null.",
+   "phd": null
+  },
+  {
+   "id": 382,
+   "name": "Ming Zhang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Fetch-only attempts: DBLP API (rate-limited/failed), OpenAlex (free budget exhausted). 2 WebSearches (Liu alumni; Sophia Yoo) found nothing on this person. Nothing verified; left null.",
+   "phd": null
+  },
+  {
+   "id": 383,
+   "name": "Tak Cheung Lam",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Fetch-only attempts: DBLP API (rate-limited/failed), OpenAlex (free budget exhausted). 2 WebSearches (Liu alumni; Sophia Yoo) found nothing on this person. Nothing verified; left null.",
+   "phd": null
+  },
+  {
+   "id": 384,
+   "name": "Sung-Oh Jung",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Fetch-only attempts: DBLP API (rate-limited/failed), OpenAlex (free budget exhausted). 2 WebSearches (Liu alumni; Sophia Yoo) found nothing on this person. Nothing verified; left null.",
+   "phd": null
+  },
+  {
+   "id": 385,
+   "name": "Di Wu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Fetch-only attempts: DBLP API (rate-limited/failed), OpenAlex (free budget exhausted). 2 WebSearches (Liu alumni; Sophia Yoo) found nothing on this person. Nothing verified; left null.",
+   "phd": null
+  },
+  {
+   "id": 386,
+   "name": "Yong Xiong",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Fetch-only attempts: DBLP API (rate-limited/failed), OpenAlex (free budget exhausted). 2 WebSearches (Liu alumni; Sophia Yoo) found nothing on this person. Nothing verified; left null.",
+   "phd": null
+  },
+  {
+   "id": 387,
+   "name": "Stephen George",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No phd needed (year on record). Fetch-only attempts: DBLP API (rate-limited/failed), OpenAlex (free budget exhausted). 2 WebSearches (Liu alumni; Sophia Yoo) found nothing on this person. Nothing verified; left null.",
+   "phd": null
+  },
+  {
+   "id": 388,
+   "name": "Satadal Sengupta",
+   "website": {
+    "url": "https://satadalsengupta.github.io",
+    "source_note": "Personal homepage; loads, 'Satadal Sengupta | Princeton CS', Postdoctoral Fellow at UT Austin"
+   },
+   "photo": {
+    "image_url": "https://satadalsengupta.github.io/images/headshot.jpg",
+    "page_url": "https://satadalsengupta.github.io"
+   },
+   "current_position": "Postdoctoral Fellow in Networked Systems + AI, University of Texas at Austin",
+   "bio": null,
+   "students": [],
+   "notes": "Homepage fetched directly; headshot URL returns 200 image/jpeg (not viewed visually). Not advisor-confirmed on page text beyond Princeton CS title; no students (new PhD).",
+   "phd": null
+  },
+  {
+   "id": 389,
+   "name": "Sophia Yoo",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Princeton CS profile guesses and sophiayoo.github.io/.com did not resolve to this person (sophiayoo.com is an unrelated Somin Yoo site). Web search found no page. Nothing found.",
+   "phd": null
+  }
+ ]
+}

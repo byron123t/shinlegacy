@@ -1,0 +1,150 @@
+{
+ "batch": "n3-21",
+ "people": [
+  {
+   "id": 570,
+   "name": "Jingjie Li",
+   "website": null,
+   "photo": null,
+   "current_position": "Lecturer, University of Edinburgh (per Google Scholar profile, ed.ac.uk email; title not confirmed)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Year 2023 on record so no phd needed. Google Scholar search confirms Edinburgh affiliation; jingjieli.github.io is a different person. No personal page found with 1 search."
+  },
+  {
+   "id": 571,
+   "name": "Yu Wei (Sam) Liu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "No page found for any Pese student: DBLP/OpenAlex rate-limited/unreachable from curl, Clemson pese page 404, a web search returned nothing. Unresolved."
+  },
+  {
+   "id": 572,
+   "name": "Marcos Sanson",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Same as Liu: nothing found."
+  },
+  {
+   "id": 573,
+   "name": "Run Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Same as Liu: nothing found; name very common, identity not established."
+  },
+  {
+   "id": 574,
+   "name": "Correy Washburn",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Same as Liu: nothing found; mathgenealogy query returned no usable result."
+  },
+  {
+   "id": 575,
+   "name": "Diandian Gu",
+   "website": {
+    "url": "https://gudiandian.github.io/",
+    "source_note": "personal homepage; PhD at Peking University advised by Xuanzhe Liu and Xin Jin"
+   },
+   "photo": null,
+   "current_position": "ML system researcher/developer (employer not stated)",
+   "bio": null,
+   "students": [],
+   "phd": {
+    "year": null,
+    "institution": "Peking University",
+    "source_url": "https://gudiandian.github.io/"
+   },
+   "notes": "Homepage says PhD received but gives no year; photo path /img/phd_graduate.JPG not confirmed absolute, omitted. Listed under current students on xinjin.github.io/students.html."
+  },
+  {
+   "id": 576,
+   "name": "Chao Jin",
+   "website": {
+    "url": "https://chaojin0310.github.io/",
+    "source_note": "personal homepage"
+   },
+   "photo": {
+    "image_url": "https://chaojin0310.github.io/images/chaojin.jpg",
+    "page_url": "https://chaojin0310.github.io/"
+   },
+   "current_position": "PhD candidate (4th year), School of Computer Science, Peking University",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Still a PhD student, no PhD year yet (phd null). Advisor Xin Jin per homepage."
+  },
+  {
+   "id": 577,
+   "name": "Sheng Qi",
+   "website": {
+    "url": "https://tomquartz.github.io/",
+    "source_note": "personal homepage"
+   },
+   "photo": {
+    "image_url": "https://tomquartz.github.io/images/me.jpeg",
+    "page_url": "https://tomquartz.github.io/"
+   },
+   "current_position": "PhD student (since 2022), School of Computer Science, Peking University",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Still a student; photo is img src images/me.jpeg, not viewed, assumed headshot."
+  },
+  {
+   "id": 578,
+   "name": "Junyi Shu",
+   "website": {
+    "url": "https://kyleshu.github.io/",
+    "source_note": "personal homepage"
+   },
+   "photo": {
+    "image_url": "https://kyleshu.github.io/assets/img/prof_pic2.png",
+    "page_url": "https://kyleshu.github.io/"
+   },
+   "current_position": "Postdoctoral researcher, Computer Science Department, UCLA",
+   "bio": null,
+   "students": [],
+   "phd": {
+    "year": null,
+    "institution": "Peking University",
+    "source_url": "https://kyleshu.github.io/"
+   },
+   "notes": "Homepage says PhD from Peking University advised by Xin Jin and Xuanzhe Liu; no year given. Photo not viewed."
+  },
+  {
+   "id": 579,
+   "name": "Bingyang Wu",
+   "website": {
+    "url": "https://bingyangwu.github.io/",
+    "source_note": "personal homepage"
+   },
+   "photo": {
+    "image_url": "https://bingyangwu.github.io/authors/admin/avatar_hu6e6db413fc72db9e6abb459569819e62_323049_3000x3000_fill_q75_lanczos_center.jpg",
+    "page_url": "https://bingyangwu.github.io/"
+   },
+   "current_position": "PhD candidate (2022-2027 expected), School of Computer Science, Peking University",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Still a student; photo not viewed."
+  }
+ ]
+}

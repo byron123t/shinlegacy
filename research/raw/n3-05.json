@@ -1,0 +1,121 @@
+{
+ "batch": "n3-05",
+ "people": [
+  {
+   "id": 410,
+   "name": "Dae Cheol Kwon",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Tried OpenAlex name search (no confident match tied to advisor/institution), advisor lab pages; nothing verifiable. Early-career, no PhD students expected."
+  },
+  {
+   "id": 411,
+   "name": "Wangwei Shen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Tried OpenAlex name search (no confident match tied to advisor/institution), advisor lab pages; nothing verifiable. Early-career, no PhD students expected."
+  },
+  {
+   "id": 412,
+   "name": "Yifeng Zhang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Tried OpenAlex name search (no confident match tied to advisor/institution), advisor lab pages; nothing verifiable. Early-career, no PhD students expected."
+  },
+  {
+   "id": 413,
+   "name": "Tianyuan (Frank) Qiu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Tried OpenAlex name search (no confident match tied to advisor/institution), advisor lab pages; nothing verifiable. Early-career, no PhD students expected."
+  },
+  {
+   "id": 414,
+   "name": "Xinyu Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Tried OpenAlex name search (no confident match tied to advisor/institution), advisor lab pages; nothing verifiable. Early-career, no PhD students expected."
+  },
+  {
+   "id": 415,
+   "name": "Bhavana Vannarth Shobhana",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Tried OpenAlex name search (no confident match tied to advisor/institution), advisor lab pages; nothing verifiable. Early-career, no PhD students expected."
+  },
+  {
+   "id": 416,
+   "name": "Harishankar Vishwanathan",
+   "website": {
+    "url": "https://harishankarv.github.io/",
+    "source_note": "Personal homepage: 'Ph.D. Student', Rutgers University"
+   },
+   "photo": {
+    "image_url": "https://harishankarv.github.io/assets/img/avatar.jpg",
+    "page_url": "https://harishankarv.github.io/"
+   },
+   "current_position": "Ph.D. student, Rutgers University",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Homepage found via Narayana's Rutgers page news (CGO 2022 award, PhD student Vishwanathan). Avatar not viewed; verifier should check. PhD year not found (still student on homepage)."
+  },
+  {
+   "id": 417,
+   "name": "Bashayer Alharbi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Tried OpenAlex name search (no confident match tied to advisor/institution), advisor lab pages; nothing verifiable. Early-career, no PhD students expected."
+  },
+  {
+   "id": 418,
+   "name": "Shirin Ebadi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Tried OpenAlex name search (no confident match tied to advisor/institution), advisor lab pages; nothing verifiable. Early-career, no PhD students expected."
+  },
+  {
+   "id": 419,
+   "name": "Sara Daneshvar",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Tried OpenAlex name search (no confident match tied to advisor/institution), advisor lab pages; nothing verifiable. Early-career, no PhD students expected."
+  }
+ ]
+}

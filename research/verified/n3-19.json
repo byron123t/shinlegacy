@@ -1,0 +1,109 @@
+{
+ "batch": "n3-19",
+ "people": [
+  {
+   "id": 550,
+   "name": "Joosung Yun",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 551,
+   "name": "Byeonguk Bae",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 552,
+   "name": "Kibeom Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 553,
+   "name": "Minho Ha",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 554,
+   "name": "Duhwan Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 555,
+   "name": "Jeonghun Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 556,
+   "name": "Sanghyeon Ju",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD candidate, Electrical Engineering, POSTECH",
+    "reason": "POSTECH ESA members page: [2022/02~Present] Ph.D. Candidate in Electrical Engineering, POSTECH"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 557,
+   "name": "Kangjin Yoon",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 558,
+   "name": "Mat Wymore",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 559,
+   "name": "Shen Fu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  }
+ ]
+}

@@ -1,0 +1,151 @@
+{
+ "batch": "yr-03",
+ "people": [
+  {
+   "id": 185,
+   "name": "Niaz Ahmad",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": {
+    "verdict": "confirmed",
+    "year": "2024",
+    "institution": "Hanyang University (ERICA), Korea",
+    "source_url": "https://sites.google.com/view/niazahmad",
+    "reason": "Homepage news: defended PhD dissertation 2024/06/10; PhD in AI at Hanyang ERICA, advisor Youngmoon Lee"
+   }
+  },
+  {
+   "id": 186,
+   "name": "Chanyeok Choi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 187,
+   "name": "Jawad Khan",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 188,
+   "name": "Donghyun Kwon",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 189,
+   "name": "Seunghwan Lee",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 190,
+   "name": "Jeremy Yuhyun Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 191,
+   "name": "Saif Ullah",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 192,
+   "name": "Gyurin Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 193,
+   "name": "Zahra Batool Jaffrey",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 194,
+   "name": "Jaehwan Cho",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 195,
+   "name": "Siyuan Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 196,
+   "name": "Jike Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 197,
+   "name": "Zhenyu Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 311,
+   "name": "Rui Miao",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  }
+ ]
+}

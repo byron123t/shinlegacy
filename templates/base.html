@@ -5,6 +5,11 @@
   <title>{% block title %}Kang G. Shin Academic Family Tree{% endblock %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="The academic family tree of Prof. Kang G. Shin: students, their students, and beyond.">
+  <meta property="og:title" content="Kang G. Shin · Academic Family Tree">
+  <meta property="og:description" content="The academic family tree of Prof. Kang G. Shin: students, their students, and beyond.">
+  <meta property="og:url" content="{{ site_url }}">
+  <meta property="og:image" content="{{ site_url }}p/1.jpg">
+  <meta name="twitter:card" content="summary_large_image">
   <script>
     // Apply saved theme before paint to avoid a flash.
     try { const t = localStorage.getItem("theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
@@ -26,6 +31,7 @@
       <nav class="nav" aria-label="Main">
         <a href="index.html" {% if page == 'index' %}aria-current="page"{% endif %}>Tree</a>
         <a href="directory.html" {% if page == 'directory' %}aria-current="page"{% endif %}>Directory</a>
+        <a href="index.html?about">About</a>
       </nav>
       <button class="icon-btn" id="themeToggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>

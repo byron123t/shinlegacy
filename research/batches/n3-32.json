@@ -1,0 +1,96 @@
+{
+ "batch": "n3-32",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 680,
+   "name": "Kai-Lin Yang",
+   "institution": "",
+   "year": "",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 681,
+   "name": "Chiang Tseng",
+   "institution": "",
+   "year": "",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 682,
+   "name": "Feng-Kai Huang",
+   "institution": "",
+   "year": "",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 683,
+   "name": "Yu-Ting Shen",
+   "institution": "",
+   "year": "",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 684,
+   "name": "Hong-Wei Xu",
+   "institution": "",
+   "year": "",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 685,
+   "name": "Tzu-Ling Lin",
+   "institution": "",
+   "year": "",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 686,
+   "name": "Yan-Yu Lin",
+   "institution": "",
+   "year": "",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 687,
+   "name": "Yan-Ting Lin",
+   "institution": "",
+   "year": "",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 688,
+   "name": "Teng-Fang Hsiao",
+   "institution": "",
+   "year": "",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 689,
+   "name": "Cheng-Tsung Lee",
+   "institution": "",
+   "year": "",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

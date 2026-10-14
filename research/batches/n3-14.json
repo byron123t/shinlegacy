@@ -1,0 +1,96 @@
+{
+ "batch": "n3-14",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 500,
+   "name": "Jongtack Jung",
+   "institution": "SK hynix",
+   "year": "2019",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 501,
+   "name": "Christodoulos Pappas",
+   "institution": "HKUST",
+   "year": "",
+   "advisor": "Dimitris Papadopoulos",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 502,
+   "name": "Jiajun Xin",
+   "institution": "",
+   "year": "",
+   "advisor": "Dimitris Papadopoulos",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 503,
+   "name": "Isamar Troncoso",
+   "institution": "Harvard Business School",
+   "year": "",
+   "advisor": "Davide Proserpio",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 504,
+   "name": "Grant Phillips",
+   "institution": "University of Nebraska-Lincoln",
+   "year": "",
+   "advisor": "Justin Bradley",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 505,
+   "name": "Balaji Balasubramaniam",
+   "institution": "University of Nebraska-Lincoln",
+   "year": "",
+   "advisor": "Justin Bradley",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 506,
+   "name": "Chandima Fernando",
+   "institution": "Brookhaven National Laboratory",
+   "year": "2023",
+   "advisor": "Justin Bradley",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 507,
+   "name": "Adam Plowcha",
+   "institution": "University of Nebraska-Lincoln",
+   "year": "",
+   "advisor": "Justin Bradley",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 508,
+   "name": "Xinkai Zhang",
+   "institution": "Volvo",
+   "year": "2021",
+   "advisor": "Justin Bradley",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 509,
+   "name": "Dong Chen",
+   "institution": "Mississippi State University",
+   "year": "",
+   "advisor": "Zhaojian Li",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

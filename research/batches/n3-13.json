@@ -1,0 +1,96 @@
+{
+ "batch": "n3-13",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 490,
+   "name": "Jeongmin Lee",
+   "institution": "Korea University",
+   "year": "",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 491,
+   "name": "Minsu Cha",
+   "institution": "Korea University",
+   "year": "",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 492,
+   "name": "Taehoon Yoo",
+   "institution": "Samsung Electronics",
+   "year": "2026",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 493,
+   "name": "Sangmin Lee",
+   "institution": "Samsung Electronics",
+   "year": "2026",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 494,
+   "name": "Hyeontae Joo",
+   "institution": "Samsung Electronics",
+   "year": "2026",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 495,
+   "name": "DongKyu Lee",
+   "institution": "Devguru (postdoctoral fellow)",
+   "year": "2025",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 496,
+   "name": "Seongjoon Park",
+   "institution": "Samsung Electronics",
+   "year": "2022",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 497,
+   "name": "Joon Yeop Lee",
+   "institution": "Samsung Electronics",
+   "year": "2020",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 498,
+   "name": "Kwang Jae Sung",
+   "institution": "Sangmyung University",
+   "year": "2020",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 499,
+   "name": "Woonghee Lee",
+   "institution": "Dongguk University",
+   "year": "2019",
+   "advisor": "Hwangnam Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

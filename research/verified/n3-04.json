@@ -1,0 +1,196 @@
+{
+ "batch": "n3-04",
+ "people": [
+  {
+   "id": 400,
+   "name": "Tianshi Wang",
+   "website": {
+    "verdict": "rejected",
+    "reason": "Generic lab people page, not a personal site (Abdelzaher CyPhy people page); lists name only"
+   },
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 401,
+   "name": "Dachun Sun",
+   "website": {
+    "verdict": "rejected",
+    "reason": "Generic lab people page, not a personal site"
+   },
+   "photo": {
+    "image_url": "https://abdelzaher.cs.illinois.edu/images/dachun4.jpg",
+    "page_url": "https://abdelzaher.cs.illinois.edu/people.html",
+    "reason": "Page embeds images/dachun4.jpg next to name; 200 image/jpeg; single-person headshot",
+    "verdict": "confirmed"
+   },
+   "current_position": {
+    "value": "PhD student, University of Illinois Urbana-Champaign",
+    "reason": "Listed under Current Ph.D. Students on CyPhy group page",
+    "verdict": "confirmed"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 402,
+   "name": "Jinning Li",
+   "website": {
+    "verdict": "rejected",
+    "reason": "Generic lab people page, not a personal site"
+   },
+   "photo": {
+    "image_url": "https://abdelzaher.cs.illinois.edu/images/jinning.png",
+    "page_url": "https://abdelzaher.cs.illinois.edu/people.html",
+    "reason": "Page embeds images/jinning.png next to name; 200 image/png; single person, candid at laptop, low resolution but a real photo",
+    "verdict": "confirmed"
+   },
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 403,
+   "name": "Songlin Xu",
+   "website": {
+    "url": "https://songlinxu.com",
+    "reason": "Loads; personal academic site of Songlin Xu, Assistant Professor PolyU, PhD UCSD 2026 under Xinyu Zhang",
+    "verdict": "confirmed"
+   },
+   "photo": {
+    "image_url": "https://songlinxu.com/profile.jpg",
+    "page_url": "https://songlinxu.com",
+    "reason": "Page references profile.jpg; 200 image/jpeg; single-person portrait",
+    "verdict": "confirmed"
+   },
+   "current_position": {
+    "value": "Assistant Professor, Hong Kong Polytechnic University",
+    "reason": "Personal site states it",
+    "verdict": "confirmed"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 404,
+   "name": "Kai Zheng",
+   "website": {
+    "url": "https://kaizheng.me",
+    "reason": "Loads; personal site titled Kai Zheng, Ph.D. in Wireless Communication, UCSD alumnus",
+    "verdict": "confirmed"
+   },
+   "photo": {
+    "image_url": "https://kaizheng.me/my_photo/me2.jpg",
+    "page_url": "https://kaizheng.me",
+    "reason": "Page embeds my_photo/me2.jpg (\"Kai's Picture\"); 200 image/jpeg; single person, outdoor portrait",
+    "verdict": "confirmed"
+   },
+   "current_position": {
+    "value": "Senior Research Engineer, Samsung Research America",
+    "reason": "schema.org jobTitle/worksFor on personal site",
+    "verdict": "confirmed"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 405,
+   "name": "Hongsik Yoon",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 406,
+   "name": "Wuqiong Zhao",
+   "website": {
+    "url": "https://wqzhao.org/",
+    "reason": "Loads; personal homepage, Ph.D. student at UCSD supervised by Xinyu Zhang",
+    "verdict": "confirmed"
+   },
+   "photo": {
+    "image_url": "https://wqzhao.org/_next/static/media/profilepic.6a0081bb.jpg",
+    "page_url": "https://wqzhao.org/",
+    "reason": "Embedded with alt \"Wuqiong Zhao\"; 200 image/jpeg; single person (casual, giraffe and a few distant bystanders in background)",
+    "verdict": "confirmed"
+   },
+   "current_position": {
+    "value": "Ph.D. Student, University of California San Diego",
+    "reason": "Homepage: Ph.D. student at UCSD since Sept 2024",
+    "verdict": "confirmed"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 407,
+   "name": "Qinpei Luo",
+   "website": {
+    "url": "https://scholar.google.com/citations?user=NezngRAAAAAJ&hl=en",
+    "reason": "Loads; Google Scholar profile of Qinpei Luo, UCSD, verified ucsd.edu email, links homepage luoqinpei.github.io",
+    "verdict": "confirmed"
+   },
+   "photo": null,
+   "current_position": {
+    "value": "Ph.D. student, University of California San Diego",
+    "reason": "Own homepage luoqinpei.github.io: PhD student in ECE at UCSD advised by Xinyu Zhang",
+    "verdict": "confirmed"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 408,
+   "name": "Xingyu Chen",
+   "website": {
+    "url": "https://xingyuchen.me/",
+    "reason": "Loads; personal site, Ph.D. Candidate at UC San Diego",
+    "verdict": "confirmed"
+   },
+   "photo": {
+    "image_url": "https://xingyuchen.me/images/A2024_2.jpg",
+    "page_url": "https://xingyuchen.me/",
+    "reason": "Page img alt \"Xingyu Chen\" src images/A2024_2.jpg; 200 image/jpeg; single-person portrait",
+    "verdict": "confirmed"
+   },
+   "current_position": {
+    "value": "PhD Candidate in Computer Science, UC San Diego",
+    "reason": "Site: fifth year Ph.D. Candidate in CSE at UC San Diego",
+    "verdict": "confirmed"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 409,
+   "name": "Baicheng Chen",
+   "website": {
+    "url": "https://www.baichengchen.com/",
+    "reason": "Loads (200); personal site titled Baicheng Chen, meta description Ph.D. Candidate in CS at UC San Diego",
+    "verdict": "confirmed"
+   },
+   "photo": null,
+   "current_position": {
+    "value": "Ph.D. Candidate in Computer Science, UC San Diego",
+    "reason": "Meta description on personal site",
+    "verdict": "confirmed"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  }
+ ]
+}

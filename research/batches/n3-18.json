@@ -1,0 +1,96 @@
+{
+ "batch": "n3-18",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 540,
+   "name": "Yi-Ting Lee",
+   "institution": "National Taiwan University",
+   "year": "",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 541,
+   "name": "Hsiang-Hui Liu",
+   "institution": "National Taiwan University",
+   "year": "",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 542,
+   "name": "Yun-Jing Wang",
+   "institution": "National Taiwan University",
+   "year": "",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 543,
+   "name": "Haidong Wang",
+   "institution": "Texas A&M University",
+   "year": "",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 544,
+   "name": "Kyong-Wan Nam",
+   "institution": "Atheros Communications",
+   "year": "2000",
+   "advisor": "Sunggu Lee",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 545,
+   "name": "Sang-Cheol Kim",
+   "institution": "Electronics and Telecommunications Research Institute",
+   "year": "2006",
+   "advisor": "Sunggu Lee",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 546,
+   "name": "Min-Gu Lee",
+   "institution": "KT Coporation",
+   "year": "2007",
+   "advisor": "Sunggu Lee",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 547,
+   "name": "Dong-Hak Pyo",
+   "institution": "Samsung Electronics",
+   "year": "2008",
+   "advisor": "Sunggu Lee",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 548,
+   "name": "Ungjin Jang",
+   "institution": "Samsung Electronics",
+   "year": "2011",
+   "advisor": "Sunggu Lee",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 549,
+   "name": "Junyoung Park",
+   "institution": "Samsung Electronics",
+   "year": "2015",
+   "advisor": "Sunggu Lee",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

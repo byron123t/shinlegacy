@@ -1,0 +1,118 @@
+{
+ "batch": "n3-09",
+ "people": [
+  {
+   "id": 450,
+   "name": "Kamal Shadi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Georgia Tech repository confirms thesis and advisor (Georgia Tech repository record 'Inference of structural brain networks...' (2019-11-12), advisor Dovrolis). Year already on record; no homepage found (OpenAlex/DBLP rate-limited; 4 searches returned nothing useful)."
+  },
+  {
+   "id": 451,
+   "name": "Kaeser Md. Sabrin",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Georgia Tech repository confirms thesis and advisor ('The hourglass effect in source-target dependency networks', 2018-11-13, advisor Dovrolis). Year already on record; no homepage found (OpenAlex/DBLP rate-limited; 4 searches returned nothing useful)."
+  },
+  {
+   "id": 452,
+   "name": "Payam Siyari",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Georgia Tech repository confirms thesis and advisor ('Optimization-driven emergence of deep hierarchies...', 2018-11-09, advisors Dovrolis/Dilkina). Year already on record; no homepage found (OpenAlex/DBLP rate-limited; 4 searches returned nothing useful)."
+  },
+  {
+   "id": 453,
+   "name": "Siddarth Sitaraman",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Listed as students on Amrita Roy Chowdhury's Google Sites page; no personal pages found; searches blocked on personal names.",
+   "phd": null
+  },
+  {
+   "id": 454,
+   "name": "Huseyin Sahin",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Listed as students on Amrita Roy Chowdhury's Google Sites page; no personal pages found; searches blocked on personal names.",
+   "phd": null
+  },
+  {
+   "id": 455,
+   "name": "Emmanuel Addo Addae",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Not found on Sur's pages (cse.sc.edu/~sur) or by guessed URLs; no personal page located.",
+   "phd": null
+  },
+  {
+   "id": 456,
+   "name": "Pingping Cai",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "cse.sc.edu/~pcai is a different Pingping Cai (advisor Song Wang, CV); not clearly the Sur student, so not used. Co-authors Sur papers (UbiComp21 AutoPCD, HotMobile22 MilliCloud) on Sur's publications page.",
+   "phd": null
+  },
+  {
+   "id": 457,
+   "name": "Zhuangzhuang Gu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Not found on Sur's pages (cse.sc.edu/~sur) or by guessed URLs; no personal page located.",
+   "phd": null
+  },
+  {
+   "id": 458,
+   "name": "Sabbir Saadat",
+   "website": {
+    "url": "https://cse.sc.edu/~msaadat/index2.html",
+    "source_note": "Personal page; states PhD student in SyReX lab supervised by Sanjib Sur since Spring 2019"
+   },
+   "photo": {
+    "image_url": "https://cse.sc.edu/~msaadat/msaadat_files/msaadat_profile.jpg",
+    "page_url": "https://cse.sc.edu/~msaadat/index2.html"
+   },
+   "current_position": "Ph.D. student (Graduate Research Assistant), Computer Science & Engineering, University of South Carolina",
+   "bio": null,
+   "students": [],
+   "notes": "Found via Sur's lab page and a search; PhD year not stated (still a student on page).",
+   "phd": null
+  },
+  {
+   "id": 459,
+   "name": "Zarin Shejuti",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Not found on Sur's pages (cse.sc.edu/~sur) or by guessed URLs; no personal page located.",
+   "phd": null
+  }
+ ]
+}

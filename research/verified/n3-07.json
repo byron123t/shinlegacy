@@ -1,0 +1,236 @@
+{
+ "batch": "n3-07",
+ "people": [
+  {
+   "id": 430,
+   "name": "Yang Zhou",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://yangzhou1997.github.io/",
+    "reason": "Loads; own page, name/affiliation match, also linked from Minlan Yu's student page"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://yangzhou1997.github.io/pic/zy6.jpg",
+    "page_url": "https://yangzhou1997.github.io/",
+    "reason": "Page embeds image; 200 image/*; viewed: single-person photo"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Assistant Professor of CS, UC Davis",
+    "reason": "Confirmed on own page and/or Minlan Yu's alumni list (https://minlanyu.seas.harvard.edu/student.html)"
+   },
+   "bio": null,
+   "phd": {
+    "verdict": "confirmed",
+    "year": "2024",
+    "institution": "Harvard University",
+    "source_url": "https://yangzhou1997.github.io/",
+    "reason": "Own page: finished PhD at Harvard in 2024, advised by Minlan Yu"
+   },
+   "students": []
+  },
+  {
+   "id": 431,
+   "name": "Zhiying Xu",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://xuzhiying9510.github.io/",
+    "reason": "Loads; own page, name/affiliation match, also linked from Minlan Yu's student page"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://xuzhiying9510.github.io/files/zhiying_acadia_crop.jpg",
+    "page_url": "https://xuzhiying9510.github.io/",
+    "reason": "Page embeds image; 200 image/*; viewed: single-person photo"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Applied Scientist, Amazon Web Services",
+    "reason": "Confirmed on own page and/or Minlan Yu's alumni list (https://minlanyu.seas.harvard.edu/student.html)"
+   },
+   "bio": null,
+   "phd": {
+    "verdict": "confirmed",
+    "year": "2024",
+    "institution": "Harvard University",
+    "source_url": "https://xuzhiying9510.github.io/",
+    "reason": "Own page: Harvard PhD CS, Sept 2018 - June 2024"
+   },
+   "students": []
+  },
+  {
+   "id": 432,
+   "name": "Junzhi Gong",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Google",
+    "reason": "Confirmed on own page and/or Minlan Yu's alumni list (https://minlanyu.seas.harvard.edu/student.html)"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 433,
+   "name": "Jiaqi Gao",
+   "website": {
+    "verdict": "confirmed",
+    "url": "http://jqgao.me/",
+    "reason": "Loads; own page, name/affiliation match, also linked from Minlan Yu's student page"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "http://jqgao.me/assets/imgs/jiaqi.png",
+    "page_url": "http://jqgao.me/",
+    "reason": "Page embeds image; 200 image/*; viewed: single-person photo"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Senior Engineer/Researcher, Alibaba Group (Seattle)",
+    "reason": "Confirmed on own page and/or Minlan Yu's alumni list (https://minlanyu.seas.harvard.edu/student.html)"
+   },
+   "bio": null,
+   "phd": {
+    "verdict": "confirmed",
+    "year": "2022",
+    "institution": "Harvard University",
+    "source_url": "http://jqgao.me/",
+    "reason": "Own page: Harvard PhD 2018-2022 under Minlan Yu"
+   },
+   "students": []
+  },
+  {
+   "id": 434,
+   "name": "Sivaram Ramanathan",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://steel.isi.edu/members/sivaram/index.html",
+    "reason": "Loads; own (old USC/ISI) page, name matches, co-advised by Yu"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://steel.isi.edu/members/sivaram/profile_picture.jpg",
+    "page_url": "https://steel.isi.edu/members/sivaram/index.html",
+    "reason": "Page embeds image; 200 image/*; viewed: single-person photo"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Crusoe",
+    "reason": "Confirmed on own page and/or Minlan Yu's alumni list (https://minlanyu.seas.harvard.edu/student.html)"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 435,
+   "name": "Yuliang Li",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://liyuliang001.github.io/",
+    "reason": "Loads; own page, name/affiliation match, also linked from Minlan Yu's student page"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://liyuliang001.github.io/images/ph.jpeg",
+    "page_url": "https://liyuliang001.github.io/",
+    "reason": "Page embeds image; 200 image/*; viewed: single-person photo"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Google NetInfra",
+    "reason": "Confirmed on own page and/or Minlan Yu's alumni list (https://minlanyu.seas.harvard.edu/student.html)"
+   },
+   "bio": null,
+   "phd": {
+    "verdict": "confirmed",
+    "year": "2020",
+    "institution": "Harvard University",
+    "source_url": "https://liyuliang001.github.io/",
+    "reason": "Own page: Harvard PhD 2018-2020 with Minlan Yu"
+   },
+   "students": []
+  },
+  {
+   "id": 436,
+   "name": "Omid Alipourfard",
+   "website": {
+    "verdict": "confirmed",
+    "url": "http://www.omid.io/",
+    "reason": "Loads; terminal-style page titled 'Console - Omid Alipourfard', linked as his homepage from Yu's alumni list; little content"
+   },
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 437,
+   "name": "Weifan Jiang",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://weifanjiang.github.io/",
+    "reason": "Loads; own page, name/affiliation match, also linked from Minlan Yu's student page"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://weifanjiang.github.io/assets/img/prof_pic.jpg",
+    "page_url": "https://weifanjiang.github.io/",
+    "reason": "Page embeds image; 200 image/*; viewed: single-person photo"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Final-year PhD candidate, Harvard University",
+    "reason": "Own page"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 438,
+   "name": "Chonlam Lao",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://laochanlam.com/",
+    "reason": "Loads; own page, name/affiliation match, also linked from Minlan Yu's student page"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://laochanlam.com/images/MWI_72342.jpg",
+    "page_url": "https://laochanlam.com/",
+    "reason": "Page embeds image; 200 image/*; viewed: single-person photo"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Alibaba Research; joining Tsinghua University as assistant professor in fall 2027",
+    "reason": "Yu's alumni page says so"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 439,
+   "name": "Minghao Li",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://sophiali06.github.io/personal_site/",
+    "reason": "Loads; own page, name/affiliation match, also linked from Minlan Yu's student page"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Meta",
+    "reason": "Yu's alumni page lists 'now at Meta' (own page outdated, says 5th-year student)"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  }
+ ]
+}

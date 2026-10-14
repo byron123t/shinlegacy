@@ -1,0 +1,115 @@
+{
+ "batch": "n3-24",
+ "people": [
+  {
+   "id": 600,
+   "name": "Nessrine Chakchouk",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Hamdaoui's OSU students pages (students.htm, students-full.htm) return 403; 1 WebSearch and ScholarsArchive/mathgenealogy fetches gave nothing usable. Nothing verified."
+  },
+  {
+   "id": 601,
+   "name": "Samina Ehsan",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Hamdaoui's OSU students pages (students.htm, students-full.htm) return 403; 1 WebSearch and ScholarsArchive/mathgenealogy fetches gave nothing usable. Nothing verified."
+  },
+  {
+   "id": 602,
+   "name": "Jun Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Hamdaoui's OSU students pages (students.htm, students-full.htm) return 403; 1 WebSearch and ScholarsArchive/mathgenealogy fetches gave nothing usable. Nothing verified. NSF PAR lists a co-authored paper Chen/Wong/Hamdaoui, but no PhD year found."
+  },
+  {
+   "id": 603,
+   "name": "Nora Basha",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Hamdaoui's OSU students pages (students.htm, students-full.htm) return 403; 1 WebSearch and ScholarsArchive/mathgenealogy fetches gave nothing usable. Nothing verified."
+  },
+  {
+   "id": 604,
+   "name": "Haytham Albousayri",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Hamdaoui's OSU students pages (students.htm, students-full.htm) return 403; 1 WebSearch and ScholarsArchive/mathgenealogy fetches gave nothing usable. Nothing verified."
+  },
+  {
+   "id": 605,
+   "name": "Zhe Ou",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Renjie Zhao's team page https://renjiezhao.github.io/team/ lists Zhe Ou as current PhD student (CS, 24 Fall); no PhD completion yet. No personal homepage/photo found."
+  },
+  {
+   "id": 606,
+   "name": "Lihao Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Renjie Zhao's team page https://renjiezhao.github.io/team/ lists Lihao Wang as current PhD student (CS, 24 Fall); no PhD completion yet. No personal homepage/photo found."
+  },
+  {
+   "id": 607,
+   "name": "Ding Zhao",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Renjie Zhao's team page https://renjiezhao.github.io/team/ lists Ding Zhao as current PhD student (CS, 24 Fall); no PhD completion yet. No personal homepage/photo found."
+  },
+  {
+   "id": 608,
+   "name": "Ruirong Huang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Renjie Zhao's team page https://renjiezhao.github.io/team/ lists Ruirong Huang as current PhD student (CS, 24 Spring); no PhD completion yet. No personal homepage/photo found."
+  },
+  {
+   "id": 609,
+   "name": "Hyunmin Park",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Ke Sun's pages (eecs.umich.edu/~kesun, kesun.engin.umich.edu) did not resolve; search was unhelpful. Nothing verified."
+  }
+ ]
+}

@@ -24,7 +24,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install Jinja2==3.1.4
+      - run: pip install Jinja2==3.1.4 Pillow==11.3.0
       - run: python scripts/build_site.py --out _site
       - uses: actions/upload-pages-artifact@v3
         with:

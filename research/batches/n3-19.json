@@ -1,0 +1,96 @@
+{
+ "batch": "n3-19",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 550,
+   "name": "Joosung Yun",
+   "institution": "Samsung Electronics",
+   "year": "2015",
+   "advisor": "Sunggu Lee",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 551,
+   "name": "Byeonguk Bae",
+   "institution": "Samsung Electronics",
+   "year": "2016",
+   "advisor": "Sunggu Lee",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 552,
+   "name": "Kibeom Kim",
+   "institution": "Yonam Institute of Technology",
+   "year": "2020",
+   "advisor": "Sunggu Lee",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 553,
+   "name": "Minho Ha",
+   "institution": "SK Hynix",
+   "year": "2020",
+   "advisor": "Sunggu Lee",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 554,
+   "name": "Duhwan Kim",
+   "institution": "Hyundai Movex",
+   "year": "2022",
+   "advisor": "Sunggu Lee",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 555,
+   "name": "Jeonghun Kim",
+   "institution": "Samsung Electronics",
+   "year": "2025",
+   "advisor": "Sunggu Lee",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 556,
+   "name": "Sanghyeon Ju",
+   "institution": "POSTECH",
+   "year": "",
+   "advisor": "Sunggu Lee",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 557,
+   "name": "Kangjin Yoon",
+   "institution": "Siemens Healthineers, USA",
+   "year": "2019",
+   "advisor": "Sunghyun Choi",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 558,
+   "name": "Mat Wymore",
+   "institution": "Iowa State University",
+   "year": "2019",
+   "advisor": "Daji Qiao",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 559,
+   "name": "Shen Fu",
+   "institution": "",
+   "year": "",
+   "advisor": "Daji Qiao",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

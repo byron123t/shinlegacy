@@ -1,0 +1,96 @@
+{
+ "batch": "n3-21",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 570,
+   "name": "Jingjie Li",
+   "institution": "University of Edinburgh",
+   "year": "2023",
+   "advisor": "Kassem Fawaz",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 571,
+   "name": "Yu Wei (Sam) Liu",
+   "institution": "Clemson University",
+   "year": "",
+   "advisor": "Mert Dieter Pese",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 572,
+   "name": "Marcos Sanson",
+   "institution": "Clemson University",
+   "year": "",
+   "advisor": "Mert Dieter Pese",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 573,
+   "name": "Run Wang",
+   "institution": "Clemson University",
+   "year": "",
+   "advisor": "Mert Dieter Pese",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 574,
+   "name": "Correy Washburn",
+   "institution": "Clemson University",
+   "year": "",
+   "advisor": "Mert Dieter Pese",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 575,
+   "name": "Diandian Gu",
+   "institution": "ML system researcher (affiliation not stated)",
+   "year": "",
+   "advisor": "Xin Jin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 576,
+   "name": "Chao Jin",
+   "institution": "Peking University",
+   "year": "",
+   "advisor": "Xin Jin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 577,
+   "name": "Sheng Qi",
+   "institution": "Peking University",
+   "year": "",
+   "advisor": "Xin Jin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 578,
+   "name": "Junyi Shu",
+   "institution": "UCLA (postdoc)",
+   "year": "",
+   "advisor": "Xin Jin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 579,
+   "name": "Bingyang Wu",
+   "institution": "Peking University",
+   "year": "",
+   "advisor": "Xin Jin",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

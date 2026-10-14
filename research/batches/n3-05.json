@@ -1,0 +1,96 @@
+{
+ "batch": "n3-05",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 410,
+   "name": "Dae Cheol Kwon",
+   "institution": "UC San Diego",
+   "year": "",
+   "advisor": "Xinyu Zhang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 411,
+   "name": "Wangwei Shen",
+   "institution": "",
+   "year": "",
+   "advisor": "Dongyao Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 412,
+   "name": "Yifeng Zhang",
+   "institution": "",
+   "year": "",
+   "advisor": "Dongyao Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 413,
+   "name": "Tianyuan (Frank) Qiu",
+   "institution": "Purdue University",
+   "year": "",
+   "advisor": "Xiaoqi Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 414,
+   "name": "Xinyu Chen",
+   "institution": "Purdue University",
+   "year": "",
+   "advisor": "Xiaoqi Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 415,
+   "name": "Bhavana Vannarth Shobhana",
+   "institution": "Rutgers University",
+   "year": "",
+   "advisor": "Srinivas Narayana",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 416,
+   "name": "Harishankar Vishwanathan",
+   "institution": "Rutgers University",
+   "year": "",
+   "advisor": "Srinivas Narayana",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 417,
+   "name": "Bashayer Alharbi",
+   "institution": "University of Colorado Boulder",
+   "year": "",
+   "advisor": "Eric Keller",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 418,
+   "name": "Shirin Ebadi",
+   "institution": "University of Colorado Boulder",
+   "year": "",
+   "advisor": "Eric Keller",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 419,
+   "name": "Sara Daneshvar",
+   "institution": "University of Colorado Boulder",
+   "year": "",
+   "advisor": "Eric Keller",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

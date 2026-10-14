@@ -47,6 +47,8 @@ function initPeopleTable({ tableId, filterId, countId }) {
     th.addEventListener("keydown", (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); activate(); } });
   });
 
+  const q = new URLSearchParams(location.search).get("q");
+  if (q) filter.value = q;
   filter.addEventListener("input", applyFilter);
   document.addEventListener("keydown", (e) => {
     if (e.key === "/" && document.activeElement !== filter) { e.preventDefault(); filter.focus(); }

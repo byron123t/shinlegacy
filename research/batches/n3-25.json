@@ -1,0 +1,96 @@
+{
+ "batch": "n3-25",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 610,
+   "name": "Leonard Zhang",
+   "institution": "University of Michigan",
+   "year": "",
+   "advisor": "Ke Sun",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 611,
+   "name": "Linzhen Zhu",
+   "institution": "University of Michigan",
+   "year": "",
+   "advisor": "Ke Sun",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 612,
+   "name": "Jeffrey Shulkin",
+   "institution": "University of Michigan",
+   "year": "",
+   "advisor": "Ke Sun",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 613,
+   "name": "Mingzhuo Ma",
+   "institution": "University of Michigan",
+   "year": "",
+   "advisor": "Ke Sun",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 614,
+   "name": "Mason Kadem",
+   "institution": "McMaster University",
+   "year": "",
+   "advisor": "Rong Zheng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 615,
+   "name": "Longyun Liao",
+   "institution": "McMaster University",
+   "year": "",
+   "advisor": "Rong Zheng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 616,
+   "name": "Andrew Mitchell",
+   "institution": "McMaster University",
+   "year": "",
+   "advisor": "Rong Zheng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 617,
+   "name": "Bodee Quansah",
+   "institution": "McMaster University",
+   "year": "",
+   "advisor": "Rong Zheng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 618,
+   "name": "Margaret Xie",
+   "institution": "McMaster University",
+   "year": "",
+   "advisor": "Rong Zheng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 619,
+   "name": "Yunkai Yu",
+   "institution": "McMaster University",
+   "year": "",
+   "advisor": "Rong Zheng",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+{
+ "batch": "n3-06",
+ "people": [
+  {
+   "id": 420,
+   "name": "Richard Thompson",
+   "website": null,
+   "photo": null,
+   "current_position": "PhD student (CS), University of Colorado Boulder",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed on Keller's page as current PhD CS student, expected 2030, so no PhD yet; no personal site linked. OpenAlex search ambiguous (common name). Not set phd since not graduated."
+  },
+  {
+   "id": 421,
+   "name": "Victor Jimenez",
+   "website": null,
+   "photo": null,
+   "current_position": "PhD student (CS), University of Colorado Boulder",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed on Keller's page as current PhD CS student (expected 2030, co-advised with Tamara Lehman); BS thesis 2025 (UPC, as visiting student). No homepage found; no PhD yet."
+  },
+  {
+   "id": 422,
+   "name": "Erika Hunhoff",
+   "website": {
+    "url": "https://hunhoffe.github.io/",
+    "source_note": "Personal homepage (al-folio), names Keller as advisor"
+   },
+   "photo": {
+    "image_url": "https://hunhoffe.github.io/assets/img/portrait.jpg",
+    "page_url": "https://hunhoffe.github.io/"
+   },
+   "current_position": "Researcher at AMD (per Keller alumni list: first job AMD)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Found via Keller's page/CV (https://eric-keller.github.io/). No PhD students expected. Photo viewed: single-person portrait. Position from Keller alumni list; homepage is dated 2024 (co-op at AMD RAD)."
+  },
+  {
+   "id": 423,
+   "name": "Maziyar Nazari",
+   "website": {
+    "url": "https://maziyar-na.github.io/",
+    "source_note": "Personal homepage"
+   },
+   "photo": null,
+   "current_position": "Research Scientist, Meta (Ads Ranking & Foundational AI)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Found via Keller's page/CV (https://eric-keller.github.io/). No PhD students expected. Homepage lists Research Scientist at Meta. No photo URL found in static HTML."
+  },
+  {
+   "id": 424,
+   "name": "Karl Olson",
+   "website": null,
+   "photo": null,
+   "current_position": "Instructor, US Military Academy / Army Cyber Institute",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Found via Keller's page/CV (https://eric-keller.github.io/). No PhD students expected. Only LinkedIn (https://www.linkedin.com/in/karl-olson-16720511/) linked by Keller; not used. Dissertation: https://eric-keller.github.io/thesis/KarlOlson_Dissertation_Final_Feb2024.pdf"
+  },
+  {
+   "id": 425,
+   "name": "Greg Cusack",
+   "website": {
+    "url": "https://gregcusack.github.io/",
+    "source_note": "Personal homepage; PhD Dec 2022 advised by Keller"
+   },
+   "photo": {
+    "image_url": "https://gregcusack.github.io/images/headshot-img-2.jpg",
+    "page_url": "https://gregcusack.github.io/"
+   },
+   "current_position": "Solana (per Keller alumni list)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Found via Keller's page/CV (https://eric-keller.github.io/). No PhD students expected. Photo is a casual single-person selfie (cap, waterfall) on homepage; verifier may reject as non-headshot."
+  },
+  {
+   "id": 426,
+   "name": "Marcelo Abranches",
+   "website": {
+    "url": "https://mcabranches.github.io",
+    "source_note": "Personal homepage; PhD at CU Boulder 2018-2022"
+   },
+   "photo": {
+    "image_url": "https://mcabranches.github.io/images/bio-photo-3.jpg",
+    "page_url": "https://mcabranches.github.io"
+   },
+   "current_position": "Solutions engineer, CGU (Brazilian government)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Found via Keller's page/CV (https://eric-keller.github.io/). No PhD students expected. Photo is a casual single-person selfie with sunglasses on homepage; verifier may reject."
+  },
+  {
+   "id": 427,
+   "name": "Sepideh Goodarzy",
+   "website": null,
+   "photo": null,
+   "current_position": "Google (per Keller alumni list)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Found via Keller's page/CV (https://eric-keller.github.io/). No PhD students expected. Co-advised with Richard Han. Only LinkedIn linked (https://www.linkedin.com/in/sepidehgoodarzy/); not used."
+  },
+  {
+   "id": 428,
+   "name": "Mohammad Hashemi",
+   "website": null,
+   "photo": null,
+   "current_position": "Data Scientist, Illumina (per Keller CV)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Found via Keller's page/CV (https://eric-keller.github.io/). No PhD students expected. Only LinkedIn linked (https://www.linkedin.com/in/smjhashemi/); not used."
+  },
+  {
+   "id": 429,
+   "name": "Azzam Alsudais",
+   "website": {
+    "url": "https://aalsudais.github.io/",
+    "source_note": "Personal homepage (older, as PhD student)"
+   },
+   "photo": {
+    "image_url": "https://aalsudais.github.io/files/pic-col.jpg",
+    "page_url": "https://aalsudais.github.io/"
+   },
+   "current_position": "Professor, King Saud University (per Keller CV)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Found via Keller's page/CV (https://eric-keller.github.io/). No PhD students expected. Photo viewed: single-person portrait."
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "batch": "n3-27",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 630,
+   "name": "Ruohan Zong",
+   "institution": "University of Illinois Urbana-Champaign",
+   "year": "",
+   "advisor": "Dong Wang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 631,
+   "name": "YeonJung (Jessica) Choi",
+   "institution": "University of Illinois Urbana-Champaign",
+   "year": "",
+   "advisor": "Dong Wang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 632,
+   "name": "YeaEun Gong",
+   "institution": "University of Illinois Urbana-Champaign",
+   "year": "",
+   "advisor": "Dong Wang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 633,
+   "name": "Yifan Liu",
+   "institution": "University of Illinois Urbana-Champaign",
+   "year": "",
+   "advisor": "Dong Wang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 634,
+   "name": "Yaokun Liu",
+   "institution": "University of Illinois Urbana-Champaign",
+   "year": "",
+   "advisor": "Dong Wang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 635,
+   "name": "Zelin Li",
+   "institution": "University of Illinois Urbana-Champaign",
+   "year": "",
+   "advisor": "Dong Wang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 636,
+   "name": "Ruichen Yao",
+   "institution": "University of Illinois Urbana-Champaign",
+   "year": "",
+   "advisor": "Dong Wang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 637,
+   "name": "Mung Yao Jia",
+   "institution": "University of Illinois Urbana-Champaign",
+   "year": "",
+   "advisor": "Dong Wang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 638,
+   "name": "Jieyong Kim",
+   "institution": "University of Illinois Urbana-Champaign",
+   "year": "",
+   "advisor": "Dong Wang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 639,
+   "name": "Zhenrui Yue",
+   "institution": "Google DeepMind",
+   "year": "",
+   "advisor": "Dong Wang",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

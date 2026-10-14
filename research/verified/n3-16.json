@@ -1,0 +1,132 @@
+{
+ "batch": "n3-16",
+ "people": [
+  {
+   "id": 520,
+   "name": "Zheng Yang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 521,
+   "name": "Zheng Lu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 522,
+   "name": "Yunhe Feng",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://yunhefeng.me",
+    "reason": "Personal homepage; name, UNT Assistant Professor CSE"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://yunhefeng.me/material/ID_photo.jpg",
+    "page_url": "https://yunhefeng.me",
+    "reason": "200 image/jpeg; single-person portrait; embedded as ./material/ID_photo.jpg on homepage"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Assistant Professor of Computer Science and Engineering, University of North Texas",
+    "reason": "Homepage: Assistant Professor, Dept of CSE, UNT"
+   },
+   "bio": null,
+   "phd": {
+    "verdict": "confirmed",
+    "year": "2020",
+    "institution": "University of Tennessee, Knoxville",
+    "source_url": "https://yunhefeng.me",
+    "reason": "Homepage: Ph.D. with Qing (Charles) Cao in 2020 from UTK"
+   },
+   "students": []
+  },
+  {
+   "id": 523,
+   "name": "Md Abdullah Al Fahim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 524,
+   "name": "Theodore Jensen",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://www.nist.gov/people/theodore-jensen",
+    "reason": "NIST staff profile loads, name present, Human-Centered Technologies Group"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "value": null,
+    "reason": "NIST page does not state a title; \"Research scientist\" unconfirmed"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 525,
+   "name": "Kewen Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 526,
+   "name": "Yi-Ling Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 527,
+   "name": "Chung-Kuang Chou",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 528,
+   "name": "Cheng-Ying Liu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 529,
+   "name": "Jiann-Min Ho",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  }
+ ]
+}

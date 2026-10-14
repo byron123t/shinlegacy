@@ -1,0 +1,143 @@
+{
+ "batch": "n3-29",
+ "people": [
+  {
+   "id": 650,
+   "name": "Amirreza Ghafoori",
+   "website": {
+    "url": "https://nss.ece.vt.edu/people.html",
+    "source_note": "NSSL@VT team page (lab profile)"
+   },
+   "photo": {
+    "image_url": "https://nss.ece.vt.edu/team/amirreza.jpg",
+    "page_url": "https://nss.ece.vt.edu/people.html"
+   },
+   "current_position": "Ph.D. student, Virginia Tech (NSSL)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "From NSSL team page. Current Ph.D. student per team page; no personal site found."
+  },
+  {
+   "id": 651,
+   "name": "Tanvi Garg",
+   "website": {
+    "url": "https://nss.ece.vt.edu/people.html",
+    "source_note": "NSSL@VT team page (lab profile)"
+   },
+   "photo": {
+    "image_url": "https://nss.ece.vt.edu/team/tanvi.jpg",
+    "page_url": "https://nss.ece.vt.edu/people.html"
+   },
+   "current_position": "Ph.D. candidate, Virginia Tech (NSSL)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "From NSSL team page. Current Ph.D. student per team page; no personal site found."
+  },
+  {
+   "id": 652,
+   "name": "Yousef Akbar",
+   "website": {
+    "url": "https://nss.ece.vt.edu/people.html",
+    "source_note": "NSSL@VT team page (lab profile)"
+   },
+   "photo": null,
+   "current_position": "Ph.D. student, Virginia Tech (NSSL)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "From NSSL team page. Current Ph.D. student per team page; no personal site found."
+  },
+  {
+   "id": 653,
+   "name": "Dilek Gün Kaya",
+   "website": {
+    "url": "https://nss.ece.vt.edu/people.html",
+    "source_note": "NSSL@VT team page (lab profile)"
+   },
+   "photo": {
+    "image_url": "https://nss.ece.vt.edu/team/dilek.JPG",
+    "page_url": "https://nss.ece.vt.edu/people.html"
+   },
+   "current_position": "Ph.D. student, Virginia Tech (NSSL)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "From NSSL team page. Current Ph.D. student per team page; no personal site found."
+  },
+  {
+   "id": 654,
+   "name": "Mahsa Foruhandeh",
+   "website": {
+    "url": "https://nss.ece.vt.edu/people.html",
+    "source_note": "NSSL@VT team page (lab profile)"
+   },
+   "photo": null,
+   "current_position": "Systems engineer, Google Pixel TechEng",
+   "bio": null,
+   "students": [],
+   "phd": {
+    "year": null,
+    "institution": "Virginia Tech",
+    "source_url": "https://nss.ece.vt.edu/people.html"
+   },
+   "notes": "From NSSL team page. Listed under Ph.D. Alumni (Virginia Tech ECE); PhD year not found (1 search, no dissertation hit)."
+  },
+  {
+   "id": 655,
+   "name": "Tianyang Zhou",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Chandrasekaran's wisc homepage, ECE Illinois page and sprocketlab.github.io had no student list; guessed homepage URLs 404; 2 searches found nothing. Nothing verified."
+  },
+  {
+   "id": 656,
+   "name": "Qilong Wu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Chandrasekaran's wisc homepage, ECE Illinois page and sprocketlab.github.io had no student list; guessed homepage URLs 404; 2 searches found nothing. Nothing verified."
+  },
+  {
+   "id": 657,
+   "name": "Yian Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Chandrasekaran's wisc homepage, ECE Illinois page and sprocketlab.github.io had no student list; guessed homepage URLs 404; 2 searches found nothing. Nothing verified."
+  },
+  {
+   "id": 658,
+   "name": "Pragati Meshram",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Chandrasekaran's wisc homepage, ECE Illinois page and sprocketlab.github.io had no student list; guessed homepage URLs 404; 2 searches found nothing. Nothing verified."
+  },
+  {
+   "id": 659,
+   "name": "Yiwei Fu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Chandrasekaran's wisc homepage, ECE Illinois page and sprocketlab.github.io had no student list; guessed homepage URLs 404; 2 searches found nothing. Nothing verified."
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "batch": "n3-23",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 590,
+   "name": "Sultan Alanazi",
+   "institution": "Prince Sattam Bin Abdulaziz University, KSA",
+   "year": "2023",
+   "advisor": "Bechir Hamdaoui",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 591,
+   "name": "Jarallah Alqahtani",
+   "institution": "",
+   "year": "2021",
+   "advisor": "Bechir Hamdaoui",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 592,
+   "name": "Mohamed Grissa",
+   "institution": "Circle (blockchain), USA",
+   "year": "2018",
+   "advisor": "Bechir Hamdaoui",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 593,
+   "name": "Bassem Khalfi",
+   "institution": "Qualcomm, USA",
+   "year": "2018",
+   "advisor": "Bechir Hamdaoui",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 594,
+   "name": "Sherif Abdelwahab",
+   "institution": "Amazon, USA",
+   "year": "2017",
+   "advisor": "Bechir Hamdaoui",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 595,
+   "name": "Hassan Sinky",
+   "institution": "Umm Al-Qura University, KSA",
+   "year": "2017",
+   "advisor": "Bechir Hamdaoui",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 596,
+   "name": "Nadia Adem",
+   "institution": "University of Tripoli, Libya",
+   "year": "2016",
+   "advisor": "Bechir Hamdaoui",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 597,
+   "name": "Mehiar Dabbagh",
+   "institution": "LinkedIn, USA",
+   "year": "2016",
+   "advisor": "Bechir Hamdaoui",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 598,
+   "name": "MohammadJavad NoroozOliaee",
+   "institution": "Google, USA",
+   "year": "2015",
+   "advisor": "Bechir Hamdaoui",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 599,
+   "name": "Omar Alsaleh",
+   "institution": "King Saud University, KSA",
+   "year": "2013",
+   "advisor": "Bechir Hamdaoui",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

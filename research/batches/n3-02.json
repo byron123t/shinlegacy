@@ -1,0 +1,96 @@
+{
+ "batch": "n3-02",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 380,
+   "name": "Pu Duan",
+   "institution": "Cisco",
+   "year": "2011",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 381,
+   "name": "Hong Lu",
+   "institution": "Airbnb",
+   "year": "2008",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 382,
+   "name": "Ming Zhang",
+   "institution": "Google",
+   "year": "2008",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 383,
+   "name": "Tak Cheung Lam",
+   "institution": "Cisco",
+   "year": "2008",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 384,
+   "name": "Sung-Oh Jung",
+   "institution": "",
+   "year": "2005",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 385,
+   "name": "Di Wu",
+   "institution": "",
+   "year": "2005",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 386,
+   "name": "Yong Xiong",
+   "institution": "Fannie Mae",
+   "year": "2004",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 387,
+   "name": "Stephen George",
+   "institution": "",
+   "year": "2014",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 388,
+   "name": "Satadal Sengupta",
+   "institution": "UT-Austin (postdoc, fall 2026)",
+   "year": "2026",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 389,
+   "name": "Sophia Yoo",
+   "institution": "Amherst College (assistant professor, summer 2026)",
+   "year": "2026",
+   "advisor": "Jennifer Rexford",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

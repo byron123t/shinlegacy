@@ -1,0 +1,163 @@
+{
+ "batch": "yr-03",
+ "people": [
+  {
+   "id": 185,
+   "name": "Niaz Ahmad",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": {
+    "year": "2024",
+    "institution": "Hanyang University (ERICA), Korea",
+    "source_url": "https://sites.google.com/view/niazahmad"
+   },
+   "notes": "Homepage news: 'Successfully defended PhD dissertation ... [2024/06/10]'; PhD in AI at RAISE Lab with Youngmoon Lee."
+  },
+  {
+   "id": 186,
+   "name": "Chanyeok Choi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Year batch. No dissertation record or CV found tying this person to a PhD year (prior g2 notes and fetches of advisor/lab pages)."
+  },
+  {
+   "id": 187,
+   "name": "Jawad Khan",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Year batch. No dissertation record or CV found tying this person to a PhD year (prior g2 notes and fetches of advisor/lab pages)."
+  },
+  {
+   "id": 188,
+   "name": "Donghyun Kwon",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Year batch. No dissertation record or CV found tying this person to a PhD year (prior g2 notes and fetches of advisor/lab pages)."
+  },
+  {
+   "id": 189,
+   "name": "Seunghwan Lee",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Year batch. No dissertation record or CV found tying this person to a PhD year (prior g2 notes and fetches of advisor/lab pages)."
+  },
+  {
+   "id": 190,
+   "name": "Jeremy Yuhyun Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Year batch. No dissertation record or CV found tying this person to a PhD year (prior g2 notes and fetches of advisor/lab pages)."
+  },
+  {
+   "id": 191,
+   "name": "Saif Ullah",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Year batch. No dissertation record or CV found tying this person to a PhD year (prior g2 notes and fetches of advisor/lab pages)."
+  },
+  {
+   "id": 192,
+   "name": "Gyurin Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Year batch. No dissertation record or CV found tying this person to a PhD year (prior g2 notes and fetches of advisor/lab pages)."
+  },
+  {
+   "id": 193,
+   "name": "Zahra Batool Jaffrey",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Year batch. No dissertation record or CV found tying this person to a PhD year (prior g2 notes and fetches of advisor/lab pages)."
+  },
+  {
+   "id": 194,
+   "name": "Jaehwan Cho",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Year batch. No dissertation record or CV found tying this person to a PhD year (prior g2 notes and fetches of advisor/lab pages)."
+  },
+  {
+   "id": 195,
+   "name": "Siyuan Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Year batch. No dissertation record or CV found tying this person to a PhD year (prior g2 notes and fetches of advisor/lab pages)."
+  },
+  {
+   "id": 196,
+   "name": "Jike Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Year batch. No dissertation record or CV found tying this person to a PhD year (prior g2 notes and fetches of advisor/lab pages)."
+  },
+  {
+   "id": 197,
+   "name": "Zhenyu Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Year batch. No dissertation record or CV found tying this person to a PhD year (prior g2 notes and fetches of advisor/lab pages)."
+  },
+  {
+   "id": 311,
+   "name": "Rui Miao",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "nsl.usc.edu page 404; mathgenealogy search returned no Rui Miao record. Nothing confirmed."
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "batch": "n3-06",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 420,
+   "name": "Richard Thompson",
+   "institution": "University of Colorado Boulder",
+   "year": "",
+   "advisor": "Eric Keller",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 421,
+   "name": "Victor Jimenez",
+   "institution": "University of Colorado Boulder",
+   "year": "",
+   "advisor": "Eric Keller",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 422,
+   "name": "Erika Hunhoff",
+   "institution": "AMD",
+   "year": "2025",
+   "advisor": "Eric Keller",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 423,
+   "name": "Maziyar Nazari",
+   "institution": "Meta",
+   "year": "2025",
+   "advisor": "Eric Keller",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 424,
+   "name": "Karl Olson",
+   "institution": "US Military Academy / Army Cyber Institute",
+   "year": "2024",
+   "advisor": "Eric Keller",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 425,
+   "name": "Greg Cusack",
+   "institution": "Solana",
+   "year": "2022",
+   "advisor": "Eric Keller",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 426,
+   "name": "Marcelo Abranches",
+   "institution": "CGU (Brazil)",
+   "year": "2022",
+   "advisor": "Eric Keller",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 427,
+   "name": "Sepideh Goodarzy",
+   "institution": "Google",
+   "year": "2022",
+   "advisor": "Eric Keller",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 428,
+   "name": "Mohammad Hashemi",
+   "institution": "Illumina",
+   "year": "2021",
+   "advisor": "Eric Keller",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 429,
+   "name": "Azzam Alsudais",
+   "institution": "King Saud University",
+   "year": "2020",
+   "advisor": "Eric Keller",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

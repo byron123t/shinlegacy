@@ -1,0 +1,142 @@
+{
+ "batch": "n3-25",
+ "people": [
+  {
+   "id": 610,
+   "name": "Leonard Zhang",
+   "website": {
+    "url": "https://leonardz.me",
+    "source_note": "Personal homepage (linked from AmI Lab member page)"
+   },
+   "photo": {
+    "image_url": "https://ambient-intelligence-lab-umich-eecs.github.io/ami_lab_website/images/Leonard.jpg",
+    "page_url": "https://ambient-intelligence-lab-umich-eecs.github.io/ami_lab_website/members/Leonard.html"
+   },
+   "current_position": "PhD Student, Computer Science and Engineering, University of Michigan",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Ke Sun's Ambient Intelligence Lab team page lists Leonard Zhang as PhD student (first-year); no PhD year (current). "
+  },
+  {
+   "id": 611,
+   "name": "Linzhen Zhu",
+   "website": {
+    "url": "https://ambient-intelligence-lab-umich-eecs.github.io/ami_lab_website/members/Lin-Zhen.html",
+    "source_note": "AmI Lab member page (Google Scholar also linked: P_CEc8oAAAAJ)"
+   },
+   "photo": {
+    "image_url": "https://ambient-intelligence-lab-umich-eecs.github.io/ami_lab_website/images/Linzhen.jpg",
+    "page_url": "https://ambient-intelligence-lab-umich-eecs.github.io/ami_lab_website/members/Lin-Zhen.html"
+   },
+   "current_position": "PhD Candidate, Computer Science and Engineering, University of Michigan",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as PhD Candidate on AmI Lab team page (Ke Sun PI); no PhD year (current)."
+  },
+  {
+   "id": 612,
+   "name": "Jeffrey Shulkin",
+   "website": {
+    "url": "https://ambient-intelligence-lab-umich-eecs.github.io/ami_lab_website/members/Jeffrey.html",
+    "source_note": "AmI Lab member page"
+   },
+   "photo": {
+    "image_url": "https://ambient-intelligence-lab-umich-eecs.github.io/ami_lab_website/images/jeffrey.png",
+    "page_url": "https://ambient-intelligence-lab-umich-eecs.github.io/ami_lab_website/members/Jeffrey.html"
+   },
+   "current_position": "Master's student, University of Michigan (AmI Lab)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Team page lists Jeffrey Shulkin as a Master Student (2nd-year), NOT PhD; likely not a PhD advisee of Ke Sun. No PhD record."
+  },
+  {
+   "id": 613,
+   "name": "Mingzhuo Ma",
+   "website": {
+    "url": "https://mingmmz.github.io/",
+    "source_note": "Personal homepage linked from AmI Lab member page"
+   },
+   "photo": {
+    "image_url": "https://ambient-intelligence-lab-umich-eecs.github.io/ami_lab_website/images/mingzhuo.png",
+    "page_url": "https://ambient-intelligence-lab-umich-eecs.github.io/ami_lab_website/members/mingzhuo-ma.html"
+   },
+   "current_position": "PhD Student, CSE, University of Michigan (co-advised by Ke Sun and Junyi Zhu)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Member page: 1st-year CSE PhD student advised by Ke Sun and Junyi Zhu; MS ECE UW. No PhD year (current)."
+  },
+  {
+   "id": 614,
+   "name": "Mason Kadem",
+   "website": {
+    "url": "https://github.com/masonkadem",
+    "source_note": "GitHub profile: CIHR PhD Scholar in Computer Science, McMaster"
+   },
+   "photo": null,
+   "current_position": "PhD student (CIHR Scholar), Computer Science, McMaster University",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "WISER lab team page (https://wiser.cas.mcmaster.ca/?page_id=198) lists Mason Kadem as PhD Student under Rong Zheng. GitHub profile ties to McMaster CS PhD. No photo verified. No PhD year (current)."
+  },
+  {
+   "id": 615,
+   "name": "Longyun Liao",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "WISER team page (https://wiser.cas.mcmaster.ca/?page_id=198) lists as PhD Student (Rong Zheng). Co-author with Zheng on 'LangPose'. No homepage found. No PhD year (current)."
+  },
+  {
+   "id": 616,
+   "name": "Andrew Mitchell",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "WISER team page (https://wiser.cas.mcmaster.ca/?page_id=198) lists as PhD Student (Rong Zheng). Common name; no homepage tied. No PhD year (current)."
+  },
+  {
+   "id": 617,
+   "name": "Bodee Quansah",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "WISER team page (https://wiser.cas.mcmaster.ca/?page_id=198) lists as PhD Student (Rong Zheng). No homepage found. No PhD year (current)."
+  },
+  {
+   "id": 618,
+   "name": "Margaret Xie",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "WISER team page (https://wiser.cas.mcmaster.ca/?page_id=198) lists as Ph.D. student (Rong Zheng). No homepage found. No PhD year (current)."
+  },
+  {
+   "id": 619,
+   "name": "Yunkai Yu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "WISER team page (https://wiser.cas.mcmaster.ca/?page_id=198) lists as PhD Student (Rong Zheng). Common name; no homepage tied. No PhD year (current)."
+  }
+ ]
+}

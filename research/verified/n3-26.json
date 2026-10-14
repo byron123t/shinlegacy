@@ -1,0 +1,177 @@
+{
+  "batch": "n3-26",
+  "people": [
+    {
+      "id": 620,
+      "name": "Navid Zandi",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 621,
+      "name": "Namkyung Yoon",
+      "website": {
+        "verdict": "confirmed",
+        "url": "https://wine.korea.ac.kr/members/namkyung-yoon",
+        "reason": "WINE Lab member profile subpage titled with this name; title and listing on lab Members page match (official lab profile)"
+      },
+      "photo": null,
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "M.S. & Ph.D. student, WINE Lab, Korea University",
+        "reason": "Listed as M.S. & Ph.D. Student under Prof. Hwangnam Kim on wine.korea.ac.kr/members"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 622,
+      "name": "Kiseok Kim",
+      "website": {
+        "verdict": "confirmed",
+        "url": "https://wine.korea.ac.kr/members/kiseok-kim",
+        "reason": "WINE Lab member profile subpage titled with this name; title and listing on lab Members page match (official lab profile)"
+      },
+      "photo": null,
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "M.S. & Ph.D. student, WINE Lab, Korea University",
+        "reason": "Listed as M.S. & Ph.D. Student under Prof. Hwangnam Kim on wine.korea.ac.kr/members"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 623,
+      "name": "Changmin Park",
+      "website": {
+        "verdict": "confirmed",
+        "url": "https://wine.korea.ac.kr/members/changmin-park",
+        "reason": "WINE Lab member profile subpage titled with this name; title and listing on lab Members page match (official lab profile)"
+      },
+      "photo": null,
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "M.S. & Ph.D. student, WINE Lab, Korea University",
+        "reason": "Listed as M.S. & Ph.D. Student under Prof. Hwangnam Kim on wine.korea.ac.kr/members"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 624,
+      "name": "Kyeonghyun Yoo",
+      "website": {
+        "verdict": "confirmed",
+        "url": "https://wine.korea.ac.kr/members/kyeonghyun-yoo",
+        "reason": "WINE Lab member profile subpage titled with this name; title and listing on lab Members page match (official lab profile)"
+      },
+      "photo": null,
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "M.S. & Ph.D. student, WINE Lab, Korea University",
+        "reason": "Listed as M.S. & Ph.D. Student under Prof. Hwangnam Kim on wine.korea.ac.kr/members"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 625,
+      "name": "Wooyong Jung",
+      "website": {
+        "verdict": "confirmed",
+        "url": "https://wine.korea.ac.kr/members/wooyong-jung",
+        "reason": "WINE Lab member profile subpage titled with this name; title and listing on lab Members page match (official lab profile)"
+      },
+      "photo": null,
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "M.S. & Ph.D. student, WINE Lab, Korea University",
+        "reason": "Listed as M.S. & Ph.D. Student under Prof. Hwangnam Kim on wine.korea.ac.kr/members"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 626,
+      "name": "Dohun Lee",
+      "website": {
+        "verdict": "confirmed",
+        "url": "https://wine.korea.ac.kr/members/dohun-lee",
+        "reason": "WINE Lab member profile subpage titled with this name; title and listing on lab Members page match (official lab profile)"
+      },
+      "photo": null,
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "M.S. & Ph.D. student, WINE Lab, Korea University",
+        "reason": "Listed as M.S. & Ph.D. Student under Prof. Hwangnam Kim on wine.korea.ac.kr/members"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 627,
+      "name": "Seokmin Kim",
+      "website": {
+        "verdict": "confirmed",
+        "url": "https://wine.korea.ac.kr/members/seokmin-kim",
+        "reason": "WINE Lab member profile subpage titled with this name; title and listing on lab Members page match (official lab profile)"
+      },
+      "photo": null,
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "M.S. & Ph.D. student, WINE Lab, Korea University",
+        "reason": "Listed as M.S. & Ph.D. Student under Prof. Hwangnam Kim on wine.korea.ac.kr/members"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 628,
+      "name": "Taewoo Park",
+      "website": {
+        "verdict": "confirmed",
+        "url": "https://wine.korea.ac.kr/members/tae-woo-park",
+        "reason": "WINE Lab member profile subpage titled with this name; title and listing on lab Members page match (official lab profile)"
+      },
+      "photo": null,
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "M.S. & Ph.D. student, WINE Lab, Korea University",
+        "reason": "Listed as M.S. & Ph.D. Student under Prof. Hwangnam Kim on wine.korea.ac.kr/members"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 629,
+      "name": "Poet Larsen",
+      "website": {
+        "verdict": "confirmed",
+        "url": "https://aiinstitute.hbs.edu/our-team/poet-larsen/",
+        "reason": "HBS AI Institute team page names Poet Larsen as Postdoctoral Fellow, Customer Intelligence Lab (official profile)"
+      },
+      "photo": null,
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "Postdoctoral Fellow, Customer Intelligence Lab, Harvard Business School AI Institute",
+        "reason": "HBS AI Institute team page; Proserpio link not shown, but position stated on page"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    }
+  ]
+}

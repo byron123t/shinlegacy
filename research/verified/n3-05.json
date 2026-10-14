@@ -1,0 +1,118 @@
+{
+ "batch": "n3-05",
+ "people": [
+  {
+   "id": 410,
+   "name": "Dae Cheol Kwon",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 411,
+   "name": "Wangwei Shen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 412,
+   "name": "Yifeng Zhang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 413,
+   "name": "Tianyuan (Frank) Qiu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 414,
+   "name": "Xinyu Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 415,
+   "name": "Bhavana Vannarth Shobhana",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 416,
+   "name": "Harishankar Vishwanathan",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://harishankarv.github.io/",
+    "reason": "Homepage Harishankar Vishwanathan, Ph.D. Student, Rutgers"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://harishankarv.github.io/assets/img/avatar.jpg",
+    "page_url": "https://harishankarv.github.io/",
+    "reason": "200 image/jpeg; single-person portrait; embedded as ./assets/img/avatar.jpg"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Ph.D. student, Rutgers University",
+    "reason": "Homepage lists Ph.D. Student, Rutgers University"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 417,
+   "name": "Bashayer Alharbi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 418,
+   "name": "Shirin Ebadi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 419,
+   "name": "Sara Daneshvar",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  }
+ ]
+}

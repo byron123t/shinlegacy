@@ -1,0 +1,118 @@
+{
+ "batch": "n3-02",
+ "people": [
+  {
+   "id": 380,
+   "name": "Pu Duan",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 381,
+   "name": "Hong Lu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 382,
+   "name": "Ming Zhang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 383,
+   "name": "Tak Cheung Lam",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 384,
+   "name": "Sung-Oh Jung",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 385,
+   "name": "Di Wu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 386,
+   "name": "Yong Xiong",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 387,
+   "name": "Stephen George",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 388,
+   "name": "Satadal Sengupta",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://satadalsengupta.github.io",
+    "reason": "Homepage 'Satadal Sengupta', postdoctoral fellow at UT Austin, Princeton CS title"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://satadalsengupta.github.io/images/headshot.jpg",
+    "page_url": "https://satadalsengupta.github.io",
+    "reason": "200 image/jpeg; single-person headshot; embedded as <img src=images/headshot.jpg>"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Postdoctoral Fellow in Networked Systems + AI, University of Texas at Austin",
+    "reason": "Homepage states Postdoctoral Fellow at UT Austin"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 389,
+   "name": "Sophia Yoo",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  }
+ ]
+}

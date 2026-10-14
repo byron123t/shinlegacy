@@ -1,0 +1,132 @@
+{
+ "batch": "yr-02",
+ "kind": "year",
+ "people": [
+  {
+   "id": 163,
+   "name": "Song Wang",
+   "institution": "ByteDance",
+   "year": "",
+   "advisor": "Xinyu Zhang",
+   "website_on_record": "https://sowang46.github.io/",
+   "students_in_tree": []
+  },
+  {
+   "id": 168,
+   "name": "Levent Celik",
+   "institution": "",
+   "year": "",
+   "advisor": "Mert Dieter Pese",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 169,
+   "name": "Jan de Voor",
+   "institution": "",
+   "year": "",
+   "advisor": "Mert Dieter Pese",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 170,
+   "name": "Alkim Domeke",
+   "institution": "",
+   "year": "",
+   "advisor": "Mert Dieter Pese",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 171,
+   "name": "David Fernandez",
+   "institution": "",
+   "year": "",
+   "advisor": "Mert Dieter Pese",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 172,
+   "name": "Pedram MohajerAnsari",
+   "institution": "",
+   "year": "",
+   "advisor": "Mert Dieter Pese",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 173,
+   "name": "Derik Pack",
+   "institution": "",
+   "year": "",
+   "advisor": "Mert Dieter Pese",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 174,
+   "name": "Robert Taylor",
+   "institution": "",
+   "year": "",
+   "advisor": "Mert Dieter Pese",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 176,
+   "name": "Asmit Nayak",
+   "institution": "",
+   "year": "",
+   "advisor": "Kassem Fawaz",
+   "website_on_record": "https://www.asmitnayak.com/",
+   "students_in_tree": []
+  },
+  {
+   "id": 177,
+   "name": "Ben Jacobsen",
+   "institution": "",
+   "year": "",
+   "advisor": "Kassem Fawaz",
+   "website_on_record": "https://ben-jacobsen.github.io/",
+   "students_in_tree": []
+  },
+  {
+   "id": 178,
+   "name": "Guruprasad Ramesh",
+   "institution": "",
+   "year": "",
+   "advisor": "Kassem Fawaz",
+   "website_on_record": "https://github.com/Guruprasad68",
+   "students_in_tree": []
+  },
+  {
+   "id": 179,
+   "name": "Jackson West",
+   "institution": "",
+   "year": "",
+   "advisor": "Kassem Fawaz",
+   "website_on_record": "https://www.jacksonwaynewest.com/",
+   "students_in_tree": []
+  },
+  {
+   "id": 181,
+   "name": "Shirley Zhang",
+   "institution": "",
+   "year": "",
+   "advisor": "Kassem Fawaz",
+   "website_on_record": "https://www.annienobear.com/",
+   "students_in_tree": []
+  },
+  {
+   "id": 182,
+   "name": "Yash Wani",
+   "institution": "",
+   "year": "",
+   "advisor": "Kassem Fawaz",
+   "website_on_record": "https://wiscprivacy.com/member/member_yash/",
+   "students_in_tree": []
+  }
+ ]
+}

@@ -1,0 +1,118 @@
+{
+ "batch": "n3-09",
+ "people": [
+  {
+   "id": 450,
+   "name": "Kamal Shadi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 451,
+   "name": "Kaeser Md. Sabrin",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 452,
+   "name": "Payam Siyari",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 453,
+   "name": "Siddarth Sitaraman",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 454,
+   "name": "Huseyin Sahin",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 455,
+   "name": "Emmanuel Addo Addae",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 456,
+   "name": "Pingping Cai",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 457,
+   "name": "Zhuangzhuang Gu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 458,
+   "name": "Sabbir Saadat",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://cse.sc.edu/~msaadat/index2.html",
+    "reason": "Loads; personal page, PhD student at USC with Sanjib Sur"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://cse.sc.edu/~msaadat/msaadat_files/msaadat_profile.jpg",
+    "page_url": "https://cse.sc.edu/~msaadat/index2.html",
+    "reason": "Page embeds msaadat_profile.jpg; 200 image/jpeg; viewed: single-person portrait"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Ph.D. student (Graduate Research Assistant), Computer Science & Engineering, University of South Carolina",
+    "reason": "Own page says Ph.D. student at University of South Carolina"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 459,
+   "name": "Zarin Shejuti",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  }
+ ]
+}

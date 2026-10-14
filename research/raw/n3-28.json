@@ -1,0 +1,143 @@
+{
+ "batch": "n3-28",
+ "people": [
+  {
+   "id": 640,
+   "name": "Lanyu Shang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Dong Wang's Notre Dame/UIUC/NDSU pages were 403 or unresolvable; 4 searches returned nothing relevant. Nothing verified. PhD year not found."
+  },
+  {
+   "id": 641,
+   "name": "Md Tahmid Rashid",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Dong Wang's Notre Dame/UIUC/NDSU pages were 403 or unresolvable; 4 searches returned nothing relevant. Nothing verified. PhD year not found."
+  },
+  {
+   "id": 642,
+   "name": "Yang Zhang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Dong Wang's Notre Dame/UIUC/NDSU pages were 403 or unresolvable; 4 searches returned nothing relevant. Nothing verified. PhD year not found."
+  },
+  {
+   "id": 643,
+   "name": "Daniel (Yue) Zhang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Dong Wang's Notre Dame/UIUC/NDSU pages were 403 or unresolvable; 4 searches returned nothing relevant. Nothing verified. PhD year not found."
+  },
+  {
+   "id": 644,
+   "name": "Sudip Maitra",
+   "website": {
+    "url": "https://scholar.google.com/citations?user=eMrW3h0AAAAJ",
+    "source_note": "Google Scholar linked from VT NSS lab people page"
+   },
+   "photo": null,
+   "current_position": "PhD candidate, Virginia Tech",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as current PhD student on nss.ece.vt.edu/people.html. PhD year not found."
+  },
+  {
+   "id": 645,
+   "name": "Pragya Sharma",
+   "website": {
+    "url": "https://scholar.google.com/citations?user=UNZRLLsAAAAJ",
+    "source_note": "Google Scholar linked from VT NSS lab people page"
+   },
+   "photo": null,
+   "current_position": "PhD student, Virginia Tech",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as current PhD student on nss.ece.vt.edu/people.html. PhD year not found."
+  },
+  {
+   "id": 646,
+   "name": "Tolga Omer Atalay",
+   "website": {
+    "url": "https://tolgaoa.github.io/",
+    "source_note": "Personal homepage"
+   },
+   "photo": {
+    "image_url": "https://tolgaoa.github.io/images/tolgaatalay3.png",
+    "page_url": "https://tolgaoa.github.io/"
+   },
+   "current_position": "Senior R&D Engineer, A12XT Inc",
+   "bio": null,
+   "students": [],
+   "phd": {
+    "year": "2024",
+    "institution": "Virginia Tech",
+    "source_url": "https://tolgaoa.github.io/"
+   },
+   "notes": "PhD 2018-2024 VT ECE per homepage; PhD alumnus on Wang's NSS lab page. Photo URL reported by page fetch, not independently checked."
+  },
+  {
+   "id": 647,
+   "name": "Alireza Famili",
+   "website": {
+    "url": "https://afamili93.github.io/",
+    "source_note": "Personal homepage"
+   },
+   "photo": {
+    "image_url": "https://afamili93.github.io/images/alirezafamili_1.JPG",
+    "page_url": "https://afamili93.github.io/"
+   },
+   "current_position": "Co-founder and CTO, WayWave Inc.",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "PhD Dec 2023 VT ECE; PhD alumnus on NSS lab page. Photo not independently checked."
+  },
+  {
+   "id": 648,
+   "name": "Shihua Sun",
+   "website": {
+    "url": "https://scholar.google.com/citations?user=puFvV-sAAAAJ",
+    "source_note": "Google Scholar linked from VT NSS lab people page"
+   },
+   "photo": null,
+   "current_position": "PhD student, Virginia Tech",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as current PhD student on nss.ece.vt.edu/people.html. PhD year not found."
+  },
+  {
+   "id": 649,
+   "name": "Kene Nwodo",
+   "website": {
+    "url": "https://scholar.google.com/citations?user=yLF-_98AAAAJ",
+    "source_note": "Google Scholar linked from VT NSS lab people page"
+   },
+   "photo": null,
+   "current_position": "PhD student, Virginia Tech",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as current PhD student on nss.ece.vt.edu/people.html. PhD year not found."
+  }
+ ]
+}

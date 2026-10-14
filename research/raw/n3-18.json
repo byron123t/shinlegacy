@@ -1,0 +1,109 @@
+{
+ "batch": "n3-18",
+ "people": [
+  {
+   "id": 540,
+   "name": "Yi-Ting Lee",
+   "website": null,
+   "photo": null,
+   "current_position": "Ph.D. student, National Taiwan University (Arbor lab)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as current Ph.D. student on https://arbor.ee.ntu.edu.tw/member.html (no Ph.D. alumni year; still enrolled). DBLP/OpenAlex unreachable (ECONNRESET/429); search found nothing. No students (current student)."
+  },
+  {
+   "id": 541,
+   "name": "Hsiang-Hui Liu",
+   "website": null,
+   "photo": null,
+   "current_position": "Ph.D. student, National Taiwan University (Arbor lab)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as current Ph.D. student on https://arbor.ee.ntu.edu.tw/member.html (no Ph.D. alumni year; still enrolled). DBLP/OpenAlex unreachable (ECONNRESET/429); search found nothing. No students (current student)."
+  },
+  {
+   "id": 542,
+   "name": "Yun-Jing Wang",
+   "website": null,
+   "photo": null,
+   "current_position": "Ph.D. student, National Taiwan University (Arbor lab)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as current Ph.D. student on https://arbor.ee.ntu.edu.tw/member.html (no Ph.D. alumni year; still enrolled). DBLP/OpenAlex unreachable (ECONNRESET/429); search found nothing. No students (current student)."
+  },
+  {
+   "id": 543,
+   "name": "Haidong Wang",
+   "website": null,
+   "photo": null,
+   "current_position": "Ph.D. student (Computer Engineering), Texas A&M University",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as current PhD student under Steve Liu on https://rtds.cse.tamu.edu/people/ (undated, so status may be stale). OAKTrust 403; no dissertation found. No students."
+  },
+  {
+   "id": 544,
+   "name": "Kyong-Wan Nam",
+   "website": null,
+   "photo": null,
+   "current_position": "Atheros Communications (per advisor's alumni list; may not be current)",
+   "bio": null,
+   "students": [],
+   "notes": "Ph.D. year 2000 confirmed by https://esa.postech.ac.kr/esa/mem/alumni.do (Sunggu Lee alumni list, POSTECH). No homepage/photo found; DBLP/OpenAlex unreachable. Industry; no students."
+  },
+  {
+   "id": 545,
+   "name": "Sang-Cheol Kim",
+   "website": null,
+   "photo": null,
+   "current_position": "Electronics and Telecommunications Research Institute (per advisor's alumni list; may not be current)",
+   "bio": null,
+   "students": [],
+   "notes": "Ph.D. year 2006 confirmed by https://esa.postech.ac.kr/esa/mem/alumni.do (Sunggu Lee alumni list, POSTECH). No homepage/photo found; DBLP/OpenAlex unreachable. Industry; no students."
+  },
+  {
+   "id": 546,
+   "name": "Min-Gu Lee",
+   "website": null,
+   "photo": null,
+   "current_position": "KT Coporation (per advisor's alumni list; may not be current)",
+   "bio": null,
+   "students": [],
+   "notes": "Ph.D. year 2007 confirmed by https://esa.postech.ac.kr/esa/mem/alumni.do (Sunggu Lee alumni list, POSTECH). No homepage/photo found; DBLP/OpenAlex unreachable. Industry; no students."
+  },
+  {
+   "id": 547,
+   "name": "Dong-Hak Pyo",
+   "website": null,
+   "photo": null,
+   "current_position": "Samsung Electronics (per advisor's alumni list; may not be current)",
+   "bio": null,
+   "students": [],
+   "notes": "Ph.D. year 2008 confirmed by https://esa.postech.ac.kr/esa/mem/alumni.do (Sunggu Lee alumni list, POSTECH). No homepage/photo found; DBLP/OpenAlex unreachable. Industry; no students."
+  },
+  {
+   "id": 548,
+   "name": "Ungjin Jang",
+   "website": null,
+   "photo": null,
+   "current_position": "Samsung Electronics (per advisor's alumni list; may not be current)",
+   "bio": null,
+   "students": [],
+   "notes": "Ph.D. year 2011 confirmed by https://esa.postech.ac.kr/esa/mem/alumni.do (Sunggu Lee alumni list, POSTECH). No homepage/photo found; DBLP/OpenAlex unreachable. Industry; no students."
+  },
+  {
+   "id": 549,
+   "name": "Junyoung Park",
+   "website": null,
+   "photo": null,
+   "current_position": "Samsung Electronics (per advisor's alumni list; may not be current)",
+   "bio": null,
+   "students": [],
+   "notes": "Ph.D. year 2015 confirmed by https://esa.postech.ac.kr/esa/mem/alumni.do (Sunggu Lee alumni list, POSTECH). No homepage/photo found; DBLP/OpenAlex unreachable. Industry; no students."
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "batch": "n3-28",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 640,
+   "name": "Lanyu Shang",
+   "institution": "Loyola Marymount University",
+   "year": "",
+   "advisor": "Dong Wang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 641,
+   "name": "Md Tahmid Rashid",
+   "institution": "Illinois State University",
+   "year": "",
+   "advisor": "Dong Wang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 642,
+   "name": "Yang Zhang",
+   "institution": "Miami University",
+   "year": "",
+   "advisor": "Dong Wang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 643,
+   "name": "Daniel (Yue) Zhang",
+   "institution": "Scale AI",
+   "year": "",
+   "advisor": "Dong Wang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 644,
+   "name": "Sudip Maitra",
+   "institution": "Virginia Tech",
+   "year": "",
+   "advisor": "Haining Wang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 645,
+   "name": "Pragya Sharma",
+   "institution": "Virginia Tech",
+   "year": "",
+   "advisor": "Haining Wang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 646,
+   "name": "Tolga Omer Atalay",
+   "institution": "",
+   "year": "",
+   "advisor": "Haining Wang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 647,
+   "name": "Alireza Famili",
+   "institution": "WayWave Inc.",
+   "year": "2023",
+   "advisor": "Haining Wang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 648,
+   "name": "Shihua Sun",
+   "institution": "Virginia Tech",
+   "year": "",
+   "advisor": "Haining Wang",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 649,
+   "name": "Kene Nwodo",
+   "institution": "Virginia Tech",
+   "year": "",
+   "advisor": "Haining Wang",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

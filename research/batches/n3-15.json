@@ -1,0 +1,96 @@
+{
+ "batch": "n3-15",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 510,
+   "name": "Pengyu Chu",
+   "institution": "Huawei",
+   "year": "",
+   "advisor": "Zhaojian Li",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 511,
+   "name": "Kaian Chen",
+   "institution": "Ford Motor Company",
+   "year": "",
+   "advisor": "Zhaojian Li",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 512,
+   "name": "Kyle Lammers",
+   "institution": "Michigan State University",
+   "year": "",
+   "advisor": "Zhaojian Li",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 513,
+   "name": "Mohammad Hajidavalloo",
+   "institution": "Michigan State University",
+   "year": "",
+   "advisor": "Zhaojian Li",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 514,
+   "name": "Ramin Vahidimoghaddam",
+   "institution": "Michigan State University",
+   "year": "",
+   "advisor": "Zhaojian Li",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 515,
+   "name": "Huanqing Wang",
+   "institution": "Michigan State University",
+   "year": "",
+   "advisor": "Zhaojian Li",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 516,
+   "name": "Chuwei Ye",
+   "institution": "Michigan State University",
+   "year": "",
+   "advisor": "Zhaojian Li",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 517,
+   "name": "Jiajia Li",
+   "institution": "Michigan State University",
+   "year": "",
+   "advisor": "Zhaojian Li",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 518,
+   "name": "Keyi Zhu",
+   "institution": "Michigan State University",
+   "year": "",
+   "advisor": "Zhaojian Li",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 519,
+   "name": "Chaaran Arunachalam",
+   "institution": "Michigan State University",
+   "year": "",
+   "advisor": "Zhaojian Li",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

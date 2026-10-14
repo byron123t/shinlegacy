@@ -533,3 +533,89 @@ body.viewer { overflow: hidden; }
   }
   @keyframes sheet-in { from { opacity: 0; transform: translateY(24px); } }
 }
+
+/* ==========================================================================
+   Initials avatars, sources, correction link
+   ========================================================================== */
+.initials {
+  display: grid; place-items: center;
+  color: #fff; font-family: var(--font-sans); font-weight: 600; letter-spacing: .02em;
+  user-select: none;
+}
+.avatar.initials { font-size: 24px; }
+.slide-photo.initials { font-size: 28px; }
+.intro-photo.initials { font-size: 30px; }
+.slide-lineage { font-size: 12px; color: var(--muted); margin: -2px 0 10px; }
+.source-list { list-style: none; margin: 0 0 16px; padding: 0; font-size: 13px; }
+.source-list li { display: flex; justify-content: space-between; gap: 10px; padding: 5px 0; border-bottom: 1px solid var(--border); }
+.source-list li span { color: var(--muted); }
+.source-list a { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.btn.correction { font-size: 13px; }
+.table .sub { display: block; color: var(--faint); font-size: 12px; }
+
+/* Search: result count */
+.search-results li.count {
+  display: block; cursor: default; padding: 2px 10px 6px;
+  font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .05em; color: var(--faint);
+}
+
+/* Colour-by control and clickable legend */
+.color-by { display: flex; align-items: center; gap: 8px; font-size: 12px; }
+.color-by select {
+  font-size: 12px; padding: 3px 6px; border-radius: var(--radius-sm);
+  border: 1px solid var(--border-strong); background: var(--surface); color: var(--text);
+}
+.legend { max-width: 420px; }
+.legend button {
+  display: inline-flex; align-items: center; gap: 5px;
+  border: 0; background: none; padding: 1px 4px; margin: 0 -4px; border-radius: 4px;
+  font-size: 12px; color: var(--muted); cursor: pointer;
+}
+.legend button:hover { color: var(--text); }
+.legend button[aria-pressed="true"] { color: var(--text); background: var(--accent-soft); font-weight: 600; }
+.filtering .node:not(.in-focus) { opacity: .15; }
+.filtering .node.in-focus .label-name { fill: var(--text); }
+
+/* Narrow screens: layout + playback controls fold behind one button */
+.tools-toggle { display: none; box-shadow: var(--shadow); padding: 9px 10px; }
+.tools-toggle svg { width: 18px; height: 18px; }
+@media (max-width: 640px) {
+  .toolbar { left: 12px; right: 12px; top: 12px; gap: 8px; }
+  .search { flex: 1; width: auto; }
+  .tools-toggle { display: inline-flex; }
+  .toolbar .seg, .toolbar .storybar { display: none; }
+  .toolbar.tools-open .seg, .toolbar.tools-open .storybar { display: inline-flex; }
+  .storybar { flex-wrap: wrap; }
+  .speed { border: 0; }
+  .search-box kbd { display: none; }
+  .stats .color-by { display: none; }
+}
+
+/* Intro card */
+.intro {
+  position: fixed; inset: 0; z-index: 40;
+  display: grid; place-items: center; padding: 16px;
+  background: color-mix(in srgb, var(--bg) 55%, transparent);
+  backdrop-filter: blur(3px);
+  animation: fade-in .25s ease-out;
+}
+@keyframes fade-in { from { opacity: 0; } }
+.intro-card {
+  width: min(520px, 100%); max-height: calc(100dvh - 32px); overflow-y: auto;
+  background: var(--surface); border: 1px solid var(--border); border-radius: 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .06), 0 24px 64px rgba(0, 0, 0, .2);
+  padding: 28px 28px 24px; text-align: center;
+  animation: card-in .5s cubic-bezier(.2, 1.35, .4, 1) both;
+}
+.intro-photo {
+  width: 96px; height: 96px; border-radius: 50%; object-fit: cover; object-position: center 25%;
+  margin: 0 auto 14px; box-shadow: 0 0 0 3px var(--surface), 0 0 0 4px var(--highlight);
+}
+.intro-card h2 { font-size: 26px; margin-bottom: 10px; }
+.intro-card p { color: var(--muted); font-size: 15px; }
+.intro-nums { display: flex; justify-content: center; gap: 22px; flex-wrap: wrap; margin: 18px 0; font-size: 12px; color: var(--muted); }
+.intro-nums b { display: block; font: 600 26px/1.1 var(--font-serif); color: var(--text); font-variant-numeric: tabular-nums; }
+.intro-hint { font-size: 13px !important; }
+.intro-actions { display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 18px; }
+.intro-actions .btn { padding: 10px 18px; font-size: 15px; }
+@media (prefers-reduced-motion: reduce) { .intro, .intro-card { animation: none; } }

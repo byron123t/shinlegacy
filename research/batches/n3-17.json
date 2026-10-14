@@ -1,0 +1,96 @@
+{
+ "batch": "n3-17",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 530,
+   "name": "Ya-Wen Teng",
+   "institution": "",
+   "year": "2018",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 531,
+   "name": "Chi-Hsuan Wu",
+   "institution": "",
+   "year": "2019",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 532,
+   "name": "Hsi-Wen Chen",
+   "institution": "National Taiwan University",
+   "year": "",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 533,
+   "name": "Chin-Yuan Yeh",
+   "institution": "National Taiwan University",
+   "year": "",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 534,
+   "name": "Hung-Te Lee",
+   "institution": "National Taiwan University",
+   "year": "",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 535,
+   "name": "Rui Fang",
+   "institution": "National Taiwan University",
+   "year": "",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 536,
+   "name": "Shih-Hsuan Chiu",
+   "institution": "National Taiwan University",
+   "year": "",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 537,
+   "name": "Yen-Hsin Hsu",
+   "institution": "National Taiwan University",
+   "year": "",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 538,
+   "name": "Dustin Wu",
+   "institution": "National Taiwan University",
+   "year": "",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 539,
+   "name": "Ying-Hua Huang",
+   "institution": "National Taiwan University",
+   "year": "",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

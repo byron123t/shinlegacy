@@ -1,0 +1,96 @@
+{
+ "batch": "n3-31",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 670,
+   "name": "Yi-Syuan Chen",
+   "institution": "",
+   "year": "2023",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 671,
+   "name": "Hung-Jen Chen",
+   "institution": "",
+   "year": "2024",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 672,
+   "name": "Thanh-Hai Phung",
+   "institution": "",
+   "year": "2024",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 673,
+   "name": "Wei-Lun Tseng",
+   "institution": "",
+   "year": "2025",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 674,
+   "name": "Yi-Lun Wu",
+   "institution": "",
+   "year": "2026",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 675,
+   "name": "Li-Wu Tsao",
+   "institution": "",
+   "year": "2026",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 676,
+   "name": "Wei-Chih Chen",
+   "institution": "",
+   "year": "",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 677,
+   "name": "Sung-Lin Tsai",
+   "institution": "",
+   "year": "",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 678,
+   "name": "Bo-Kai Ruan",
+   "institution": "",
+   "year": "",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 679,
+   "name": "Jia-Jiun Gung",
+   "institution": "",
+   "year": "",
+   "advisor": "Hong-Han Shuai",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

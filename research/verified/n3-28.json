@@ -1,0 +1,169 @@
+{
+ "batch": "n3-28",
+ "people": [
+  {
+   "id": 640,
+   "name": "Lanyu Shang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 641,
+   "name": "Md Tahmid Rashid",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 642,
+   "name": "Yang Zhang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 643,
+   "name": "Daniel (Yue) Zhang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 644,
+   "name": "Sudip Maitra",
+   "website": {
+    "verdict": "rejected",
+    "reason": "Bare Google Scholar link; title shows name only, no affiliation tying it to this person",
+    "url": "https://scholar.google.com/citations?user=eMrW3h0AAAAJ"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD candidate, Virginia Tech",
+    "reason": "Listed on nss.ece.vt.edu/people.html"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 645,
+   "name": "Pragya Sharma",
+   "website": {
+    "verdict": "rejected",
+    "reason": "Bare Google Scholar link; title shows name only, no affiliation tying it to this person",
+    "url": "https://scholar.google.com/citations?user=UNZRLLsAAAAJ"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD student, Virginia Tech",
+    "reason": "Listed on nss.ece.vt.edu/people.html"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 646,
+   "name": "Tolga Omer Atalay",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://tolgaoa.github.io/",
+    "reason": "Own homepage; PhD at Virginia Tech supervised by Stavrou and Haining Wang"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://tolgaoa.github.io/images/tolgaatalay3.png",
+    "page_url": "https://tolgaoa.github.io/",
+    "reason": "200 image/png; single-person portrait; page names person and embeds image"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Senior R&D Engineer, A12XT Inc",
+    "reason": "Homepage"
+   },
+   "bio": null,
+   "students": [],
+   "phd": {
+    "verdict": "confirmed",
+    "year": "2024",
+    "institution": "Virginia Tech",
+    "source_url": "https://tolgaoa.github.io/",
+    "reason": "Homepage: Ph.D. Computer Engineering (2018-2024), Virginia Tech, supervised by Haining Wang"
+   }
+  },
+  {
+   "id": 647,
+   "name": "Alireza Famili",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://afamili93.github.io/",
+    "reason": "Own homepage; PhD Dec 2023 Virginia Tech co-supervised by Haining Wang"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://afamili93.github.io/images/alirezafamili_1.JPG",
+    "page_url": "https://afamili93.github.io/",
+    "reason": "200 image/jpeg; single-person (casual in-car selfie, low quality but one person)"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Co-founder and CTO, WayWave Inc.",
+    "reason": "Homepage"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 648,
+   "name": "Shihua Sun",
+   "website": {
+    "verdict": "rejected",
+    "reason": "Bare Google Scholar link; title shows name only, no affiliation tying it to this person",
+    "url": "https://scholar.google.com/citations?user=puFvV-sAAAAJ"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD student, Virginia Tech",
+    "reason": "NSS people page: currently pursuing PhD at Virginia Tech ECE"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 649,
+   "name": "Kene Nwodo",
+   "website": {
+    "verdict": "rejected",
+    "reason": "Bare Google Scholar link; title shows name only, no affiliation tying it to this person",
+    "url": "https://scholar.google.com/citations?user=yLF-_98AAAAJ"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD student, Virginia Tech",
+    "reason": "Listed on nss.ece.vt.edu/people.html"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  }
+ ]
+}

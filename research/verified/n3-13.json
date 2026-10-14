@@ -1,0 +1,153 @@
+{
+ "batch": "n3-13",
+ "people": [
+  {
+   "id": 490,
+   "name": "Jeongmin Lee",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://wine.korea.ac.kr/members/jeongmin-lee",
+    "reason": "Loads (200); WINE Lab Google Sites personal member page naming Jeongmin Lee as a Ph.D. student at Korea University"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Ph.D. student, Korea University (WINE Lab)",
+    "reason": "Members page lists as Ph.D. Student"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 491,
+   "name": "Minsu Cha",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://wine.korea.ac.kr/members/minsu-cha",
+    "reason": "Loads (200); WINE Lab Google Sites personal member page naming Minsu Cha as a Ph.D. student at Korea University"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Ph.D. student, Korea University (WINE Lab)",
+    "reason": "Members page lists as Ph.D. Student"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 492,
+   "name": "Taehoon Yoo",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Samsung Electronics",
+    "reason": "WINE Lab Ph.D. Alumni list: Taehoon Yoo, Ph.D. 2026, currently at Samsung Electronics"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 493,
+   "name": "Sangmin Lee",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Samsung Electronics",
+    "reason": "WINE Lab Ph.D. Alumni list: Sangmin Lee, Ph.D. 2026, currently at Samsung Electronics"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 494,
+   "name": "Hyeontae Joo",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Samsung Electronics",
+    "reason": "WINE Lab Ph.D. Alumni list: Hyeontae Joo, Ph.D. 2026, Samsung Electronics"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 495,
+   "name": "DongKyu Lee",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Postdoctoral fellow, Devguru",
+    "reason": "WINE Lab Ph.D. Alumni list: DongKyu Lee, Ph.D. 2025, Post-Doctorate Fellow at Devguru"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 496,
+   "name": "Seongjoon Park",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Samsung Electronics",
+    "reason": "WINE Lab Ph.D. Alumni list: Seongjoon Park, Ph.D. 2022, Samsung Electronics"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 497,
+   "name": "Joon Yeop Lee",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Samsung Electronics",
+    "reason": "WINE Lab Ph.D. Alumni list: Joon Yeop Lee, Ph.D. 2020, Samsung Electronics"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 498,
+   "name": "Kwang Jae Sung",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Assistant Professor, Sangmyung University",
+    "reason": "WINE Lab Ph.D. Alumni list: Kwang Jae Sung, Ph.D. 2020, Assistant Professor at Sangmyung University"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 499,
+   "name": "Woonghee Lee",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Assistant Professor, Dongguk University",
+    "reason": "WINE Lab Ph.D. Alumni list: Woonghee Lee, Ph.D. 2019, Assistant Professor at Dongguk University"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  }
+ ]
+}

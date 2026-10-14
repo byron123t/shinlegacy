@@ -7,7 +7,7 @@
     <p class="sub">Everyone in the family tree. Click a column to sort, or open someone in the tree.</p>
   </div>
   <div class="table-tools">
-    <input id="filterInput" class="input" type="search" placeholder="Filter by name, institution, year…" aria-label="Filter people">
+    <input id="filterInput" class="input" type="search" placeholder="Filter by name, institution, position, year…" aria-label="Filter people">
     <span id="peopleCount" class="count" aria-live="polite"></span>
   </div>
 </div>
@@ -27,7 +27,7 @@
     </thead>
     <tbody>
       {% for p in people %}
-      <tr data-search="{{ [p.name, p.institution or '', p.year or '', p.advisor.name if p.advisor else '']|join(' ')|lower }}">
+      <tr data-search="{{ [p.name, p.institution or '', p.position or '', p.year or '', p.advisor.name if p.advisor else '']|join(' ')|lower }}">
         <td data-name="{{ p.name|lower }}">
           {% if p.url %}
             <a class="person-name" href="{{ p.url }}" target="_blank" rel="noopener noreferrer">{{ p.name }}</a>
@@ -36,7 +36,7 @@
           {% endif %}
           {% if p.advisor_id is none %}<span class="badge">Root</span>{% endif %}
         </td>
-        <td data-institution="{{ (p.institution or '')|lower }}" class="muted">{{ p.institution or '' }}</td>
+        <td data-institution="{{ (p.institution or '')|lower }}" class="muted">{{ p.institution or '' }}{% if p.position %}<span class="sub">{{ p.position }}</span>{% endif %}</td>
         <td data-year="{{ p.year_num }}" class="num">{{ p.year or '' }}</td>
         <td data-advisor="{{ (p.advisor.name if p.advisor else '')|lower }}">{{ p.advisor.name if p.advisor else '—' }}</td>
         <td data-advisees="{{ p.advisees|length }}" class="num">{{ p.advisees|length or '' }}</td>

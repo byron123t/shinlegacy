@@ -1,0 +1,96 @@
+{
+ "batch": "n3-10",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 460,
+   "name": "Aayush Shrestha",
+   "institution": "University of South Carolina",
+   "year": "",
+   "advisor": "Sanjib Sur",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 461,
+   "name": "Abdulahi Taiwo",
+   "institution": "University of South Carolina",
+   "year": "",
+   "advisor": "Sanjib Sur",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 462,
+   "name": "Reza Tavasoli",
+   "institution": "University of South Carolina",
+   "year": "",
+   "advisor": "Sanjib Sur",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 463,
+   "name": "Aakriti Adhikari",
+   "institution": "",
+   "year": "2025",
+   "advisor": "Sanjib Sur",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 464,
+   "name": "Hem Regmi",
+   "institution": "",
+   "year": "2025",
+   "advisor": "Sanjib Sur",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 465,
+   "name": "Chih-Yu Lin",
+   "institution": "National Chiao Tung University",
+   "year": "2007",
+   "advisor": "Wen-Chih Peng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 466,
+   "name": "Chih-Chieh Hung",
+   "institution": "Rakuten Inc., Japan",
+   "year": "2011",
+   "advisor": "Wen-Chih Peng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 467,
+   "name": "Po-Ruey Lei",
+   "institution": "National Defense University",
+   "year": "2012",
+   "advisor": "Wen-Chih Peng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 468,
+   "name": "Ling-Yin Wei",
+   "institution": "",
+   "year": "2012",
+   "advisor": "Wen-Chih Peng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 469,
+   "name": "Yi-Cheng Chen",
+   "institution": "Tamkang University",
+   "year": "2012",
+   "advisor": "Wen-Chih Peng",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "batch": "n3-07",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 430,
+   "name": "Yang Zhou",
+   "institution": "UC Davis (assistant professor; previously postdoc at UC Berkeley)",
+   "year": "",
+   "advisor": "Minlan Yu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 431,
+   "name": "Zhiying Xu",
+   "institution": "Amazon",
+   "year": "",
+   "advisor": "Minlan Yu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 432,
+   "name": "Junzhi Gong",
+   "institution": "Google",
+   "year": "",
+   "advisor": "Minlan Yu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 433,
+   "name": "Jiaqi Gao",
+   "institution": "Alibaba Research",
+   "year": "",
+   "advisor": "Minlan Yu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 434,
+   "name": "Sivaram Ramanathan",
+   "institution": "Meta",
+   "year": "",
+   "advisor": "Minlan Yu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 435,
+   "name": "Yuliang Li",
+   "institution": "Google",
+   "year": "",
+   "advisor": "Minlan Yu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 436,
+   "name": "Omid Alipourfard",
+   "institution": "",
+   "year": "",
+   "advisor": "Minlan Yu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 437,
+   "name": "Weifan Jiang",
+   "institution": "Harvard University",
+   "year": "",
+   "advisor": "Minlan Yu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 438,
+   "name": "Chonlam Lao",
+   "institution": "Harvard University",
+   "year": "",
+   "advisor": "Minlan Yu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 439,
+   "name": "Minghao Li",
+   "institution": "Harvard University",
+   "year": "",
+   "advisor": "Minlan Yu",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

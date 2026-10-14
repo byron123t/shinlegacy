@@ -1,0 +1,96 @@
+{
+ "batch": "n3-01",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 370,
+   "name": "Zelun Wang",
+   "institution": "Snapchat (ML Engineer)",
+   "year": "2020",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 371,
+   "name": "Jason Lin",
+   "institution": "National Chung Hsing University",
+   "year": "2020",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 372,
+   "name": "Guoyu Fu",
+   "institution": "Google",
+   "year": "2019",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 373,
+   "name": "Xing Wang",
+   "institution": "Facebook",
+   "year": "2018",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 374,
+   "name": "Hao Wang",
+   "institution": "Cisco",
+   "year": "2013",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 375,
+   "name": "Shi Pu",
+   "institution": "Microsoft",
+   "year": "2013",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 376,
+   "name": "John Pecarina",
+   "institution": "University of Wisconsin-Madison (Aerospace Studies)",
+   "year": "2013",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 377,
+   "name": "Sheng-Ya Lin",
+   "institution": "",
+   "year": "2013",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 378,
+   "name": "Hai Xu",
+   "institution": "Halliburton",
+   "year": "2011",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 379,
+   "name": "Huajun Ying",
+   "institution": "Blippar",
+   "year": "2011",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

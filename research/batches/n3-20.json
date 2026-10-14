@@ -1,0 +1,96 @@
+{
+ "batch": "n3-20",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 560,
+   "name": "Dong Qin",
+   "institution": "",
+   "year": "",
+   "advisor": "Daji Qiao",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 561,
+   "name": "Kerui Tan",
+   "institution": "",
+   "year": "",
+   "advisor": "Daji Qiao",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 562,
+   "name": "Brian Peck",
+   "institution": "",
+   "year": "",
+   "advisor": "Daji Qiao",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 563,
+   "name": "Sung-Tae Hong",
+   "institution": "ETRI",
+   "year": "2020",
+   "advisor": "Hyoil Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 564,
+   "name": "Kyubo Shin",
+   "institution": "THYROSCOPE Inc.",
+   "year": "2021",
+   "advisor": "Hyoil Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 565,
+   "name": "JeongTak Kim",
+   "institution": "UNIST (postdoc)",
+   "year": "2024",
+   "advisor": "Hyoil Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 566,
+   "name": "Seokwoo Choi",
+   "institution": "UNIST (postdoc)",
+   "year": "2025",
+   "advisor": "Hyoil Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 567,
+   "name": "SuHwan Jung",
+   "institution": "ETRI",
+   "year": "2025",
+   "advisor": "Hyoil Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 568,
+   "name": "Byeongjin Kim",
+   "institution": "UNIST",
+   "year": "",
+   "advisor": "Hyoil Kim",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 569,
+   "name": "Leo Cao",
+   "institution": "U. Wisconsin-Madison",
+   "year": "",
+   "advisor": "Kassem Fawaz",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

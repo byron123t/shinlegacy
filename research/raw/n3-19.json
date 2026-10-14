@@ -1,0 +1,115 @@
+{
+ "batch": "n3-19",
+ "people": [
+  {
+   "id": 550,
+   "name": "Joosung Yun",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Sunggu Lee lab (POSTECH ESA) alumni page https://esa.postech.ac.kr/esa/mem/alumni.do lists this person's PhD year and employer. OpenAlex/DBLP searched; no homepage or photo tied to this person found. Industry; no PhD students expected. OpenAlex shows papers with Sunggu Lee (PCM wear leveling)."
+  },
+  {
+   "id": 551,
+   "name": "Byeonguk Bae",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Sunggu Lee lab (POSTECH ESA) alumni page https://esa.postech.ac.kr/esa/mem/alumni.do lists this person's PhD year and employer. OpenAlex/DBLP searched; no homepage or photo tied to this person found. Industry; no PhD students expected. OpenAlex author with this name publishes in medical imaging deep learning (Kyu-Hwan Jung), different from Lee-lab record; not used."
+  },
+  {
+   "id": 552,
+   "name": "Kibeom Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Sunggu Lee lab (POSTECH ESA) alumni page https://esa.postech.ac.kr/esa/mem/alumni.do lists this person's PhD year and employer. OpenAlex/DBLP searched; no homepage or photo tied to this person found. Industry; no PhD students expected. Common name; OpenAlex candidates could not be tied to Lee lab."
+  },
+  {
+   "id": 553,
+   "name": "Minho Ha",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Sunggu Lee lab (POSTECH ESA) alumni page https://esa.postech.ac.kr/esa/mem/alumni.do lists this person's PhD year and employer. OpenAlex/DBLP searched; no homepage or photo tied to this person found. Industry; no PhD students expected. OpenAlex profile (SK Hynix; coauthored with Sunggu Lee) https://openalex.org/A5002544158 matches but is not a good website; none set."
+  },
+  {
+   "id": 554,
+   "name": "Duhwan Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Sunggu Lee lab (POSTECH ESA) alumni page https://esa.postech.ac.kr/esa/mem/alumni.do lists this person's PhD year and employer. OpenAlex/DBLP searched; no homepage or photo tied to this person found. Industry; no PhD students expected."
+  },
+  {
+   "id": 555,
+   "name": "Jeonghun Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Sunggu Lee lab (POSTECH ESA) alumni page https://esa.postech.ac.kr/esa/mem/alumni.do lists this person's PhD year and employer. OpenAlex/DBLP searched; no homepage or photo tied to this person found. Industry; no PhD students expected. Coauthored with Minho Ha and Sunggu Lee (2019)."
+  },
+  {
+   "id": 556,
+   "name": "Sanghyeon Ju",
+   "website": null,
+   "photo": null,
+   "current_position": "PhD candidate, Electrical Engineering, POSTECH",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Lab members page https://esa.postech.ac.kr/esa/mem/member.do shows PhD candidate at POSTECH EE since 2022/02 (MS POSTECH 2020-22, BS Sungkyunkwan 2020); still a current student, so no PhD year. Position on record is POSTECH."
+  },
+  {
+   "id": 557,
+   "name": "Kangjin Yoon",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "OpenAlex author A5043637826 coauthored with Sunghyun Choi (SNU) on WLAN/LTE-LAA, likely this person (now listed Meta); no homepage/photo found; DBLP blocked/empty. Not tied firmly enough to set a position."
+  },
+  {
+   "id": 558,
+   "name": "Mat Wymore",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "OpenAlex, Daji Qiao's page and ISU repository searches returned nothing identifiable."
+  },
+  {
+   "id": 559,
+   "name": "Shen Fu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Year empty. WebSearch, OpenAlex and mathgenealogy found no record of a PhD under Daji Qiao; nothing identifiable."
+  }
+ ]
+}

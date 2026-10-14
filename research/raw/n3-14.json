@@ -1,0 +1,140 @@
+{
+ "batch": "n3-14",
+ "people": [
+  {
+   "id": 500,
+   "name": "Jongtack Jung",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Year on record 2019 (Hwangnam Kim, Korea University presumably); no web source found for homepage."
+  },
+  {
+   "id": 501,
+   "name": "Christodoulos Pappas",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searches/fetches found nothing for Pappas; Papadopoulos pages guessed did not load. OpenAlex out of credits, DBLP not reached.",
+   "phd": null
+  },
+  {
+   "id": 502,
+   "name": "Jiajun Xin",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Nothing found; same limits as Pappas.",
+   "phd": null
+  },
+  {
+   "id": 503,
+   "name": "Isamar Troncoso",
+   "website": null,
+   "photo": null,
+   "current_position": "Assistant Professor of Business Administration, Marketing Unit, Harvard Business School (per web search summary)",
+   "bio": null,
+   "students": [],
+   "notes": "HBS profile returned 403; PhD year/institution not found. Davide Proserpio link unconfirmed.",
+   "phd": null
+  },
+  {
+   "id": 504,
+   "name": "Grant Phillips",
+   "website": {
+    "url": "https://nimbus.unl.edu/people/",
+    "source_note": "NIMBUS lab people page (Bradley lab), lists as former lab member"
+   },
+   "photo": null,
+   "current_position": "Marble Technologies (per NIMBUS former-members list)",
+   "bio": null,
+   "students": [],
+   "notes": "Listed under NIMBUS Former Lab Members with Marble Technologies; no homepage found.",
+   "phd": null
+  },
+  {
+   "id": 505,
+   "name": "Balaji Balasubramaniam",
+   "website": {
+    "url": "https://nimbus.unl.edu/people/",
+    "source_note": "NIMBUS lab people page (Bradley lab), lists as former lab member"
+   },
+   "photo": null,
+   "current_position": "Assistant Professor, Kansas State University (per NIMBUS former-members list)",
+   "bio": null,
+   "students": [],
+   "notes": "Listed under NIMBUS Former Lab Members; K-State CS faculty page did not list him; no PhD year found.",
+   "phd": null
+  },
+  {
+   "id": 506,
+   "name": "Chandima Fernando",
+   "website": {
+    "url": "https://nimbus.unl.edu/people/",
+    "source_note": "NIMBUS lab people page (Bradley lab), lists as former lab member"
+   },
+   "photo": null,
+   "current_position": "Brookhaven National Laboratory (per NIMBUS former-members list)",
+   "bio": null,
+   "students": [],
+   "notes": "Listed under NIMBUS Former Lab Members; no individual homepage found."
+  },
+  {
+   "id": 507,
+   "name": "Adam Plowcha",
+   "website": {
+    "url": "https://nimbus.unl.edu/people/",
+    "source_note": "NIMBUS lab people page, current member"
+   },
+   "photo": {
+    "image_url": "https://nimbus.unl.edu/sites/unl.edu.engineering.computing.nimbus/files/styles/1_1_720x720/public/node/person/photo/2024-07/plowcha-300x300.png",
+    "page_url": "https://nimbus.unl.edu/people/"
+   },
+   "current_position": "Graduate student, Computer Science and Engineering, University of Nebraska-Lincoln (NIMBUS lab)",
+   "bio": null,
+   "students": [],
+   "notes": "Current NIMBUS lab member; PhD not yet awarded as far as found.",
+   "phd": null
+  },
+  {
+   "id": 508,
+   "name": "Xinkai Zhang",
+   "website": {
+    "url": "https://nimbus.unl.edu/people/",
+    "source_note": "NIMBUS lab people page (Bradley lab), lists as former lab member"
+   },
+   "photo": null,
+   "current_position": "Volvo (per NIMBUS former-members list)",
+   "bio": null,
+   "students": [],
+   "notes": "Listed under NIMBUS Former Lab Members; no individual homepage found."
+  },
+  {
+   "id": 509,
+   "name": "Dong Chen",
+   "website": {
+    "url": "https://dongchen06.github.io/",
+    "source_note": "personal homepage"
+   },
+   "photo": {
+    "image_url": "https://www.abe.msstate.edu/wp-content/uploads/ChenD_WEB_400x560x300PPI.jpg",
+    "page_url": "https://www.abe.msstate.edu/people/faculty/dong-chen/"
+   },
+   "current_position": "Assistant Professor, Agricultural and Biological Engineering, Mississippi State University",
+   "bio": null,
+   "students": [],
+   "notes": "Homepage states PhD ECE MSU 2023 guided by Zhaojian Li. Has own PhD students (not listed; not enumerated).",
+   "phd": {
+    "year": "2023",
+    "institution": "Michigan State University",
+    "source_url": "https://dongchen06.github.io/"
+   }
+  }
+ ]
+}

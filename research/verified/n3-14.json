@@ -1,0 +1,170 @@
+{
+ "batch": "n3-14",
+ "people": [
+  {
+   "id": 500,
+   "name": "Jongtack Jung",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 501,
+   "name": "Christodoulos Pappas",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 502,
+   "name": "Jiajun Xin",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 503,
+   "name": "Isamar Troncoso",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "unverifiable",
+    "value": null,
+    "reason": "HBS faculty pages return HTTP 403; only a search summary supports the claim"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 504,
+   "name": "Grant Phillips",
+   "website": {
+    "verdict": "rejected",
+    "url": null,
+    "reason": "Generic NIMBUS lab people directory page, not this person's own page or profile"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Marble Technologies",
+    "reason": "NIMBUS Former Lab Members list on https://nimbus.unl.edu/people/ shows this employer"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 505,
+   "name": "Balaji Balasubramaniam",
+   "website": {
+    "verdict": "rejected",
+    "url": null,
+    "reason": "Generic NIMBUS lab people directory page, not this person's own page or profile"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "value": null,
+    "reason": "Only the NIMBUS former-members list says Assistant Professor at Kansas State; K-State CS faculty page does not list him, so not corroborated"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 506,
+   "name": "Chandima Fernando",
+   "website": {
+    "verdict": "rejected",
+    "url": null,
+    "reason": "Generic NIMBUS lab people directory page, not this person's own page or profile"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Brookhaven National Laboratory",
+    "reason": "NIMBUS Former Lab Members list on https://nimbus.unl.edu/people/ shows this employer"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 507,
+   "name": "Adam Plowcha",
+   "website": {
+    "verdict": "rejected",
+    "url": null,
+    "reason": "Generic NIMBUS lab people directory page, not this person's own page or profile"
+   },
+   "photo": {
+    "verdict": "rejected",
+    "image_url": null,
+    "page_url": null,
+    "reason": "Image loads (200 image/png, selfie of one man) but directory page lists Adam Plowcha as 'Robotics Research Engineer, School of Computing', which conflicts with the claimed PhD student; identity ambiguous"
+   },
+   "current_position": {
+    "verdict": "rejected",
+    "value": null,
+    "reason": "Directory page lists him as Robotics Research Engineer, School of Computing, not graduate student"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 508,
+   "name": "Xinkai Zhang",
+   "website": {
+    "verdict": "rejected",
+    "url": null,
+    "reason": "Generic NIMBUS lab people directory page, not this person's own page or profile"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Volvo",
+    "reason": "NIMBUS Former Lab Members list on https://nimbus.unl.edu/people/ shows this employer"
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 509,
+   "name": "Dong Chen",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://dongchen06.github.io/",
+    "reason": "Loads; Dr. Dong Chen, Assistant Professor at MSU ABE, PhD ECE Michigan State 2023"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://www.abe.msstate.edu/wp-content/uploads/ChenD_WEB_400x560x300PPI.jpg",
+    "page_url": "https://www.abe.msstate.edu/people/faculty/dong-chen/",
+    "reason": "200 image/jpeg; single-person studio headshot; embedded on MSU ABE faculty page for Dong Chen"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Assistant Professor, Agricultural and Biological Engineering, Mississippi State University",
+    "reason": "Homepage and MSU ABE faculty page"
+   },
+   "bio": null,
+   "students": [],
+   "phd": {
+    "verdict": "confirmed",
+    "year": "2023",
+    "institution": "Michigan State University",
+    "source_url": "https://dongchen06.github.io/",
+    "reason": "Homepage: Ph.D. in ECE from Michigan State University in 2023, guided by Zhaojian Li"
+   }
+  }
+ ]
+}

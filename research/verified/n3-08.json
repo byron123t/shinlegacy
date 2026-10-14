@@ -1,0 +1,142 @@
+{
+ "batch": "n3-08",
+ "people": [
+  {
+   "id": 440,
+   "name": "Xingyu Xiang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 441,
+   "name": "Yiyu Liu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 442,
+   "name": "Xuanlin Jiang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 443,
+   "name": "Ethan Heilman",
+   "website": {
+    "verdict": "confirmed",
+    "reason": "Loads; Ethan Heilman's own homepage, Cloudflare/MIT DCI, BU PhD",
+    "url": "https://www.ethanheilman.com/"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "reason": "Homepage: researcher at Cloudflare; research fellow at MIT DCI",
+    "value": "Researcher at Cloudflare; research fellow at MIT DCI"
+   },
+   "bio": null,
+   "students": [],
+   "phd": {
+    "verdict": "confirmed",
+    "reason": "Homepage: PhD BU CS 2022, advisor Sharon Goldberg",
+    "year": "2022",
+    "institution": "Boston University",
+    "source_url": "https://www.ethanheilman.com/"
+   }
+  },
+  {
+   "id": 444,
+   "name": "Aanchal Malhotra",
+   "website": {
+    "verdict": "confirmed",
+    "reason": "Loads; Aanchal Malhotra's page, BU PhD student advised by Sharon Goldberg",
+    "url": "https://sites.google.com/site/aanchalmalhotra1990/"
+   },
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 445,
+   "name": "Sarah Scheffler",
+   "website": {
+    "verdict": "confirmed",
+    "reason": "Loads; Sarah Scheffler's homepage",
+    "url": "https://sarahscheffler.net/"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "reason": "page names her and embeds sarahscheffler.jpg; 200 image/jpeg; single-person headshot",
+    "image_url": "https://sarahscheffler.net/sarahscheffler.jpg",
+    "page_url": "https://sarahscheffler.net/"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "reason": "Homepage: assistant professor, CyLab, Carnegie Mellon",
+    "value": "Assistant Professor, CyLab, Carnegie Mellon University"
+   },
+   "bio": null,
+   "students": [],
+   "phd": {
+    "verdict": "confirmed",
+    "reason": "Homepage: BU PhD 2021, advised by Mayank Varia (not Goldberg; advisor relation not confirmed here)",
+    "year": "2021",
+    "institution": "Boston University",
+    "source_url": "https://sarahscheffler.net/"
+   }
+  },
+  {
+   "id": 446,
+   "name": "Qihang Yao",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 447,
+   "name": "Mustafa Burak Gürbüz",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 448,
+   "name": "Cameron Taylor",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 449,
+   "name": "Shreyas Malakarjun Patil",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  }
+ ]
+}

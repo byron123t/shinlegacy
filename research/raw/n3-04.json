@@ -1,0 +1,160 @@
+{
+ "batch": "n3-04",
+ "people": [
+  {
+   "id": 400,
+   "name": "Tianshi Wang",
+   "website": {
+    "url": "https://abdelzaher.cs.illinois.edu/people.html",
+    "source_note": "Abdelzaher CyPhy group people page (listed as 'Learning in the Frequency Domain')"
+   },
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Listed as a student on Abdelzaher's people page, confirming the advisor. Only image there is images/head.png, likely a placeholder, so no photo. OpenAlex search shows several unrelated Tianshi Wangs; no identifiable profile, PhD year or dissertation found. Searched: OpenAlex, group page, 1 WebSearch (no result). DBLP API unavailable."
+  },
+  {
+   "id": 401,
+   "name": "Dachun Sun",
+   "website": {
+    "url": "https://abdelzaher.cs.illinois.edu/people.html",
+    "source_note": "Abdelzaher CyPhy group people page (Social Networks)"
+   },
+   "photo": {
+    "image_url": "https://abdelzaher.cs.illinois.edu/images/dachun4.jpg",
+    "page_url": "https://abdelzaher.cs.illinois.edu/people.html"
+   },
+   "current_position": "PhD student, University of Illinois Urbana-Champaign",
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "OpenAlex author A5040820975 shows UIUC affiliation 2024-2026. No PhD year or personal site found; likely still a current student."
+  },
+  {
+   "id": 402,
+   "name": "Jinning Li",
+   "website": {
+    "url": "https://abdelzaher.cs.illinois.edu/people.html",
+    "source_note": "Abdelzaher CyPhy group people page (Social Sensing and Social Media Analysis)"
+   },
+   "photo": {
+    "image_url": "https://abdelzaher.cs.illinois.edu/images/jinning.png",
+    "page_url": "https://abdelzaher.cs.illinois.edu/people.html"
+   },
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Photo is a casual shot of a person at a laptop (single person, low resolution); weak quality. OpenAlex lists several Jinning Lis, none clearly UIUC; no PhD year found."
+  },
+  {
+   "id": 403,
+   "name": "Songlin Xu",
+   "website": {
+    "url": "https://songlinxu.com",
+    "source_note": "Personal site; Assistant Professor, HK PolyU; PhD UC San Diego 2026"
+   },
+   "photo": {
+    "image_url": "https://songlinxu.com/profile.jpg",
+    "page_url": "https://songlinxu.com"
+   },
+   "current_position": "Assistant Professor, Hong Kong Polytechnic University",
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Site states PhD at UC San Diego 2026 and lists 'PhD Students' (current students not named by me; not added as students of record since none were verified)."
+  },
+  {
+   "id": 404,
+   "name": "Kai Zheng",
+   "website": {
+    "url": "https://kaizheng.me",
+    "source_note": "Personal site"
+   },
+   "photo": {
+    "image_url": "https://kaizheng.me/my_photo/me2.jpg",
+    "page_url": "https://kaizheng.me"
+   },
+   "current_position": "Senior Research Engineer, Samsung Research America",
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Site schema.org data gives jobTitle Senior Research Engineer at Samsung Research America, alumnus of UC San Diego. Industry; no PhD students."
+  },
+  {
+   "id": 405,
+   "name": "Hongsik Yoon",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Nothing found. OpenAlex hits are chemistry/materials Hongsik Yoons, not tied to UCSD. 1 WebSearch gave no info; xyzhang.ucsd.edu has no student list."
+  },
+  {
+   "id": 406,
+   "name": "Wuqiong Zhao",
+   "website": {
+    "url": "https://wqzhao.org/",
+    "source_note": "Personal homepage, Ph.D. student at UCSD"
+   },
+   "photo": {
+    "image_url": "https://wqzhao.org/_next/static/media/profilepic.6a0081bb.jpg",
+    "page_url": "https://wqzhao.org/"
+   },
+   "current_position": "Ph.D. Student, University of California San Diego",
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "OpenAlex A5101522777: UCSD 2024-2026. Current student; no PhD year found. Photo is a casual shot with a giraffe in background."
+  },
+  {
+   "id": 407,
+   "name": "Qinpei Luo",
+   "website": {
+    "url": "https://scholar.google.com/citations?user=NezngRAAAAAJ&hl=en",
+    "source_note": "Google Scholar (on record)"
+   },
+   "photo": null,
+   "current_position": "Ph.D. student, University of California San Diego",
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "OpenAlex A5049859771: Peking University 2023-24, UCSD 2026; wireless communication topics. No PhD year or homepage found."
+  },
+  {
+   "id": 408,
+   "name": "Xingyu Chen",
+   "website": {
+    "url": "https://xingyuchen.me/",
+    "source_note": "Personal site; PhD Candidate at UCSD"
+   },
+   "photo": {
+    "image_url": "https://xingyuchen.me/images/A2024_2.jpg",
+    "page_url": "https://xingyuchen.me/"
+   },
+   "current_position": "PhD Candidate in Computer Science, UC San Diego",
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Site says PhD Candidate at UCSD; no PhD year found."
+  },
+  {
+   "id": 409,
+   "name": "Baicheng Chen",
+   "website": {
+    "url": "https://www.baichengchen.com/",
+    "source_note": "Personal site; Ph.D. Candidate in CS at UC San Diego (meta description)"
+   },
+   "photo": null,
+   "current_position": "Ph.D. Candidate in Computer Science, UC San Diego",
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Page is Cloudflare-heavy; no usable headshot found (only monogram). No PhD year found."
+  }
+ ]
+}

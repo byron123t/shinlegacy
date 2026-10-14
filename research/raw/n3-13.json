@@ -1,0 +1,121 @@
+{
+ "batch": "n3-13",
+ "people": [
+  {
+   "id": 490,
+   "name": "Jeongmin Lee",
+   "website": {
+    "url": "https://wine.korea.ac.kr/members/jeongmin-lee",
+    "source_note": "WINE Lab member page"
+   },
+   "photo": null,
+   "current_position": "Ph.D. student, Korea University (WINE Lab)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Source: WINE Lab (Hwangnam Kim, Korea University) members page https://wine.korea.ac.kr/members . OpenAlex rate-limited, DBLP blocked, mathgenealogy search not useful; no personal homepage/headshot found. Current Ph.D. student, so no PhD year yet. Photo on page not exposed as a direct URL."
+  },
+  {
+   "id": 491,
+   "name": "Minsu Cha",
+   "website": {
+    "url": "https://wine.korea.ac.kr/members/minsu-cha",
+    "source_note": "WINE Lab member page"
+   },
+   "photo": null,
+   "current_position": "Ph.D. student, Korea University (WINE Lab)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Source: WINE Lab (Hwangnam Kim, Korea University) members page https://wine.korea.ac.kr/members . OpenAlex rate-limited, DBLP blocked, mathgenealogy search not useful; no personal homepage/headshot found. Current Ph.D. student, no PhD year yet. Page has a googleusercontent headshot but it is a Google Sites CDN link (may expire), so not used."
+  },
+  {
+   "id": 492,
+   "name": "Taehoon Yoo",
+   "website": null,
+   "photo": null,
+   "current_position": "Samsung Electronics",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Source: WINE Lab (Hwangnam Kim, Korea University) members page https://wine.korea.ac.kr/members . OpenAlex rate-limited, DBLP blocked, mathgenealogy search not useful; no personal homepage/headshot found. Listed under Ph.D. Alumni with year/affiliation matching record; no PhD thesis record/dissertation page opened, so phd null (year already on record). No PhD students expected (industry/early-career). "
+  },
+  {
+   "id": 493,
+   "name": "Sangmin Lee",
+   "website": null,
+   "photo": null,
+   "current_position": "Samsung Electronics",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Source: WINE Lab (Hwangnam Kim, Korea University) members page https://wine.korea.ac.kr/members . OpenAlex rate-limited, DBLP blocked, mathgenealogy search not useful; no personal homepage/headshot found. Listed under Ph.D. Alumni with year/affiliation matching record; no PhD thesis record/dissertation page opened, so phd null (year already on record). No PhD students expected (industry/early-career). "
+  },
+  {
+   "id": 494,
+   "name": "Hyeontae Joo",
+   "website": null,
+   "photo": null,
+   "current_position": "Samsung Electronics",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Source: WINE Lab (Hwangnam Kim, Korea University) members page https://wine.korea.ac.kr/members . OpenAlex rate-limited, DBLP blocked, mathgenealogy search not useful; no personal homepage/headshot found. Listed under Ph.D. Alumni with year/affiliation matching record; no PhD thesis record/dissertation page opened, so phd null (year already on record). No PhD students expected (industry/early-career). "
+  },
+  {
+   "id": 495,
+   "name": "DongKyu Lee",
+   "website": null,
+   "photo": null,
+   "current_position": "Postdoctoral fellow, Devguru",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Source: WINE Lab (Hwangnam Kim, Korea University) members page https://wine.korea.ac.kr/members . OpenAlex rate-limited, DBLP blocked, mathgenealogy search not useful; no personal homepage/headshot found. Listed under Ph.D. Alumni with year/affiliation matching record; no PhD thesis record/dissertation page opened, so phd null (year already on record). No PhD students expected (industry/early-career). "
+  },
+  {
+   "id": 496,
+   "name": "Seongjoon Park",
+   "website": null,
+   "photo": null,
+   "current_position": "Samsung Electronics",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Source: WINE Lab (Hwangnam Kim, Korea University) members page https://wine.korea.ac.kr/members . OpenAlex rate-limited, DBLP blocked, mathgenealogy search not useful; no personal homepage/headshot found. Listed under Ph.D. Alumni with year/affiliation matching record; no PhD thesis record/dissertation page opened, so phd null (year already on record). No PhD students expected (industry/early-career). "
+  },
+  {
+   "id": 497,
+   "name": "Joon Yeop Lee",
+   "website": null,
+   "photo": null,
+   "current_position": "Samsung Electronics",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Source: WINE Lab (Hwangnam Kim, Korea University) members page https://wine.korea.ac.kr/members . OpenAlex rate-limited, DBLP blocked, mathgenealogy search not useful; no personal homepage/headshot found. Listed under Ph.D. Alumni with year/affiliation matching record; no PhD thesis record/dissertation page opened, so phd null (year already on record). No PhD students expected (industry/early-career). "
+  },
+  {
+   "id": 498,
+   "name": "Kwang Jae Sung",
+   "website": null,
+   "photo": null,
+   "current_position": "Assistant Professor, Sangmyung University",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Source: WINE Lab (Hwangnam Kim, Korea University) members page https://wine.korea.ac.kr/members . OpenAlex rate-limited, DBLP blocked, mathgenealogy search not useful; no personal homepage/headshot found. Listed under Ph.D. Alumni with year/affiliation matching record; no PhD thesis record/dissertation page opened, so phd null (year already on record). Faculty since ~2020; student list not searched. "
+  },
+  {
+   "id": 499,
+   "name": "Woonghee Lee",
+   "website": null,
+   "photo": null,
+   "current_position": "Assistant Professor, Dongguk University",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Source: WINE Lab (Hwangnam Kim, Korea University) members page https://wine.korea.ac.kr/members . OpenAlex rate-limited, DBLP blocked, mathgenealogy search not useful; no personal homepage/headshot found. Listed under Ph.D. Alumni with year/affiliation matching record; no PhD thesis record/dissertation page opened, so phd null (year already on record). Faculty; student list not searched. "
+  }
+ ]
+}

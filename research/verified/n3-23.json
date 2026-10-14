@@ -1,0 +1,141 @@
+{
+  "batch": "n3-23",
+  "people": [
+    {
+      "id": 590,
+      "name": "Sultan Alanazi",
+      "website": null,
+      "photo": null,
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "Prince Sattam Bin Abdulaziz University, KSA",
+        "reason": "Hamdaoui NetSTAR alumni page (research.engr.oregonstate.edu/hamdaoui/alumni) lists this PhD with this employer; alumni list, not a current profile"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 591,
+      "name": "Jarallah Alqahtani",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 592,
+      "name": "Mohamed Grissa",
+      "website": null,
+      "photo": null,
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "Blockchain at Circle, USA",
+        "reason": "Hamdaoui NetSTAR alumni page (research.engr.oregonstate.edu/hamdaoui/alumni) lists this PhD with this employer; alumni list, not a current profile"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 593,
+      "name": "Bassem Khalfi",
+      "website": null,
+      "photo": null,
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "Qualcomm, USA",
+        "reason": "Hamdaoui NetSTAR alumni page (research.engr.oregonstate.edu/hamdaoui/alumni) lists this PhD with this employer; alumni list, not a current profile"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 594,
+      "name": "Sherif Abdelwahab",
+      "website": null,
+      "photo": null,
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "Amazon, USA",
+        "reason": "Hamdaoui NetSTAR alumni page (research.engr.oregonstate.edu/hamdaoui/alumni) lists this PhD with this employer; alumni list, not a current profile"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 595,
+      "name": "Hassan Sinky",
+      "website": null,
+      "photo": null,
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "Umm Al-Qura University, KSA",
+        "reason": "Hamdaoui NetSTAR alumni page (research.engr.oregonstate.edu/hamdaoui/alumni) lists this PhD with this employer; alumni list, not a current profile"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 596,
+      "name": "Nadia Adem",
+      "website": null,
+      "photo": null,
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "University of Tripoli, Libya",
+        "reason": "Hamdaoui NetSTAR alumni page (research.engr.oregonstate.edu/hamdaoui/alumni) lists this PhD with this employer; alumni list, not a current profile"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 597,
+      "name": "Mehiar Dabbagh",
+      "website": null,
+      "photo": null,
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "LinkedIn, USA",
+        "reason": "Hamdaoui NetSTAR alumni page (research.engr.oregonstate.edu/hamdaoui/alumni) lists this PhD with this employer; alumni list, not a current profile"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 598,
+      "name": "MohammadJavad NoroozOliaee",
+      "website": null,
+      "photo": null,
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "Google, USA",
+        "reason": "Hamdaoui NetSTAR alumni page (research.engr.oregonstate.edu/hamdaoui/alumni) lists this PhD with this employer; alumni list, not a current profile"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    },
+    {
+      "id": 599,
+      "name": "Omar Alsaleh",
+      "website": null,
+      "photo": null,
+      "current_position": {
+        "verdict": "confirmed",
+        "value": "King Saud University, KSA",
+        "reason": "Hamdaoui NetSTAR alumni page (research.engr.oregonstate.edu/hamdaoui/alumni) lists this PhD with this employer; alumni list, not a current profile"
+      },
+      "bio": null,
+      "students": [],
+      "phd": null
+    }
+  ]
+}

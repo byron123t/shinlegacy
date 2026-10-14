@@ -1,0 +1,157 @@
+{
+ "batch": "n3-15",
+ "people": [
+  {
+   "id": 510,
+   "name": "Pengyu Chu",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Employee at Huawei",
+    "reason": "RIVAL group page alumni list: \"Now at Huawei\""
+   },
+   "bio": null,
+   "phd": {
+    "verdict": "rejected",
+    "year": null,
+    "institution": null,
+    "source_url": "https://www.egr.msu.edu/rival/group.html",
+    "reason": "Page only gives \"Ph.D. student, 2018-2023\" lab stint; no source says PhD was received then"
+   },
+   "students": []
+  },
+  {
+   "id": 511,
+   "name": "Kaian Chen",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Employee at Ford Motor Company",
+    "reason": "RIVAL group page alumni list: \"Now at Ford Motor Company\""
+   },
+   "bio": null,
+   "phd": {
+    "verdict": "rejected",
+    "year": null,
+    "institution": null,
+    "source_url": "https://www.egr.msu.edu/rival/group.html",
+    "reason": "Page only gives \"Ph.D. student, 2018-2022\" lab stint; no source says PhD was received then"
+   },
+   "students": []
+  },
+  {
+   "id": 512,
+   "name": "Kyle Lammers",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD student, Michigan State University (RIVAL lab, Zhaojian Li)",
+    "reason": "Listed under Current Ph.D. Students on RIVAL group page"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 513,
+   "name": "Mohammad Hajidavalloo",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD student, Michigan State University (RIVAL lab, Zhaojian Li)",
+    "reason": "Listed under Current Ph.D. Students on RIVAL group page"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 514,
+   "name": "Ramin Vahidimoghaddam",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD student, Michigan State University (RIVAL lab, Zhaojian Li)",
+    "reason": "Listed under Current Ph.D. Students on RIVAL group page"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 515,
+   "name": "Huanqing Wang",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD student, Michigan State University (RIVAL lab, Zhaojian Li)",
+    "reason": "Listed under Current Ph.D. Students on RIVAL group page"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 516,
+   "name": "Chuwei Ye",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD student, Michigan State University (RIVAL lab, Zhaojian Li)",
+    "reason": "Listed under Current Ph.D. Students on RIVAL group page"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 517,
+   "name": "Jiajia Li",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD student, Michigan State University (RIVAL lab, Zhaojian Li)",
+    "reason": "Listed under Current Ph.D. Students on RIVAL group page"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 518,
+   "name": "Keyi Zhu",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD student, Michigan State University (RIVAL lab, Zhaojian Li)",
+    "reason": "Listed under Current Ph.D. Students on RIVAL group page"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 519,
+   "name": "Chaaran Arunachalam",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD student, Michigan State University (RIVAL lab, Zhaojian Li)",
+    "reason": "Listed under Current Ph.D. Students on RIVAL group page"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  }
+ ]
+}

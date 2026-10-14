@@ -1,0 +1,96 @@
+{
+ "batch": "n3-16",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 520,
+   "name": "Zheng Yang",
+   "institution": "Michigan State University",
+   "year": "",
+   "advisor": "Zhaojian Li",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 521,
+   "name": "Zheng Lu",
+   "institution": "",
+   "year": "",
+   "advisor": "Qing (Charles) Cao",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 522,
+   "name": "Yunhe Feng",
+   "institution": "",
+   "year": "",
+   "advisor": "Qing (Charles) Cao",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 523,
+   "name": "Md Abdullah Al Fahim",
+   "institution": "Google",
+   "year": "2022",
+   "advisor": "Mohammad M. Khan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 524,
+   "name": "Theodore Jensen",
+   "institution": "NIST Visualization and Usability Group",
+   "year": "2021",
+   "advisor": "Mohammad M. Khan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 525,
+   "name": "Kewen Wang",
+   "institution": "Salesforce",
+   "year": "2020",
+   "advisor": "Mohammad M. Khan",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 526,
+   "name": "Yi-Ling Chen",
+   "institution": "",
+   "year": "2017",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 527,
+   "name": "Chung-Kuang Chou",
+   "institution": "",
+   "year": "2017",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 528,
+   "name": "Cheng-Ying Liu",
+   "institution": "",
+   "year": "2017",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 529,
+   "name": "Jiann-Min Ho",
+   "institution": "",
+   "year": "2018",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

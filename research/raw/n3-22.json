@@ -1,0 +1,121 @@
+{
+ "batch": "n3-22",
+ "people": [
+  {
+   "id": 580,
+   "name": "Yihao Zhao",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as current student on Xin Jin's students page (https://xinjin.github.io/students.html) with no years; no individual homepage found within budget (fetch-only guesses failed). phd not found."
+  },
+  {
+   "id": 581,
+   "name": "Yinmin Zhong",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as current student on Xin Jin's students page (https://xinjin.github.io/students.html) with no years; no individual homepage found within budget (fetch-only guesses failed). phd not found."
+  },
+  {
+   "id": 582,
+   "name": "Zili Zhang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as current student on Xin Jin's students page (https://xinjin.github.io/students.html) with no years; no individual homepage found within budget (fetch-only guesses failed). phd not found."
+  },
+  {
+   "id": 583,
+   "name": "Zhuolong Yu",
+   "website": {
+    "url": "https://zyuuuid.github.io/",
+    "source_note": "Personal homepage (redirected from cs.jhu.edu/~zhuolong)"
+   },
+   "photo": {
+    "image_url": "https://zyuuuid.github.io/resource/profile.jpg",
+    "page_url": "https://zyuuuid.github.io/"
+   },
+   "current_position": "Professor (Tenure-track/special-appointment), School of Computer Science and Technology, University of Science and Technology of China",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Homepage says PhD from Johns Hopkins; alumni of Xin Jin per https://xinjin.github.io/students.html; year on record 2023."
+  },
+  {
+   "id": 584,
+   "name": "Hang Zhu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as alumnus on https://xinjin.github.io/students.html; homepage guesses failed; not verified further."
+  },
+  {
+   "id": 585,
+   "name": "Zhihao Bai",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Listed as alumnus on https://xinjin.github.io/students.html; homepage not found within budget; year/institution not confirmed."
+  },
+  {
+   "id": 586,
+   "name": "Xiangyu Gao",
+   "website": null,
+   "photo": null,
+   "current_position": "Postdoc (University of Washington), per Narayana's group news (Jun 2024 PhD defense, 'Solver-Aided Compiler Design for Programmable Network Devices')",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Advisor Srinivas Narayana (Rutgers) news page https://people.cs.rutgers.edu/~sn624/ confirms Jun 2024 defense. No homepage found."
+  },
+  {
+   "id": 587,
+   "name": "Qiongwen Xu",
+   "website": null,
+   "photo": null,
+   "current_position": "Network engineer working on RDMA networking at Microsoft Seattle",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Narayana news page https://people.cs.rutgers.edu/~sn624/ says Qiongwen Xu defended PhD Aug 2024 ('Accelerating software packet processing for high-speed networks') and joins Microsoft Seattle. Batch year 2025 may be off. No homepage found."
+  },
+  {
+   "id": 588,
+   "name": "Oliver Michel",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Searches for homepage failed (name ambiguous); DBLP blocked."
+  },
+  {
+   "id": 589,
+   "name": "Abdurrahman Elmaghbub",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "DBLP blocked (ECONNRESET); not researched further within budget."
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "batch": "n3-16",
+ "people": [
+  {
+   "id": 520,
+   "name": "Zheng Yang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "OpenAlex/DBLP/search found no identifiable Zheng Yang tied to Zhaojian Li (MSU); lab pages not located.",
+   "phd": null
+  },
+  {
+   "id": 521,
+   "name": "Zheng Lu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "lanterns.eecs.utk.edu/members.html lists Zheng Lu as current PhD student of Qing Cao (page undated); no PhD year or homepage found.",
+   "phd": null
+  },
+  {
+   "id": 522,
+   "name": "Yunhe Feng",
+   "website": {
+    "url": "https://yunhefeng.me",
+    "source_note": "Personal homepage; UNT Assistant Professor"
+   },
+   "photo": {
+    "image_url": "https://yunhefeng.me/material/ID_photo.jpg",
+    "page_url": "https://yunhefeng.me"
+   },
+   "current_position": "Assistant Professor of Computer Science and Engineering, University of North Texas",
+   "bio": null,
+   "students": [],
+   "notes": "Homepage states PhD with Qing (Charles) Cao in 2020 at UTK.",
+   "phd": {
+    "year": "2020",
+    "institution": "University of Tennessee, Knoxville",
+    "source_url": "https://yunhefeng.me"
+   }
+  },
+  {
+   "id": 523,
+   "name": "Md Abdullah Al Fahim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Fahim: only an ambiguous OpenAlex hit; no page found. Tried arbor.ee.ntu.edu.tw/~mschen (publications only), web searches."
+  },
+  {
+   "id": 524,
+   "name": "Theodore Jensen",
+   "website": {
+    "url": "https://www.nist.gov/people/theodore-jensen",
+    "source_note": "NIST staff profile"
+   },
+   "photo": null,
+   "current_position": "Research scientist, Human-Centered Technologies Group, NIST",
+   "bio": null,
+   "students": [],
+   "notes": "NIST profile loads; OpenAlex shows NIST and UConn affiliations. No photo checked."
+  },
+  {
+   "id": 525,
+   "name": "Kewen Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "OpenAlex name collisions; nothing tied to Khan or Salesforce. Tried arbor.ee.ntu.edu.tw/~mschen (publications only), web searches."
+  },
+  {
+   "id": 526,
+   "name": "Yi-Ling Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Common name; NTU thesis records not reached. Tried arbor.ee.ntu.edu.tw/~mschen (publications only), web searches."
+  },
+  {
+   "id": 527,
+   "name": "Chung-Kuang Chou",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No OpenAlex hit; no NTU record found. Tried arbor.ee.ntu.edu.tw/~mschen (publications only), web searches."
+  },
+  {
+   "id": 528,
+   "name": "Cheng-Ying Liu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No OpenAlex hit; no NTU record found. Tried arbor.ee.ntu.edu.tw/~mschen (publications only), web searches."
+  },
+  {
+   "id": 529,
+   "name": "Jiann-Min Ho",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "OpenAlex has a Jiann-Min Ho at NTU (6 works, cloud/SDN) but not tied to Chen; not used. Tried arbor.ee.ntu.edu.tw/~mschen (publications only), web searches."
+  }
+ ]
+}

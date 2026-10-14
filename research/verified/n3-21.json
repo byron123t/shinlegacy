@@ -1,0 +1,181 @@
+{
+ "batch": "n3-21",
+ "people": [
+  {
+   "id": 570,
+   "name": "Jingjie Li",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "value": null,
+    "reason": "Edinburgh title not confirmed from any source I could load (Google blocked)"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 571,
+   "name": "Yu Wei (Sam) Liu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 572,
+   "name": "Marcos Sanson",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 573,
+   "name": "Run Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 574,
+   "name": "Correy Washburn",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 575,
+   "name": "Diandian Gu",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://gudiandian.github.io/",
+    "reason": "Loads; own homepage with matching name, affiliation and advisor"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "ML system researcher/developer",
+    "reason": "Stated on own homepage; employer not given"
+   },
+   "bio": null,
+   "students": [],
+   "phd": {
+    "verdict": "confirmed",
+    "year": null,
+    "institution": "Peking University",
+    "source_url": "https://gudiandian.github.io/",
+    "reason": "Homepage states PhD from this institution; no year given"
+   }
+  },
+  {
+   "id": 576,
+   "name": "Chao Jin",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://chaojin0310.github.io/",
+    "reason": "Loads; own homepage with matching name, affiliation and advisor"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://chaojin0310.github.io/images/chaojin.jpg",
+    "page_url": "https://chaojin0310.github.io/",
+    "reason": "200 image; single-person casual portrait; embedded on homepage"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD candidate (4th year), School of Computer Science, Peking University",
+    "reason": "Homepage states it"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 577,
+   "name": "Sheng Qi",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://tomquartz.github.io/",
+    "reason": "Loads; own homepage with matching name, affiliation and advisor"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://tomquartz.github.io/images/me.jpeg",
+    "page_url": "https://tomquartz.github.io/",
+    "reason": "200 image; single-person casual portrait; embedded on homepage"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD student (since 2022), School of Computer Science, Peking University",
+    "reason": "Homepage: Ph.D. 2022 - present"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 578,
+   "name": "Junyi Shu",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://kyleshu.github.io/",
+    "reason": "Loads; own homepage with matching name, affiliation and advisor"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://kyleshu.github.io/assets/img/prof_pic2.png",
+    "page_url": "https://kyleshu.github.io/",
+    "reason": "200 image; single-person casual portrait; embedded on homepage"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Postdoctoral researcher, Computer Science Department, UCLA",
+    "reason": "Homepage states it"
+   },
+   "bio": null,
+   "students": [],
+   "phd": {
+    "verdict": "confirmed",
+    "year": null,
+    "institution": "Peking University",
+    "source_url": "https://kyleshu.github.io/",
+    "reason": "Homepage states PhD from this institution; no year given"
+   }
+  },
+  {
+   "id": 579,
+   "name": "Bingyang Wu",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://bingyangwu.github.io/",
+    "reason": "Loads; own homepage with matching name, affiliation and advisor"
+   },
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://bingyangwu.github.io/authors/admin/avatar_hu6e6db413fc72db9e6abb459569819e62_323049_3000x3000_fill_q75_lanczos_center.jpg",
+    "page_url": "https://bingyangwu.github.io/",
+    "reason": "200 image; single-person casual portrait; embedded on homepage"
+   },
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD candidate (2022-2027 expected), School of Computer Science, Peking University",
+    "reason": "Homepage states it"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  }
+ ]
+}

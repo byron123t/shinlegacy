@@ -1,0 +1,115 @@
+{
+ "batch": "n3-12",
+ "people": [
+  {
+   "id": 480,
+   "name": "Wei Zhao",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Rong Zheng's news page (cas.mcmaster.ca/~rzheng/) checked; OpenAlex name search; PhD defense April 2024 confirmed on advisor page; no homepage/photo found. Year already on record."
+  },
+  {
+   "id": 481,
+   "name": "Keivan Nalaie",
+   "website": null,
+   "photo": null,
+   "current_position": "Postdoctoral fellow, Mayo Clinic (Arizona)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Rong Zheng's news page (cas.mcmaster.ca/~rzheng/) checked; OpenAlex name search; PhD defense July 2023 confirmed; OpenAlex lists Mayo Clinic in Arizona. No homepage found."
+  },
+  {
+   "id": 482,
+   "name": "Yujiao Hao",
+   "website": null,
+   "photo": null,
+   "current_position": "Huawei Technologies (Canada)",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Rong Zheng's news page (cas.mcmaster.ca/~rzheng/) checked; OpenAlex name search; PhD defense Sept 2022 confirmed; OpenAlex affiliation Huawei Canada. No homepage found."
+  },
+  {
+   "id": 483,
+   "name": "Yihao Fang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Rong Zheng's news page (cas.mcmaster.ca/~rzheng/) checked; OpenAlex name search; PhD defense July 2020 confirmed; no homepage found (OpenAlex matches ambiguous)."
+  },
+  {
+   "id": 484,
+   "name": "Mehdi Jafarizadeh",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Rong Zheng's news page (cas.mcmaster.ca/~rzheng/) checked; OpenAlex name search; PhD defense Jan 2021 confirmed; no homepage found."
+  },
+  {
+   "id": 485,
+   "name": "Ala Shaabana",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Rong Zheng's news page (cas.mcmaster.ca/~rzheng/) checked; OpenAlex name search; Won best demo CPSWeek 2015 as WiSeR member; PhD year not found in fetched sources; OpenAlex lists University of Waterloo; WebSearch found no thesis record."
+  },
+  {
+   "id": 486,
+   "name": "Yongyong Wei",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Rong Zheng's news page (cas.mcmaster.ca/~rzheng/) checked; OpenAlex name search; PhD defense April 2021 confirmed; no homepage found."
+  },
+  {
+   "id": 487,
+   "name": "Qiang Xu",
+   "website": null,
+   "photo": null,
+   "current_position": "Senior Principal Engineer and Research Lead, Huawei HMI Lab, Canada",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Rong Zheng's news page (cas.mcmaster.ca/~rzheng/) checked; OpenAlex name search; wiser.cas.mcmaster.ca/?p=2329 lists Qiang Xu (PhD) alumnus; position per web search snippet, not fully opened. PhD year not found (advisor page mentions 2015 award as student)."
+  },
+  {
+   "id": 488,
+   "name": "Taejin Kwak",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "OpenAlex and WebSearch found nothing tying this person to Hwangnam Kim/Korea University; lab alumni page not reachable."
+  },
+  {
+   "id": 489,
+   "name": "Sanghong Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "OpenAlex shows a Sanghong Kim at Korea University (3 works, video coding) but not verified as Hwangnam Kim's student; WebSearch found no dissertation record."
+  }
+ ]
+}

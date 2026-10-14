@@ -1,0 +1,153 @@
+{
+ "batch": "n3-20",
+ "people": [
+  {
+   "id": 560,
+   "name": "Dong Qin",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 561,
+   "name": "Kerui Tan",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 562,
+   "name": "Brian Peck",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 563,
+   "name": "Sung-Tae Hong",
+   "website": {
+    "verdict": "rejected",
+    "url": "https://wmnl.unist.ac.kr/alumni/",
+    "reason": "Generic lab alumni list page, not a personal website"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Researcher, ETRI (formerly Samsung Electronics)",
+    "reason": "WMNL alumni page (wmnl.unist.ac.kr/alumni/) lists this position"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 564,
+   "name": "Kyubo Shin",
+   "website": {
+    "verdict": "rejected",
+    "url": "https://wmnl.unist.ac.kr/alumni/",
+    "reason": "Generic lab alumni list page, not a personal website"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "THYROSCOPE Inc. (UNIST start-up)",
+    "reason": "WMNL alumni page (wmnl.unist.ac.kr/alumni/) lists this position"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 565,
+   "name": "JeongTak Kim",
+   "website": {
+    "verdict": "rejected",
+    "url": "https://wmnl.unist.ac.kr/alumni/",
+    "reason": "Generic lab alumni list page, not a personal website"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Postdoctoral researcher, UNIST",
+    "reason": "WMNL alumni page (wmnl.unist.ac.kr/alumni/) lists this position"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 566,
+   "name": "Seokwoo Choi",
+   "website": {
+    "verdict": "rejected",
+    "url": "https://wmnl.unist.ac.kr/alumni/",
+    "reason": "Generic lab alumni list page, not a personal website"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Postdoctoral researcher, UNIST",
+    "reason": "WMNL alumni page (wmnl.unist.ac.kr/alumni/) lists this position"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 567,
+   "name": "SuHwan Jung",
+   "website": {
+    "verdict": "rejected",
+    "url": "https://wmnl.unist.ac.kr/alumni/",
+    "reason": "Generic lab alumni list page, not a personal website"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Researcher, ETRI",
+    "reason": "WMNL alumni page (wmnl.unist.ac.kr/alumni/) lists this position"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 568,
+   "name": "Byeongjin Kim",
+   "website": {
+    "verdict": "rejected",
+    "url": "https://wmnl.unist.ac.kr/alumni/",
+    "reason": "Generic lab alumni list page, not a personal website"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "PhD student, UNIST (WMNL)",
+    "reason": "WMNL alumni page lists MS 2024 and Ph.D. program, UNIST"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 569,
+   "name": "Leo Cao",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  }
+ ]
+}

@@ -1,0 +1,139 @@
+{
+ "batch": "n3-18",
+ "people": [
+  {
+   "id": 540,
+   "name": "Yi-Ting Lee",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Ph.D. student, National Taiwan University (Arbor lab)",
+    "reason": "arbor.ee.ntu.edu.tw/member.html lists under Ph.D. section."
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 541,
+   "name": "Hsiang-Hui Liu",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Ph.D. student, National Taiwan University (Arbor lab)",
+    "reason": "arbor.ee.ntu.edu.tw/member.html lists under Ph.D. section. Also listed under Alumni (Master); Ph.D. section not labeled current, status inferred."
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 542,
+   "name": "Yun-Jing Wang",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Ph.D. student, National Taiwan University (Arbor lab)",
+    "reason": "arbor.ee.ntu.edu.tw/member.html lists under Ph.D. section. Also listed under Alumni (Master); Ph.D. section not labeled current, status inferred."
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 543,
+   "name": "Haidong Wang",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Ph.D. student (Computer Engineering), Texas A&M University",
+    "reason": "rtds.cse.tamu.edu/people lists Haidong Wang as PhD Student, Computer Engineering, under Current Students (page undated)"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 544,
+   "name": "Kyong-Wan Nam",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "value": null,
+    "reason": "Only source is an undated alumni list (esa.postech.ac.kr) giving the employer at graduation time; not a current official page, so currency unconfirmed. PhD year matches the list but no phd claim was made."
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 545,
+   "name": "Sang-Cheol Kim",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "value": null,
+    "reason": "Only source is an undated alumni list (esa.postech.ac.kr) giving the employer at graduation time; not a current official page, so currency unconfirmed. PhD year matches the list but no phd claim was made."
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 546,
+   "name": "Min-Gu Lee",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "value": null,
+    "reason": "Only source is an undated alumni list (esa.postech.ac.kr) giving the employer at graduation time; not a current official page, so currency unconfirmed. PhD year matches the list but no phd claim was made."
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 547,
+   "name": "Dong-Hak Pyo",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "value": null,
+    "reason": "Only source is an undated alumni list (esa.postech.ac.kr) giving the employer at graduation time; not a current official page, so currency unconfirmed. PhD year matches the list but no phd claim was made."
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 548,
+   "name": "Ungjin Jang",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "value": null,
+    "reason": "Only source is an undated alumni list (esa.postech.ac.kr) giving the employer at graduation time; not a current official page, so currency unconfirmed. PhD year matches the list but no phd claim was made."
+   },
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 549,
+   "name": "Junyoung Park",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "value": null,
+    "reason": "Only source is an undated alumni list (esa.postech.ac.kr) giving the employer at graduation time; not a current official page, so currency unconfirmed. PhD year matches the list but no phd claim was made."
+   },
+   "bio": null,
+   "students": []
+  }
+ ]
+}

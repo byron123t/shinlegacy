@@ -1,0 +1,96 @@
+{
+ "batch": "n3-11",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 470,
+   "name": "Meng-Fen Chiang",
+   "institution": "Yahoo Taiwan",
+   "year": "2012",
+   "advisor": "Wen-Chih Peng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 471,
+   "name": "Zhung-Xun Liao",
+   "institution": "Yahoo Taiwan",
+   "year": "2013",
+   "advisor": "Wen-Chih Peng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 472,
+   "name": "Wen-Yuan Zhu",
+   "institution": "",
+   "year": "2016",
+   "advisor": "Wen-Chih Peng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 473,
+   "name": "Chien-Cheng Chen",
+   "institution": "",
+   "year": "2017",
+   "advisor": "Wen-Chih Peng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 474,
+   "name": "Gunarto Sindoro Njoo",
+   "institution": "",
+   "year": "2019",
+   "advisor": "Wen-Chih Peng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 475,
+   "name": "Yu-Ting Wen",
+   "institution": "",
+   "year": "2019",
+   "advisor": "Wen-Chih Peng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 476,
+   "name": "Wei-Yao Wang",
+   "institution": "",
+   "year": "2024",
+   "advisor": "Wen-Chih Peng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 477,
+   "name": "Hui-Kuo Yang",
+   "institution": "",
+   "year": "2024",
+   "advisor": "Wen-Chih Peng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 478,
+   "name": "Chiao-Ting Chen",
+   "institution": "",
+   "year": "2024",
+   "advisor": "Wen-Chih Peng",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 479,
+   "name": "Renjie Xu",
+   "institution": "",
+   "year": "2025",
+   "advisor": "Rong Zheng",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

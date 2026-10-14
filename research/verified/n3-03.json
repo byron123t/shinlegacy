@@ -1,0 +1,135 @@
+{
+ "batch": "n3-03",
+ "people": [
+  {
+   "id": 390,
+   "name": "Shuochao Yao",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "verdict": "rejected",
+    "reason": "Alumni list shows only 'George Mason University'; the title 'Assistant Professor' could not be confirmed from an official page"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 391,
+   "name": "Yiran Zhao",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "value": "Pinterest",
+    "reason": "Listed as affiliation on Abdelzaher CyPhy alumni list (lab-reported, may be dated)",
+    "verdict": "confirmed"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 392,
+   "name": "Jongdeog Lee",
+   "website": null,
+   "photo": null,
+   "current_position": {
+    "value": "Military Academy, Seoul",
+    "reason": "Listed as affiliation on Abdelzaher CyPhy alumni list (lab-reported, may be dated)",
+    "verdict": "confirmed"
+   },
+   "bio": null,
+   "phd": {
+    "verdict": "unverifiable",
+    "year": "2019",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "source_url": "https://www.ideals.illinois.edu/items/113843",
+    "reason": "IDEALS page returns 403 to curl; claim was only from a search snippet and could not be opened"
+   },
+   "students": []
+  },
+  {
+   "id": 393,
+   "name": "Huajie Shao",
+   "website": {
+    "url": "https://huajieshao.github.io",
+    "reason": "Loads; personal homepage: Assistant Professor of CS at William & Mary, PhD UIUC advised by Tarek Abdelzaher",
+    "verdict": "confirmed"
+   },
+   "photo": {
+    "image_url": "https://huajieshao.github.io/files/huajie.jpg",
+    "page_url": "https://huajieshao.github.io",
+    "reason": "Page embeds files/huajie.jpg (alt Photo) in own bio; 200 image/jpeg; single-person headshot",
+    "verdict": "confirmed"
+   },
+   "current_position": {
+    "value": "Assistant Professor of Computer Science, William & Mary",
+    "reason": "Homepage states it",
+    "verdict": "confirmed"
+   },
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 394,
+   "name": "Hang Cui",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 395,
+   "name": "Shengzhong Liu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 396,
+   "name": "Dongxin Liu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 397,
+   "name": "Ruijie Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 398,
+   "name": "Jinyang Li",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 399,
+   "name": "Md Iftekharul Islam Sakib",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "batch": "n3-03",
+ "people": [
+  {
+   "id": 390,
+   "name": "Shuochao Yao",
+   "website": null,
+   "photo": null,
+   "current_position": "Assistant Professor of Computer Science, George Mason University (per OpenAlex affiliation and Abdelzaher alumni list)",
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Listed as alumnus on CyPhy page (thesis: Deep Learning for the Internet of Things). No homepage or PhD year confirmed: OpenAlex/DBLP/IDEALS/mathgenealogy rate-limited or blocked, 1 WebSearch found nothing."
+  },
+  {
+   "id": 391,
+   "name": "Yiran Zhao",
+   "website": null,
+   "photo": null,
+   "current_position": "Pinterest (per Abdelzaher alumni list)",
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Alumnus (thesis: Energy-saving Cyber-physical Systems for Smart Cities). Homepage, photo, PhD year not found; OpenAlex name too ambiguous, 1 WebSearch found nothing."
+  },
+  {
+   "id": 392,
+   "name": "Jongdeog Lee",
+   "website": null,
+   "photo": null,
+   "current_position": "Military Academy, Seoul (per Abdelzaher alumni list)",
+   "bio": null,
+   "phd": {
+    "year": "2019",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "source_url": "https://www.ideals.illinois.edu/items/113843"
+   },
+   "students": [],
+   "notes": "PhD year 2019 from IDEALS record (via WebSearch snippet; the IDEALS page itself returned 403 to curl, so not opened directly). Advisor Abdelzaher is committee chair. No homepage/photo found."
+  },
+  {
+   "id": 393,
+   "name": "Huajie Shao",
+   "website": {
+    "url": "https://huajieshao.github.io",
+    "source_note": "Personal homepage; states Assistant Professor at William & Mary, PhD UIUC advised by Tarek Abdelzaher"
+   },
+   "photo": {
+    "image_url": "https://huajieshao.github.io/files/huajie.jpg",
+    "page_url": "https://huajieshao.github.io"
+   },
+   "current_position": "Assistant Professor of Computer Science, William & Mary",
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Homepage fetched; photo returns 200 image/jpeg (not viewed). PhD year not stated on the page; not found. Name on Abdelzaher current-students list is stale."
+  },
+  {
+   "id": 394,
+   "name": "Hang Cui",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Listed as current Ph.D. student on Abdelzaher's CyPhy people page; no PhD year found. Fetch-only attempts: OpenAlex and DBLP rate-limited/ambiguous."
+  },
+  {
+   "id": 395,
+   "name": "Shengzhong Liu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Listed as current Ph.D. student on Abdelzaher's CyPhy people page; no PhD year found. Fetch-only attempts: OpenAlex and DBLP rate-limited/ambiguous. 1 WebSearch (Shengzhong Liu) found nothing."
+  },
+  {
+   "id": 396,
+   "name": "Dongxin Liu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Listed as current Ph.D. student on Abdelzaher's CyPhy people page; no PhD year found. Fetch-only attempts: OpenAlex and DBLP rate-limited/ambiguous."
+  },
+  {
+   "id": 397,
+   "name": "Ruijie Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Listed as current Ph.D. student on Abdelzaher's CyPhy people page; no PhD year found. Fetch-only attempts: OpenAlex and DBLP rate-limited/ambiguous."
+  },
+  {
+   "id": 398,
+   "name": "Jinyang Li",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Listed as current Ph.D. student on Abdelzaher's CyPhy people page; no PhD year found. Fetch-only attempts: OpenAlex and DBLP rate-limited/ambiguous; jinyangli.github.io is NYU's Jinyang Li, a different person."
+  },
+  {
+   "id": 399,
+   "name": "Md Iftekharul Islam Sakib",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": [],
+   "notes": "Listed as current Ph.D. student on Abdelzaher's CyPhy people page; no PhD year found. Fetch-only attempts: OpenAlex and DBLP rate-limited/ambiguous; Sakib has a UIUC OpenAlex record (A5005409191) but no homepage found."
+  }
+ ]
+}

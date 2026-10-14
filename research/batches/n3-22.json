@@ -1,0 +1,96 @@
+{
+ "batch": "n3-22",
+ "kind": "basic",
+ "people": [
+  {
+   "id": 580,
+   "name": "Yihao Zhao",
+   "institution": "Peking University",
+   "year": "",
+   "advisor": "Xin Jin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 581,
+   "name": "Yinmin Zhong",
+   "institution": "Peking University",
+   "year": "",
+   "advisor": "Xin Jin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 582,
+   "name": "Zili Zhang",
+   "institution": "Peking University",
+   "year": "",
+   "advisor": "Xin Jin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 583,
+   "name": "Zhuolong Yu",
+   "institution": "University of Science and Technology of China (Professor)",
+   "year": "2023",
+   "advisor": "Xin Jin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 584,
+   "name": "Hang Zhu",
+   "institution": "ByteDance Seed (Research Scientist)",
+   "year": "2022",
+   "advisor": "Xin Jin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 585,
+   "name": "Zhihao Bai",
+   "institution": "",
+   "year": "",
+   "advisor": "Xin Jin",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 586,
+   "name": "Xiangyu Gao",
+   "institution": "New York University (with Anirudh Sivaraman); first position postdoc at University of Washington",
+   "year": "2024",
+   "advisor": "Srinivas Narayana",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 587,
+   "name": "Qiongwen Xu",
+   "institution": "unknown",
+   "year": "2025",
+   "advisor": "Srinivas Narayana",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 588,
+   "name": "Oliver Michel",
+   "institution": "Univ. of Vienna (postdoc after Cloud Architect at TourRadar)",
+   "year": "2019",
+   "advisor": "Eric Keller",
+   "website_on_record": "",
+   "students_in_tree": []
+  },
+  {
+   "id": 589,
+   "name": "Abdurrahman Elmaghbub",
+   "institution": "Apple, USA",
+   "year": "2024",
+   "advisor": "Bechir Hamdaoui",
+   "website_on_record": "",
+   "students_in_tree": []
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "batch": "n3-30",
+ "people": [
+  {
+   "id": 660,
+   "name": "Yi (Evie) Zhang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Fetch-only budget; 2 WebSearches returned nothing relevant. Chandrasekaran's UIUC people page not reachable (old site unmaintained, UIUC page not found)."
+  },
+  {
+   "id": 661,
+   "name": "Vira Kasprova",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Fetch-only budget; 2 WebSearches returned nothing relevant. Not found."
+  },
+  {
+   "id": 662,
+   "name": "Ali Ebrahimpour Boroojeny",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Fetch-only budget; 2 WebSearches returned nothing relevant. Not found."
+  },
+  {
+   "id": 663,
+   "name": "Fan Wu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Fetch-only budget; 2 WebSearches returned nothing relevant. Not found; common name."
+  },
+  {
+   "id": 664,
+   "name": "Wenjun Jiang",
+   "website": {
+    "url": "https://wenjunjiang.github.io/",
+    "source_note": "Personal homepage, states PhD at SUNY Buffalo under Lu Su"
+   },
+   "photo": null,
+   "current_position": "Staff research engineer, Samsung Research America",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Fetch-only budget; 2 WebSearches returned nothing relevant. PhD year not on homepage; photo path relative (jwj.jpg), not verified."
+  },
+  {
+   "id": 665,
+   "name": "Chenglin Miao",
+   "website": {
+    "url": "https://clmiao.github.io/",
+    "source_note": "Personal homepage"
+   },
+   "photo": null,
+   "current_position": "Assistant Professor of Computer Science, Iowa State University",
+   "bio": null,
+   "students": [],
+   "phd": {
+    "year": "2020",
+    "institution": "State University of New York at Buffalo",
+    "source_url": "https://www.cs.iastate.edu/people/chenglin-miao"
+   },
+   "notes": "Fetch-only budget; 2 WebSearches returned nothing relevant. Photo path relative (files/cmiao.jpg), not verified."
+  },
+  {
+   "id": 666,
+   "name": "Hongfei Xue",
+   "website": {
+    "url": "http://havocfixer.github.io/",
+    "source_note": "Personal homepage; PhD at SUNY Buffalo co-advised by Lu Su and Aidong Zhang"
+   },
+   "photo": null,
+   "current_position": "Assistant Professor of Computer Science, UNC Charlotte",
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Fetch-only budget; 2 WebSearches returned nothing relevant. PhD year not found. Note hongfeixue.github.io is a different person."
+  },
+  {
+   "id": 667,
+   "name": "Praveen Goli",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Fetch-only budget; 2 WebSearches returned nothing relevant. Mathgenealogy lookup did not run; not found."
+  },
+  {
+   "id": 668,
+   "name": "Jingqing Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Fetch-only budget; 2 WebSearches returned nothing relevant. Not attempted beyond budget; common name."
+  },
+  {
+   "id": 669,
+   "name": "Yun-Zhu Song",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Fetch-only budget; 2 WebSearches returned nothing relevant. Not attempted beyond budget."
+  }
+ ]
+}

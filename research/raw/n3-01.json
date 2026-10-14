@@ -1,0 +1,115 @@
+{
+ "batch": "n3-01",
+ "people": [
+  {
+   "id": 370,
+   "name": "Zelun Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "DBLP API blocked (bot challenge); OpenAlex name search and WebSearch found no verifiable homepage, photo or profile tied to this person via Liu/Texas A&M. Industry/early-career; no PhD students expected."
+  },
+  {
+   "id": 371,
+   "name": "Jason Lin",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "DBLP API blocked (bot challenge); OpenAlex name search and WebSearch found no verifiable homepage, photo or profile tied to this person via Liu/Texas A&M. Industry/early-career; no PhD students expected."
+  },
+  {
+   "id": 372,
+   "name": "Guoyu Fu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "DBLP API blocked (bot challenge); OpenAlex name search and WebSearch found no verifiable homepage, photo or profile tied to this person via Liu/Texas A&M. Industry/early-career; no PhD students expected."
+  },
+  {
+   "id": 373,
+   "name": "Xing Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "DBLP API blocked (bot challenge); OpenAlex name search and WebSearch found no verifiable homepage, photo or profile tied to this person via Liu/Texas A&M. Industry/early-career; no PhD students expected."
+  },
+  {
+   "id": 374,
+   "name": "Hao Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "DBLP API blocked (bot challenge); OpenAlex name search and WebSearch found no verifiable homepage, photo or profile tied to this person via Liu/Texas A&M. Industry/early-career; no PhD students expected."
+  },
+  {
+   "id": 375,
+   "name": "Shi Pu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "DBLP API blocked (bot challenge); OpenAlex name search and WebSearch found no verifiable homepage, photo or profile tied to this person via Liu/Texas A&M. Industry/early-career; no PhD students expected."
+  },
+  {
+   "id": 376,
+   "name": "John Pecarina",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "DBLP API blocked (bot challenge); OpenAlex name search and WebSearch found no verifiable homepage, photo or profile tied to this person via Liu/Texas A&M. Industry/early-career; no PhD students expected. OpenAlex shows a John M. Pecarina with US Air Force/AFIT papers (probably same person, not verified); no personal page found."
+  },
+  {
+   "id": 377,
+   "name": "Sheng-Ya Lin",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "DBLP API blocked (bot challenge); OpenAlex name search and WebSearch found no verifiable homepage, photo or profile tied to this person via Liu/Texas A&M. Industry/early-career; no PhD students expected."
+  },
+  {
+   "id": 378,
+   "name": "Hai Xu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "DBLP API blocked (bot challenge); OpenAlex name search and WebSearch found no verifiable homepage, photo or profile tied to this person via Liu/Texas A&M. Industry/early-career; no PhD students expected."
+  },
+  {
+   "id": 379,
+   "name": "Huajun Ying",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "DBLP API blocked (bot challenge); OpenAlex name search and WebSearch found no verifiable homepage, photo or profile tied to this person via Liu/Texas A&M. Industry/early-career; no PhD students expected. OpenAlex author A5065506001 (Huajun Ying, Texas A&M) with Liu coauthored retina-image papers and a 2011 thesis 'Modeling, Pattern Analysis and Feature-Based Retrieval on Retinal Images' confirms identity/year but gives no website."
+  }
+ ]
+}

@@ -1,0 +1,135 @@
+{
+ "batch": "n3-30",
+ "people": [
+  {
+   "id": 660,
+   "name": "Yi (Evie) Zhang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 661,
+   "name": "Vira Kasprova",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 662,
+   "name": "Ali Ebrahimpour Boroojeny",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 663,
+   "name": "Fan Wu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 664,
+   "name": "Wenjun Jiang",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://wenjunjiang.github.io/",
+    "reason": "Loads; personal homepage of Wenjun Jiang, Samsung Research America, PhD SUNY Buffalo under Lu Su"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Staff research engineer, Samsung Research America",
+    "reason": "Homepage: staff research engineer, Samsung Research America"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 665,
+   "name": "Chenglin Miao",
+   "website": {
+    "verdict": "confirmed",
+    "url": "https://clmiao.github.io/",
+    "reason": "Loads; Chenglin Miao's homepage, Assistant Professor CS Iowa State, PhD SUNY Buffalo"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Assistant Professor of Computer Science, Iowa State University",
+    "reason": "Homepage and ISU CS profile: Assistant Professor"
+   },
+   "bio": null,
+   "students": [],
+   "phd": {
+    "verdict": "confirmed",
+    "year": "2020",
+    "institution": "State University of New York at Buffalo",
+    "source_url": "https://www.cs.iastate.edu/people/chenglin-miao",
+    "reason": "ISU profile: Ph.D., SUNY Buffalo, 2020"
+   }
+  },
+  {
+   "id": 666,
+   "name": "Hongfei Xue",
+   "website": {
+    "verdict": "confirmed",
+    "url": "http://havocfixer.github.io/",
+    "reason": "Loads; Hongfei Xue's homepage, Assistant Professor CS UNC Charlotte, PhD SUNY Buffalo"
+   },
+   "photo": null,
+   "current_position": {
+    "verdict": "confirmed",
+    "value": "Assistant Professor of Computer Science, UNC Charlotte",
+    "reason": "Homepage: Assistant Professor, CS, UNC Charlotte"
+   },
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 667,
+   "name": "Praveen Goli",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 668,
+   "name": "Jingqing Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  },
+  {
+   "id": 669,
+   "name": "Yun-Zhu Song",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null
+  }
+ ]
+}

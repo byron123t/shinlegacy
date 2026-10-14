@@ -1,0 +1,135 @@
+{
+ "batch": "n3-08",
+ "people": [
+  {
+   "id": 440,
+   "name": "Xingyu Xiang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "OpenAlex and DBLP APIs rate-limited/timed out; ran out of fetch routes. OpenAlex name search gave only an unrelated CDC author; no Harvard/Minlan Yu page found."
+  },
+  {
+   "id": 441,
+   "name": "Yiyu Liu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "OpenAlex and DBLP APIs rate-limited/timed out; ran out of fetch routes. Nothing tied to Minlan Yu found."
+  },
+  {
+   "id": 442,
+   "name": "Xuanlin Jiang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "OpenAlex and DBLP APIs rate-limited/timed out; ran out of fetch routes. Nothing tied to Minlan Yu found."
+  },
+  {
+   "id": 443,
+   "name": "Ethan Heilman",
+   "website": {
+    "url": "https://www.ethanheilman.com/",
+    "source_note": "Personal homepage"
+   },
+   "photo": null,
+   "current_position": "Researcher at Cloudflare; research fellow at MIT DCI",
+   "bio": null,
+   "students": [],
+   "phd": {
+    "year": "2022",
+    "institution": "Boston University",
+    "source_url": "https://www.ethanheilman.com/"
+   },
+   "notes": "Homepage states PhD from BU CS in 2022, advisor Sharon Goldberg, and current Cloudflare role. No headshot img found on page."
+  },
+  {
+   "id": 444,
+   "name": "Aanchal Malhotra",
+   "website": {
+    "url": "https://sites.google.com/site/aanchalmalhotra1990/",
+    "source_note": "Linked from Sharon Goldberg's page as BU PhD student; JS-rendered, content not read"
+   },
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "Confirmed as Goldberg's BU PhD student via https://www.cs.bu.edu/~goldbe/. A web search found no thesis year; a CSAIL bio called her a BU PhD student. Year and position not found."
+  },
+  {
+   "id": 445,
+   "name": "Sarah Scheffler",
+   "website": {
+    "url": "https://sarahscheffler.net/",
+    "source_note": "Personal homepage"
+   },
+   "photo": {
+    "image_url": "https://sarahscheffler.net/sarahscheffler.jpg",
+    "page_url": "https://sarahscheffler.net/"
+   },
+   "current_position": "Assistant Professor, CyLab, Carnegie Mellon University",
+   "bio": null,
+   "students": [],
+   "phd": {
+    "year": "2021",
+    "institution": "Boston University",
+    "source_url": "https://sarahscheffler.net/"
+   },
+   "notes": "Homepage says PhD from BU in 2021 advised by Mayank Varia (not Goldberg; Goldberg's page lists her as BU PhD student, so possibly co-advised or listed loosely). Image returned HTTP 200 image/jpeg; not viewed."
+  },
+  {
+   "id": 446,
+   "name": "Qihang Yao",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "OpenAlex and DBLP APIs rate-limited/timed out; ran out of fetch routes. Web search found no source linking to Dovrolis; personal-site guesses failed."
+  },
+  {
+   "id": 447,
+   "name": "Mustafa Burak Gürbüz",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "OpenAlex and DBLP APIs rate-limited/timed out; ran out of fetch routes. Web search found no source linking to Dovrolis; personal-site guesses failed."
+  },
+  {
+   "id": 448,
+   "name": "Cameron Taylor",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "OpenAlex and DBLP APIs rate-limited/timed out; ran out of fetch routes. Web search found no source linking to Dovrolis."
+  },
+  {
+   "id": 449,
+   "name": "Shreyas Malakarjun Patil",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "phd": null,
+   "notes": "OpenAlex and DBLP APIs rate-limited/timed out; ran out of fetch routes. Web search found no source linking to Dovrolis."
+  }
+ ]
+}
