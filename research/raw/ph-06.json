@@ -1,0 +1,170 @@
+{
+ "batch": "ph-06",
+ "people": [
+  {
+   "id": 380,
+   "name": "Pu Duan",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed page"
+  },
+  {
+   "id": 381,
+   "name": "Hong Lu",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed page"
+  },
+  {
+   "id": 382,
+   "name": "Ming Zhang",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed page"
+  },
+  {
+   "id": 383,
+   "name": "Tak Cheung Lam",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed page"
+  },
+  {
+   "id": 384,
+   "name": "Sung-Oh Jung",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed page"
+  },
+  {
+   "id": 385,
+   "name": "Di Wu",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed page"
+  },
+  {
+   "id": 386,
+   "name": "Yong Xiong",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed page"
+  },
+  {
+   "id": 387,
+   "name": "Stephen George",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed page"
+  },
+  {
+   "id": 389,
+   "name": "Sophia Yoo",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed page"
+  },
+  {
+   "id": 390,
+   "name": "Shuochao Yao",
+   "photo": {
+    "image_url": "https://abdelzaher.cs.illinois.edu/images/27-shuochao.jpg",
+    "page_url": "https://abdelzaher.cs.illinois.edu/people.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot beside name on lab people page"
+  },
+  {
+   "id": 391,
+   "name": "Yiran Zhao",
+   "photo": {
+    "image_url": "https://abdelzaher.cs.illinois.edu/images/28-yiran.jpg",
+    "page_url": "https://abdelzaher.cs.illinois.edu/people.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot beside name on lab people page"
+  },
+  {
+   "id": 392,
+   "name": "Jongdeog Lee",
+   "photo": {
+    "image_url": "https://abdelzaher.cs.illinois.edu/images/29-jongdeog.jpg",
+    "page_url": "https://abdelzaher.cs.illinois.edu/people.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot beside name on lab people page"
+  },
+  {
+   "id": 394,
+   "name": "Hang Cui",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed page"
+  },
+  {
+   "id": 395,
+   "name": "Shengzhong Liu",
+   "photo": {
+    "image_url": "https://abdelzaher.cs.illinois.edu/images/shengzhong.jpg",
+    "page_url": "https://abdelzaher.cs.illinois.edu/people.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot beside name on lab people page"
+  },
+  {
+   "id": 396,
+   "name": "Dongxin Liu",
+   "photo": {
+    "image_url": "https://abdelzaher.cs.illinois.edu/images/dongxin.jpg",
+    "page_url": "https://abdelzaher.cs.illinois.edu/people.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot beside name on lab people page"
+  }
+ ]
+}

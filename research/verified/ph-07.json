@@ -1,0 +1,185 @@
+{
+ "batch": "ph-07",
+ "people": [
+  {
+   "id": 397,
+   "name": "Ruijie Wang",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://abdelzaher.cs.illinois.edu/images/ruijie.jpg",
+    "page_url": "https://abdelzaher.cs.illinois.edu/people.html",
+    "reason": "200 image/*; page names person and embeds image next to name; single-person photo"
+   },
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 398,
+   "name": "Jinyang Li",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 399,
+   "name": "Md Iftekharul Islam Sakib",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://abdelzaher.cs.illinois.edu/images/sakib.jpg",
+    "page_url": "https://abdelzaher.cs.illinois.edu/people.html",
+    "reason": "200 image/*; page names person and embeds image next to name; single-person photo"
+   },
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 400,
+   "name": "Tianshi Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 405,
+   "name": "Hongsik Yoon",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 407,
+   "name": "Qinpei Luo",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 409,
+   "name": "Baicheng Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 410,
+   "name": "Dae Cheol Kwon",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 411,
+   "name": "Wangwei Shen",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://chendy.tech/static/assets/img/wangweishen.jpg",
+    "page_url": "https://chendy.tech/",
+    "reason": "200 image/*; page names person and embeds image next to name; single-person photo"
+   },
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 412,
+   "name": "Yifeng Zhang",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://chendy.tech/static/assets/img/yifengzhang.png",
+    "page_url": "https://chendy.tech/",
+    "reason": "200 image/*; page names person and embeds image next to name; single-person photo"
+   },
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 413,
+   "name": "Tianyuan (Frank) Qiu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 414,
+   "name": "Xinyu Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 415,
+   "name": "Bhavana Vannarth Shobhana",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 417,
+   "name": "Bashayer Alharbi",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://eric-keller.github.io/img/headshot-bashayer_2025.jpg",
+    "page_url": "https://eric-keller.github.io/",
+    "reason": "200 image/*; page names person and embeds image next to name; single-person photo"
+   },
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  },
+  {
+   "id": 418,
+   "name": "Shirin Ebadi",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://eric-keller.github.io/img/shirin-headshot.jpg",
+    "page_url": "https://eric-keller.github.io/",
+    "reason": "200 image/*; page names person and embeds image next to name; single-person photo"
+   },
+   "current_position": null,
+   "bio": null,
+   "phd": null,
+   "students": []
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "batch": "ph-23",
+ "kind": "photo",
+ "people": [
+  {
+   "id": 684,
+   "name": "Hong-Wei Xu",
+   "institution": "",
+   "position": "",
+   "advisor": "Hong-Han Shuai",
+   "pages": [
+    "https://basiclab.lab.nycu.edu.tw/new/Members.html"
+   ]
+  },
+  {
+   "id": 685,
+   "name": "Tzu-Ling Lin",
+   "institution": "",
+   "position": "",
+   "advisor": "Hong-Han Shuai",
+   "pages": [
+    "https://basiclab.lab.nycu.edu.tw/new/Members.html"
+   ]
+  },
+  {
+   "id": 686,
+   "name": "Yan-Yu Lin",
+   "institution": "",
+   "position": "",
+   "advisor": "Hong-Han Shuai",
+   "pages": [
+    "https://basiclab.lab.nycu.edu.tw/new/Members.html"
+   ]
+  },
+  {
+   "id": 687,
+   "name": "Yan-Ting Lin",
+   "institution": "",
+   "position": "",
+   "advisor": "Hong-Han Shuai",
+   "pages": [
+    "https://basiclab.lab.nycu.edu.tw/new/Members.html"
+   ]
+  },
+  {
+   "id": 688,
+   "name": "Teng-Fang Hsiao",
+   "institution": "",
+   "position": "",
+   "advisor": "Hong-Han Shuai",
+   "pages": [
+    "https://basiclab.lab.nycu.edu.tw/new/Members.html"
+   ]
+  },
+  {
+   "id": 689,
+   "name": "Cheng-Tsung Lee",
+   "institution": "",
+   "position": "",
+   "advisor": "Hong-Han Shuai",
+   "pages": [
+    "https://basiclab.lab.nycu.edu.tw/new/Members.html"
+   ]
+  },
+  {
+   "id": 690,
+   "name": "Hui-Hsuan Wen",
+   "institution": "",
+   "position": "",
+   "advisor": "Hong-Han Shuai",
+   "pages": [
+    "https://basiclab.lab.nycu.edu.tw/new/Members.html"
+   ]
+  },
+  {
+   "id": 691,
+   "name": "Yu-Hsuan Chen",
+   "institution": "",
+   "position": "",
+   "advisor": "Hong-Han Shuai",
+   "pages": [
+    "https://basiclab.lab.nycu.edu.tw/new/Members.html"
+   ]
+  },
+  {
+   "id": 692,
+   "name": "Yu-Kai Chan",
+   "institution": "",
+   "position": "",
+   "advisor": "Hong-Han Shuai",
+   "pages": [
+    "https://basiclab.lab.nycu.edu.tw/new/Members.html"
+   ]
+  },
+  {
+   "id": 693,
+   "name": "Wen-Sheng Lien",
+   "institution": "",
+   "position": "",
+   "advisor": "Hong-Han Shuai",
+   "pages": [
+    "https://basiclab.lab.nycu.edu.tw/new/Members.html"
+   ]
+  },
+  {
+   "id": 694,
+   "name": "Javad Gharehchamani",
+   "institution": "Huawei Hong Kong Research Center",
+   "position": "",
+   "advisor": "Dimitris Papadopoulos",
+   "pages": [
+    "https://www.cse.ust.hk/~dipapado/docs/CV.pdf"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,161 @@
+{
+ "batch": "ph-01",
+ "people": [
+  {
+   "id": 26,
+   "name": "Chao-Ju (Jennifer) Hou",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot on listed pages"
+  },
+  {
+   "id": 32,
+   "name": "Bing-rung Tsai",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot on listed pages"
+  },
+  {
+   "id": 34,
+   "name": "Thomas Tsukada",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot on listed pages"
+  },
+  {
+   "id": 35,
+   "name": "Stuart Daniel",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot on listed pages"
+  },
+  {
+   "id": 37,
+   "name": "Sushil Birla",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot on listed pages"
+  },
+  {
+   "id": 38,
+   "name": "Ashish Mehra",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot on listed pages"
+  },
+  {
+   "id": 39,
+   "name": "Atri Indiresan",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot on listed pages"
+  },
+  {
+   "id": 40,
+   "name": "Khawar Zuberi",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot on listed pages"
+  },
+  {
+   "id": 41,
+   "name": "Emmanuel Abram-Profeta",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot on listed pages"
+  },
+  {
+   "id": 49,
+   "name": "Sunghyun Choi",
+   "photo": {
+    "image_url": "https://sites.google.com/sitesv-images-rt/AMxu72uuBnN_OzXcouiYixbj7ojyvp4uoRcxUCvACg8G0eUmJGDMOwhlAZnU7dY9d8XWS3x5dO1CoyQ4XNN2By2nk-uu6PN3vsSVmBsFRe64ZQSc8l7LNawrZC-5thnfCsI8LppaAxdbIjAkr8eIgsINRl9S7OMJWIUC9TZbLWK9qeI95x4m94HZnnfXUHX78xgbOtZqRynXx_unCRgyqY2H1cJsU8rp1ISrNv14NPNxTtY=w1280",
+    "page_url": "https://sites.google.com/view/sunghyun-chois-home"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "headshot found on page"
+  },
+  {
+   "id": 53,
+   "name": "Hani Jamjoom",
+   "photo": {
+    "image_url": "http://jamjoom.net/images/hani_jamjoom_2022.jpg",
+    "page_url": "http://jamjoom.net/"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "headshot found on page"
+  },
+  {
+   "id": 62,
+   "name": "Mohamad El-Gendy",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot on listed pages"
+  },
+  {
+   "id": 63,
+   "name": "Songkuk Kim",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot on listed pages"
+  },
+  {
+   "id": 64,
+   "name": "Hai Huang",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot on listed pages"
+  },
+  {
+   "id": 65,
+   "name": "Jai-Jin Lim",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot on listed pages"
+  }
+ ]
+}

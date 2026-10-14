@@ -1,0 +1,158 @@
+{
+ "batch": "ph-11",
+ "kind": "photo",
+ "people": [
+  {
+   "id": 480,
+   "name": "Wei Zhao",
+   "institution": "",
+   "position": "",
+   "advisor": "Rong Zheng",
+   "pages": [
+    "http://www.cas.mcmaster.ca/~rzheng/"
+   ]
+  },
+  {
+   "id": 481,
+   "name": "Keivan Nalaie",
+   "institution": "Mayo Clinic (postdoctoral fellow)",
+   "position": "",
+   "advisor": "Rong Zheng",
+   "pages": [
+    "http://www.cas.mcmaster.ca/~rzheng/"
+   ]
+  },
+  {
+   "id": 482,
+   "name": "Yujiao Hao",
+   "institution": "Huawei Canada",
+   "position": "",
+   "advisor": "Rong Zheng",
+   "pages": [
+    "http://www.cas.mcmaster.ca/~rzheng/"
+   ]
+  },
+  {
+   "id": 483,
+   "name": "Yihao Fang",
+   "institution": "Queen's University / Lexivalley Inc.",
+   "position": "",
+   "advisor": "Rong Zheng",
+   "pages": [
+    "https://wiser.cas.mcmaster.ca/?page_id=198"
+   ]
+  },
+  {
+   "id": 484,
+   "name": "Mehdi Jafarizadeh",
+   "institution": "Shabodi",
+   "position": "",
+   "advisor": "Rong Zheng",
+   "pages": [
+    "https://wiser.cas.mcmaster.ca/?page_id=198"
+   ]
+  },
+  {
+   "id": 485,
+   "name": "Ala Shaabana",
+   "institution": "University of Waterloo",
+   "position": "",
+   "advisor": "Rong Zheng",
+   "pages": [
+    "https://wiser.cas.mcmaster.ca/?page_id=198"
+   ]
+  },
+  {
+   "id": 486,
+   "name": "Yongyong Wei",
+   "institution": "SAP",
+   "position": "",
+   "advisor": "Rong Zheng",
+   "pages": [
+    "https://wiser.cas.mcmaster.ca/?page_id=198"
+   ]
+  },
+  {
+   "id": 487,
+   "name": "Qiang Xu",
+   "institution": "Huawei Canada",
+   "position": "Huawei HMI Lab, Canada",
+   "advisor": "Rong Zheng",
+   "pages": [
+    "https://wiser.cas.mcmaster.ca/?page_id=198"
+   ]
+  },
+  {
+   "id": 488,
+   "name": "Taejin Kwak",
+   "institution": "Korea University",
+   "position": "",
+   "advisor": "Hwangnam Kim",
+   "pages": [
+    "https://wine.korea.ac.kr/members"
+   ]
+  },
+  {
+   "id": 489,
+   "name": "Sanghong Kim",
+   "institution": "Korea University",
+   "position": "",
+   "advisor": "Hwangnam Kim",
+   "pages": [
+    "https://wine.korea.ac.kr/members"
+   ]
+  },
+  {
+   "id": 490,
+   "name": "Jeongmin Lee",
+   "institution": "Korea University",
+   "position": "Ph.D. student, Korea University (WINE Lab)",
+   "advisor": "Hwangnam Kim",
+   "pages": [
+    "https://wine.korea.ac.kr/members/jeongmin-lee",
+    "https://wine.korea.ac.kr/members"
+   ]
+  },
+  {
+   "id": 491,
+   "name": "Minsu Cha",
+   "institution": "Korea University",
+   "position": "Ph.D. student, Korea University (WINE Lab)",
+   "advisor": "Hwangnam Kim",
+   "pages": [
+    "https://wine.korea.ac.kr/members/minsu-cha",
+    "https://wine.korea.ac.kr/members"
+   ]
+  },
+  {
+   "id": 492,
+   "name": "Taehoon Yoo",
+   "institution": "Samsung Electronics",
+   "position": "Samsung Electronics",
+   "advisor": "Hwangnam Kim",
+   "pages": [
+    "https://wine.korea.ac.kr/members"
+   ]
+  },
+  {
+   "id": 493,
+   "name": "Sangmin Lee",
+   "institution": "Samsung Electronics",
+   "position": "Samsung Electronics",
+   "advisor": "Hwangnam Kim",
+   "pages": [
+    "https://wine.korea.ac.kr/members"
+   ]
+  },
+  {
+   "id": 494,
+   "name": "Hyeontae Joo",
+   "institution": "Samsung Electronics",
+   "position": "Samsung Electronics",
+   "advisor": "Hwangnam Kim",
+   "pages": [
+    "https://wine.korea.ac.kr/members"
+   ]
+  }
+ ]
+}

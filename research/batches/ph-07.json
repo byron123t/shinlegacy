@@ -1,0 +1,158 @@
+{
+ "batch": "ph-07",
+ "kind": "photo",
+ "people": [
+  {
+   "id": 397,
+   "name": "Ruijie Wang",
+   "institution": "University of Illinois Urbana-Champaign",
+   "position": "",
+   "advisor": "Tarek Abdelzaher",
+   "pages": [
+    "https://abdelzaher.cs.illinois.edu/people.html"
+   ]
+  },
+  {
+   "id": 398,
+   "name": "Jinyang Li",
+   "institution": "University of Illinois Urbana-Champaign",
+   "position": "",
+   "advisor": "Tarek Abdelzaher",
+   "pages": [
+    "https://abdelzaher.cs.illinois.edu/people.html"
+   ]
+  },
+  {
+   "id": 399,
+   "name": "Md Iftekharul Islam Sakib",
+   "institution": "University of Illinois Urbana-Champaign",
+   "position": "",
+   "advisor": "Tarek Abdelzaher",
+   "pages": [
+    "https://abdelzaher.cs.illinois.edu/people.html"
+   ]
+  },
+  {
+   "id": 400,
+   "name": "Tianshi Wang",
+   "institution": "University of Illinois Urbana-Champaign",
+   "position": "",
+   "advisor": "Tarek Abdelzaher",
+   "pages": [
+    "https://abdelzaher.cs.illinois.edu/people.html"
+   ]
+  },
+  {
+   "id": 405,
+   "name": "Hongsik Yoon",
+   "institution": "UC San Diego",
+   "position": "",
+   "advisor": "Xinyu Zhang",
+   "pages": [
+    "https://xyzhang.ucsd.edu/data.js"
+   ]
+  },
+  {
+   "id": 407,
+   "name": "Qinpei Luo",
+   "institution": "UC San Diego",
+   "position": "Ph.D. student, University of California San Diego",
+   "advisor": "Xinyu Zhang",
+   "pages": [
+    "https://scholar.google.com/citations?user=NezngRAAAAAJ&hl=en",
+    "https://xyzhang.ucsd.edu/data.js"
+   ]
+  },
+  {
+   "id": 409,
+   "name": "Baicheng Chen",
+   "institution": "UC San Diego",
+   "position": "Ph.D. Candidate in Computer Science, UC San Diego",
+   "advisor": "Xinyu Zhang",
+   "pages": [
+    "https://www.baichengchen.com/",
+    "https://xyzhang.ucsd.edu/data.js"
+   ]
+  },
+  {
+   "id": 410,
+   "name": "Dae Cheol Kwon",
+   "institution": "UC San Diego",
+   "position": "",
+   "advisor": "Xinyu Zhang",
+   "pages": [
+    "https://xyzhang.ucsd.edu/data.js"
+   ]
+  },
+  {
+   "id": 411,
+   "name": "Wangwei Shen",
+   "institution": "",
+   "position": "",
+   "advisor": "Dongyao Chen",
+   "pages": [
+    "https://chendy.tech/"
+   ]
+  },
+  {
+   "id": 412,
+   "name": "Yifeng Zhang",
+   "institution": "",
+   "position": "",
+   "advisor": "Dongyao Chen",
+   "pages": [
+    "https://chendy.tech/"
+   ]
+  },
+  {
+   "id": 413,
+   "name": "Tianyuan (Frank) Qiu",
+   "institution": "Purdue University",
+   "position": "",
+   "advisor": "Xiaoqi Chen",
+   "pages": [
+    "https://engineering.purdue.edu/~xiaoqic/group.html"
+   ]
+  },
+  {
+   "id": 414,
+   "name": "Xinyu Chen",
+   "institution": "Purdue University",
+   "position": "",
+   "advisor": "Xiaoqi Chen",
+   "pages": [
+    "https://engineering.purdue.edu/~xiaoqic/group.html"
+   ]
+  },
+  {
+   "id": 415,
+   "name": "Bhavana Vannarth Shobhana",
+   "institution": "Rutgers University",
+   "position": "",
+   "advisor": "Srinivas Narayana",
+   "pages": [
+    "https://people.cs.rutgers.edu/~sn624/"
+   ]
+  },
+  {
+   "id": 417,
+   "name": "Bashayer Alharbi",
+   "institution": "University of Colorado Boulder",
+   "position": "",
+   "advisor": "Eric Keller",
+   "pages": [
+    "https://eric-keller.github.io/"
+   ]
+  },
+  {
+   "id": 418,
+   "name": "Shirin Ebadi",
+   "institution": "University of Colorado Boulder",
+   "position": "",
+   "advisor": "Eric Keller",
+   "pages": [
+    "https://eric-keller.github.io/"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,176 @@
+{
+ "batch": "ph-08",
+ "people": [
+  {
+   "id": 419,
+   "name": "Sara Daneshvar",
+   "photo": {
+    "image_url": "https://eric-keller.github.io/img/headshot-sara-daneshvar.jpg",
+    "page_url": "https://eric-keller.github.io/"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot from lab team section on Eric Keller's page."
+  },
+  {
+   "id": 420,
+   "name": "Richard Thompson",
+   "photo": {
+    "image_url": "https://eric-keller.github.io/img/headshot-richard-thompson.jpg",
+    "page_url": "https://eric-keller.github.io/"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot from lab team section on Eric Keller's page."
+  },
+  {
+   "id": 421,
+   "name": "Victor Jimenez",
+   "photo": {
+    "image_url": "https://eric-keller.github.io/img/headshot-victor-jimenez.png",
+    "page_url": "https://eric-keller.github.io/"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot from lab team section on Eric Keller's page."
+  },
+  {
+   "id": 423,
+   "name": "Maziyar Nazari",
+   "photo": {
+    "image_url": "https://eric-keller.github.io/img/headshot-maziyar.jpg",
+    "page_url": "https://eric-keller.github.io/"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot from lab team section on Eric Keller's page."
+  },
+  {
+   "id": 424,
+   "name": "Karl Olson",
+   "photo": {
+    "image_url": "https://eric-keller.github.io/img/headshot-karl.jpg",
+    "page_url": "https://eric-keller.github.io/"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot from lab team section on Eric Keller's page."
+  },
+  {
+   "id": 427,
+   "name": "Sepideh Goodarzy",
+   "photo": {
+    "image_url": "https://eric-keller.github.io/img/headshot-sepideh.jpg",
+    "page_url": "https://eric-keller.github.io/"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot from lab team section on Eric Keller's page."
+  },
+  {
+   "id": 428,
+   "name": "Mohammad Hashemi",
+   "photo": {
+    "image_url": "https://eric-keller.github.io/img/headshot-mohammad.jpg",
+    "page_url": "https://eric-keller.github.io/"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot from lab team section on Eric Keller's page."
+  },
+  {
+   "id": 432,
+   "name": "Junzhi Gong",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed pages."
+  },
+  {
+   "id": 436,
+   "name": "Omid Alipourfard",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed pages."
+  },
+  {
+   "id": 439,
+   "name": "Minghao Li",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed pages."
+  },
+  {
+   "id": 440,
+   "name": "Xingyu Xiang",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed pages."
+  },
+  {
+   "id": 441,
+   "name": "Yiyu Liu",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed pages."
+  },
+  {
+   "id": 442,
+   "name": "Xuanlin Jiang",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed pages."
+  },
+  {
+   "id": 443,
+   "name": "Ethan Heilman",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed pages."
+  },
+  {
+   "id": 444,
+   "name": "Aanchal Malhotra",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed pages."
+  }
+ ]
+}

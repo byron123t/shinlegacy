@@ -1,0 +1,195 @@
+{
+ "batch": "ph-19",
+ "people": [
+  {
+   "id": 606,
+   "name": "Lihao Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 607,
+   "name": "Ding Zhao",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 608,
+   "name": "Ruirong Huang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 609,
+   "name": "Hyunmin Park",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 614,
+   "name": "Mason Kadem",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://wiser.cas.mcmaster.ca/wp-content/uploads/2025/03/Mason-263x216.jpg",
+    "page_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+    "reason": "200 image/*; single-person photo; embedded in this person's entry on people page"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 615,
+   "name": "Longyun Liao",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://wiser.cas.mcmaster.ca/wp-content/uploads/2021/09/Longyun-263x216.jpg",
+    "page_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+    "reason": "200 image/*; single-person photo; embedded in this person's entry on people page"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 616,
+   "name": "Andrew Mitchell",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://wiser.cas.mcmaster.ca/wp-content/uploads/2021/09/Andrew-Mitchell-263x216.png",
+    "page_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+    "reason": "200 image/*; single-person photo; embedded in this person's entry on people page"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 617,
+   "name": "Bodee Quansah",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://wiser.cas.mcmaster.ca/wp-content/uploads/2021/09/Bodee-263x216.jpg",
+    "page_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+    "reason": "200 image/*; single-person photo; embedded in this person's entry on people page"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 618,
+   "name": "Margaret Xie",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://wiser.cas.mcmaster.ca/wp-content/uploads/2023/09/margaretCrop-263x216.jpg",
+    "page_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+    "reason": "200 image/*; single-person photo; embedded in this person's entry on people page"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 619,
+   "name": "Yunkai Yu",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://wiser.cas.mcmaster.ca/wp-content/uploads/2022/08/Yunkai-263x216.jpeg",
+    "page_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+    "reason": "200 image/*; single-person photo; embedded in this person's entry on people page"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 620,
+   "name": "Navid Zandi",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://wiser.cas.mcmaster.ca/wp-content/uploads/2022/06/MicrosoftTeams-image-263x216.jpg",
+    "page_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+    "reason": "200 image/*; single-person photo; embedded in this person's entry on people page"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 621,
+   "name": "Namkyung Yoon",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sFwdF_dJUPMqVJeeN8Gc7by5bWOXVermFr23vo1Gw2LWVRozIYNQb13QbjJzkasmXUas29ue-9heMsjeTgl3SPU4e9ef-awxENkOwkwXLbpogQ4EZcxH8x1EOiZdDTAFgdHtUFFO44zwhfEKHfI7j8prQRaU7aL47ZfXSp2ipDRzub8R7HBkSj4LtQHpf8ZG8ab1Tt5vSBODBEQK78Zx2W7hAOTa46AdM-yFVz=w1280",
+    "page_url": "https://wine.korea.ac.kr/members/namkyung-yoon",
+    "reason": "200 image/*; single-person photo; embedded in this person's entry on people page"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 622,
+   "name": "Kiseok Kim",
+   "website": null,
+   "photo": {
+    "verdict": "rejected",
+    "image_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s5GrEP8mKIJoypqR01nOl6TOnPL5PoKu6xSk570FumPMhoqEyJ-ReWKJtjRCzgMe7Ijtj8-Xpw_8YsiDRGt2D80IVqQQ2fdll3YGACNdJnwoVokv_13xi0VH0SdqqhSCQJCU8YrzX3VlZq72e3dEQzBlM9yDmgkeyZzXaeEFUogGoLQsTRydOjF9i3xKDPlt7c5zNpv6lQbG7pxC3PnQA2Zop70DVitJrX7ILV=w1280",
+    "page_url": "https://wine.korea.ac.kr/members/kiseok-kim",
+    "reason": "image_url returns 403 text/html and is not embedded in the page HTML as given"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 623,
+   "name": "Changmin Park",
+   "website": null,
+   "photo": {
+    "verdict": "rejected",
+    "image_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72txNKRSFctK4KedOhfklBYPKPPDs9LQpDehnx-n8T6OaMbl8p2R3VGZo8KIqK9X27hyn0jFncILhr0r8PC5E1eklgqyyUq9MD0_BGHtyixphr2O1lJ2fjSHvlXdPL_1mWhTr-h-2czA6REK9vToQ4yriMhzT021WAyma96mFqFQ_bDg0xfYLYqEBYbbzTQmxsix71GjYcqVOcwiQWEbca_xO5EaT1YW1Ma-W-ho=w1280",
+    "page_url": "https://wine.korea.ac.kr/members/changmin-park",
+    "reason": "image_url returns 403 text/html and is not embedded in the page HTML as given"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 624,
+   "name": "Kyeonghyun Yoo",
+   "website": null,
+   "photo": {
+    "verdict": "rejected",
+    "image_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s2S1BjsID2mb-813FeklBOldcgsXNHmhdkd0KP7QsAPosAsayPhPA74Qx3Dmx2SIADcmLzevhXBLWXxYb1vTgu4PTl8Aj5ExKC7ZYfzI1CukUgp_g8k8ddWVk7BZX2ki5ySedOJPEKMRwe7XiDwZZ4YIY-aS02G3Kq3q04NoI9mQL8QgK9kM-xLliuHH6Zuk2aee23_l_n7bqMyRDN0YjUf-brk5umFBud3135M7w=w1280",
+    "page_url": "https://wine.korea.ac.kr/members/kyeonghyun-yoo",
+    "reason": "image_url returns 403 text/html and is not embedded in the page HTML as given"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  }
+ ]
+}

@@ -1,0 +1,185 @@
+{
+ "batch": "ph-14",
+ "people": [
+  {
+   "id": 527,
+   "name": "Chung-Kuang Chou",
+   "photo": {
+    "image_url": "https://arbor.ee.ntu.edu.tw/static/img/alumni/tn_CKChou.jpg",
+    "page_url": "https://arbor.ee.ntu.edu.tw/alumni.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "photo from lab page"
+  },
+  {
+   "id": 528,
+   "name": "Cheng-Ying Liu",
+   "photo": {
+    "image_url": "https://arbor.ee.ntu.edu.tw/static/img/alumni/tn_bermuda.jpg",
+    "page_url": "https://arbor.ee.ntu.edu.tw/alumni.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "photo from lab page"
+  },
+  {
+   "id": 529,
+   "name": "Jiann-Min Ho",
+   "photo": {
+    "image_url": "https://arbor.ee.ntu.edu.tw/static/img/alumni/tn_jeremyho.jpg",
+    "page_url": "https://arbor.ee.ntu.edu.tw/alumni.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "photo from lab page"
+  },
+  {
+   "id": 530,
+   "name": "Ya-Wen Teng",
+   "photo": {
+    "image_url": "https://arbor.ee.ntu.edu.tw/static/img/alumni/tn_ywteng.jpg",
+    "page_url": "https://arbor.ee.ntu.edu.tw/alumni.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "photo from lab page"
+  },
+  {
+   "id": 531,
+   "name": "Chi-Hsuan Wu",
+   "photo": {
+    "image_url": "https://arbor.ee.ntu.edu.tw/static/img/alumni/tn_wush.jpg",
+    "page_url": "https://arbor.ee.ntu.edu.tw/alumni.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "photo from lab page"
+  },
+  {
+   "id": 532,
+   "name": "Hsi-Wen Chen",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no usable headshot (placeholder/non-portrait/sunglasses)"
+  },
+  {
+   "id": 533,
+   "name": "Chin-Yuan Yeh",
+   "photo": {
+    "image_url": "https://arbor.ee.ntu.edu.tw/static/img/member/%E8%91%89%E6%B4%A5%E6%BA%90.jpg",
+    "page_url": "https://arbor.ee.ntu.edu.tw/member.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "photo from lab page"
+  },
+  {
+   "id": 534,
+   "name": "Hung-Te Lee",
+   "photo": {
+    "image_url": "https://arbor.ee.ntu.edu.tw/static/img/member/%E6%9D%8E%E5%AE%8F%E5%BE%B7.jpg",
+    "page_url": "https://arbor.ee.ntu.edu.tw/member.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "photo from lab page"
+  },
+  {
+   "id": 535,
+   "name": "Rui Fang",
+   "photo": {
+    "image_url": "https://arbor.ee.ntu.edu.tw/static/img/member/%E6%96%B9%E7%9D%BF.jpg",
+    "page_url": "https://arbor.ee.ntu.edu.tw/member.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "photo from lab page"
+  },
+  {
+   "id": 536,
+   "name": "Shih-Hsuan Chiu",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no usable headshot (placeholder/non-portrait/sunglasses)"
+  },
+  {
+   "id": 537,
+   "name": "Yen-Hsin Hsu",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no usable headshot (placeholder/non-portrait/sunglasses)"
+  },
+  {
+   "id": 538,
+   "name": "Dustin Wu",
+   "photo": {
+    "image_url": "https://arbor.ee.ntu.edu.tw/static/img/member/%E5%90%B3%E9%81%94%E4%BF%A1.jpg",
+    "page_url": "https://arbor.ee.ntu.edu.tw/member.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "photo from lab page"
+  },
+  {
+   "id": 539,
+   "name": "Ying-Hua Huang",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no usable headshot (placeholder/non-portrait/sunglasses)"
+  },
+  {
+   "id": 540,
+   "name": "Yi-Ting Lee",
+   "photo": {
+    "image_url": "https://arbor.ee.ntu.edu.tw/static/img/member/%E6%9D%8E%E4%BE%9D%E5%BA%AD.jpg",
+    "page_url": "https://arbor.ee.ntu.edu.tw/member.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "photo from lab page"
+  },
+  {
+   "id": 541,
+   "name": "Hsiang-Hui Liu",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no usable headshot (placeholder/non-portrait/sunglasses)"
+  }
+ ]
+}

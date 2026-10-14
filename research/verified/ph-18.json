@@ -1,0 +1,170 @@
+{
+  "batch": "ph-18",
+  "people": [
+    {
+      "id": 591,
+      "name": "Jarallah Alqahtani",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 592,
+      "name": "Mohamed Grissa",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 593,
+      "name": "Bassem Khalfi",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 594,
+      "name": "Sherif Abdelwahab",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 595,
+      "name": "Hassan Sinky",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 596,
+      "name": "Nadia Adem",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 597,
+      "name": "Mehiar Dabbagh",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 598,
+      "name": "MohammadJavad NoroozOliaee",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 599,
+      "name": "Omar Alsaleh",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 600,
+      "name": "Nessrine Chakchouk",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 601,
+      "name": "Samina Ehsan",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 602,
+      "name": "Jun Chen",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://research.engr.oregonstate.edu/hamdaoui/sites/research.engr.oregonstate.edu.hamdaoui/files/jun_chen2.jpg",
+        "page_url": "https://research.engr.oregonstate.edu/hamdaoui/current-members",
+        "reason": "Page names person and embeds image next to entry; 200 image/jpeg; single-person portrait"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 603,
+      "name": "Nora Basha",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://research.engr.oregonstate.edu/hamdaoui/sites/research.engr.oregonstate.edu.hamdaoui/files/nora_basha.jpg",
+        "page_url": "https://research.engr.oregonstate.edu/hamdaoui/current-members",
+        "reason": "Page names person and embeds image next to entry; 200 image/jpeg; single-person portrait"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 604,
+      "name": "Haytham Albousayri",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://research.engr.oregonstate.edu/hamdaoui/sites/research.engr.oregonstate.edu.hamdaoui/files/haytham.jpeg",
+        "page_url": "https://research.engr.oregonstate.edu/hamdaoui/current-members",
+        "reason": "Page names person and embeds image next to entry; 200 image/jpeg; single-person portrait"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 605,
+      "name": "Zhe Ou",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    }
+  ]
+}

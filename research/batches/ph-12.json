@@ -1,0 +1,156 @@
+{
+ "batch": "ph-12",
+ "kind": "photo",
+ "people": [
+  {
+   "id": 495,
+   "name": "DongKyu Lee",
+   "institution": "Devguru (postdoctoral fellow)",
+   "position": "Postdoctoral fellow, Devguru",
+   "advisor": "Hwangnam Kim",
+   "pages": [
+    "https://wine.korea.ac.kr/members"
+   ]
+  },
+  {
+   "id": 496,
+   "name": "Seongjoon Park",
+   "institution": "Samsung Electronics",
+   "position": "Samsung Electronics",
+   "advisor": "Hwangnam Kim",
+   "pages": [
+    "https://wine.korea.ac.kr/members"
+   ]
+  },
+  {
+   "id": 497,
+   "name": "Joon Yeop Lee",
+   "institution": "Samsung Electronics",
+   "position": "Samsung Electronics",
+   "advisor": "Hwangnam Kim",
+   "pages": [
+    "https://wine.korea.ac.kr/members"
+   ]
+  },
+  {
+   "id": 498,
+   "name": "Kwang Jae Sung",
+   "institution": "Sangmyung University",
+   "position": "Assistant Professor, Sangmyung University",
+   "advisor": "Hwangnam Kim",
+   "pages": [
+    "https://wine.korea.ac.kr/members"
+   ]
+  },
+  {
+   "id": 499,
+   "name": "Woonghee Lee",
+   "institution": "Dongguk University",
+   "position": "Assistant Professor, Dongguk University",
+   "advisor": "Hwangnam Kim",
+   "pages": [
+    "https://wine.korea.ac.kr/members"
+   ]
+  },
+  {
+   "id": 500,
+   "name": "Jongtack Jung",
+   "institution": "SK hynix",
+   "position": "",
+   "advisor": "Hwangnam Kim",
+   "pages": [
+    "https://wine.korea.ac.kr/members"
+   ]
+  },
+  {
+   "id": 501,
+   "name": "Christodoulos Pappas",
+   "institution": "HKUST",
+   "position": "",
+   "advisor": "Dimitris Papadopoulos",
+   "pages": [
+    "https://www.cse.ust.hk/~dipapado/"
+   ]
+  },
+  {
+   "id": 502,
+   "name": "Jiajun Xin",
+   "institution": "",
+   "position": "",
+   "advisor": "Dimitris Papadopoulos",
+   "pages": [
+    "https://www.cse.ust.hk/~dipapado/"
+   ]
+  },
+  {
+   "id": 503,
+   "name": "Isamar Troncoso",
+   "institution": "Harvard Business School",
+   "position": "",
+   "advisor": "Davide Proserpio",
+   "pages": [
+    "https://dadepro.github.io/"
+   ]
+  },
+  {
+   "id": 504,
+   "name": "Grant Phillips",
+   "institution": "University of Nebraska-Lincoln",
+   "position": "Marble Technologies",
+   "advisor": "Justin Bradley",
+   "pages": [
+    "http://justinbradley.unl.edu/teaching"
+   ]
+  },
+  {
+   "id": 505,
+   "name": "Balaji Balasubramaniam",
+   "institution": "University of Nebraska-Lincoln",
+   "position": "",
+   "advisor": "Justin Bradley",
+   "pages": [
+    "http://justinbradley.unl.edu/teaching"
+   ]
+  },
+  {
+   "id": 506,
+   "name": "Chandima Fernando",
+   "institution": "Brookhaven National Laboratory",
+   "position": "Brookhaven National Laboratory",
+   "advisor": "Justin Bradley",
+   "pages": [
+    "http://justinbradley.unl.edu/teaching"
+   ]
+  },
+  {
+   "id": 507,
+   "name": "Adam Plowcha",
+   "institution": "University of Nebraska-Lincoln",
+   "position": "",
+   "advisor": "Justin Bradley",
+   "pages": [
+    "http://justinbradley.unl.edu/teaching"
+   ]
+  },
+  {
+   "id": 508,
+   "name": "Xinkai Zhang",
+   "institution": "Volvo",
+   "position": "Volvo",
+   "advisor": "Justin Bradley",
+   "pages": [
+    "http://justinbradley.unl.edu/teaching"
+   ]
+  },
+  {
+   "id": 510,
+   "name": "Pengyu Chu",
+   "institution": "Huawei",
+   "position": "Employee at Huawei",
+   "advisor": "Zhaojian Li",
+   "pages": [
+    "https://www.egr.msu.edu/rival/group.html"
+   ]
+  }
+ ]
+}

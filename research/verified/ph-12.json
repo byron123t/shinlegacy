@@ -1,0 +1,160 @@
+{
+  "batch": "ph-12",
+  "people": [
+    {
+      "id": 495,
+      "name": "DongKyu Lee",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 496,
+      "name": "Seongjoon Park",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 497,
+      "name": "Joon Yeop Lee",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 498,
+      "name": "Kwang Jae Sung",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 499,
+      "name": "Woonghee Lee",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 500,
+      "name": "Jongtack Jung",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 501,
+      "name": "Christodoulos Pappas",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 502,
+      "name": "Jiajun Xin",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 503,
+      "name": "Isamar Troncoso",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 504,
+      "name": "Grant Phillips",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 505,
+      "name": "Balaji Balasubramaniam",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 506,
+      "name": "Chandima Fernando",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 507,
+      "name": "Adam Plowcha",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 508,
+      "name": "Xinkai Zhang",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 510,
+      "name": "Pengyu Chu",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://www.egr.msu.edu/rival/portraits/pengyu_chu.jpg",
+        "page_url": "https://www.egr.msu.edu/rival/group.html",
+        "reason": "Page names person and embeds image next to entry; 200 image/jpeg; single-person portrait"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+ "batch": "ph-09",
+ "people": [
+  {
+   "id": 446,
+   "name": "Qihang Yao",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Photo pass: no headshot of this person on listed pages (Dovrolis page has no photos; Google Sites page has no image of this person; SYREX team page shows no avatar for alumni)."
+  },
+  {
+   "id": 447,
+   "name": "Mustafa Burak Gürbüz",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Photo pass: no headshot of this person on listed pages (Dovrolis page has no photos; Google Sites page has no image of this person; SYREX team page shows no avatar for alumni)."
+  },
+  {
+   "id": 448,
+   "name": "Cameron Taylor",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Photo pass: no headshot of this person on listed pages (Dovrolis page has no photos; Google Sites page has no image of this person; SYREX team page shows no avatar for alumni)."
+  },
+  {
+   "id": 449,
+   "name": "Shreyas Malakarjun Patil",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Photo pass: no headshot of this person on listed pages (Dovrolis page has no photos; Google Sites page has no image of this person; SYREX team page shows no avatar for alumni)."
+  },
+  {
+   "id": 450,
+   "name": "Kamal Shadi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Photo pass: no headshot of this person on listed pages (Dovrolis page has no photos; Google Sites page has no image of this person; SYREX team page shows no avatar for alumni)."
+  },
+  {
+   "id": 451,
+   "name": "Kaeser Md. Sabrin",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Photo pass: no headshot of this person on listed pages (Dovrolis page has no photos; Google Sites page has no image of this person; SYREX team page shows no avatar for alumni)."
+  },
+  {
+   "id": 452,
+   "name": "Payam Siyari",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Photo pass: no headshot of this person on listed pages (Dovrolis page has no photos; Google Sites page has no image of this person; SYREX team page shows no avatar for alumni)."
+  },
+  {
+   "id": 453,
+   "name": "Siddarth Sitaraman",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Photo pass: no headshot of this person on listed pages (Dovrolis page has no photos; Google Sites page has no image of this person; SYREX team page shows no avatar for alumni)."
+  },
+  {
+   "id": 454,
+   "name": "Huseyin Sahin",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Photo pass: no headshot of this person on listed pages (Dovrolis page has no photos; Google Sites page has no image of this person; SYREX team page shows no avatar for alumni)."
+  },
+  {
+   "id": 455,
+   "name": "Emmanuel Addo Addae",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Photo pass: no headshot of this person on listed pages (Dovrolis page has no photos; Google Sites page has no image of this person; SYREX team page shows no avatar for alumni)."
+  },
+  {
+   "id": 456,
+   "name": "Pingping Cai",
+   "website": null,
+   "photo": {
+    "image_url": "https://syrex.cse.sc.edu/team/pingping-cai/avatar_hu480999116011488402.jpg",
+    "page_url": "https://syrex.cse.sc.edu/team/"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Photo pass: opened listed pages via curl; headshot found on SYREX team page."
+  },
+  {
+   "id": 457,
+   "name": "Zhuangzhuang Gu",
+   "website": null,
+   "photo": {
+    "image_url": "https://syrex.cse.sc.edu/team/zhuangzhuang-gu/avatar_hu18207808271084526956.jpg",
+    "page_url": "https://syrex.cse.sc.edu/team/"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Photo pass: opened listed pages via curl; headshot found on SYREX team page."
+  },
+  {
+   "id": 459,
+   "name": "Zarin Shejuti",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Photo pass: no headshot of this person on listed pages (Dovrolis page has no photos; Google Sites page has no image of this person; SYREX team page shows no avatar for alumni)."
+  },
+  {
+   "id": 460,
+   "name": "Aayush Shrestha",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Photo pass: no headshot of this person on listed pages (Dovrolis page has no photos; Google Sites page has no image of this person; SYREX team page shows no avatar for alumni)."
+  },
+  {
+   "id": 461,
+   "name": "Abdulahi Taiwo",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Photo pass: no headshot of this person on listed pages (Dovrolis page has no photos; Google Sites page has no image of this person; SYREX team page shows no avatar for alumni)."
+  }
+ ]
+}

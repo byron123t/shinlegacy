@@ -1,0 +1,160 @@
+{
+ "batch": "ph-03",
+ "kind": "photo",
+ "people": [
+  {
+   "id": 102,
+   "name": "Youssef Tobah",
+   "institution": "MIT Lincoln Lab",
+   "position": "",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://dblp.org/pid/221/1574.html",
+    "https://rtcl.eecs.umich.edu/rtclweb/assets/dissertations/2025/ytobah_thesis.pdf",
+    "https://rtcl.eecs.umich.edu/rtclweb//dissertations",
+    "https://www.usenix.org/conference/usenixsecurity24/presentation/tobah"
+   ]
+  },
+  {
+   "id": 103,
+   "name": "Yue Gao",
+   "institution": "Google Deepmind",
+   "position": "Research Engineer, Google DeepMind",
+   "advisor": "Kassem Fawaz",
+   "pages": [
+    "https://pages.cs.wisc.edu/~gy/"
+   ]
+  },
+  {
+   "id": 104,
+   "name": "Yucheng Yang",
+   "institution": "Meta",
+   "position": "",
+   "advisor": "Kassem Fawaz",
+   "pages": [
+    "https://wiscprivacy.com/member/member_yucheng/"
+   ]
+  },
+  {
+   "id": 111,
+   "name": "Yufei Zheng",
+   "institution": "University of Massachusetts at Amherst",
+   "position": "Postdoctoral Research Associate, Manning CICS, UMass Amherst",
+   "advisor": "Jennifer Rexford",
+   "pages": [
+    "https://cics.umass.edu/about/directory/yufei-zheng"
+   ]
+  },
+  {
+   "id": 122,
+   "name": "Peng Sun",
+   "institution": "VMware",
+   "position": "Software Engineering Manager, Facebook (Meta), Seattle",
+   "advisor": "Jennifer Rexford",
+   "pages": [
+    "https://www.pengsun.org/"
+   ]
+  },
+  {
+   "id": 128,
+   "name": "Sharon Goldberg",
+   "institution": "Microsoft Research",
+   "position": "Associate Professor of Computer Science, Boston University",
+   "advisor": "Jennifer Rexford",
+   "pages": [
+    "https://www.cs.bu.edu/fac/goldbe/"
+   ]
+  },
+  {
+   "id": 129,
+   "name": "Haakon Ringberg",
+   "institution": "Google NYC",
+   "position": "Senior Director of Engineering, Google (New York City)",
+   "advisor": "Jennifer Rexford",
+   "pages": [
+    "http://haakonringberg.com/"
+   ]
+  },
+  {
+   "id": 130,
+   "name": "Elliott Karpilovsky",
+   "institution": "Google",
+   "position": "",
+   "advisor": "Jennifer Rexford",
+   "pages": [
+    "http://haakonringberg.com/"
+   ]
+  },
+  {
+   "id": 140,
+   "name": "Chin-ya Huang",
+   "institution": "National Taiwan University of Science and Technology",
+   "position": "",
+   "advisor": "Parameswaran Ramanathan",
+   "pages": [
+    "https://sites.google.com/a/gapps.ntust.edu.tw/chin-ya-huang/"
+   ]
+  },
+  {
+   "id": 149,
+   "name": "Kuang-Ching Wang",
+   "institution": "Clemson University",
+   "position": "Empire Innovation Professor of Trustworthy AI and Director of the School of Computing, Binghamton University (SUNY); formerly Provost Distinguished Professor, Clemson University",
+   "advisor": "Parameswaran Ramanathan",
+   "pages": [
+    "http://people.clemson.edu/~kwang/"
+   ]
+  },
+  {
+   "id": 151,
+   "name": "Amrita Roy Chowdhury",
+   "institution": "University of Michigan",
+   "position": "Assistant Professor of Computer Science and Engineering, University of Michigan",
+   "advisor": "Parameswaran Ramanathan",
+   "pages": [
+    "https://sites.google.com/wisc.edu/amrita-roy-chowdhury/"
+   ]
+  },
+  {
+   "id": 164,
+   "name": "Timothy Woodford",
+   "institution": "MIT Lincoln Lab",
+   "position": "Research Scientist, MIT Lincoln Laboratory",
+   "advisor": "Xinyu Zhang",
+   "pages": [
+    "https://www.twoodford.net/"
+   ]
+  },
+  {
+   "id": 181,
+   "name": "Shirley Zhang",
+   "institution": "",
+   "position": "PhD student in Computer Science, UW-Madison",
+   "advisor": "Kassem Fawaz",
+   "pages": [
+    "https://www.annienobear.com/"
+   ]
+  },
+  {
+   "id": 185,
+   "name": "Niaz Ahmad",
+   "institution": "Toronto Metropolitan University)",
+   "position": "Postdoctoral Research Fellow, CVIS Lab, Toronto Metropolitan University",
+   "advisor": "Youngmoon Lee",
+   "pages": [
+    "https://sites.google.com/view/niazahmad/home",
+    "https://sites.google.com/view/niazahmad"
+   ]
+  },
+  {
+   "id": 186,
+   "name": "Chanyeok Choi",
+   "institution": "CTO @ D.DDECK",
+   "position": "",
+   "advisor": "Youngmoon Lee",
+   "pages": [
+    "https://www.linkedin.com/in/chanyeok-choi-b0b637117/"
+   ]
+  }
+ ]
+}

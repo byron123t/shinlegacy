@@ -1,0 +1,157 @@
+{
+ "batch": "ph-21",
+ "kind": "photo",
+ "people": [
+  {
+   "id": 654,
+   "name": "Mahsa Foruhandeh",
+   "institution": "Google (Pixel TechEng)",
+   "position": "Systems engineer, Google Pixel TechEng",
+   "advisor": "Haining Wang",
+   "pages": [
+    "https://nss.ece.vt.edu/people.html"
+   ]
+  },
+  {
+   "id": 655,
+   "name": "Tianyang Zhou",
+   "institution": "",
+   "position": "",
+   "advisor": "Varun Chandrasekaran",
+   "pages": [
+    "https://chandrasekaran-group.github.io/people/"
+   ]
+  },
+  {
+   "id": 656,
+   "name": "Qilong Wu",
+   "institution": "UIUC",
+   "position": "",
+   "advisor": "Varun Chandrasekaran",
+   "pages": [
+    "https://chandrasekaran-group.github.io/people/"
+   ]
+  },
+  {
+   "id": 657,
+   "name": "Yian Wang",
+   "institution": "UIUC",
+   "position": "",
+   "advisor": "Varun Chandrasekaran",
+   "pages": [
+    "https://chandrasekaran-group.github.io/people/"
+   ]
+  },
+  {
+   "id": 658,
+   "name": "Pragati Meshram",
+   "institution": "UIUC",
+   "position": "",
+   "advisor": "Varun Chandrasekaran",
+   "pages": [
+    "https://chandrasekaran-group.github.io/people/"
+   ]
+  },
+  {
+   "id": 659,
+   "name": "Yiwei Fu",
+   "institution": "UIUC",
+   "position": "",
+   "advisor": "Varun Chandrasekaran",
+   "pages": [
+    "https://chandrasekaran-group.github.io/people/"
+   ]
+  },
+  {
+   "id": 660,
+   "name": "Yi (Evie) Zhang",
+   "institution": "UIUC",
+   "position": "",
+   "advisor": "Varun Chandrasekaran",
+   "pages": [
+    "https://chandrasekaran-group.github.io/people/"
+   ]
+  },
+  {
+   "id": 661,
+   "name": "Vira Kasprova",
+   "institution": "UIUC",
+   "position": "",
+   "advisor": "Varun Chandrasekaran",
+   "pages": [
+    "https://chandrasekaran-group.github.io/people/"
+   ]
+  },
+  {
+   "id": 662,
+   "name": "Ali Ebrahimpour Boroojeny",
+   "institution": "Google",
+   "position": "",
+   "advisor": "Varun Chandrasekaran",
+   "pages": [
+    "https://chandrasekaran-group.github.io/people/"
+   ]
+  },
+  {
+   "id": 663,
+   "name": "Fan Wu",
+   "institution": "Five Rings LLC",
+   "position": "",
+   "advisor": "Varun Chandrasekaran",
+   "pages": [
+    "https://chandrasekaran-group.github.io/people/"
+   ]
+  },
+  {
+   "id": 664,
+   "name": "Wenjun Jiang",
+   "institution": "Samsung Research America",
+   "position": "Staff research engineer, Samsung Research America",
+   "advisor": "Lu Su",
+   "pages": [
+    "https://wenjunjiang.github.io/"
+   ]
+  },
+  {
+   "id": 665,
+   "name": "Chenglin Miao",
+   "institution": "Iowa State University",
+   "position": "Assistant Professor of Computer Science, Iowa State University",
+   "advisor": "Lu Su",
+   "pages": [
+    "https://clmiao.github.io/",
+    "https://www.cs.iastate.edu/people/chenglin-miao"
+   ]
+  },
+  {
+   "id": 666,
+   "name": "Hongfei Xue",
+   "institution": "University of North Carolina at Charlotte",
+   "position": "Assistant Professor of Computer Science, UNC Charlotte",
+   "advisor": "Lu Su",
+   "pages": [
+    "http://havocfixer.github.io/"
+   ]
+  },
+  {
+   "id": 667,
+   "name": "Praveen Goli",
+   "institution": "",
+   "position": "",
+   "advisor": "C. Mani Krishna",
+   "pages": [
+    "https://www.mathgenealogy.org/id.php?id=73535"
+   ]
+  },
+  {
+   "id": 668,
+   "name": "Jingqing Wang",
+   "institution": "",
+   "position": "",
+   "advisor": "Xi Zhang",
+   "pages": [
+    "https://engineering.tamu.edu/news/2014/12/zhang-receives-best-paper-awards-at-ieee-globecom-2014.html"
+   ]
+  }
+ ]
+}

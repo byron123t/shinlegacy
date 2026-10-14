@@ -1,0 +1,139 @@
+{
+ "batch": "ph-23",
+ "people": [
+  {
+   "id": 684,
+   "name": "Hong-Wei Xu",
+   "photo": {
+    "image_url": "https://basiclab.lab.nycu.edu.tw/new/assets/img/team/MASTER/Hong-Wei%20Xu.jpg",
+    "page_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "photo on lab Members page"
+  },
+  {
+   "id": 685,
+   "name": "Tzu-Ling Lin",
+   "photo": {
+    "image_url": "https://basiclab.lab.nycu.edu.tw/new/assets/img/team/MASTER/Tzu-Ling%20Lin.jpg",
+    "page_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "photo on lab Members page"
+  },
+  {
+   "id": 686,
+   "name": "Yan-Yu Lin",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "lab page photo is a full-body snapshot, not a usable headshot"
+  },
+  {
+   "id": 687,
+   "name": "Yan-Ting Lin",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "lab page photo is a full-body snapshot, not a usable headshot"
+  },
+  {
+   "id": 688,
+   "name": "Teng-Fang Hsiao",
+   "photo": {
+    "image_url": "https://basiclab.lab.nycu.edu.tw/new/assets/img/team/MASTER/Teng-Fang%20Hsiao.jpg",
+    "page_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "photo on lab Members page"
+  },
+  {
+   "id": 689,
+   "name": "Cheng-Tsung Lee",
+   "photo": {
+    "image_url": "https://basiclab.lab.nycu.edu.tw/new/assets/img/team/MASTER/Cheng-Tsung%20Lee.jpg",
+    "page_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "photo on lab Members page"
+  },
+  {
+   "id": 690,
+   "name": "Hui-Hsuan Wen",
+   "photo": {
+    "image_url": "https://basiclab.lab.nycu.edu.tw/new/assets/img/team/PHD/Hui-Hsuan%20Wen.jpg",
+    "page_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "photo on lab Members page"
+  },
+  {
+   "id": 691,
+   "name": "Yu-Hsuan Chen",
+   "photo": {
+    "image_url": "https://basiclab.lab.nycu.edu.tw/new/assets/img/team/MASTER/Yu-Hsuan%20Chen.jpg",
+    "page_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "photo on lab Members page"
+  },
+  {
+   "id": 692,
+   "name": "Yu-Kai Chan",
+   "photo": {
+    "image_url": "https://basiclab.lab.nycu.edu.tw/new/assets/img/team/MASTER/Yu-Kai%20Chan.jpg",
+    "page_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "photo on lab Members page"
+  },
+  {
+   "id": 693,
+   "name": "Wen-Sheng Lien",
+   "photo": {
+    "image_url": "https://basiclab.lab.nycu.edu.tw/new/assets/img/team/MASTER/Wen-Sheng%20Lien.jpg",
+    "page_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "photo on lab Members page"
+  },
+  {
+   "id": 694,
+   "name": "Javad Gharehchamani",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "page is a CV PDF with no photo"
+  }
+ ]
+}

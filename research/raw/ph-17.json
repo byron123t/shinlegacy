@@ -1,0 +1,173 @@
+{
+ "batch": "ph-17",
+ "people": [
+  {
+   "id": 572,
+   "name": "Marcos Sanson",
+   "website": null,
+   "photo": {
+    "image_url": "https://marcos-sanson.github.io/Media/Marcos_Sanson_Headshot_Photo_Compressed.png",
+    "page_url": "https://marcos-sanson.github.io/"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "photo found"
+  },
+  {
+   "id": 573,
+   "name": "Run Wang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no suitable single-person headshot found"
+  },
+  {
+   "id": 574,
+   "name": "Correy Washburn",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no suitable single-person headshot found"
+  },
+  {
+   "id": 575,
+   "name": "Diandian Gu",
+   "website": null,
+   "photo": {
+    "image_url": "https://gudiandian.github.io/img/phd_graduate.JPG",
+    "page_url": "https://gudiandian.github.io/"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "photo found"
+  },
+  {
+   "id": 580,
+   "name": "Yihao Zhao",
+   "website": null,
+   "photo": {
+    "image_url": "https://rivendile.github.io/images/yihao_photo.jpg",
+    "page_url": "https://rivendile.github.io/"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "photo found"
+  },
+  {
+   "id": 581,
+   "name": "Yinmin Zhong",
+   "website": null,
+   "photo": {
+    "image_url": "https://yinminzhong.com/assets/images/photos/avatar.jpg",
+    "page_url": "https://yinminzhong.com/"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "photo found"
+  },
+  {
+   "id": 582,
+   "name": "Zili Zhang",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no suitable single-person headshot found"
+  },
+  {
+   "id": 583,
+   "name": "Zhuolong Yu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no suitable single-person headshot found"
+  },
+  {
+   "id": 584,
+   "name": "Hang Zhu",
+   "website": null,
+   "photo": {
+    "image_url": "https://hzhu1.github.io/HangZhu_files/hangzhu.jpg",
+    "page_url": "https://hzhu1.github.io/"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "photo found"
+  },
+  {
+   "id": 585,
+   "name": "Zhihao Bai",
+   "website": null,
+   "photo": {
+    "image_url": "http://www.cs.jhu.edu/~bzh1994/img/profile.jpg",
+    "page_url": "http://www.cs.jhu.edu/~bzh1994"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "photo found"
+  },
+  {
+   "id": 586,
+   "name": "Xiangyu Gao",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no suitable single-person headshot found"
+  },
+  {
+   "id": 587,
+   "name": "Qiongwen Xu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no suitable single-person headshot found"
+  },
+  {
+   "id": 588,
+   "name": "Oliver Michel",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no suitable single-person headshot found"
+  },
+  {
+   "id": 589,
+   "name": "Abdurrahman Elmaghbub",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no suitable single-person headshot found"
+  },
+  {
+   "id": 590,
+   "name": "Sultan Alanazi",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no suitable single-person headshot found"
+  }
+ ]
+}

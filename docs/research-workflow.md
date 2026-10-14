@@ -119,6 +119,10 @@ The research agent follows the `students` rules above, starting from `website_on
 
 Don't trust a "0 new students" result from the homepage alone. Lab sites, NSF project pages and CVs are often not linked from the homepage (Haining Wang's lab at `nss.ece.vt.edu`, Lu Su's `~lusu/career.html`). Run a second, search-enabled pass (`sweep2-NN`) over everyone who came back empty. Project pages list students funded by a grant, not necessarily advised by the PI: confirm each one from the student's own homepage ("supervised by …"), their dissertation record, or the advisor's group page.
 
+### Photo pass
+
+For people with no photo but at least one page on record (their website, a lab profile, or the page that shows who advised them), batches `research/batches/ph-NN.json` (kind `photo`) list those `pages`. The research agent opens each page, and on a personal homepage also its About/Bio/CV page, looking for a headshot of that person alone (lab People pages often show one per member). It writes `research/raw/ph-NN.json` with only `photo` filled (`website`, `current_position`, `bio` null, `students` empty). Fetches only, no WebSearch. Verify and apply as usual.
+
 ## 3. Verify
 
 Run a **different** agent per raw file. It must not trust the researcher; it re-opens every source itself. Prompt:

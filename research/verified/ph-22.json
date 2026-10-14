@@ -1,0 +1,215 @@
+{
+ "batch": "ph-22",
+ "people": [
+  {
+   "id": 669,
+   "name": "Yun-Zhu Song",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://basiclab.lab.nycu.edu.tw/new/assets/img/team/VETERAN/Yun-Zhu%20Song.jpg",
+    "page_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+    "reason": "200 image/jpeg; single-person photo with face visible; embedded in this person's entry (img directly above matching name) on page"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 670,
+   "name": "Yi-Syuan Chen",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://basiclab.lab.nycu.edu.tw/new/assets/img/team/VETERAN/Yi-Syuan%20Chen.jpg",
+    "page_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+    "reason": "200 image/jpeg; single-person photo with face visible; embedded in this person's entry (img directly above matching name) on page"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 671,
+   "name": "Hung-Jen Chen",
+   "website": null,
+   "photo": {
+    "verdict": "rejected",
+    "image_url": "https://basiclab.lab.nycu.edu.tw/new/assets/img/team/PHD/Hung-Jen%20Chen.jpg",
+    "page_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+    "reason": "200 image/jpeg, embedded in this person's entry; but face small in full-body shot at distance"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 672,
+   "name": "Thanh-Hai Phung",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://basiclab.lab.nycu.edu.tw/new/assets/img/team/PHD/Thanh-Hai%20Phung.jpg",
+    "page_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+    "reason": "200 image/jpeg; single-person photo with face visible; embedded in this person's entry (img directly above matching name) on page"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 673,
+   "name": "Wei-Lun Tseng",
+   "website": null,
+   "photo": {
+    "verdict": "rejected",
+    "image_url": "https://basiclab.lab.nycu.edu.tw/new/assets/img/team/PHD/Wei-Lun%20Tseng.jpg",
+    "page_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+    "reason": "200 image/jpeg, embedded in this person's entry; but tiny distant figure, face not clearly visible"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 674,
+   "name": "Yi-Lun Wu",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://basiclab.lab.nycu.edu.tw/new/assets/img/team/PHD/Yi-Lun%20Wu.jpg",
+    "page_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+    "reason": "200 image/jpeg; single-person photo with face visible; embedded in this person's entry (img directly above matching name) on page"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 675,
+   "name": "Li-Wu Tsao",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://basiclab.lab.nycu.edu.tw/new/assets/img/team/PHD/Li-Wu%20Tsao.jpg",
+    "page_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+    "reason": "200 image/jpeg; single-person photo with face visible; embedded in this person's entry (img directly above matching name) on page"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 676,
+   "name": "Wei-Chih Chen",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://basiclab.lab.nycu.edu.tw/new/assets/img/team/PHD/Wei-Chih%20Chen.jpg",
+    "page_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+    "reason": "200 image/jpeg; single-person photo with face visible; embedded in this person's entry (img directly above matching name) on page"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 677,
+   "name": "Sung-Lin Tsai",
+   "website": null,
+   "photo": {
+    "verdict": "rejected",
+    "image_url": "https://basiclab.lab.nycu.edu.tw/new/assets/img/team/PHD/Sung-Lin%20Tsai.jpg",
+    "page_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+    "reason": "200 image/jpeg, embedded in this person's entry; but cap and sunglasses, small walking figure; face not clearly visible"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 678,
+   "name": "Bo-Kai Ruan",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://basiclab.lab.nycu.edu.tw/new/assets/img/team/PHD/Bo-Kai%20Ruan.JPG",
+    "page_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+    "reason": "200 image/jpeg; single-person photo with face visible; embedded in this person's entry (img directly above matching name) on page"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 679,
+   "name": "Jia-Jiun Gung",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://basiclab.lab.nycu.edu.tw/new/assets/img/team/PHD/Jia-Jiun%20Gung.jpg",
+    "page_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+    "reason": "200 image/jpeg; single-person photo with face visible; embedded in this person's entry (img directly above matching name) on page"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 680,
+   "name": "Kai-Lin Yang",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://basiclab.lab.nycu.edu.tw/new/assets/img/team/PHD/Kai-Lin%20Yang.jpg",
+    "page_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+    "reason": "200 image/jpeg; single-person photo with face visible; embedded in this person's entry (img directly above matching name) on page"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 681,
+   "name": "Chiang Tseng",
+   "website": null,
+   "photo": {
+    "verdict": "rejected",
+    "image_url": "https://basiclab.lab.nycu.edu.tw/new/assets/img/team/MASTER/Chiang%20Tseng.jpg",
+    "page_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+    "reason": "200 image/jpeg, embedded in this person's entry; but sheep prominent in frame, casual snapshot rather than portrait"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 682,
+   "name": "Feng-Kai Huang",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://basiclab.lab.nycu.edu.tw/new/assets/img/team/MASTER/Feng-Kai%20Huang.JPG",
+    "page_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+    "reason": "200 image/jpeg; single-person photo with face visible; embedded in this person's entry (img directly above matching name) on page"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 683,
+   "name": "Yu-Ting Shen",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://basiclab.lab.nycu.edu.tw/new/assets/img/team/MASTER/Yu-Ting%20Shen.jpg",
+    "page_url": "https://basiclab.lab.nycu.edu.tw/new/Members.html",
+    "reason": "200 image/jpeg; single-person photo with face visible; embedded in this person's entry (img directly above matching name) on page"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  }
+ ]
+}

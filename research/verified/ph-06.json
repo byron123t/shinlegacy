@@ -1,0 +1,180 @@
+{
+  "batch": "ph-06",
+  "people": [
+    {
+      "id": 380,
+      "name": "Pu Duan",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 381,
+      "name": "Hong Lu",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 382,
+      "name": "Ming Zhang",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 383,
+      "name": "Tak Cheung Lam",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 384,
+      "name": "Sung-Oh Jung",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 385,
+      "name": "Di Wu",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 386,
+      "name": "Yong Xiong",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 387,
+      "name": "Stephen George",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 389,
+      "name": "Sophia Yoo",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 390,
+      "name": "Shuochao Yao",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://abdelzaher.cs.illinois.edu/images/27-shuochao.jpg",
+        "page_url": "https://abdelzaher.cs.illinois.edu/people.html",
+        "reason": "200 image/jpeg; single-person headshot; embedded in this person's entry on lab people page"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 391,
+      "name": "Yiran Zhao",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://abdelzaher.cs.illinois.edu/images/28-yiran.jpg",
+        "page_url": "https://abdelzaher.cs.illinois.edu/people.html",
+        "reason": "200 image/jpeg; single-person headshot; embedded in this person's entry on lab people page"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 392,
+      "name": "Jongdeog Lee",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://abdelzaher.cs.illinois.edu/images/29-jongdeog.jpg",
+        "page_url": "https://abdelzaher.cs.illinois.edu/people.html",
+        "reason": "200 image/jpeg; single-person headshot; embedded in this person's entry on lab people page"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 394,
+      "name": "Hang Cui",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 395,
+      "name": "Shengzhong Liu",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://abdelzaher.cs.illinois.edu/images/shengzhong.jpg",
+        "page_url": "https://abdelzaher.cs.illinois.edu/people.html",
+        "reason": "200 image/jpeg; single-person headshot; embedded in this person's entry on lab people page"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 396,
+      "name": "Dongxin Liu",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://abdelzaher.cs.illinois.edu/images/dongxin.jpg",
+        "page_url": "https://abdelzaher.cs.illinois.edu/people.html",
+        "reason": "200 image/jpeg; single-person headshot; embedded in this person's entry on lab people page"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    }
+  ]
+}

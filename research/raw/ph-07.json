@@ -1,0 +1,173 @@
+{
+ "batch": "ph-07",
+ "people": [
+  {
+   "id": 397,
+   "name": "Ruijie Wang",
+   "photo": {
+    "image_url": "https://abdelzaher.cs.illinois.edu/images/ruijie.jpg",
+    "page_url": "https://abdelzaher.cs.illinois.edu/people.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "headshot found on page"
+  },
+  {
+   "id": 398,
+   "name": "Jinyang Li",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot on listed pages"
+  },
+  {
+   "id": 399,
+   "name": "Md Iftekharul Islam Sakib",
+   "photo": {
+    "image_url": "https://abdelzaher.cs.illinois.edu/images/sakib.jpg",
+    "page_url": "https://abdelzaher.cs.illinois.edu/people.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "headshot found on page"
+  },
+  {
+   "id": 400,
+   "name": "Tianshi Wang",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot on listed pages"
+  },
+  {
+   "id": 405,
+   "name": "Hongsik Yoon",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot on listed pages"
+  },
+  {
+   "id": 407,
+   "name": "Qinpei Luo",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot on listed pages"
+  },
+  {
+   "id": 409,
+   "name": "Baicheng Chen",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot on listed pages"
+  },
+  {
+   "id": 410,
+   "name": "Dae Cheol Kwon",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot on listed pages"
+  },
+  {
+   "id": 411,
+   "name": "Wangwei Shen",
+   "photo": {
+    "image_url": "https://chendy.tech/static/assets/img/wangweishen.jpg",
+    "page_url": "https://chendy.tech/"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "headshot found on page"
+  },
+  {
+   "id": 412,
+   "name": "Yifeng Zhang",
+   "photo": {
+    "image_url": "https://chendy.tech/static/assets/img/yifengzhang.png",
+    "page_url": "https://chendy.tech/"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "headshot found on page"
+  },
+  {
+   "id": 413,
+   "name": "Tianyuan (Frank) Qiu",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot on listed pages"
+  },
+  {
+   "id": 414,
+   "name": "Xinyu Chen",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot on listed pages"
+  },
+  {
+   "id": 415,
+   "name": "Bhavana Vannarth Shobhana",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot on listed pages"
+  },
+  {
+   "id": 417,
+   "name": "Bashayer Alharbi",
+   "photo": {
+    "image_url": "https://eric-keller.github.io/img/headshot-bashayer_2025.jpg",
+    "page_url": "https://eric-keller.github.io/"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "headshot found on page"
+  },
+  {
+   "id": 418,
+   "name": "Shirin Ebadi",
+   "photo": {
+    "image_url": "https://eric-keller.github.io/img/shirin-headshot.jpg",
+    "page_url": "https://eric-keller.github.io/"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "headshot found on page"
+  }
+ ]
+}

@@ -1,0 +1,195 @@
+{
+ "batch": "ph-11",
+ "people": [
+  {
+   "id": 480,
+   "name": "Wei Zhao",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://wiser.cas.mcmaster.ca/wp-content/uploads/2021/03/weizhao-263x216.jpg",
+    "page_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+    "reason": "200 image/*; single-person portrait; embedded in this person's entry on page, name present"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 481,
+   "name": "Keivan Nalaie",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 482,
+   "name": "Yujiao Hao",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://wiser.cas.mcmaster.ca/wp-content/uploads/2021/03/yujiao-263x216.jpg",
+    "page_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+    "reason": "200 image/*; single-person portrait; embedded in this person's entry on page, name present"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 483,
+   "name": "Yihao Fang",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://wiser.cas.mcmaster.ca/wp-content/uploads/2021/03/yihao-263x216.jpg",
+    "page_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+    "reason": "200 image/*; single-person portrait; embedded in this person's entry on page, name present"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 484,
+   "name": "Mehdi Jafarizadeh",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://wiser.cas.mcmaster.ca/wp-content/uploads/2021/03/mehdi_photo-263x216.jpeg",
+    "page_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+    "reason": "200 image/*; single-person portrait; embedded in this person's entry on page, name present"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 485,
+   "name": "Ala Shaabana",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://wiser.cas.mcmaster.ca/wp-content/uploads/2021/03/ala-1-263x216.jpg",
+    "page_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+    "reason": "200 image/*; single-person portrait; embedded in this person's entry on page, name present"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 486,
+   "name": "Yongyong Wei",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://wiser.cas.mcmaster.ca/wp-content/uploads/2021/03/yongyong-263x216.png",
+    "page_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+    "reason": "200 image/*; single-person portrait; embedded in this person's entry on page, name present"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 487,
+   "name": "Qiang Xu",
+   "website": null,
+   "photo": {
+    "verdict": "rejected",
+    "image_url": "https://wiser.cas.mcmaster.ca/wp-content/uploads/2021/03/Qiang-263x216.jpg",
+    "page_url": "https://wiser.cas.mcmaster.ca/?page_id=198",
+    "reason": "200 image/jpeg, embedded on page for this entry, but full-body shot with small, sunglasses-wearing figure; not a usable headshot"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 488,
+   "name": "Taejin Kwak",
+   "website": null,
+   "photo": {
+    "verdict": "rejected",
+    "image_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uhi0QcaWoIbjiJZ64DFQrfzYIcBHnb3xo2WeJ53dgW7Yf_saoLuZPE-tzc1RLJnmUH2yy9281zqpXFAeKGN3LLEzEOEOKHldgt1I4nJPu9tXbc3v_bxEUnDP2KRmwD8MJ4hAiU3h5rAtP3mZb5qKh7N0jlEzzpuNjaK7dONV1CjAiQVM6hczB9fdG1aFD20TYLVECfqzv3N4ay8HQmgWsB6MHGBbkrHoj869ow=w1280",
+    "page_url": "https://wine.korea.ac.kr/members",
+    "reason": "image URL returns HTTP 403 text/html and is not embedded in fetched page HTML"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 489,
+   "name": "Sanghong Kim",
+   "website": null,
+   "photo": {
+    "verdict": "rejected",
+    "image_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vSWYaWscj3gjuZNzzcP2tWxdvYwiCj3IVMv9jWuDtJCgRm0CIhslsTiBBT1-xw1fo0jUL7p7BXVFmrnZFNFuqgNAgn9m8ERekY-KlTGUX5TGivA4LWP4fFtmN8c71LyHjzInB__G9GKSzKACNLmejgvH3hkjEpDPRrDTyWkh0mW0EXncO-4dfuBAc5CzXCBOzrcfDE7RONjGHsGev_DWh_F4nC43K4hRujaVHv=w1280",
+    "page_url": "https://wine.korea.ac.kr/members",
+    "reason": "image URL not found in fetched page HTML (cannot tie to this person's entry)"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 490,
+   "name": "Jeongmin Lee",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vCmchMumTfkivd7vowAbB6RCJM-4cS6VLw3V7pzQVAU0nEIVJrxbG50pTIpLNznR2Ql5QONTsz-dtjZ_vFL6kDRO7MME3zPzMcbu1GqzzojYwt-rLriY8Le6xXAEOa18maIpGO6uVNUCZXnbPi8kLuxKV7-8iAEczsBnQia7_yGi4lcWAjwIxdbfVyig2rreDhRc7kVNxxqTY1BJV0jV05yY_nGdT-rQnfMrlLxa8=w1280",
+    "page_url": "https://wine.korea.ac.kr/members",
+    "reason": "200 image/*; single-person portrait; embedded in this person's entry on page, name present"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 491,
+   "name": "Minsu Cha",
+   "website": null,
+   "photo": {
+    "verdict": "rejected",
+    "image_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72upgivLQu_T5guYSgCjAC9LiBYk9IsZ3brnlTDmFa9S9o6SggdsWbptDdxR3q2Lz124Y7UbJcXGf7pR4zxucTEe5Rir91rqqLPSRrROP4ZNx6DntIRVo21hZ5hmT308RoS_1L9TI_YKmZWesd-B62ZzPLLRBlVdVDP6bXfeTe4U8ku3-MS7lKUOuLNKV3Sn2rpW_OznZyK3vL87gXsbwAWDgDle3_hfzXboARpsMCU=w1280",
+    "page_url": "https://wine.korea.ac.kr/members",
+    "reason": "image URL not found in fetched page HTML (cannot tie to this person's entry)"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 492,
+   "name": "Taehoon Yoo",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 493,
+   "name": "Sangmin Lee",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 494,
+   "name": "Hyeontae Joo",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  }
+ ]
+}

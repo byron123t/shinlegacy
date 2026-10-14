@@ -1,0 +1,161 @@
+{
+ "batch": "ph-08",
+ "kind": "photo",
+ "people": [
+  {
+   "id": 419,
+   "name": "Sara Daneshvar",
+   "institution": "University of Colorado Boulder",
+   "position": "",
+   "advisor": "Eric Keller",
+   "pages": [
+    "https://eric-keller.github.io/"
+   ]
+  },
+  {
+   "id": 420,
+   "name": "Richard Thompson",
+   "institution": "University of Colorado Boulder",
+   "position": "PhD student (CS), University of Colorado Boulder",
+   "advisor": "Eric Keller",
+   "pages": [
+    "https://eric-keller.github.io/"
+   ]
+  },
+  {
+   "id": 421,
+   "name": "Victor Jimenez",
+   "institution": "University of Colorado Boulder",
+   "position": "PhD student (CS), University of Colorado Boulder",
+   "advisor": "Eric Keller",
+   "pages": [
+    "https://eric-keller.github.io/"
+   ]
+  },
+  {
+   "id": 423,
+   "name": "Maziyar Nazari",
+   "institution": "Meta",
+   "position": "Research Scientist, Meta (Ads Ranking & Foundational AI)",
+   "advisor": "Eric Keller",
+   "pages": [
+    "https://maziyar-na.github.io/",
+    "https://eric-keller.github.io/"
+   ]
+  },
+  {
+   "id": 424,
+   "name": "Karl Olson",
+   "institution": "US Military Academy / Army Cyber Institute",
+   "position": "",
+   "advisor": "Eric Keller",
+   "pages": [
+    "https://eric-keller.github.io/"
+   ]
+  },
+  {
+   "id": 427,
+   "name": "Sepideh Goodarzy",
+   "institution": "Google",
+   "position": "",
+   "advisor": "Eric Keller",
+   "pages": [
+    "https://eric-keller.github.io/"
+   ]
+  },
+  {
+   "id": 428,
+   "name": "Mohammad Hashemi",
+   "institution": "Illumina",
+   "position": "",
+   "advisor": "Eric Keller",
+   "pages": [
+    "https://eric-keller.github.io/"
+   ]
+  },
+  {
+   "id": 432,
+   "name": "Junzhi Gong",
+   "institution": "Google",
+   "position": "Google",
+   "advisor": "Minlan Yu",
+   "pages": [
+    "https://minlanyu.seas.harvard.edu/student.html"
+   ]
+  },
+  {
+   "id": 436,
+   "name": "Omid Alipourfard",
+   "institution": "",
+   "position": "",
+   "advisor": "Minlan Yu",
+   "pages": [
+    "http://www.omid.io/",
+    "https://minlanyu.seas.harvard.edu/student.html"
+   ]
+  },
+  {
+   "id": 439,
+   "name": "Minghao Li",
+   "institution": "Harvard University",
+   "position": "Meta",
+   "advisor": "Minlan Yu",
+   "pages": [
+    "https://sophiali06.github.io/personal_site/",
+    "https://minlanyu.seas.harvard.edu/student.html"
+   ]
+  },
+  {
+   "id": 440,
+   "name": "Xingyu Xiang",
+   "institution": "Harvard University",
+   "position": "",
+   "advisor": "Minlan Yu",
+   "pages": [
+    "https://minlanyu.seas.harvard.edu/student.html"
+   ]
+  },
+  {
+   "id": 441,
+   "name": "Yiyu Liu",
+   "institution": "Harvard University",
+   "position": "",
+   "advisor": "Minlan Yu",
+   "pages": [
+    "https://minlanyu.seas.harvard.edu/student.html"
+   ]
+  },
+  {
+   "id": 442,
+   "name": "Xuanlin Jiang",
+   "institution": "Harvard University",
+   "position": "",
+   "advisor": "Minlan Yu",
+   "pages": [
+    "https://minlanyu.seas.harvard.edu/student.html"
+   ]
+  },
+  {
+   "id": 443,
+   "name": "Ethan Heilman",
+   "institution": "",
+   "position": "Researcher at Cloudflare; research fellow at MIT DCI",
+   "advisor": "Sharon Goldberg",
+   "pages": [
+    "https://www.ethanheilman.com/",
+    "https://www.cs.bu.edu/fac/goldbe/"
+   ]
+  },
+  {
+   "id": 444,
+   "name": "Aanchal Malhotra",
+   "institution": "",
+   "position": "",
+   "advisor": "Sharon Goldberg",
+   "pages": [
+    "https://sites.google.com/site/aanchalmalhotra1990/",
+    "https://www.cs.bu.edu/fac/goldbe/"
+   ]
+  }
+ ]
+}

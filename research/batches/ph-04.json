@@ -1,0 +1,156 @@
+{
+ "batch": "ph-04",
+ "kind": "photo",
+ "people": [
+  {
+   "id": 189,
+   "name": "Seunghwan Lee",
+   "institution": "Founder @  KnL Robotics",
+   "position": "",
+   "advisor": "Youngmoon Lee",
+   "pages": [
+    "https://www.linkedin.com/in/seunghwan-lee-6b140320a/"
+   ]
+  },
+  {
+   "id": 190,
+   "name": "Jeremy Yuhyun Kim",
+   "institution": "Research Engineer @ A Robot",
+   "position": "",
+   "advisor": "Youngmoon Lee",
+   "pages": [
+    "https://www.linkedin.com/in/jeremy-yuhyun-kim/"
+   ]
+  },
+  {
+   "id": 191,
+   "name": "Saif Ullah",
+   "institution": "",
+   "position": "",
+   "advisor": "Youngmoon Lee",
+   "pages": [
+    "https://www.linkedin.com/in/saif-ullah-830909198/"
+   ]
+  },
+  {
+   "id": 210,
+   "name": "Taewoon Kim",
+   "institution": "Hallym University, Korea",
+   "position": "Associate Professor, School of Computer Science and Engineering, Pusan National University",
+   "advisor": "Daji Qiao",
+   "pages": [
+    "https://sites.google.com/site/twoonkim/"
+   ]
+  },
+  {
+   "id": 232,
+   "name": "Wen-Chih Peng",
+   "institution": "National Chiao Tung University",
+   "position": "Professor, Department of Computer Science, National Yang Ming Chiao Tung University",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "pages": [
+    "https://sites.google.com/site/wcpeng/"
+   ]
+  },
+  {
+   "id": 237,
+   "name": "Hung-Yu Kao",
+   "institution": "National Cheng Kung University",
+   "position": "Professor, Institute of Information Systems and Applications, National Tsing Hua University",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "pages": [
+    "https://isa.site.nthu.edu.tw/p/406-1182-272217,r4919.php?Lang=en"
+   ]
+  },
+  {
+   "id": 239,
+   "name": "Jin-Long Huang",
+   "institution": "National Chiao Tung University",
+   "position": "Professor, Department of Computer Science, National Yang Ming Chiao Tung University",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "pages": [
+    "https://people.cs.nycu.edu.tw/~jlhuang/"
+   ]
+  },
+  {
+   "id": 245,
+   "name": "Bi-Ru Dai",
+   "institution": "National Taiwan University of Science and Technology",
+   "position": "",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "pages": [
+    "https://ipmarket.ntust.edu.tw/expert1.asp?ser=4043"
+   ]
+  },
+  {
+   "id": 251,
+   "name": "Chien-Chin Chen",
+   "institution": "National Taiwan University",
+   "position": "Professor, Department of Information Management, National Taiwan University",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "pages": [
+    "https://homepage.ntu.edu.tw/~patonchen/"
+   ]
+  },
+  {
+   "id": 257,
+   "name": "Mi-Yen Yeh",
+   "institution": "Academia Sinica",
+   "position": "Research Fellow, Academia Sinica",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "pages": [
+    "https://homepage.iis.sinica.edu.tw/pages/miyen/index_en.html"
+   ]
+  },
+  {
+   "id": 283,
+   "name": "Partha Kanuparthy",
+   "institution": "Amazon",
+   "position": "Software Engineer (Principal/Director) at Meta, since 2020",
+   "advisor": "Constantine Dovrolis",
+   "pages": [
+    "https://kanuparthy.wordpress.com/"
+   ]
+  },
+  {
+   "id": 284,
+   "name": "Aemen Lodhi",
+   "institution": "Facebook",
+   "position": "",
+   "advisor": "Constantine Dovrolis",
+   "pages": [
+    "https://scholar.google.com/citations?user=SirVv5UAAAAJ&hl=en"
+   ]
+  },
+  {
+   "id": 286,
+   "name": "Ho-Won Kim",
+   "institution": "Pusan National University",
+   "position": "",
+   "advisor": "Sunggu Lee",
+   "pages": [
+    "http://infosec.pusan.ac.kr/"
+   ]
+  },
+  {
+   "id": 304,
+   "name": "Hwangnam Kim",
+   "institution": "Seoul University",
+   "position": "Professor of Electrical Engineering, Korea University",
+   "advisor": "Chao-Ju (Jennifer) Hou",
+   "pages": [
+    "https://wine.korea.ac.kr/"
+   ]
+  },
+  {
+   "id": 311,
+   "name": "Rui Miao",
+   "institution": "Alibaba Research, China",
+   "position": "",
+   "advisor": "Minlan Yu",
+   "pages": [
+    "https://nsl.usc.edu/people/rmiao/"
+   ]
+  }
+ ]
+}

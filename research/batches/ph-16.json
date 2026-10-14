@@ -1,0 +1,157 @@
+{
+ "batch": "ph-16",
+ "kind": "photo",
+ "people": [
+  {
+   "id": 557,
+   "name": "Kangjin Yoon",
+   "institution": "Siemens Healthineers, USA",
+   "position": "",
+   "advisor": "Sunghyun Choi",
+   "pages": [
+    "https://ainl.kaist.ac.kr/alumni/"
+   ]
+  },
+  {
+   "id": 558,
+   "name": "Mat Wymore",
+   "institution": "Iowa State University",
+   "position": "",
+   "advisor": "Daji Qiao",
+   "pages": [
+    "https://www.ece.iastate.edu/~daji/students.htm"
+   ]
+  },
+  {
+   "id": 559,
+   "name": "Shen Fu",
+   "institution": "",
+   "position": "",
+   "advisor": "Daji Qiao",
+   "pages": [
+    "https://www.ece.iastate.edu/~daji/students.htm"
+   ]
+  },
+  {
+   "id": 560,
+   "name": "Dong Qin",
+   "institution": "",
+   "position": "",
+   "advisor": "Daji Qiao",
+   "pages": [
+    "https://www.ece.iastate.edu/~daji/students.htm"
+   ]
+  },
+  {
+   "id": 561,
+   "name": "Kerui Tan",
+   "institution": "",
+   "position": "",
+   "advisor": "Daji Qiao",
+   "pages": [
+    "https://www.ece.iastate.edu/~daji/students.htm"
+   ]
+  },
+  {
+   "id": 562,
+   "name": "Brian Peck",
+   "institution": "",
+   "position": "",
+   "advisor": "Daji Qiao",
+   "pages": [
+    "https://www.ece.iastate.edu/~daji/students.htm"
+   ]
+  },
+  {
+   "id": 563,
+   "name": "Sung-Tae Hong",
+   "institution": "ETRI",
+   "position": "Researcher, ETRI (formerly Samsung Electronics)",
+   "advisor": "Hyoil Kim",
+   "pages": [
+    "https://wmnl.unist.ac.kr/alumni/"
+   ]
+  },
+  {
+   "id": 564,
+   "name": "Kyubo Shin",
+   "institution": "THYROSCOPE Inc.",
+   "position": "THYROSCOPE Inc. (UNIST start-up)",
+   "advisor": "Hyoil Kim",
+   "pages": [
+    "https://wmnl.unist.ac.kr/alumni/"
+   ]
+  },
+  {
+   "id": 565,
+   "name": "JeongTak Kim",
+   "institution": "UNIST (postdoc)",
+   "position": "Postdoctoral researcher, UNIST",
+   "advisor": "Hyoil Kim",
+   "pages": [
+    "https://wmnl.unist.ac.kr/alumni/"
+   ]
+  },
+  {
+   "id": 566,
+   "name": "Seokwoo Choi",
+   "institution": "UNIST (postdoc)",
+   "position": "Postdoctoral researcher, UNIST",
+   "advisor": "Hyoil Kim",
+   "pages": [
+    "https://wmnl.unist.ac.kr/alumni/"
+   ]
+  },
+  {
+   "id": 567,
+   "name": "SuHwan Jung",
+   "institution": "ETRI",
+   "position": "Researcher, ETRI",
+   "advisor": "Hyoil Kim",
+   "pages": [
+    "https://wmnl.unist.ac.kr/alumni/"
+   ]
+  },
+  {
+   "id": 568,
+   "name": "Byeongjin Kim",
+   "institution": "UNIST",
+   "position": "PhD student, UNIST (WMNL)",
+   "advisor": "Hyoil Kim",
+   "pages": [
+    "https://wmnl.unist.ac.kr/alumni/",
+    "https://wmnl.unist.ac.kr/graduate-students/"
+   ]
+  },
+  {
+   "id": 569,
+   "name": "Leo Cao",
+   "institution": "U. Wisconsin-Madison",
+   "position": "",
+   "advisor": "Kassem Fawaz",
+   "pages": [
+    "https://wiscprivacy.com/students"
+   ]
+  },
+  {
+   "id": 570,
+   "name": "Jingjie Li",
+   "institution": "University of Edinburgh",
+   "position": "",
+   "advisor": "Kassem Fawaz",
+   "pages": [
+    "https://wiscprivacy.com/students"
+   ]
+  },
+  {
+   "id": 571,
+   "name": "Yu Wei (Sam) Liu",
+   "institution": "Clemson University",
+   "position": "",
+   "advisor": "Mert Dieter Pese",
+   "pages": [
+    "https://mpese.com/lab"
+   ]
+  }
+ ]
+}

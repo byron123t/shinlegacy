@@ -1,0 +1,156 @@
+{
+ "batch": "ph-18",
+ "kind": "photo",
+ "people": [
+  {
+   "id": 591,
+   "name": "Jarallah Alqahtani",
+   "institution": "",
+   "position": "",
+   "advisor": "Bechir Hamdaoui",
+   "pages": [
+    "https://research.engr.oregonstate.edu/hamdaoui/alumni"
+   ]
+  },
+  {
+   "id": 592,
+   "name": "Mohamed Grissa",
+   "institution": "Circle (blockchain), USA",
+   "position": "Blockchain at Circle, USA",
+   "advisor": "Bechir Hamdaoui",
+   "pages": [
+    "https://research.engr.oregonstate.edu/hamdaoui/alumni"
+   ]
+  },
+  {
+   "id": 593,
+   "name": "Bassem Khalfi",
+   "institution": "Qualcomm, USA",
+   "position": "Qualcomm, USA",
+   "advisor": "Bechir Hamdaoui",
+   "pages": [
+    "https://research.engr.oregonstate.edu/hamdaoui/alumni"
+   ]
+  },
+  {
+   "id": 594,
+   "name": "Sherif Abdelwahab",
+   "institution": "Amazon, USA",
+   "position": "Amazon, USA",
+   "advisor": "Bechir Hamdaoui",
+   "pages": [
+    "https://research.engr.oregonstate.edu/hamdaoui/alumni"
+   ]
+  },
+  {
+   "id": 595,
+   "name": "Hassan Sinky",
+   "institution": "Umm Al-Qura University, KSA",
+   "position": "Umm Al-Qura University, KSA",
+   "advisor": "Bechir Hamdaoui",
+   "pages": [
+    "https://research.engr.oregonstate.edu/hamdaoui/alumni"
+   ]
+  },
+  {
+   "id": 596,
+   "name": "Nadia Adem",
+   "institution": "University of Tripoli, Libya",
+   "position": "University of Tripoli, Libya",
+   "advisor": "Bechir Hamdaoui",
+   "pages": [
+    "https://research.engr.oregonstate.edu/hamdaoui/alumni"
+   ]
+  },
+  {
+   "id": 597,
+   "name": "Mehiar Dabbagh",
+   "institution": "LinkedIn, USA",
+   "position": "LinkedIn, USA",
+   "advisor": "Bechir Hamdaoui",
+   "pages": [
+    "https://research.engr.oregonstate.edu/hamdaoui/alumni"
+   ]
+  },
+  {
+   "id": 598,
+   "name": "MohammadJavad NoroozOliaee",
+   "institution": "Google, USA",
+   "position": "Google, USA",
+   "advisor": "Bechir Hamdaoui",
+   "pages": [
+    "https://research.engr.oregonstate.edu/hamdaoui/alumni"
+   ]
+  },
+  {
+   "id": 599,
+   "name": "Omar Alsaleh",
+   "institution": "King Saud University, KSA",
+   "position": "King Saud University, KSA",
+   "advisor": "Bechir Hamdaoui",
+   "pages": [
+    "https://research.engr.oregonstate.edu/hamdaoui/alumni"
+   ]
+  },
+  {
+   "id": 600,
+   "name": "Nessrine Chakchouk",
+   "institution": "ENSI, Tunisia",
+   "position": "",
+   "advisor": "Bechir Hamdaoui",
+   "pages": [
+    "https://research.engr.oregonstate.edu/hamdaoui/alumni"
+   ]
+  },
+  {
+   "id": 601,
+   "name": "Samina Ehsan",
+   "institution": "Oregon State University, USA",
+   "position": "",
+   "advisor": "Bechir Hamdaoui",
+   "pages": [
+    "https://research.engr.oregonstate.edu/hamdaoui/alumni"
+   ]
+  },
+  {
+   "id": 602,
+   "name": "Jun Chen",
+   "institution": "Oregon State University",
+   "position": "",
+   "advisor": "Bechir Hamdaoui",
+   "pages": [
+    "https://research.engr.oregonstate.edu/hamdaoui/current-members"
+   ]
+  },
+  {
+   "id": 603,
+   "name": "Nora Basha",
+   "institution": "Oregon State University",
+   "position": "",
+   "advisor": "Bechir Hamdaoui",
+   "pages": [
+    "https://research.engr.oregonstate.edu/hamdaoui/current-members"
+   ]
+  },
+  {
+   "id": 604,
+   "name": "Haytham Albousayri",
+   "institution": "Oregon State University",
+   "position": "",
+   "advisor": "Bechir Hamdaoui",
+   "pages": [
+    "https://research.engr.oregonstate.edu/hamdaoui/current-members"
+   ]
+  },
+  {
+   "id": 605,
+   "name": "Zhe Ou",
+   "institution": "Johns Hopkins University",
+   "position": "",
+   "advisor": "Renjie Zhao",
+   "pages": [
+    "https://renjiezhao.github.io/team/"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,156 @@
+{
+ "batch": "ph-06",
+ "kind": "photo",
+ "people": [
+  {
+   "id": 380,
+   "name": "Pu Duan",
+   "institution": "Cisco",
+   "position": "",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "pages": [
+    "https://rtds.cse.tamu.edu/people/previous-students/"
+   ]
+  },
+  {
+   "id": 381,
+   "name": "Hong Lu",
+   "institution": "Airbnb",
+   "position": "",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "pages": [
+    "https://rtds.cse.tamu.edu/people/previous-students/"
+   ]
+  },
+  {
+   "id": 382,
+   "name": "Ming Zhang",
+   "institution": "Google",
+   "position": "",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "pages": [
+    "https://rtds.cse.tamu.edu/people/previous-students/"
+   ]
+  },
+  {
+   "id": 383,
+   "name": "Tak Cheung Lam",
+   "institution": "Cisco",
+   "position": "",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "pages": [
+    "https://rtds.cse.tamu.edu/people/previous-students/"
+   ]
+  },
+  {
+   "id": 384,
+   "name": "Sung-Oh Jung",
+   "institution": "",
+   "position": "",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "pages": [
+    "https://rtds.cse.tamu.edu/people/previous-students/"
+   ]
+  },
+  {
+   "id": 385,
+   "name": "Di Wu",
+   "institution": "",
+   "position": "",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "pages": [
+    "https://rtds.cse.tamu.edu/people/previous-students/"
+   ]
+  },
+  {
+   "id": 386,
+   "name": "Yong Xiong",
+   "institution": "Fannie Mae",
+   "position": "",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "pages": [
+    "https://rtds.cse.tamu.edu/people/previous-students/"
+   ]
+  },
+  {
+   "id": 387,
+   "name": "Stephen George",
+   "institution": "",
+   "position": "",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "pages": [
+    "https://rtds.cse.tamu.edu/people/previous-students/"
+   ]
+  },
+  {
+   "id": 389,
+   "name": "Sophia Yoo",
+   "institution": "Amherst College (assistant professor, summer 2026)",
+   "position": "",
+   "advisor": "Jennifer Rexford",
+   "pages": [
+    "https://www.cs.princeton.edu/~jrex/"
+   ]
+  },
+  {
+   "id": 390,
+   "name": "Shuochao Yao",
+   "institution": "George Mason University",
+   "position": "",
+   "advisor": "Tarek Abdelzaher",
+   "pages": [
+    "https://abdelzaher.cs.illinois.edu/people.html"
+   ]
+  },
+  {
+   "id": 391,
+   "name": "Yiran Zhao",
+   "institution": "Pinterest",
+   "position": "Pinterest",
+   "advisor": "Tarek Abdelzaher",
+   "pages": [
+    "https://abdelzaher.cs.illinois.edu/people.html"
+   ]
+  },
+  {
+   "id": 392,
+   "name": "Jongdeog Lee",
+   "institution": "Military Academy, Seoul",
+   "position": "Military Academy, Seoul",
+   "advisor": "Tarek Abdelzaher",
+   "pages": [
+    "https://abdelzaher.cs.illinois.edu/people.html"
+   ]
+  },
+  {
+   "id": 394,
+   "name": "Hang Cui",
+   "institution": "University of Illinois Urbana-Champaign",
+   "position": "",
+   "advisor": "Tarek Abdelzaher",
+   "pages": [
+    "https://abdelzaher.cs.illinois.edu/people.html"
+   ]
+  },
+  {
+   "id": 395,
+   "name": "Shengzhong Liu",
+   "institution": "University of Illinois Urbana-Champaign",
+   "position": "",
+   "advisor": "Tarek Abdelzaher",
+   "pages": [
+    "https://abdelzaher.cs.illinois.edu/people.html"
+   ]
+  },
+  {
+   "id": 396,
+   "name": "Dongxin Liu",
+   "institution": "University of Illinois Urbana-Champaign",
+   "position": "",
+   "advisor": "Tarek Abdelzaher",
+   "pages": [
+    "https://abdelzaher.cs.illinois.edu/people.html"
+   ]
+  }
+ ]
+}

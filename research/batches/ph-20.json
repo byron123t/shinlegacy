@@ -1,0 +1,166 @@
+{
+ "batch": "ph-20",
+ "kind": "photo",
+ "people": [
+  {
+   "id": 625,
+   "name": "Wooyong Jung",
+   "institution": "Korea University",
+   "position": "M.S. & Ph.D. student, WINE Lab, Korea University",
+   "advisor": "Hwangnam Kim",
+   "pages": [
+    "https://wine.korea.ac.kr/members/wooyong-jung",
+    "https://wine.korea.ac.kr/members"
+   ]
+  },
+  {
+   "id": 626,
+   "name": "Dohun Lee",
+   "institution": "Korea University",
+   "position": "M.S. & Ph.D. student, WINE Lab, Korea University",
+   "advisor": "Hwangnam Kim",
+   "pages": [
+    "https://wine.korea.ac.kr/members/dohun-lee",
+    "https://wine.korea.ac.kr/members"
+   ]
+  },
+  {
+   "id": 627,
+   "name": "Seokmin Kim",
+   "institution": "Korea University",
+   "position": "M.S. & Ph.D. student, WINE Lab, Korea University",
+   "advisor": "Hwangnam Kim",
+   "pages": [
+    "https://wine.korea.ac.kr/members/seokmin-kim",
+    "https://wine.korea.ac.kr/members"
+   ]
+  },
+  {
+   "id": 628,
+   "name": "Taewoo Park",
+   "institution": "Korea University",
+   "position": "M.S. & Ph.D. student, WINE Lab, Korea University",
+   "advisor": "Hwangnam Kim",
+   "pages": [
+    "https://wine.korea.ac.kr/members/tae-woo-park",
+    "https://wine.korea.ac.kr/members"
+   ]
+  },
+  {
+   "id": 629,
+   "name": "Poet Larsen",
+   "institution": "Harvard Business School (postdoc)",
+   "position": "Postdoctoral Fellow, Customer Intelligence Lab, Harvard Business School AI Institute",
+   "advisor": "Davide Proserpio",
+   "pages": [
+    "https://aiinstitute.hbs.edu/our-team/poet-larsen/",
+    "https://dadepro.github.io/"
+   ]
+  },
+  {
+   "id": 637,
+   "name": "Mung Yao Jia",
+   "institution": "University of Illinois Urbana-Champaign",
+   "position": "Computer Science PhD student, University of Illinois Urbana-Champaign",
+   "advisor": "Dong Wang",
+   "pages": [
+    "https://mungyao-jia.github.io/",
+    "https://www.wangdong.org/sslab/team.html"
+   ]
+  },
+  {
+   "id": 640,
+   "name": "Lanyu Shang",
+   "institution": "Loyola Marymount University",
+   "position": "",
+   "advisor": "Dong Wang",
+   "pages": [
+    "https://www.wangdong.org/sslab/team.html"
+   ]
+  },
+  {
+   "id": 641,
+   "name": "Md Tahmid Rashid",
+   "institution": "Illinois State University",
+   "position": "",
+   "advisor": "Dong Wang",
+   "pages": [
+    "https://www.wangdong.org/sslab/team.html"
+   ]
+  },
+  {
+   "id": 642,
+   "name": "Yang Zhang",
+   "institution": "Miami University",
+   "position": "",
+   "advisor": "Dong Wang",
+   "pages": [
+    "https://www.wangdong.org/sslab/team.html"
+   ]
+  },
+  {
+   "id": 643,
+   "name": "Daniel (Yue) Zhang",
+   "institution": "Scale AI",
+   "position": "",
+   "advisor": "Dong Wang",
+   "pages": [
+    "https://www.wangdong.org/sslab/team.html"
+   ]
+  },
+  {
+   "id": 644,
+   "name": "Sudip Maitra",
+   "institution": "Virginia Tech",
+   "position": "PhD candidate, Virginia Tech",
+   "advisor": "Haining Wang",
+   "pages": [
+    "https://scholar.google.com/citations?user=eMrW3h0AAAAJ",
+    "https://nss.ece.vt.edu/people.html"
+   ]
+  },
+  {
+   "id": 645,
+   "name": "Pragya Sharma",
+   "institution": "Virginia Tech",
+   "position": "PhD student, Virginia Tech",
+   "advisor": "Haining Wang",
+   "pages": [
+    "https://scholar.google.com/citations?user=UNZRLLsAAAAJ",
+    "https://nss.ece.vt.edu/people.html"
+   ]
+  },
+  {
+   "id": 648,
+   "name": "Shihua Sun",
+   "institution": "Virginia Tech",
+   "position": "PhD student, Virginia Tech",
+   "advisor": "Haining Wang",
+   "pages": [
+    "https://scholar.google.com/citations?user=puFvV-sAAAAJ",
+    "https://nss.ece.vt.edu/people.html"
+   ]
+  },
+  {
+   "id": 649,
+   "name": "Kene Nwodo",
+   "institution": "Virginia Tech",
+   "position": "PhD student, Virginia Tech",
+   "advisor": "Haining Wang",
+   "pages": [
+    "https://scholar.google.com/citations?user=yLF-_98AAAAJ",
+    "https://nss.ece.vt.edu/people.html"
+   ]
+  },
+  {
+   "id": 652,
+   "name": "Yousef Akbar",
+   "institution": "Virginia Tech",
+   "position": "Ph.D. student, Virginia Tech (NSSL)",
+   "advisor": "Haining Wang",
+   "pages": [
+    "https://nss.ece.vt.edu/people.html"
+   ]
+  }
+ ]
+}

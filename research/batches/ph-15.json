@@ -1,0 +1,156 @@
+{
+ "batch": "ph-15",
+ "kind": "photo",
+ "people": [
+  {
+   "id": 542,
+   "name": "Yun-Jing Wang",
+   "institution": "National Taiwan University",
+   "position": "Ph.D. student, National Taiwan University (Arbor lab)",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "pages": [
+    "https://arbor.ee.ntu.edu.tw/member.html"
+   ]
+  },
+  {
+   "id": 543,
+   "name": "Haidong Wang",
+   "institution": "Texas A&M University",
+   "position": "Ph.D. student (Computer Engineering), Texas A&M University",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "pages": [
+    "https://rtds.cse.tamu.edu/people/"
+   ]
+  },
+  {
+   "id": 544,
+   "name": "Kyong-Wan Nam",
+   "institution": "Atheros Communications",
+   "position": "",
+   "advisor": "Sunggu Lee",
+   "pages": [
+    "https://esa.postech.ac.kr/esa/mem/alumni.do"
+   ]
+  },
+  {
+   "id": 545,
+   "name": "Sang-Cheol Kim",
+   "institution": "Electronics and Telecommunications Research Institute",
+   "position": "",
+   "advisor": "Sunggu Lee",
+   "pages": [
+    "https://esa.postech.ac.kr/esa/mem/alumni.do"
+   ]
+  },
+  {
+   "id": 546,
+   "name": "Min-Gu Lee",
+   "institution": "KT Coporation",
+   "position": "",
+   "advisor": "Sunggu Lee",
+   "pages": [
+    "https://esa.postech.ac.kr/esa/mem/alumni.do"
+   ]
+  },
+  {
+   "id": 547,
+   "name": "Dong-Hak Pyo",
+   "institution": "Samsung Electronics",
+   "position": "",
+   "advisor": "Sunggu Lee",
+   "pages": [
+    "https://esa.postech.ac.kr/esa/mem/alumni.do"
+   ]
+  },
+  {
+   "id": 548,
+   "name": "Ungjin Jang",
+   "institution": "Samsung Electronics",
+   "position": "",
+   "advisor": "Sunggu Lee",
+   "pages": [
+    "https://esa.postech.ac.kr/esa/mem/alumni.do"
+   ]
+  },
+  {
+   "id": 549,
+   "name": "Junyoung Park",
+   "institution": "Samsung Electronics",
+   "position": "",
+   "advisor": "Sunggu Lee",
+   "pages": [
+    "https://esa.postech.ac.kr/esa/mem/alumni.do"
+   ]
+  },
+  {
+   "id": 550,
+   "name": "Joosung Yun",
+   "institution": "Samsung Electronics",
+   "position": "",
+   "advisor": "Sunggu Lee",
+   "pages": [
+    "https://esa.postech.ac.kr/esa/mem/alumni.do"
+   ]
+  },
+  {
+   "id": 551,
+   "name": "Byeonguk Bae",
+   "institution": "Samsung Electronics",
+   "position": "",
+   "advisor": "Sunggu Lee",
+   "pages": [
+    "https://esa.postech.ac.kr/esa/mem/alumni.do"
+   ]
+  },
+  {
+   "id": 552,
+   "name": "Kibeom Kim",
+   "institution": "Yonam Institute of Technology",
+   "position": "",
+   "advisor": "Sunggu Lee",
+   "pages": [
+    "https://esa.postech.ac.kr/esa/mem/alumni.do"
+   ]
+  },
+  {
+   "id": 553,
+   "name": "Minho Ha",
+   "institution": "SK Hynix",
+   "position": "",
+   "advisor": "Sunggu Lee",
+   "pages": [
+    "https://esa.postech.ac.kr/esa/mem/alumni.do"
+   ]
+  },
+  {
+   "id": 554,
+   "name": "Duhwan Kim",
+   "institution": "Hyundai Movex",
+   "position": "",
+   "advisor": "Sunggu Lee",
+   "pages": [
+    "https://esa.postech.ac.kr/esa/mem/alumni.do"
+   ]
+  },
+  {
+   "id": 555,
+   "name": "Jeonghun Kim",
+   "institution": "Samsung Electronics",
+   "position": "",
+   "advisor": "Sunggu Lee",
+   "pages": [
+    "https://esa.postech.ac.kr/esa/mem/alumni.do"
+   ]
+  },
+  {
+   "id": 556,
+   "name": "Sanghyeon Ju",
+   "institution": "POSTECH",
+   "position": "PhD candidate, Electrical Engineering, POSTECH",
+   "advisor": "Sunggu Lee",
+   "pages": [
+    "https://esa.postech.ac.kr/esa/mem/member.do"
+   ]
+  }
+ ]
+}

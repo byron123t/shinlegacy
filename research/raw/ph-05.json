@@ -1,0 +1,161 @@
+{
+ "batch": "ph-05",
+ "people": [
+  {
+   "id": 312,
+   "name": "Masoud Moshref",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "site unreachable (curl failed)"
+  },
+  {
+   "id": 314,
+   "name": "Davide Proserpio",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "only image is a selfie with a dog, not a clean headshot; skipped"
+  },
+  {
+   "id": 326,
+   "name": "Catharine McGhan",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Caltech wiki page has no photo"
+  },
+  {
+   "id": 329,
+   "name": "Justin Bradley",
+   "photo": {
+    "image_url": "http://justinbradley.unl.edu/assets/images/authorimage.png",
+    "page_url": "http://justinbradley.unl.edu/"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "single-person portrait; 200 image"
+  },
+  {
+   "id": 352,
+   "name": "Lu Su",
+   "photo": {
+    "image_url": "https://engineering.purdue.edu/~lusu/images/lusu.jpg",
+    "page_url": "https://engineering.purdue.edu/~lusu/"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "single-person portrait; 200 image"
+  },
+  {
+   "id": 370,
+   "name": "Zelun Wang",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "previous-students page lists names only, no photos"
+  },
+  {
+   "id": 371,
+   "name": "Jason Lin",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no photo on page"
+  },
+  {
+   "id": 372,
+   "name": "Guoyu Fu",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no photo on page"
+  },
+  {
+   "id": 373,
+   "name": "Xing Wang",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no photo on page"
+  },
+  {
+   "id": 374,
+   "name": "Hao Wang",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no photo on page"
+  },
+  {
+   "id": 375,
+   "name": "Shi Pu",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no photo on page"
+  },
+  {
+   "id": 376,
+   "name": "John Pecarina",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no photo on page"
+  },
+  {
+   "id": 377,
+   "name": "Sheng-Ya Lin",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no photo on page"
+  },
+  {
+   "id": 378,
+   "name": "Hai Xu",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no photo on page"
+  },
+  {
+   "id": 379,
+   "name": "Huajun Ying",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no photo on page"
+  }
+ ]
+}

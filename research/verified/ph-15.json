@@ -1,0 +1,150 @@
+{
+  "batch": "ph-15",
+  "people": [
+    {
+      "id": 542,
+      "name": "Yun-Jing Wang",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://arbor.ee.ntu.edu.tw/static/img/member/%E7%8E%8B%E9%9F%BB%E6%99%B6.jpg",
+        "page_url": "https://arbor.ee.ntu.edu.tw/member.html",
+        "reason": "200 image/*; page lists this name beside the embedded image; single-person photo"
+      },
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 543,
+      "name": "Haidong Wang",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 544,
+      "name": "Kyong-Wan Nam",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 545,
+      "name": "Sang-Cheol Kim",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 546,
+      "name": "Min-Gu Lee",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 547,
+      "name": "Dong-Hak Pyo",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 548,
+      "name": "Ungjin Jang",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 549,
+      "name": "Junyoung Park",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 550,
+      "name": "Joosung Yun",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 551,
+      "name": "Byeonguk Bae",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 552,
+      "name": "Kibeom Kim",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 553,
+      "name": "Minho Ha",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 554,
+      "name": "Duhwan Kim",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 555,
+      "name": "Jeonghun Kim",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 556,
+      "name": "Sanghyeon Ju",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://esa.postech.ac.kr/_res/postech/esa/img/Sanghyeon%20Ju.jpg",
+        "page_url": "https://esa.postech.ac.kr/esa/mem/member.do",
+        "reason": "200 image/*; page lists this name beside the embedded image; single-person photo"
+      },
+      "current_position": null,
+      "bio": null,
+      "students": []
+    }
+  ]
+}

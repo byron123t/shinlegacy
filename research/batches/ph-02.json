@@ -1,0 +1,169 @@
+{
+ "batch": "ph-02",
+ "kind": "photo",
+ "people": [
+  {
+   "id": 66,
+   "name": "Wei Sun",
+   "institution": "Google",
+   "position": "Google",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+    "https://web.eecs.umich.edu/~kgshin/students.html"
+   ]
+  },
+  {
+   "id": 68,
+   "name": "Chang-hao (Howard) Tsai",
+   "institution": "Skytap Cloud",
+   "position": "Skytap Cloud",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+    "https://web.eecs.umich.edu/~kgshin/students.html"
+   ]
+  },
+  {
+   "id": 69,
+   "name": "Jian Wu",
+   "institution": "Google",
+   "position": "Google",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+    "https://web.eecs.umich.edu/~kgshin/students.html"
+   ]
+  },
+  {
+   "id": 70,
+   "name": "Kyu-Han Kim",
+   "institution": "Echo AI, Palo Alto, CA",
+   "position": "Echo AI, Palo Alto, CA",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+    "https://web.eecs.umich.edu/~kgshin/students.html"
+   ]
+  },
+  {
+   "id": 71,
+   "name": "Zhigang Chen",
+   "institution": "WuXi AppTec, Chief Digital Officer (CDO)",
+   "position": "WuXi AppTec, Chief Digital Officer (CDO)",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+    "https://web.eecs.umich.edu/~kgshin/students.html"
+   ]
+  },
+  {
+   "id": 73,
+   "name": "Pradeep Padala",
+   "institution": "Entrepreneur and Investor, Silicon Valley, CA",
+   "position": "",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://mathgenealogy.org/id.php?id=155427"
+   ]
+  },
+  {
+   "id": 75,
+   "name": "Hyoil Kim",
+   "institution": "Ulsan Institute of Science and Technology, Korea",
+   "position": "Professor, Department of Electrical Engineering, UNIST; Director, Wireless and Mobile Networking Laboratory (WMNL)",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://wmnl.unist.ac.kr/?p=2378"
+   ]
+  },
+  {
+   "id": 91,
+   "name": "Kyong Tak Cho",
+   "institution": "Cash App, Silicon Valley, CA",
+   "position": "Cash App, Silicon Valley, CA",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://rtcl.eecs.umich.edu/rtclweb/assets/dissertations/2018/dissertation_ktcho.pdf"
+   ]
+  },
+  {
+   "id": 92,
+   "name": "Youngmoon Lee",
+   "institution": "Hanyang University, Korea",
+   "position": "Associate Professor, Department of Robotics, Hanyang University ERICA; Founding Director, RAISE Lab",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://sites.google.com/umich.edu/youngmoonlee",
+    "https://rtcl.eecs.umich.edu/rtclweb/dissertations"
+   ]
+  },
+  {
+   "id": 93,
+   "name": "Arun Ganesan",
+   "institution": "Meta (Facebook), New York City",
+   "position": "",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+    "https://web.eecs.umich.edu/~kgshin/students.html"
+   ]
+  },
+  {
+   "id": 95,
+   "name": "Taeju Park",
+   "institution": "Google, Mountainview, CA",
+   "position": "",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+    "https://web.eecs.umich.edu/~kgshin/students.html"
+   ]
+  },
+  {
+   "id": 96,
+   "name": "Timothy Trippel (jointly with Mattew Hicks at Virginia Tech)",
+   "institution": "Google",
+   "position": "",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+    "https://web.eecs.umich.edu/~kgshin/students.html"
+   ]
+  },
+  {
+   "id": 97,
+   "name": "Juncheng Gu (jointly with M. Chowdhury)",
+   "institution": "Systems Group, Google, Seattle, WA",
+   "position": "",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://mosharaf.com/blog/2021/08/27/juncheng-levels-up-congrats-dr-gu/",
+    "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+    "https://web.eecs.umich.edu/~kgshin/students.html"
+   ]
+  },
+  {
+   "id": 100,
+   "name": "Mert Dieter Pese",
+   "institution": "Clemson University",
+   "position": "Assistant Professor of Computer Science, Clemson University; Founding Director, TigerSec Laboratory",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://mpese.com/",
+    "https://rtcl.eecs.umich.edu/rtclweb/dissertations"
+   ]
+  },
+  {
+   "id": 101,
+   "name": "Hsun-Wei Cho",
+   "institution": "ADI, Dallas, TX",
+   "position": "",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+    "https://web.eecs.umich.edu/~kgshin/students.html"
+   ]
+  }
+ ]
+}

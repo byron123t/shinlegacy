@@ -1,0 +1,156 @@
+{
+ "batch": "ph-05",
+ "kind": "photo",
+ "people": [
+  {
+   "id": 312,
+   "name": "Masoud Moshref",
+   "institution": "Barefoot Networks",
+   "position": "",
+   "advisor": "Minlan Yu",
+   "pages": [
+    "http://masoudmoshref.com/"
+   ]
+  },
+  {
+   "id": 314,
+   "name": "Davide Proserpio",
+   "institution": "USC",
+   "position": "McAlister Associate Professor in Business Administration; Associate Professor of Marketing, USC Marshall School of Business",
+   "advisor": "Sharon Goldberg",
+   "pages": [
+    "https://dadepro.github.io/"
+   ]
+  },
+  {
+   "id": 326,
+   "name": "Catharine McGhan",
+   "institution": "University of Cincinnati",
+   "position": "",
+   "advisor": "Ella Atkins (co-advised with Ed Durfee)",
+   "pages": [
+    "https://murray.cds.caltech.edu/Catharine_(Cat)_McGhan"
+   ]
+  },
+  {
+   "id": 329,
+   "name": "Justin Bradley",
+   "institution": "University of Nebraska, Lincoln",
+   "position": "Richard L. and Carol S. McNeel Associate Professor, University of Nebraska-Lincoln",
+   "advisor": "Ella Atkins (co-advised with Ed Durfee)",
+   "pages": [
+    "http://justinbradley.unl.edu/"
+   ]
+  },
+  {
+   "id": 352,
+   "name": "Lu Su",
+   "institution": "SUNY Buffalo",
+   "position": "Associate Professor, School of Electrical and Computer Engineering, Purdue University",
+   "advisor": "Tarek Abdelzaher",
+   "pages": [
+    "https://engineering.purdue.edu/~lusu/"
+   ]
+  },
+  {
+   "id": 370,
+   "name": "Zelun Wang",
+   "institution": "Snapchat (ML Engineer)",
+   "position": "",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "pages": [
+    "https://rtds.cse.tamu.edu/people/previous-students/"
+   ]
+  },
+  {
+   "id": 371,
+   "name": "Jason Lin",
+   "institution": "National Chung Hsing University",
+   "position": "",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "pages": [
+    "https://rtds.cse.tamu.edu/people/previous-students/"
+   ]
+  },
+  {
+   "id": 372,
+   "name": "Guoyu Fu",
+   "institution": "Google",
+   "position": "",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "pages": [
+    "https://rtds.cse.tamu.edu/people/previous-students/"
+   ]
+  },
+  {
+   "id": 373,
+   "name": "Xing Wang",
+   "institution": "Facebook",
+   "position": "",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "pages": [
+    "https://rtds.cse.tamu.edu/people/previous-students/"
+   ]
+  },
+  {
+   "id": 374,
+   "name": "Hao Wang",
+   "institution": "Cisco",
+   "position": "",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "pages": [
+    "https://rtds.cse.tamu.edu/people/previous-students/"
+   ]
+  },
+  {
+   "id": 375,
+   "name": "Shi Pu",
+   "institution": "Microsoft",
+   "position": "",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "pages": [
+    "https://rtds.cse.tamu.edu/people/previous-students/"
+   ]
+  },
+  {
+   "id": 376,
+   "name": "John Pecarina",
+   "institution": "University of Wisconsin-Madison (Aerospace Studies)",
+   "position": "",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "pages": [
+    "https://rtds.cse.tamu.edu/people/previous-students/"
+   ]
+  },
+  {
+   "id": 377,
+   "name": "Sheng-Ya Lin",
+   "institution": "",
+   "position": "",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "pages": [
+    "https://rtds.cse.tamu.edu/people/previous-students/"
+   ]
+  },
+  {
+   "id": 378,
+   "name": "Hai Xu",
+   "institution": "Halliburton",
+   "position": "",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "pages": [
+    "https://rtds.cse.tamu.edu/people/previous-students/"
+   ]
+  },
+  {
+   "id": 379,
+   "name": "Huajun Ying",
+   "institution": "Blippar",
+   "position": "",
+   "advisor": "Jyh-Charn (Steve) Liu",
+   "pages": [
+    "https://rtds.cse.tamu.edu/people/previous-students/"
+   ]
+  }
+ ]
+}

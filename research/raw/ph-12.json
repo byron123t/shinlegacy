@@ -1,0 +1,158 @@
+{
+ "batch": "ph-12",
+ "people": [
+  {
+   "id": 495,
+   "name": "DongKyu Lee",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed pages."
+  },
+  {
+   "id": 496,
+   "name": "Seongjoon Park",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed pages."
+  },
+  {
+   "id": 497,
+   "name": "Joon Yeop Lee",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed pages."
+  },
+  {
+   "id": 498,
+   "name": "Kwang Jae Sung",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed pages."
+  },
+  {
+   "id": 499,
+   "name": "Woonghee Lee",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed pages."
+  },
+  {
+   "id": 500,
+   "name": "Jongtack Jung",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed pages."
+  },
+  {
+   "id": 501,
+   "name": "Christodoulos Pappas",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed pages."
+  },
+  {
+   "id": 502,
+   "name": "Jiajun Xin",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed pages."
+  },
+  {
+   "id": 503,
+   "name": "Isamar Troncoso",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed pages."
+  },
+  {
+   "id": 504,
+   "name": "Grant Phillips",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed pages."
+  },
+  {
+   "id": 505,
+   "name": "Balaji Balasubramaniam",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed pages."
+  },
+  {
+   "id": 506,
+   "name": "Chandima Fernando",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed pages."
+  },
+  {
+   "id": 507,
+   "name": "Adam Plowcha",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed pages."
+  },
+  {
+   "id": 508,
+   "name": "Xinkai Zhang",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "No headshot found on listed pages."
+  },
+  {
+   "id": 510,
+   "name": "Pengyu Chu",
+   "photo": {
+    "image_url": "https://www.egr.msu.edu/rival/portraits/pengyu_chu.jpg",
+    "page_url": "https://www.egr.msu.edu/rival/group.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot next to name on RIVAL group alumni list."
+  }
+ ]
+}

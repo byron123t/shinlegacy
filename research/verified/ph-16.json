@@ -1,0 +1,195 @@
+{
+  "batch": "ph-16",
+  "people": [
+    {
+      "id": 557,
+      "name": "Kangjin Yoon",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 558,
+      "name": "Mat Wymore",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 559,
+      "name": "Shen Fu",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 560,
+      "name": "Dong Qin",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 561,
+      "name": "Kerui Tan",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 562,
+      "name": "Brian Peck",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 563,
+      "name": "Sung-Tae Hong",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "http://faculty.unist.ac.kr/wmnl/wp-content/uploads/sites/458/2021/02/7a20d45d_shong.jpg",
+        "page_url": "https://wmnl.unist.ac.kr/alumni/",
+        "reason": "200 image/*; single-person portrait with clear face; embedded on page in this person's own entry"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 564,
+      "name": "Kyubo Shin",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "http://faculty.unist.ac.kr/wmnl/wp-content/uploads/sites/458/2021/02/95c80d6e_2334f3d5_C5A9B1E2BAAFC8AF_BDC5B1D4BAB8-e1661839634538.jpg",
+        "page_url": "https://wmnl.unist.ac.kr/alumni/",
+        "reason": "200 image/*; single-person portrait with clear face; embedded on page in this person's own entry"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 565,
+      "name": "JeongTak Kim",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "http://faculty.unist.ac.kr/wmnl/wp-content/uploads/sites/458/2022/08/%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%90%E1%85%A1%E1%86%A8.png",
+        "page_url": "https://wmnl.unist.ac.kr/alumni/",
+        "reason": "200 image/*; single-person portrait with clear face; embedded on page in this person's own entry"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 566,
+      "name": "Seokwoo Choi",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "http://faculty.unist.ac.kr/wmnl/wp-content/uploads/sites/458/2021/02/263e53c7_C3D6BCAEBFEC-e1615200103953.jpg",
+        "page_url": "https://wmnl.unist.ac.kr/alumni/",
+        "reason": "200 image/*; single-person portrait with clear face; embedded on page in this person's own entry"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 567,
+      "name": "SuHwan Jung",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "http://faculty.unist.ac.kr/wmnl/wp-content/uploads/sites/458/2021/02/58d604d2_C1A4BCF6C8AF.jpg",
+        "page_url": "https://wmnl.unist.ac.kr/alumni/",
+        "reason": "200 image/*; single-person portrait with clear face; embedded on page in this person's own entry"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 568,
+      "name": "Byeongjin Kim",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "http://faculty.unist.ac.kr/wmnl/wp-content/uploads/sites/458/2022/08/%E1%84%80%E1%85%B5%E1%86%B7%E1%84%87%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5%E1%86%AB.jpeg",
+        "page_url": "https://wmnl.unist.ac.kr/graduate-students/",
+        "reason": "200 image/*; single-person portrait with clear face; embedded on page in this person's own entry"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 569,
+      "name": "Leo Cao",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://wiscprivacy.com/images/leo.jpg",
+        "page_url": "https://wiscprivacy.com/students",
+        "reason": "200 image/*; single-person portrait with clear face; embedded on page in this person's own entry"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 570,
+      "name": "Jingjie Li",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://wiscprivacy.com/images/jingjie.jpg",
+        "page_url": "https://wiscprivacy.com/students",
+        "reason": "200 image/*; single-person portrait with clear face; embedded on page in this person's own entry"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 571,
+      "name": "Yu Wei (Sam) Liu",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    }
+  ]
+}

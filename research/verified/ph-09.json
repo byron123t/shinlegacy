@@ -1,0 +1,165 @@
+{
+  "batch": "ph-09",
+  "people": [
+    {
+      "id": 446,
+      "name": "Qihang Yao",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 447,
+      "name": "Mustafa Burak Gürbüz",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 448,
+      "name": "Cameron Taylor",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 449,
+      "name": "Shreyas Malakarjun Patil",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 450,
+      "name": "Kamal Shadi",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 451,
+      "name": "Kaeser Md. Sabrin",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 452,
+      "name": "Payam Siyari",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 453,
+      "name": "Siddarth Sitaraman",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 454,
+      "name": "Huseyin Sahin",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 455,
+      "name": "Emmanuel Addo Addae",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 456,
+      "name": "Pingping Cai",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://syrex.cse.sc.edu/team/pingping-cai/avatar_hu480999116011488402.jpg",
+        "page_url": "https://syrex.cse.sc.edu/team/",
+        "reason": "Page names person and embeds image next to entry; 200 image/jpeg; single-person portrait"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 457,
+      "name": "Zhuangzhuang Gu",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://syrex.cse.sc.edu/team/zhuangzhuang-gu/avatar_hu18207808271084526956.jpg",
+        "page_url": "https://syrex.cse.sc.edu/team/",
+        "reason": "Page names person and embeds image next to entry; 200 image/jpeg; single-person portrait"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 459,
+      "name": "Zarin Shejuti",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 460,
+      "name": "Aayush Shrestha",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 461,
+      "name": "Abdulahi Taiwo",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    }
+  ]
+}

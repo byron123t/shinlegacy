@@ -1,0 +1,157 @@
+{
+ "batch": "ph-13",
+ "kind": "photo",
+ "people": [
+  {
+   "id": 511,
+   "name": "Kaian Chen",
+   "institution": "Ford Motor Company",
+   "position": "Employee at Ford Motor Company",
+   "advisor": "Zhaojian Li",
+   "pages": [
+    "https://www.egr.msu.edu/rival/group.html"
+   ]
+  },
+  {
+   "id": 512,
+   "name": "Kyle Lammers",
+   "institution": "Michigan State University",
+   "position": "PhD student, Michigan State University (RIVAL lab, Zhaojian Li)",
+   "advisor": "Zhaojian Li",
+   "pages": [
+    "https://www.egr.msu.edu/rival/group.html"
+   ]
+  },
+  {
+   "id": 513,
+   "name": "Mohammad Hajidavalloo",
+   "institution": "Michigan State University",
+   "position": "PhD student, Michigan State University (RIVAL lab, Zhaojian Li)",
+   "advisor": "Zhaojian Li",
+   "pages": [
+    "https://www.egr.msu.edu/rival/group.html"
+   ]
+  },
+  {
+   "id": 514,
+   "name": "Ramin Vahidimoghaddam",
+   "institution": "Michigan State University",
+   "position": "PhD student, Michigan State University (RIVAL lab, Zhaojian Li)",
+   "advisor": "Zhaojian Li",
+   "pages": [
+    "https://www.egr.msu.edu/rival/group.html"
+   ]
+  },
+  {
+   "id": 515,
+   "name": "Huanqing Wang",
+   "institution": "Michigan State University",
+   "position": "PhD student, Michigan State University (RIVAL lab, Zhaojian Li)",
+   "advisor": "Zhaojian Li",
+   "pages": [
+    "https://www.egr.msu.edu/rival/group.html"
+   ]
+  },
+  {
+   "id": 516,
+   "name": "Chuwei Ye",
+   "institution": "Michigan State University",
+   "position": "PhD student, Michigan State University (RIVAL lab, Zhaojian Li)",
+   "advisor": "Zhaojian Li",
+   "pages": [
+    "https://www.egr.msu.edu/rival/group.html"
+   ]
+  },
+  {
+   "id": 517,
+   "name": "Jiajia Li",
+   "institution": "Michigan State University",
+   "position": "PhD student, Michigan State University (RIVAL lab, Zhaojian Li)",
+   "advisor": "Zhaojian Li",
+   "pages": [
+    "https://www.egr.msu.edu/rival/group.html"
+   ]
+  },
+  {
+   "id": 518,
+   "name": "Keyi Zhu",
+   "institution": "Michigan State University",
+   "position": "PhD student, Michigan State University (RIVAL lab, Zhaojian Li)",
+   "advisor": "Zhaojian Li",
+   "pages": [
+    "https://www.egr.msu.edu/rival/group.html"
+   ]
+  },
+  {
+   "id": 519,
+   "name": "Chaaran Arunachalam",
+   "institution": "Michigan State University",
+   "position": "PhD student, Michigan State University (RIVAL lab, Zhaojian Li)",
+   "advisor": "Zhaojian Li",
+   "pages": [
+    "https://www.egr.msu.edu/rival/group.html"
+   ]
+  },
+  {
+   "id": 520,
+   "name": "Zheng Yang",
+   "institution": "Michigan State University",
+   "position": "",
+   "advisor": "Zhaojian Li",
+   "pages": [
+    "https://www.egr.msu.edu/rival/group.html"
+   ]
+  },
+  {
+   "id": 521,
+   "name": "Zheng Lu",
+   "institution": "",
+   "position": "",
+   "advisor": "Qing (Charles) Cao",
+   "pages": [
+    "https://lanterns.eecs.utk.edu/members.html"
+   ]
+  },
+  {
+   "id": 523,
+   "name": "Md Abdullah Al Fahim",
+   "institution": "Google",
+   "position": "",
+   "advisor": "Mohammad M. Khan",
+   "pages": [
+    "https://maifikhan.cse.uconn.edu/"
+   ]
+  },
+  {
+   "id": 524,
+   "name": "Theodore Jensen",
+   "institution": "NIST Visualization and Usability Group",
+   "position": "",
+   "advisor": "Mohammad M. Khan",
+   "pages": [
+    "https://www.nist.gov/people/theodore-jensen",
+    "https://maifikhan.cse.uconn.edu/"
+   ]
+  },
+  {
+   "id": 525,
+   "name": "Kewen Wang",
+   "institution": "Salesforce",
+   "position": "",
+   "advisor": "Mohammad M. Khan",
+   "pages": [
+    "https://maifikhan.cse.uconn.edu/"
+   ]
+  },
+  {
+   "id": 526,
+   "name": "Yi-Ling Chen",
+   "institution": "",
+   "position": "",
+   "advisor": "Ming-Syan (Frank) Chen",
+   "pages": [
+    "https://arbor.ee.ntu.edu.tw/alumni.html"
+   ]
+  }
+ ]
+}

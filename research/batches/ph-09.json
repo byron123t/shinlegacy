@@ -1,0 +1,158 @@
+{
+ "batch": "ph-09",
+ "kind": "photo",
+ "people": [
+  {
+   "id": 446,
+   "name": "Qihang Yao",
+   "institution": "Meta",
+   "position": "",
+   "advisor": "Constantine Dovrolis",
+   "pages": [
+    "https://sites.cc.gatech.edu/fac/Constantinos.Dovrolis/start_page.html"
+   ]
+  },
+  {
+   "id": 447,
+   "name": "Mustafa Burak Gürbüz",
+   "institution": "Meta",
+   "position": "",
+   "advisor": "Constantine Dovrolis",
+   "pages": [
+    "https://sites.cc.gatech.edu/fac/Constantinos.Dovrolis/start_page.html"
+   ]
+  },
+  {
+   "id": 448,
+   "name": "Cameron Taylor",
+   "institution": "Talon.io",
+   "position": "",
+   "advisor": "Constantine Dovrolis",
+   "pages": [
+    "https://sites.cc.gatech.edu/fac/Constantinos.Dovrolis/start_page.html"
+   ]
+  },
+  {
+   "id": 449,
+   "name": "Shreyas Malakarjun Patil",
+   "institution": "Amazon",
+   "position": "",
+   "advisor": "Constantine Dovrolis",
+   "pages": [
+    "https://sites.cc.gatech.edu/fac/Constantinos.Dovrolis/start_page.html"
+   ]
+  },
+  {
+   "id": 450,
+   "name": "Kamal Shadi",
+   "institution": "Decooda",
+   "position": "",
+   "advisor": "Constantine Dovrolis",
+   "pages": [
+    "https://sites.cc.gatech.edu/fac/Constantinos.Dovrolis/start_page.html"
+   ]
+  },
+  {
+   "id": 451,
+   "name": "Kaeser Md. Sabrin",
+   "institution": "LinkedIn",
+   "position": "",
+   "advisor": "Constantine Dovrolis",
+   "pages": [
+    "https://sites.cc.gatech.edu/fac/Constantinos.Dovrolis/start_page.html"
+   ]
+  },
+  {
+   "id": 452,
+   "name": "Payam Siyari",
+   "institution": "Uber",
+   "position": "",
+   "advisor": "Constantine Dovrolis",
+   "pages": [
+    "https://sites.cc.gatech.edu/fac/Constantinos.Dovrolis/start_page.html"
+   ]
+  },
+  {
+   "id": 453,
+   "name": "Siddarth Sitaraman",
+   "institution": "University of Michigan",
+   "position": "",
+   "advisor": "Amrita Roy Chowdhury",
+   "pages": [
+    "https://sites.google.com/wisc.edu/amrita-roy-chowdhury/"
+   ]
+  },
+  {
+   "id": 454,
+   "name": "Huseyin Sahin",
+   "institution": "University of Michigan",
+   "position": "",
+   "advisor": "Amrita Roy Chowdhury",
+   "pages": [
+    "https://sites.google.com/wisc.edu/amrita-roy-chowdhury/"
+   ]
+  },
+  {
+   "id": 455,
+   "name": "Emmanuel Addo Addae",
+   "institution": "University of South Carolina",
+   "position": "",
+   "advisor": "Sanjib Sur",
+   "pages": [
+    "https://syrex.cse.sc.edu/team/"
+   ]
+  },
+  {
+   "id": 456,
+   "name": "Pingping Cai",
+   "institution": "University of South Carolina",
+   "position": "",
+   "advisor": "Sanjib Sur",
+   "pages": [
+    "https://syrex.cse.sc.edu/team/"
+   ]
+  },
+  {
+   "id": 457,
+   "name": "Zhuangzhuang Gu",
+   "institution": "University of South Carolina",
+   "position": "",
+   "advisor": "Sanjib Sur",
+   "pages": [
+    "https://syrex.cse.sc.edu/team/"
+   ]
+  },
+  {
+   "id": 459,
+   "name": "Zarin Shejuti",
+   "institution": "University of South Carolina",
+   "position": "",
+   "advisor": "Sanjib Sur",
+   "pages": [
+    "https://syrex.cse.sc.edu/team/"
+   ]
+  },
+  {
+   "id": 460,
+   "name": "Aayush Shrestha",
+   "institution": "University of South Carolina",
+   "position": "",
+   "advisor": "Sanjib Sur",
+   "pages": [
+    "https://syrex.cse.sc.edu/team/aayush-shrestha/",
+    "https://syrex.cse.sc.edu/team/"
+   ]
+  },
+  {
+   "id": 461,
+   "name": "Abdulahi Taiwo",
+   "institution": "University of South Carolina",
+   "position": "",
+   "advisor": "Sanjib Sur",
+   "pages": [
+    "https://syrex.cse.sc.edu/team/abdulahi-taiwo/",
+    "https://syrex.cse.sc.edu/team/"
+   ]
+  }
+ ]
+}

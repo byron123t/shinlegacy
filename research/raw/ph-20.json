@@ -1,0 +1,194 @@
+{
+ "batch": "ph-20",
+ "people": [
+  {
+   "id": 625,
+   "name": "Wooyong Jung",
+   "photo": {
+    "image_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sEEzI677RfehItJR1ULvaohWz7O2uTFZcpLqIhYJFyMj9ahZFRIk-D0t6MIcOTMs8SPZ3YGeEocWUR4i5Z882hmyZ9Ta8tcECKIutB7kXmyykHZ3ppAA1Yn1_bUrDciXFBFMUFW8vxqhOF0wdc6_vCoBppQjGvLQNB6_qlyo8knwV7wqAyN41mUTirO67-AOxLZzH_y2uNj3LbkeeadACHGxl7da1srQi31JNmVBw=w1280",
+    "page_url": "https://wine.korea.ac.kr/members"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot from lab team page."
+  },
+  {
+   "id": 626,
+   "name": "Dohun Lee",
+   "photo": {
+    "image_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ugv-0TkVVo2lfq6puHtBW_Kx1yY6M8EIo6OYOq5dstkVm6hvHir9jRRwBM_T5WOrlDDUEwDfIevc1waImuH8wLeIsEDS42uLneH9gSgTXJSU0JPeAS4LTTTDkQ3NNKfghLs1hSay6UVEcTIccL8EzuQmYkDVmCfnIy3B4VQddg6O8-WkuK3twehxGUXxR0ZCJ_CWNTJ_kq08EifbIXv6u9qDq_sm6rkgPAbQGpEdM=w1280",
+    "page_url": "https://wine.korea.ac.kr/members"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot from lab team page."
+  },
+  {
+   "id": 627,
+   "name": "Seokmin Kim",
+   "photo": {
+    "image_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tIthygCo3tjVzGwY9giQpRAC2Wkku5gH7r_yztFE0i28psoymKcOstWGWg-XlyvEQGfwQOu2RHer-wpDAJUG60GmSd2hlx_91h-LmyM8hXGmjlGHSpL6eX-G4AuqoqZEpgnpFCcl10bjp2Vz5ich6don3YLSxPV4lBFk8hYId8Xsm-mvRdElKCgc5_hyvegSoxrjW75Ibri-ZmIPix9SOyyna5mVSXeHmn2DYayCM=w1280",
+    "page_url": "https://wine.korea.ac.kr/members"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot from lab team page."
+  },
+  {
+   "id": 628,
+   "name": "Taewoo Park",
+   "photo": {
+    "image_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uMvXrU1WoisN7q-u4TYITawJULXnIl-uBSDFIvvBwuuns8sAM1l57x3EIPUYylxQtjmBzUITsV8ot1e2l6W2a5EjyH_qJc1puENya6LhogPBhMuoYUTb0zjGiu4wfa_3poxglC7nKGy9Iq01b1rON1NgKt3XEhce3cl1wuExLPxfSvY0DSyjZEyR568p2OQqAW5hLKWqm2i5WzGK04g_2-CWV5QbgRohwRuDEh=w1280",
+    "page_url": "https://wine.korea.ac.kr/members"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot from lab team page."
+  },
+  {
+   "id": 629,
+   "name": "Poet Larsen",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "HBS profile shows only a generated icon, no photo."
+  },
+  {
+   "id": 637,
+   "name": "Mung Yao Jia",
+   "photo": {
+    "image_url": "https://www.wangdong.org/sslab/assets/images/team/mungyao.jpg",
+    "page_url": "https://www.wangdong.org/sslab/team.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot from lab team page."
+  },
+  {
+   "id": 640,
+   "name": "Lanyu Shang",
+   "photo": {
+    "image_url": "https://www.wangdong.org/sslab/assets/images/team/lanyu.jpg",
+    "page_url": "https://www.wangdong.org/sslab/team.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot from lab team page."
+  },
+  {
+   "id": 641,
+   "name": "Md Tahmid Rashid",
+   "photo": {
+    "image_url": "https://www.wangdong.org/sslab/assets/images/team/tahmid.jpg",
+    "page_url": "https://www.wangdong.org/sslab/team.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot from lab team page."
+  },
+  {
+   "id": 642,
+   "name": "Yang Zhang",
+   "photo": {
+    "image_url": "https://www.wangdong.org/sslab/assets/images/team/yang.jpg",
+    "page_url": "https://www.wangdong.org/sslab/team.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot from lab team page."
+  },
+  {
+   "id": 643,
+   "name": "Daniel (Yue) Zhang",
+   "photo": {
+    "image_url": "https://www.wangdong.org/sslab/assets/images/team/daniel.jpg",
+    "page_url": "https://www.wangdong.org/sslab/team.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot from lab team page."
+  },
+  {
+   "id": 644,
+   "name": "Sudip Maitra",
+   "photo": {
+    "image_url": "https://nss.ece.vt.edu/team/sudip.JPG",
+    "page_url": "https://nss.ece.vt.edu/people.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot from lab team page."
+  },
+  {
+   "id": 645,
+   "name": "Pragya Sharma",
+   "photo": {
+    "image_url": "https://nss.ece.vt.edu/team/pragya.JPG",
+    "page_url": "https://nss.ece.vt.edu/people.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot from lab team page."
+  },
+  {
+   "id": 648,
+   "name": "Shihua Sun",
+   "photo": {
+    "image_url": "https://nss.ece.vt.edu/team/shihua.JPG",
+    "page_url": "https://nss.ece.vt.edu/people.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot from lab team page."
+  },
+  {
+   "id": 649,
+   "name": "Kene Nwodo",
+   "photo": {
+    "image_url": "https://nss.ece.vt.edu/team/kene.jpeg",
+    "page_url": "https://nss.ece.vt.edu/people.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot from lab team page."
+  },
+  {
+   "id": 652,
+   "name": "Yousef Akbar",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Team page shows default placeholder image."
+  }
+ ]
+}

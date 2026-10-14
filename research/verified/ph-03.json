@@ -1,0 +1,185 @@
+{
+  "batch": "ph-03",
+  "people": [
+    {
+      "id": 102,
+      "name": "Youssef Tobah",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 103,
+      "name": "Yue Gao",
+      "website": null,
+      "photo": {
+        "verdict": "rejected",
+        "image_url": "https://pages.cs.wisc.edu/~gy/assets/img/prof_pic.jpg",
+        "page_url": "https://pages.cs.wisc.edu/~gy/",
+        "reason": "Face in profile, casual photo on a vehicle; not a clear face photo"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 104,
+      "name": "Yucheng Yang",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 111,
+      "name": "Yufei Zheng",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 122,
+      "name": "Peng Sun",
+      "website": null,
+      "photo": {
+        "verdict": "rejected",
+        "image_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vQQXWHaAWPXX2qPpoAW3LnWnc83v1Rf-1VA4yc4nYCWt_DGfQWzoJ_6uArWoLN3XjomzNYxckHtK2iNfXv00yUwEp_RogvnyMLsFyJ35wVoWPhZzz0K60Y3RG_3otYEPJ4owZzOZBGmibmeKEBgzWioBw1YmfOW_r9q2h6PJj9zQA10ZS1pamqrMmWQmrrc9oRtyMjf771nEe3=w1280",
+        "page_url": "https://www.pengsun.org/",
+        "reason": "Photo is a good headshot, but image_url (rotating Google Sites token) is not embedded on the fetched page; cannot confirm it is the page image"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 128,
+      "name": "Sharon Goldberg",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://www.cs.bu.edu/fac/goldbe/pointing.jpg",
+        "page_url": "https://www.cs.bu.edu/fac/goldbe/",
+        "reason": "200 image/jpeg; single-person photo, face clearly visible; embedded on homepage"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 129,
+      "name": "Haakon Ringberg",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "http://haakonringberg.com/images/haakon.jpg",
+        "page_url": "http://haakonringberg.com/",
+        "reason": "200 image/jpeg; single-person headshot; embedded on homepage"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 130,
+      "name": "Elliott Karpilovsky",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 140,
+      "name": "Chin-ya Huang",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 149,
+      "name": "Kuang-Ching Wang",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 151,
+      "name": "Amrita Roy Chowdhury",
+      "website": null,
+      "photo": {
+        "verdict": "rejected",
+        "image_url": "https://sites.google.com/sitesv-images-rt/AMxu72v1_dtZOR0JxbMGy40m0lMf8a71gzzuRJxZ7kRnONMki-q4XAjzyiQmqYQxOlEzrYqlZKSUtBWS8XD1VYC5xOQV-uxMC-vF1UzVqqQV9WTRMqCsag-UW_5a1YsYLH3fRUyc53xytrhKj8Z9iH8ftMXAaEXAyam9Aw5cClilagnPDjwDzvm5_NF1oM7bO8Q8kJgIoE0Zr5OC1hWSM3WQNIgpJ7Z9f4V6JuRwDxSHuvU=w1280",
+        "page_url": "https://sites.google.com/wisc.edu/amrita-roy-chowdhury/",
+        "reason": "Image_url (rotating Google Sites token) not found in fetched page; embed unconfirmed"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 164,
+      "name": "Timothy Woodford",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 181,
+      "name": "Shirley Zhang",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 185,
+      "name": "Niaz Ahmad",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://sites.google.com/sitesv-images-rt/AMxu72uE35ZZK_cr5omjsU4smJjDXKQzkybJLzjFqU9TLk4ucT-pb08f2H2VBtVI9PWnIER1c6qAHWVZ6gYNl7cqo7XodizFpEHY9ZjK2-d9FSpqSAzS7CJkgtzkQIlThICLyo3ApbPO7foE0ApVFmNBYNvk7zV1Ni9Wt25IO8zAHxfiRWqk-Z3tSQoOHSCqeosq6DW05heFjV50wATDIiyGXDR1yqOhhmszP7hycDB82Fc=w1280",
+        "page_url": "https://sites.google.com/view/niazahmad/home",
+        "reason": "200 image/jpeg; single-person portrait; embedded on page"
+      },
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    },
+    {
+      "id": 186,
+      "name": "Chanyeok Choi",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "phd": null,
+      "students": []
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+ "batch": "ph-13",
+ "people": [
+  {
+   "id": 511,
+   "name": "Kaian Chen",
+   "photo": {
+    "image_url": "https://www.egr.msu.edu/rival/portraits/KaianChen_PhD.jpg",
+    "page_url": "https://www.egr.msu.edu/rival/group.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot beside name on RIVAL group page."
+  },
+  {
+   "id": 512,
+   "name": "Kyle Lammers",
+   "photo": {
+    "image_url": "https://www.egr.msu.edu/rival/portraits/lammers.jpg",
+    "page_url": "https://www.egr.msu.edu/rival/group.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot beside name on RIVAL group page."
+  },
+  {
+   "id": 513,
+   "name": "Mohammad Hajidavalloo",
+   "photo": {
+    "image_url": "https://www.egr.msu.edu/rival/portraits/Mohammad.jpg",
+    "page_url": "https://www.egr.msu.edu/rival/group.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot beside name on RIVAL group page."
+  },
+  {
+   "id": 514,
+   "name": "Ramin Vahidimoghaddam",
+   "photo": {
+    "image_url": "https://www.egr.msu.edu/rival/portraits/Ramin.jpeg",
+    "page_url": "https://www.egr.msu.edu/rival/group.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot beside name on RIVAL group page."
+  },
+  {
+   "id": 515,
+   "name": "Huanqing Wang",
+   "photo": {
+    "image_url": "https://www.egr.msu.edu/rival/portraits/Huanqing.jpg",
+    "page_url": "https://www.egr.msu.edu/rival/group.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot beside name on RIVAL group page."
+  },
+  {
+   "id": 516,
+   "name": "Chuwei Ye",
+   "photo": {
+    "image_url": "https://www.egr.msu.edu/rival/portraits/Chuwei.jpg",
+    "page_url": "https://www.egr.msu.edu/rival/group.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot beside name on RIVAL group page."
+  },
+  {
+   "id": 517,
+   "name": "Jiajia Li",
+   "photo": {
+    "image_url": "https://www.egr.msu.edu/rival/portraits/jiajia.jpg",
+    "page_url": "https://www.egr.msu.edu/rival/group.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot beside name on RIVAL group page."
+  },
+  {
+   "id": 518,
+   "name": "Keyi Zhu",
+   "photo": {
+    "image_url": "https://www.egr.msu.edu/rival/portraits/keyi.jpg",
+    "page_url": "https://www.egr.msu.edu/rival/group.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot beside name on RIVAL group page."
+  },
+  {
+   "id": 519,
+   "name": "Chaaran Arunachalam",
+   "photo": {
+    "image_url": "https://www.egr.msu.edu/rival/portraits/Chaaran_photo.jpeg",
+    "page_url": "https://www.egr.msu.edu/rival/group.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot beside name on RIVAL group page."
+  },
+  {
+   "id": 520,
+   "name": "Zheng Yang",
+   "photo": {
+    "image_url": "https://www.egr.msu.edu/rival/portraits/Zheng.jpg",
+    "page_url": "https://www.egr.msu.edu/rival/group.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot beside name on RIVAL group page."
+  },
+  {
+   "id": 521,
+   "name": "Zheng Lu",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched listed pages; no individual headshot found."
+  },
+  {
+   "id": 523,
+   "name": "Md Abdullah Al Fahim",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched listed pages; no individual headshot found."
+  },
+  {
+   "id": 524,
+   "name": "Theodore Jensen",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched listed pages; no individual headshot found."
+  },
+  {
+   "id": 525,
+   "name": "Kewen Wang",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Searched listed pages; no individual headshot found."
+  },
+  {
+   "id": 526,
+   "name": "Yi-Ling Chen",
+   "photo": {
+    "image_url": "https://arbor.ee.ntu.edu.tw/static/img/alumni/tn_yiling.jpg",
+    "page_url": "https://arbor.ee.ntu.edu.tw/alumni.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Low-res alumni thumbnail beside name."
+  }
+ ]
+}

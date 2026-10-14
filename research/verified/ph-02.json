@@ -1,0 +1,150 @@
+{
+ "batch": "ph-02",
+ "people": [
+  {
+   "id": 66,
+   "name": "Wei Sun",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 68,
+   "name": "Chang-hao (Howard) Tsai",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 69,
+   "name": "Jian Wu",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 70,
+   "name": "Kyu-Han Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 71,
+   "name": "Zhigang Chen",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 73,
+   "name": "Pradeep Padala",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 75,
+   "name": "Hyoil Kim",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 91,
+   "name": "Kyong Tak Cho",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 92,
+   "name": "Youngmoon Lee",
+   "website": null,
+   "photo": {
+    "verdict": "rejected",
+    "image_url": "https://sites.google.com/sitesv-images-rt/AMxu72se9lAmH8ZHU6cGGDwoqjjwsF878SQA0YmqKiy8ET1ET-ctPwWF3y5oJKnLnBkA-rzj44JT1VyvDhOs5gFPwHJJAczsw163Gw1Fyie82FwwNL0-5m8qcRWm-JHTBpvBjEPqYQX-pMwK877Hr3rN2kbfk_wse2Wm4QNvaYyPIb7_2vVnNpCLw76KBTedF8IoFcbbcsfsO0egZvrY-pshibaU4O5XlleHTT3zZQQL=w1280",
+    "page_url": "https://sites.google.com/umich.edu/youngmoonlee",
+    "reason": "Image URL not present in fetched page HTML (JS-rendered Google Site); cannot confirm embed"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 93,
+   "name": "Arun Ganesan",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 95,
+   "name": "Taeju Park",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 96,
+   "name": "Timothy Trippel (jointly with Mattew Hicks at Virginia Tech)",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 97,
+   "name": "Juncheng Gu (jointly with M. Chowdhury)",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 100,
+   "name": "Mert Dieter Pese",
+   "website": null,
+   "photo": {
+    "verdict": "confirmed",
+    "image_url": "https://mpese.com/author/mert-d.-pese/avatar_hu11410778290357770481.jpg",
+    "page_url": "https://mpese.com/",
+    "reason": "200 image/jpeg; single-person portrait; embedded next to this person's name on page"
+   },
+   "current_position": null,
+   "bio": null,
+   "students": []
+  },
+  {
+   "id": 101,
+   "name": "Hsun-Wei Cho",
+   "website": null,
+   "photo": null,
+   "current_position": null,
+   "bio": null,
+   "students": []
+  }
+ ]
+}

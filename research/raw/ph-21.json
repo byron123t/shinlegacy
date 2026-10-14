@@ -1,0 +1,188 @@
+{
+ "batch": "ph-21",
+ "people": [
+  {
+   "id": 654,
+   "name": "Mahsa Foruhandeh",
+   "photo": {
+    "image_url": "https://nss.ece.vt.edu/team/mahsa.jpeg",
+    "page_url": "https://nss.ece.vt.edu/people.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot found and viewed."
+  },
+  {
+   "id": 655,
+   "name": "Tianyang Zhou",
+   "photo": {
+    "image_url": "https://chandrasekaran-group.github.io/images/tianyang_zhou.jpg",
+    "page_url": "https://chandrasekaran-group.github.io/people/"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot found and viewed."
+  },
+  {
+   "id": 656,
+   "name": "Qilong Wu",
+   "photo": {
+    "image_url": "https://chandrasekaran-group.github.io/images/qilong_wu.jpg",
+    "page_url": "https://chandrasekaran-group.github.io/people/"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot found and viewed."
+  },
+  {
+   "id": 657,
+   "name": "Yian Wang",
+   "photo": {
+    "image_url": "https://chandrasekaran-group.github.io/images/yian_wang.jpg",
+    "page_url": "https://chandrasekaran-group.github.io/people/"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot found and viewed."
+  },
+  {
+   "id": 658,
+   "name": "Pragati Meshram",
+   "photo": {
+    "image_url": "https://chandrasekaran-group.github.io/images/pragati.jpg",
+    "page_url": "https://chandrasekaran-group.github.io/people/"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot found and viewed."
+  },
+  {
+   "id": 659,
+   "name": "Yiwei Fu",
+   "photo": {
+    "image_url": "https://chandrasekaran-group.github.io/images/yiwei_fu.jpg",
+    "page_url": "https://chandrasekaran-group.github.io/people/"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot found and viewed."
+  },
+  {
+   "id": 660,
+   "name": "Yi (Evie) Zhang",
+   "photo": {
+    "image_url": "https://chandrasekaran-group.github.io/images/evie_zhang.jpg",
+    "page_url": "https://chandrasekaran-group.github.io/people/"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot found and viewed."
+  },
+  {
+   "id": 661,
+   "name": "Vira Kasprova",
+   "photo": {
+    "image_url": "https://chandrasekaran-group.github.io/images/vira_kasprova.jpg",
+    "page_url": "https://chandrasekaran-group.github.io/people/"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot found and viewed."
+  },
+  {
+   "id": 662,
+   "name": "Ali Ebrahimpour Boroojeny",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Page opened; no headshot of this person (not pictured / no image)."
+  },
+  {
+   "id": 663,
+   "name": "Fan Wu",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Page opened; no headshot of this person (not pictured / no image)."
+  },
+  {
+   "id": 664,
+   "name": "Wenjun Jiang",
+   "photo": {
+    "image_url": "https://wenjunjiang.github.io/jwj.jpg",
+    "page_url": "https://wenjunjiang.github.io/"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot found and viewed."
+  },
+  {
+   "id": 665,
+   "name": "Chenglin Miao",
+   "photo": {
+    "image_url": "https://www.cs.iastate.edu/files/styles/profile_picture/public/people/profilepictures/cmiao.jpg?itok=p-jI8VEb",
+    "page_url": "https://www.cs.iastate.edu/people/chenglin-miao"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot found and viewed."
+  },
+  {
+   "id": 666,
+   "name": "Hongfei Xue",
+   "photo": {
+    "image_url": "http://havocfixer.github.io/hongfei.jpg",
+    "page_url": "http://havocfixer.github.io/"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Headshot found and viewed."
+  },
+  {
+   "id": 667,
+   "name": "Praveen Goli",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Page opened; no headshot of this person (not pictured / no image)."
+  },
+  {
+   "id": 668,
+   "name": "Jingqing Wang",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "Page opened; no headshot of this person (not pictured / no image)."
+  }
+ ]
+}

@@ -1,0 +1,175 @@
+{
+  "batch": "ph-08",
+  "people": [
+    {
+      "id": 419,
+      "name": "Sara Daneshvar",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://eric-keller.github.io/img/headshot-sara-daneshvar.jpg",
+        "page_url": "https://eric-keller.github.io/",
+        "reason": "200 image/*; page lists this name beside the embedded image; single-person photo"
+      },
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 420,
+      "name": "Richard Thompson",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://eric-keller.github.io/img/headshot-richard-thompson.jpg",
+        "page_url": "https://eric-keller.github.io/",
+        "reason": "200 image/*; page lists this name beside the embedded image; single-person photo"
+      },
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 421,
+      "name": "Victor Jimenez",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://eric-keller.github.io/img/headshot-victor-jimenez.png",
+        "page_url": "https://eric-keller.github.io/",
+        "reason": "200 image/*; page lists this name beside the embedded image; single-person photo"
+      },
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 423,
+      "name": "Maziyar Nazari",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://eric-keller.github.io/img/headshot-maziyar.jpg",
+        "page_url": "https://eric-keller.github.io/",
+        "reason": "200 image/*; page lists this name beside the embedded image; single-person photo"
+      },
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 424,
+      "name": "Karl Olson",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://eric-keller.github.io/img/headshot-karl.jpg",
+        "page_url": "https://eric-keller.github.io/",
+        "reason": "200 image/*; page lists this name beside the embedded image; single-person photo"
+      },
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 427,
+      "name": "Sepideh Goodarzy",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://eric-keller.github.io/img/headshot-sepideh.jpg",
+        "page_url": "https://eric-keller.github.io/",
+        "reason": "200 image/*; page lists this name beside the embedded image; single-person photo"
+      },
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 428,
+      "name": "Mohammad Hashemi",
+      "website": null,
+      "photo": {
+        "verdict": "confirmed",
+        "image_url": "https://eric-keller.github.io/img/headshot-mohammad.jpg",
+        "page_url": "https://eric-keller.github.io/",
+        "reason": "200 image/*; page lists this name beside the embedded image; single-person photo"
+      },
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 432,
+      "name": "Junzhi Gong",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 436,
+      "name": "Omid Alipourfard",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 439,
+      "name": "Minghao Li",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 440,
+      "name": "Xingyu Xiang",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 441,
+      "name": "Yiyu Liu",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 442,
+      "name": "Xuanlin Jiang",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 443,
+      "name": "Ethan Heilman",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    },
+    {
+      "id": 444,
+      "name": "Aanchal Malhotra",
+      "website": null,
+      "photo": null,
+      "current_position": null,
+      "bio": null,
+      "students": []
+    }
+  ]
+}

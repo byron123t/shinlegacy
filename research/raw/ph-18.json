@@ -1,0 +1,164 @@
+{
+ "batch": "ph-18",
+ "people": [
+  {
+   "id": 591,
+   "name": "Jarallah Alqahtani",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot of this person on listed page"
+  },
+  {
+   "id": 592,
+   "name": "Mohamed Grissa",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot of this person on listed page"
+  },
+  {
+   "id": 593,
+   "name": "Bassem Khalfi",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot of this person on listed page"
+  },
+  {
+   "id": 594,
+   "name": "Sherif Abdelwahab",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot of this person on listed page"
+  },
+  {
+   "id": 595,
+   "name": "Hassan Sinky",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot of this person on listed page"
+  },
+  {
+   "id": 596,
+   "name": "Nadia Adem",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot of this person on listed page"
+  },
+  {
+   "id": 597,
+   "name": "Mehiar Dabbagh",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot of this person on listed page"
+  },
+  {
+   "id": 598,
+   "name": "MohammadJavad NoroozOliaee",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot of this person on listed page"
+  },
+  {
+   "id": 599,
+   "name": "Omar Alsaleh",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot of this person on listed page"
+  },
+  {
+   "id": 600,
+   "name": "Nessrine Chakchouk",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot of this person on listed page"
+  },
+  {
+   "id": 601,
+   "name": "Samina Ehsan",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot of this person on listed page"
+  },
+  {
+   "id": 602,
+   "name": "Jun Chen",
+   "photo": {
+    "image_url": "https://research.engr.oregonstate.edu/hamdaoui/sites/research.engr.oregonstate.edu.hamdaoui/files/jun_chen2.jpg",
+    "page_url": "https://research.engr.oregonstate.edu/hamdaoui/current-members"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "headshot next to name on lab Current Members page"
+  },
+  {
+   "id": 603,
+   "name": "Nora Basha",
+   "photo": {
+    "image_url": "https://research.engr.oregonstate.edu/hamdaoui/sites/research.engr.oregonstate.edu.hamdaoui/files/nora_basha.jpg",
+    "page_url": "https://research.engr.oregonstate.edu/hamdaoui/current-members"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "headshot next to name on lab Current Members page"
+  },
+  {
+   "id": 604,
+   "name": "Haytham Albousayri",
+   "photo": {
+    "image_url": "https://research.engr.oregonstate.edu/hamdaoui/sites/research.engr.oregonstate.edu.hamdaoui/files/haytham.jpeg",
+    "page_url": "https://research.engr.oregonstate.edu/hamdaoui/current-members"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "headshot next to name on lab Current Members page"
+  },
+  {
+   "id": 605,
+   "name": "Zhe Ou",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no headshot of this person on listed page"
+  }
+ ]
+}

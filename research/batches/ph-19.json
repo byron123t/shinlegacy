@@ -1,0 +1,161 @@
+{
+ "batch": "ph-19",
+ "kind": "photo",
+ "people": [
+  {
+   "id": 606,
+   "name": "Lihao Wang",
+   "institution": "Johns Hopkins University",
+   "position": "",
+   "advisor": "Renjie Zhao",
+   "pages": [
+    "https://renjiezhao.github.io/team/"
+   ]
+  },
+  {
+   "id": 607,
+   "name": "Ding Zhao",
+   "institution": "Johns Hopkins University",
+   "position": "",
+   "advisor": "Renjie Zhao",
+   "pages": [
+    "https://renjiezhao.github.io/team/"
+   ]
+  },
+  {
+   "id": 608,
+   "name": "Ruirong Huang",
+   "institution": "Johns Hopkins University",
+   "position": "",
+   "advisor": "Renjie Zhao",
+   "pages": [
+    "https://renjiezhao.github.io/team/"
+   ]
+  },
+  {
+   "id": 609,
+   "name": "Hyunmin Park",
+   "institution": "University of Michigan",
+   "position": "",
+   "advisor": "Ke Sun",
+   "pages": [
+    "https://samsonsjarkal.github.io/KeSun/students.html"
+   ]
+  },
+  {
+   "id": 614,
+   "name": "Mason Kadem",
+   "institution": "McMaster University",
+   "position": "PhD student (CIHR Scholar), Computer Science, McMaster University",
+   "advisor": "Rong Zheng",
+   "pages": [
+    "https://github.com/masonkadem",
+    "https://wiser.cas.mcmaster.ca/?page_id=198"
+   ]
+  },
+  {
+   "id": 615,
+   "name": "Longyun Liao",
+   "institution": "McMaster University",
+   "position": "",
+   "advisor": "Rong Zheng",
+   "pages": [
+    "https://wiser.cas.mcmaster.ca/?page_id=198"
+   ]
+  },
+  {
+   "id": 616,
+   "name": "Andrew Mitchell",
+   "institution": "McMaster University",
+   "position": "",
+   "advisor": "Rong Zheng",
+   "pages": [
+    "https://wiser.cas.mcmaster.ca/?page_id=198"
+   ]
+  },
+  {
+   "id": 617,
+   "name": "Bodee Quansah",
+   "institution": "McMaster University",
+   "position": "",
+   "advisor": "Rong Zheng",
+   "pages": [
+    "https://wiser.cas.mcmaster.ca/?page_id=198"
+   ]
+  },
+  {
+   "id": 618,
+   "name": "Margaret Xie",
+   "institution": "McMaster University",
+   "position": "",
+   "advisor": "Rong Zheng",
+   "pages": [
+    "https://wiser.cas.mcmaster.ca/?page_id=198"
+   ]
+  },
+  {
+   "id": 619,
+   "name": "Yunkai Yu",
+   "institution": "McMaster University",
+   "position": "",
+   "advisor": "Rong Zheng",
+   "pages": [
+    "https://wiser.cas.mcmaster.ca/?page_id=198"
+   ]
+  },
+  {
+   "id": 620,
+   "name": "Navid Zandi",
+   "institution": "McMaster University",
+   "position": "",
+   "advisor": "Rong Zheng",
+   "pages": [
+    "https://wiser.cas.mcmaster.ca/?page_id=198"
+   ]
+  },
+  {
+   "id": 621,
+   "name": "Namkyung Yoon",
+   "institution": "Korea University",
+   "position": "M.S. & Ph.D. student, WINE Lab, Korea University",
+   "advisor": "Hwangnam Kim",
+   "pages": [
+    "https://wine.korea.ac.kr/members/namkyung-yoon",
+    "https://wine.korea.ac.kr/members"
+   ]
+  },
+  {
+   "id": 622,
+   "name": "Kiseok Kim",
+   "institution": "Korea University",
+   "position": "M.S. & Ph.D. student, WINE Lab, Korea University",
+   "advisor": "Hwangnam Kim",
+   "pages": [
+    "https://wine.korea.ac.kr/members/kiseok-kim",
+    "https://wine.korea.ac.kr/members"
+   ]
+  },
+  {
+   "id": 623,
+   "name": "Changmin Park",
+   "institution": "Korea University",
+   "position": "M.S. & Ph.D. student, WINE Lab, Korea University",
+   "advisor": "Hwangnam Kim",
+   "pages": [
+    "https://wine.korea.ac.kr/members/changmin-park",
+    "https://wine.korea.ac.kr/members"
+   ]
+  },
+  {
+   "id": 624,
+   "name": "Kyeonghyun Yoo",
+   "institution": "Korea University",
+   "position": "M.S. & Ph.D. student, WINE Lab, Korea University",
+   "advisor": "Hwangnam Kim",
+   "pages": [
+    "https://wine.korea.ac.kr/members/kyeonghyun-yoo",
+    "https://wine.korea.ac.kr/members"
+   ]
+  }
+ ]
+}

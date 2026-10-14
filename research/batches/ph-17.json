@@ -1,0 +1,156 @@
+{
+ "batch": "ph-17",
+ "kind": "photo",
+ "people": [
+  {
+   "id": 572,
+   "name": "Marcos Sanson",
+   "institution": "Clemson University",
+   "position": "",
+   "advisor": "Mert Dieter Pese",
+   "pages": [
+    "https://mpese.com/lab"
+   ]
+  },
+  {
+   "id": 573,
+   "name": "Run Wang",
+   "institution": "Clemson University",
+   "position": "",
+   "advisor": "Mert Dieter Pese",
+   "pages": [
+    "https://mpese.com/lab"
+   ]
+  },
+  {
+   "id": 574,
+   "name": "Correy Washburn",
+   "institution": "Clemson University",
+   "position": "",
+   "advisor": "Mert Dieter Pese",
+   "pages": [
+    "https://mpese.com/lab"
+   ]
+  },
+  {
+   "id": 575,
+   "name": "Diandian Gu",
+   "institution": "ML system researcher (affiliation not stated)",
+   "position": "ML system researcher/developer",
+   "advisor": "Xin Jin",
+   "pages": [
+    "https://gudiandian.github.io/"
+   ]
+  },
+  {
+   "id": 580,
+   "name": "Yihao Zhao",
+   "institution": "Peking University",
+   "position": "",
+   "advisor": "Xin Jin",
+   "pages": [
+    "https://rivendile.github.io/"
+   ]
+  },
+  {
+   "id": 581,
+   "name": "Yinmin Zhong",
+   "institution": "Peking University",
+   "position": "",
+   "advisor": "Xin Jin",
+   "pages": [
+    "https://yinminzhong.com/"
+   ]
+  },
+  {
+   "id": 582,
+   "name": "Zili Zhang",
+   "institution": "Peking University",
+   "position": "",
+   "advisor": "Xin Jin",
+   "pages": [
+    "https://zilizhang.site/"
+   ]
+  },
+  {
+   "id": 583,
+   "name": "Zhuolong Yu",
+   "institution": "University of Science and Technology of China (Professor)",
+   "position": "Professor, School of Computer Science and Technology, University of Science and Technology of China",
+   "advisor": "Xin Jin",
+   "pages": [
+    "https://zyuuuid.github.io/"
+   ]
+  },
+  {
+   "id": 584,
+   "name": "Hang Zhu",
+   "institution": "ByteDance Seed (Research Scientist)",
+   "position": "",
+   "advisor": "Xin Jin",
+   "pages": [
+    "https://hzhu1.github.io/"
+   ]
+  },
+  {
+   "id": 585,
+   "name": "Zhihao Bai",
+   "institution": "",
+   "position": "",
+   "advisor": "Xin Jin",
+   "pages": [
+    "http://www.cs.jhu.edu/~bzh1994"
+   ]
+  },
+  {
+   "id": 586,
+   "name": "Xiangyu Gao",
+   "institution": "New York University (with Anirudh Sivaraman); first position postdoc at University of Washington",
+   "position": "Postdoctoral researcher, University of Washington (first position after PhD)",
+   "advisor": "Srinivas Narayana",
+   "pages": [
+    "https://people.cs.rutgers.edu/~sn624/"
+   ]
+  },
+  {
+   "id": 587,
+   "name": "Qiongwen Xu",
+   "institution": "unknown",
+   "position": "Microsoft (Seattle), RDMA networking",
+   "advisor": "Srinivas Narayana",
+   "pages": [
+    "https://people.cs.rutgers.edu/~sn624/"
+   ]
+  },
+  {
+   "id": 588,
+   "name": "Oliver Michel",
+   "institution": "Univ. of Vienna (postdoc after Cloud Architect at TourRadar)",
+   "position": "",
+   "advisor": "Eric Keller",
+   "pages": [
+    "https://eric-keller.github.io/"
+   ]
+  },
+  {
+   "id": 589,
+   "name": "Abdurrahman Elmaghbub",
+   "institution": "Apple, USA",
+   "position": "",
+   "advisor": "Bechir Hamdaoui",
+   "pages": [
+    "https://research.engr.oregonstate.edu/hamdaoui/alumni"
+   ]
+  },
+  {
+   "id": 590,
+   "name": "Sultan Alanazi",
+   "institution": "Prince Sattam Bin Abdulaziz University, KSA",
+   "position": "Prince Sattam Bin Abdulaziz University, KSA",
+   "advisor": "Bechir Hamdaoui",
+   "pages": [
+    "https://research.engr.oregonstate.edu/hamdaoui/alumni"
+   ]
+  }
+ ]
+}

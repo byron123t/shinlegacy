@@ -1,0 +1,164 @@
+{
+ "batch": "ph-04",
+ "people": [
+  {
+   "id": 189,
+   "name": "Seunghwan Lee",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no usable headshot (LinkedIn/blocked/no photo/placeholder)"
+  },
+  {
+   "id": 190,
+   "name": "Jeremy Yuhyun Kim",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no usable headshot (LinkedIn/blocked/no photo/placeholder)"
+  },
+  {
+   "id": 191,
+   "name": "Saif Ullah",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no usable headshot (LinkedIn/blocked/no photo/placeholder)"
+  },
+  {
+   "id": 210,
+   "name": "Taewoon Kim",
+   "photo": {
+    "image_url": "https://sites.google.com/sitesv-images-rt/AMxu72uGVMIwllcUYeJUQ20Do73T9imWvo6aoD3L-Re-Br--kN9c5YyzuzY7axdrORtxjLXPVC71ZOxAWYE_vj7tJ70N-ERHwG-lPCjKRtYivG1Icb0LBxxvnA9ccCuGymOp_gyM3LRUzM2ZzR46sTTS93VmOwiF1lMXmvit8WAAzOGfUE20eQXymoMAigkJmdeNw77-lihknPES_6ioMiCHH_gm-77OBNxOoAc1cmAD=w1280",
+    "page_url": "https://sites.google.com/site/twoonkim/"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "headshot found"
+  },
+  {
+   "id": 232,
+   "name": "Wen-Chih Peng",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no usable headshot (LinkedIn/blocked/no photo/placeholder)"
+  },
+  {
+   "id": 237,
+   "name": "Hung-Yu Kao",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no usable headshot (LinkedIn/blocked/no photo/placeholder)"
+  },
+  {
+   "id": 239,
+   "name": "Jin-Long Huang",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no usable headshot (LinkedIn/blocked/no photo/placeholder)"
+  },
+  {
+   "id": 245,
+   "name": "Bi-Ru Dai",
+   "photo": {
+    "image_url": "https://ipmarket.ntust.edu.tw/upload/ntust0401/20110710220918.jpg",
+    "page_url": "https://ipmarket.ntust.edu.tw/expert1.asp?ser=4043"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "headshot found"
+  },
+  {
+   "id": 251,
+   "name": "Chien-Chin Chen",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no usable headshot (LinkedIn/blocked/no photo/placeholder)"
+  },
+  {
+   "id": 257,
+   "name": "Mi-Yen Yeh",
+   "photo": {
+    "image_url": "https://homepage.iis.sinica.edu.tw/pages/photo/miyen.JPG",
+    "page_url": "https://homepage.iis.sinica.edu.tw/pages/miyen/index_en.html"
+   },
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "headshot found"
+  },
+  {
+   "id": 283,
+   "name": "Partha Kanuparthy",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no usable headshot (LinkedIn/blocked/no photo/placeholder)"
+  },
+  {
+   "id": 284,
+   "name": "Aemen Lodhi",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no usable headshot (LinkedIn/blocked/no photo/placeholder)"
+  },
+  {
+   "id": 286,
+   "name": "Ho-Won Kim",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no usable headshot (LinkedIn/blocked/no photo/placeholder)"
+  },
+  {
+   "id": 304,
+   "name": "Hwangnam Kim",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no usable headshot (LinkedIn/blocked/no photo/placeholder)"
+  },
+  {
+   "id": 311,
+   "name": "Rui Miao",
+   "photo": null,
+   "website": null,
+   "current_position": null,
+   "bio": null,
+   "students": [],
+   "notes": "no usable headshot (LinkedIn/blocked/no photo/placeholder)"
+  }
+ ]
+}

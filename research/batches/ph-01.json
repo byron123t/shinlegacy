@@ -1,0 +1,172 @@
+{
+ "batch": "ph-01",
+ "kind": "photo",
+ "people": [
+  {
+   "id": 26,
+   "name": "Chao-Ju (Jennifer) Hou",
+   "institution": "UIUC (passed away)",
+   "position": "Deceased (died December 2, 2007); was Professor of Computer Science, University of Illinois Urbana-Champaign",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://en.wikipedia.org/wiki/Jennifer_Hou",
+    "https://web.eecs.umich.edu/~kgshin/students.html"
+   ]
+  },
+  {
+   "id": 32,
+   "name": "Bing-rung Tsai",
+   "institution": "VMWare",
+   "position": "Retired, formerly VMware",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+    "http://web.eecs.umich.edu/~kgshin/students.html"
+   ]
+  },
+  {
+   "id": 34,
+   "name": "Thomas Tsukada",
+   "institution": "Oracle",
+   "position": "Oracle",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+    "http://web.eecs.umich.edu/~kgshin/students.html"
+   ]
+  },
+  {
+   "id": 35,
+   "name": "Stuart Daniel",
+   "institution": "Oracle",
+   "position": "Oracle",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+    "http://web.eecs.umich.edu/~kgshin/students.html"
+   ]
+  },
+  {
+   "id": 37,
+   "name": "Sushil Birla",
+   "institution": "U.S. Nuclear Regulatory Commission",
+   "position": "U.S. Nuclear Regulatory Commission (former GM Fellow)",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+    "http://web.eecs.umich.edu/~kgshin/students.html"
+   ]
+  },
+  {
+   "id": 38,
+   "name": "Ashish Mehra",
+   "institution": "NetApp",
+   "position": "FalconX Gateway (former research staff at IBM Research; Head of Products at an AI startup)",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+    "http://web.eecs.umich.edu/~kgshin/students.html"
+   ]
+  },
+  {
+   "id": 39,
+   "name": "Atri Indiresan",
+   "institution": "CISCO",
+   "position": "Cisco",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+    "http://web.eecs.umich.edu/~kgshin/students.html"
+   ]
+  },
+  {
+   "id": 40,
+   "name": "Khawar Zuberi",
+   "institution": "Microsoft",
+   "position": "Microsoft",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+    "http://web.eecs.umich.edu/~kgshin/students.html"
+   ]
+  },
+  {
+   "id": 41,
+   "name": "Emmanuel Abram-Profeta",
+   "institution": "Microsoft",
+   "position": "Microsoft",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+    "http://web.eecs.umich.edu/~kgshin/students.html"
+   ]
+  },
+  {
+   "id": 49,
+   "name": "Sunghyun Choi",
+   "institution": "Samsung Network Business (Executive Vice President; former Professor of Electrical Engineering at SNU, Korea)",
+   "position": "Professor, School of Electrical Engineering, KAIST (since April 2026); previously Executive Vice President, Samsung (2019-2025)",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://sites.google.com/view/sunghyun-chois-home",
+    "https://en.wikipedia.org/wiki/Sunghyun_Choi",
+    "https://ee.kaist.ac.kr/en/notices/professor-sunghyun-choi-joins-the-school-of-electrical-engineering/"
+   ]
+  },
+  {
+   "id": 53,
+   "name": "Hani Jamjoom",
+   "institution": "IBM T. J. Watson Research Center",
+   "position": "Principal Research Scientist and Manager, IBM T. J. Watson Research Center",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "http://jamjoom.net/"
+   ]
+  },
+  {
+   "id": 62,
+   "name": "Mohamad El-Gendy",
+   "institution": "Ciena, San Jose, CA",
+   "position": "Ciena, San Jose, CA",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+    "https://web.eecs.umich.edu/~kgshin/students.html"
+   ]
+  },
+  {
+   "id": 63,
+   "name": "Songkuk Kim",
+   "institution": "Yonsei University, Korea",
+   "position": "Yonsei University, Korea",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://scholar.google.com/citations?user=YLKW-eEAAAAJ&hl=en",
+    "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+    "https://web.eecs.umich.edu/~kgshin/students.html"
+   ]
+  },
+  {
+   "id": 64,
+   "name": "Hai Huang",
+   "institution": "IBM T.J. Watson Research Center",
+   "position": "IBM T.J. Watson Research Center",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+    "https://web.eecs.umich.edu/~kgshin/students.html"
+   ]
+  },
+  {
+   "id": 65,
+   "name": "Jai-Jin Lim",
+   "institution": "Samsung",
+   "position": "Samsung",
+   "advisor": "Kang G. Shin",
+   "pages": [
+    "https://rtcl.eecs.umich.edu/rtclweb/dissertations",
+    "https://web.eecs.umich.edu/~kgshin/students.html"
+   ]
+  }
+ ]
+}
