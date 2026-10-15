@@ -87,7 +87,7 @@
 {% endblock %}
 
 {% block scripts %}
-<script src="static/js/tree.js"></script>
+<script src="static/js/tree.js?v={{ asset_v }}"></script>
 <script>
   initGenealogy({ dataUrl: "data/tree.json" });
 </script>

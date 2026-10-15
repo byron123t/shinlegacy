@@ -334,7 +334,9 @@ def main() -> None:
     (out / ".nojekyll").write_text("")
 
     env = Environment(loader=FileSystemLoader(ROOT / "templates"), autoescape=select_autoescape(["html"]))
-    env.globals.update(site_url=site_url, repo_url=REPO_URL)
+    # Content hash of css/js, appended as ?v=… so browsers never pair a new page with stale cached assets
+    asset_v = hashlib.sha1(b"".join(f.read_bytes() for f in sorted((ROOT / "static").rglob("*")) if f.is_file())).hexdigest()[:10]
+    env.globals.update(site_url=site_url, repo_url=REPO_URL, asset_v=asset_v)
     (out / "index.html").write_text(env.get_template("index.html").render(page="index"))
     (out / "directory.html").write_text(
         env.get_template("directory.html").render(page="directory", people=directory_rows(people)))

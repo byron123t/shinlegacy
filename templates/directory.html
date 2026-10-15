@@ -52,6 +52,6 @@
 {% endblock %}
 
 {% block scripts %}
-<script src="static/js/table.js"></script>
+<script src="static/js/table.js?v={{ asset_v }}"></script>
 <script>initPeopleTable({ tableId: "dirTable", filterId: "filterInput", countId: "peopleCount" });</script>
 {% endblock %}
